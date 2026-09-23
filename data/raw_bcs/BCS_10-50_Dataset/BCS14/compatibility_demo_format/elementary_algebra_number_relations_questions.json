@@ -1,0 +1,127 @@
+[
+  {
+    "family_id": "two_digit_digit_relation_f01",
+    "item_id": "BCS14_Q025",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "two_digit_number_digit_equations",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "দুই অঙ্কবিশিষ্ট একটি সংখ্যার এককের অঙ্ক দশকের অঙ্ক অপেক্ষা ৩ বেশি। সংখ্যাটি এর অঙ্কদ্বয়ের সমষ্টির তিনগুণ অপেক্ষা ৪ বেশি। সংখ্যাটি কত?",
+    "answer_options": [
+      "৪৭",
+      "৩৬",
+      "২৫",
+      "১৪"
+    ],
+    "correct_answer": "২৫",
+    "solution_steps": [
+      "দশকের অঙ্ক t হলে এককের অঙ্ক t+3। সংখ্যাটি =10t+(t+3)=11t+3।",
+      "শর্ত: 11t+3=3(2t+3)+4।",
+      "11t+3=6t+13, তাই t=2 এবং সংখ্যা 25।"
+    ],
+    "source_page": 2,
+    "source_exam": "14th BCS"
+  },
+  {
+    "family_id": "clock_chime_interval_count_f01",
+    "item_id": "BCS14_Q026",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "clock_chime_intervals",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "একটি ঘড়িতে ৬টার ঘণ্টাধ্বনি ঠিক ৬টায় শুরু করে বাজতে ৫ সেকেন্ড সময় লাগে। ঐ ঘড়িতে ১২টার ঘণ্টাধ্বনি বাজতে কত সেকেন্ড সময় লাগবে? ঘণ্টাধ্বনি সমান সময় ব্যবধানে বাজে।",
+    "answer_options": [
+      "১১ সেকেন্ড",
+      "১০ সেকেন্ড",
+      "১২ সেকেন্ড",
+      "১০১৫ সেকেন্ড"
+    ],
+    "correct_answer": "১১ সেকেন্ড",
+    "solution_steps": [
+      "৬টি ঘণ্টাধ্বনির মধ্যে ৫টি সময়-ব্যবধান; মোট 5 সেকেন্ড, তাই প্রতি ব্যবধান 1 সেকেন্ড।",
+      "১২টি ঘণ্টাধ্বনির মধ্যে ১১টি ব্যবধান।",
+      "সময় =11 সেকেন্ড।"
+    ],
+    "source_page": 2,
+    "source_exam": "14th BCS"
+  },
+  {
+    "family_id": "metric_mass_conversion_quintal_f01",
+    "item_id": "BCS14_Q048",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "metric_unit_conversion",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "এক কুইন্টাল ওজনে কত কিলোগ্রাম হয়?",
+    "answer_options": [
+      "১ কিলোগ্রাম",
+      "১০ কিলোগ্রাম",
+      "১০০ কিলোগ্রাম",
+      "১০০০ কিলোগ্রাম"
+    ],
+    "correct_answer": "১০০ কিলোগ্রাম",
+    "solution_steps": [
+      "১ কুইন্টাল =100 কিলোগ্রাম।"
+    ],
+    "source_page": 4,
+    "source_exam": "14th BCS"
+  },
+  {
+    "family_id": "sum_square_conjugate_identity_f01",
+    "item_id": "BCS14_Q054",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "algebraic_identity_sum_squares",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "১/২{(a + b)² + (a - b)²} = কত?",
+    "answer_options": [
+      "a² + b²",
+      "a² - b²",
+      "(a + b)²/2 - (a - b)²/2",
+      "(a + b)² + (a - b)²"
+    ],
+    "correct_answer": "a² + b²",
+    "solution_steps": [
+      "(a+b)²+(a-b)² =2a²+2b²।",
+      "অর্ধেক নিলে a²+b²।"
+    ],
+    "source_page": 4,
+    "source_exam": "14th BCS"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "family_id": "Q088",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "Boolean De Morgan identities",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "incorrect identity",
+    "english_glossary": {},
+    "question_bn": "নিচের কোনটি সঠিক নয়?\n\n![প্রশ্নের চিত্র](assets/Q088_stem.png)",
+    "answer_options": [
+      "\\overline{A+B}=\\overline{A}\\cdot\\overline{B}",
+      "\\overline{A+B}=\\overline{A}+\\overline{B}",
+      "\\overline{A\\cdot B\\cdot C}=\\overline{A}+\\overline{B}+\\overline{C}",
+      "\\overline{A\\cdot B\\cdot C}=\\overline{A}\\cdot\\overline{B}\\cdot\\overline{C}"
+    ],
+    "correct_answer": "\\overline{A+B}=\\overline{A}+\\overline{B}",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q092",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "absolute-value inequality with an incomplete target",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "requested bounds",
+    "english_glossary": {},
+    "question_bn": "|x − 2| < 3 হলে, m এবং n এর কোন মানের জন্য m < 3x হবে?",
+    "answer_options": [
+      "m = 1, n = 10",
+      "m = 2, n = 20",
+      "m = 3, n = 30",
+      "m = 4, n = 40"
+    ],
+    "correct_answer": "m = 2, n = 20",
+    "solution_steps": []
+  }
+]

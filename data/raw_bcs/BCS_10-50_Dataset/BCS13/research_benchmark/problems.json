@@ -1,0 +1,190 @@
+[
+  {
+    "item_id": "BCS13_Q081",
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "exam": "13th BCS",
+    "question_number": 81,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "successive_discounts_difference",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি ১০,০০০ টাকার বিলের উপর এককালীন ৪০% কমতি এবং পরপর ৩৬% ও ৪% কমতির পার্থক্য কত টাকা?",
+    "question_normalized": "একটি ১০,০০০ টাকার বিলের উপর এককালীন ৪০% কমতি এবং পরপর ৩৬% ও ৪% কমতির পার্থক্য কত টাকা?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "শূন্য",
+      "১৪৪",
+      "২৫৬",
+      "৪০০"
+    ],
+    "printed_answer": "১৪৪",
+    "accepted_answer_forms": [
+      "১৪৪",
+      "১৪৪ টাকা",
+      "144"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 13th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS13_Q082",
+    "family_id": "percentage_total_questions_f01",
+    "exam": "13th BCS",
+    "question_number": 82,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_equation_total_count",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোন পরীক্ষায় একজন ছাত্র n সংখ্যক প্রশ্নের প্রথম ২০টি প্রশ্ন হতে ১৫টি প্রশ্নের শুদ্ধ উত্তর দেয় এবং বাকি প্রশ্নগুলোর এক তৃতীয়াংশের শুদ্ধ উত্তর দিতে পারে। এভাবে সে যদি ৫০% প্রশ্নের শুদ্ধ উত্তর দিয়ে থাকে তবে ঐ পরীক্ষায় প্রশ্নের সংখ্যা কত ছিল?",
+    "question_normalized": "কোন পরীক্ষায় একজন ছাত্র n সংখ্যক প্রশ্নের প্রথম ২০টি প্রশ্ন হতে ১৫টি প্রশ্নের শুদ্ধ উত্তর দেয় এবং বাকি প্রশ্নগুলোর এক তৃতীয়াংশের শুদ্ধ উত্তর দিতে পারে। এভাবে সে যদি ৫০% প্রশ্নের শুদ্ধ উত্তর দিয়ে থাকে তবে ঐ পরীক্ষায় প্রশ্নের সংখ্যা কত ছিল?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২০টি",
+      "৩০টি",
+      "৪০টি",
+      "৫০টি"
+    ],
+    "printed_answer": "৫০টি",
+    "accepted_answer_forms": [
+      "৫০টি",
+      "50"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 13th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS13_Q083",
+    "family_id": "equal_distance_average_speed_f01",
+    "exam": "13th BCS",
+    "question_number": 83,
+    "source_page": 7,
+    "topic_group": "speed_distance",
+    "subskill": "equal_distance_average_speed",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি লোক গাড়ায় উত্তর দিকে m মাইল অতিক্রম করে প্রতি মাইল ২ মিনিটে এবং গাড়ায় দক্ষিণ দিকে পূর্ব স্থানে ফিরে আসে প্রতি মিনিটে ২ মাইল হিসেবে। লোকটির গড় গতিবেগ ঘণ্টায় কত মাইল?",
+    "question_normalized": "একটি লোক গাড়ায় উত্তর দিকে m মাইল অতিক্রম করে প্রতি মাইল ২ মিনিটে এবং গাড়ায় দক্ষিণ দিকে পূর্ব স্থানে ফিরে আসে প্রতি মিনিটে ২ মাইল হিসেবে। লোকটির গড় গতিবেগ ঘণ্টায় কত মাইল?",
+    "normalization_notes": [],
+    "units": [
+      "মাইল",
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "৪৫",
+      "৪৮",
+      "৭৫",
+      "২৪"
+    ],
+    "printed_answer": "৪৮",
+    "accepted_answer_forms": [
+      "৪৮",
+      "48 mph",
+      "48"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 13th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS13_Q084",
+    "family_id": "polynomial_known_root_parameter_f01",
+    "exam": "13th BCS",
+    "question_number": 84,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_root_find_parameter",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি x³ + hx + 10 = 0 এর একটি সমাধান 2 হয়, তবে h এর মান কত?",
+    "question_normalized": "যদি x³ + hx + 10 = 0 এর একটি সমাধান 2 হয়, তবে h এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "10",
+      "9",
+      "-9",
+      "-2"
+    ],
+    "printed_answer": "-9",
+    "accepted_answer_forms": [
+      "-9",
+      "−9"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 13th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS13_Q085",
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "exam": "13th BCS",
+    "question_number": 85,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "linear_count_pattern",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "বালক ও বালিকার একটি দলে প্রথম বালক ৫ জন বালিকার সঙ্গে খেলবে, দ্বিতীয় বালক ৬ জন বালিকার সঙ্গে খেলবে, এভাবে শেষ বালক সব কটি বালিকার সঙ্গে খেলবে। যদি b বালকের সংখ্যা এবং g বালিকার সংখ্যা প্রকাশ করে, তবে b = কত?",
+    "question_normalized": "বালক ও বালিকার একটি দলে প্রথম বালক ৫ জন বালিকার সঙ্গে খেলবে, দ্বিতীয় বালক ৬ জন বালিকার সঙ্গে খেলবে, এভাবে শেষ বালক সব কটি বালিকার সঙ্গে খেলবে। যদি b বালকের সংখ্যা এবং g বালিকার সংখ্যা প্রকাশ করে, তবে b = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "b = g",
+      "b = g/5",
+      "b = g - 4",
+      "b = g - 5"
+    ],
+    "printed_answer": "b = g - 4",
+    "accepted_answer_forms": [
+      "b = g - 4",
+      "b=g-4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 13th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS13_Q090",
+    "family_id": "logarithm_exact_power_f01",
+    "exam": "13th BCS",
+    "question_number": 90,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithm_basic_power",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৩২ এর ২ ভিত্তিক লগারিদম কত?",
+    "question_normalized": "৩২ এর ২ ভিত্তিক লগারিদম কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩",
+      "৪",
+      "৫",
+      "৬"
+    ],
+    "printed_answer": "৫",
+    "accepted_answer_forms": [
+      "৫",
+      "5"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 13th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

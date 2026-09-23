@@ -1,0 +1,48 @@
+[
+  {
+    "family_id": "Q163",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১৪৪০০ টাকা",
+        "reasoning_steps": [
+          "Compound only once per year at 20%.",
+          "Calculate 10000(1.20)²=14400."
+        ],
+        "code": "BCS43-163-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৪৬৪১ টাকা",
+        "reasoning_steps": [
+          "Correctly find the accumulated amount as 14641.",
+          "Subtract the original 10000 and return the interest rather than the accumulated amount."
+        ],
+        "code": "BCS43-163-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q182",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৩০০",
+        "reasoning_steps": [
+          "Treat the graduates as 50% of the total rather than 50% of the remainder.",
+          "Using the true total 600, report 300."
+        ],
+        "code": "BCS43-182-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৩৬০",
+        "reasoning_steps": [
+          "Use all employees remaining after removing undergraduates.",
+          "Report 60% of 600=360 instead of half that remainder."
+        ],
+        "code": "BCS43-182-INTERPRETATION-02"
+      }
+    ]
+  }
+]

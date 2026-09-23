@@ -1,0 +1,336 @@
+[
+  {
+    "item_id": "BCS31_Q081",
+    "family_id": "fraction_comparison_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Compare the positive fractions by decimal value or cross multiplication.",
+          "2/13≈0.154, 2/11≈0.182, 4/15≈0.267 and 3/11≈0.273.",
+          "Thus 2/13 is the smallest."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q082",
+    "family_id": "ratio_expression_transform_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Q/P=1/4 means Q=P/4.",
+          "(P+Q)/(P-Q)=(P+P/4)/(P-P/4)=(5/4)/(3/4)=5/3."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q083",
+    "family_id": "combined_work_three_people_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Their daily rates are 1/15, 1/6 and 1/10.",
+          "The combined rate is 2/30+5/30+3/30=10/30=1/3.",
+          "So the job takes 3 days."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q084",
+    "family_id": "percentage_equation_add_constant_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let the number be x.",
+          "0.40x+42=x, so 0.60x=42.",
+          "x=70."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q085",
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let the number be x.",
+          "0.60x-60=60, so 0.60x=120.",
+          "x=200."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q086",
+    "family_id": "log_power_reciprocal_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "1/32=2^-5.",
+          "Therefore log_2(1/32)=-5."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q088",
+    "family_id": "polynomial_gcd_factorization_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "4x²-16=4(x-2)(x+2).",
+          "6x²+24x+24=6(x+2)².",
+          "The greatest common factor is 2(x+2)."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q089",
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "By the remainder theorem the remainder is f(2).",
+          "f(2)=2³-2²=8-4=4."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q090",
+    "family_id": "reciprocal_square_difference_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(a-1/a)²=a²+1/a²-2.",
+          "So (a-1/a)²=51-2=49.",
+          "Hence a-1/a=±7."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q091",
+    "family_id": "linear_system_substitution_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "From y-2x-3=0, y=2x+3.",
+          "Substitute into 3x-7y+10=0 to get -11x-11=0.",
+          "Thus x=-1 and y=1."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q092",
+    "family_id": "numbers_from_sum_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "a and b are roots of t²-2t+1=0.",
+          "This is (t-1)²=0.",
+          "So a=b=1."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q093",
+    "family_id": "sum_first_n_squares_identity_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Use the standard identity for the sum of the first x squares.",
+          "1²+2²+...+x²=x(x+1)(2x+1)/6."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q094",
+    "family_id": "function_evaluation_zero_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Substitute x=0.",
+          "f(0)=0-0+10=10."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q096",
+    "family_id": "larger_number_from_sum_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The numbers are roots of t²-48t+432=0.",
+          "This factors as (t-12)(t-36)=0.",
+          "The larger number is 36."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q098",
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "64^(2/3)=(cube root 64)^2=4²=16.",
+          "625^(1/2)=25, so the sum is 41.",
+          "3k=41, hence k=41/3=13 2/3."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q099",
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "For numbers a and b, 1/a+1/b=(a+b)/(ab).",
+          "Using a+b=20 and ab=96 gives 20/96=5/24."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS31_Q100",
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Using each digit once, the largest number is 3210.",
+          "The smallest four-digit number is 1023 because the leading digit cannot be 0.",
+          "3210-1023=2187."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

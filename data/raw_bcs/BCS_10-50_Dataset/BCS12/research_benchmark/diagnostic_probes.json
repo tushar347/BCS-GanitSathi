@@ -1,0 +1,189 @@
+[
+  {
+    "item_id": "BCS12_Q084",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "probe_id": "BCS12_Q084_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q085",
+    "family_id": "percentage_total_questions_f01",
+    "probe_id": "BCS12_Q085_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q086",
+    "family_id": "compound_ratio_multiple_pairs_f01",
+    "probe_id": "BCS12_Q086_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q087",
+    "family_id": "boat_stream_round_trip_f01",
+    "probe_id": "BCS12_Q087_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q088",
+    "family_id": "metric_mass_conversion_f01",
+    "probe_id": "BCS12_Q088_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q089",
+    "family_id": "complete_square_two_variables_f01",
+    "probe_id": "BCS12_Q089_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q091",
+    "family_id": "sophie_germain_identity_f01",
+    "probe_id": "BCS12_Q091_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q092",
+    "family_id": "perfect_square_quadratic_parameter_f01",
+    "probe_id": "BCS12_Q092_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q093",
+    "family_id": "sequence_doubling_differences_f01",
+    "probe_id": "BCS12_Q093_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q098",
+    "family_id": "rational_between_irrationals_f01",
+    "probe_id": "BCS12_Q098_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS12_Q099",
+    "family_id": "lcm_make_perfect_square_f01",
+    "probe_id": "BCS12_Q099_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  }
+]

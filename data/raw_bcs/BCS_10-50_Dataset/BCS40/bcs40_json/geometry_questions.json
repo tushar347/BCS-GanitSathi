@@ -1,0 +1,69 @@
+[
+  {
+    "family_id": "Q172",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "evaluating a trigonometric sequence term",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "fourth term",
+    "english_glossary": {},
+    "question_bn": "cos(nπ/2) অনুক্রমটির চতুর্থ পদ কোনটি?",
+    "answer_options": [
+      "−1",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correct_answer": "1",
+    "solution_steps": [
+      "Take n=4 for the fourth term, using the ordinary starting index n=1.",
+      "Then cos(4π/2)=cos(2π)=1."
+    ]
+  },
+  {
+    "family_id": "Q183",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "perpendicular displacement by Pythagoras",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "straight-line distance in miles",
+    "english_glossary": {},
+    "question_bn": "একজন ব্যক্তি ভ্রমণে ৪ মাইল উত্তরে, ১২ মাইল পূর্বে তারপর আবার ১২ মাইল উত্তরে যায়। সে শুরুর স্থান থেকে কত মাইল দূরে?",
+    "answer_options": [
+      "১৭",
+      "২৮",
+      "২১",
+      "২০"
+    ],
+    "correct_answer": "২০",
+    "solution_steps": [
+      "Total northward displacement is 4+12=16 miles; eastward displacement is 12 miles.",
+      "Direct distance=√(16²+12²)=√400=20 miles."
+    ]
+  },
+  {
+    "family_id": "Q195",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "isosceles triangle and right-angle subtraction",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "55 seconds",
+    "target_quantity": "angle NRP",
+    "english_glossary": {},
+    "question_bn": "চিত্রে, ∠PQR = 55°, ∠LRN = 90° এবং PQ ∥ MR, PQ = PR হলে, ∠NRP এর মান নিচের কোনটি?\n\n![প্রশ্নের চিত্র](assets/Q195_stem.png)",
+    "answer_options": [
+      "90°",
+      "55°",
+      "45°",
+      "35°"
+    ],
+    "correct_answer": "35°",
+    "solution_steps": [
+      "Since PQ=PR, the base angles at Q and R are equal, so ∠QRP=55°.",
+      "In the drawing Q,R,L are collinear and RN is perpendicular to that line, giving ∠QRN=90°.",
+      "Therefore ∠NRP=90−55=35°."
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "item_id": "BCS49_Q001",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "arithmetic_progression_sum",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি সমান্তর ধারার 4র্থ এবং 12তম পদের যোগফল 20। ঐ ধারার প্রথম 15 পদের যোগফল কত?",
+    "answer_options": [
+      "100",
+      "150",
+      "200",
+      "300"
+    ],
+    "correct_answer": "150",
+    "solution_steps": [
+      "For an AP, a4+a12 = (a+3d)+(a+11d)=2a+14d = a1+a15.",
+      "So a1+a15=20.",
+      "S15=15/2×20=150."
+    ],
+    "source_page": 1,
+    "source_exam": "49th BCS (Special)"
+  },
+  {
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "item_id": "BCS49_Q004",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "alternating_square_sequence",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "নিচের ধারার পরবর্তী সংখ্যা কোনটি? ১, ৯, ৫, ৪৯, ....",
+    "answer_options": [
+      "৮",
+      "৯",
+      "১০",
+      "১২"
+    ],
+    "correct_answer": "৯",
+    "solution_steps": [
+      "Read the pattern as 1, 3², 5, 7², ...",
+      "The next odd number is 9."
+    ],
+    "source_page": 1,
+    "source_exam": "49th BCS (Special)"
+  },
+  {
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "item_id": "BCS49_Q010",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "quadratic_inequality",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "x² + 6x - 27 < 0 অসমতাটির সমাধান সেট নিচের কোনটি?",
+    "answer_options": [
+      "[-9, 3]",
+      "[3, ∞)",
+      "(-9, 3)",
+      "(∞, -9)"
+    ],
+    "correct_answer": "(-9, 3)",
+    "solution_steps": [
+      "Factor x²+6x-27=(x+9)(x-3).",
+      "The product is negative between the two roots.",
+      "Thus -9<x<3."
+    ],
+    "source_page": 1,
+    "source_exam": "49th BCS (Special)"
+  },
+  {
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "item_id": "BCS49_Q022",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_lcm_gcd_find_other",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "দুইটি সংখ্যার ল.সা.গু 4x³ + 12x² - 16x - 48, গ.সা.গু 2x + 4। একটি সংখ্যা 4x² + 20x + 24 হলে অপরটি-",
+    "answer_options": [
+      "x² - 4",
+      "2(x² - 4)",
+      "4(x² - 4)",
+      "(x + 2)"
+    ],
+    "correct_answer": "2(x² - 4)",
+    "solution_steps": [
+      "Use product of two expressions = LCM × GCD.",
+      "Factor the known number as 4(x+2)(x+3), the GCD as 2(x+2), and the LCM as 4(x+2)(x+3)(x-2).",
+      "The other number is 2(x+2)(x-2)=2(x²-4)."
+    ],
+    "source_page": 2,
+    "source_exam": "49th BCS (Special)"
+  },
+  {
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "item_id": "BCS49_Q027",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "geometric_progression_common_ratio",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি গুণোত্তর ধারার পঞ্চম পদটি ৩২ ও অষ্টম পদটি ২৫৬ হলে উক্ত ধারার সাধারণ অনুপাত কত?",
+    "answer_options": [
+      "৮",
+      "১৬",
+      "২",
+      "১/২"
+    ],
+    "correct_answer": "২",
+    "solution_steps": [
+      "a8/a5 = r^3 = 256/32=8.",
+      "Therefore r=2."
+    ],
+    "source_page": 3,
+    "source_exam": "49th BCS (Special)"
+  },
+  {
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "item_id": "BCS49_Q037",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "simultaneous_linear_equations_parameterized",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "ax + by = a² এবং bx - ay = ab; এই সহ-সমীকরণের (x, y) এর সমাধান কোনটি?",
+    "answer_options": [
+      "(a², b²)",
+      "(a, b)",
+      "(0, a)",
+      "(a, 0)"
+    ],
+    "correct_answer": "(a, 0)",
+    "solution_steps": [
+      "Test (a,0): ax+by=a² and bx-ay=ab both hold.",
+      "Thus the printed solution (a,0) satisfies the system."
+    ],
+    "source_page": 4,
+    "source_exam": "49th BCS (Special)"
+  },
+  {
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "item_id": "BCS49_Q080",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithmic_equation_negative_exponent",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "log_x 4 = -2 হলে x=?",
+    "answer_options": [
+      "1/2",
+      "-1/2",
+      "2",
+      "-2"
+    ],
+    "correct_answer": "1/2",
+    "solution_steps": [
+      "x^-2=4.",
+      "For a valid positive logarithm base, x=1/2."
+    ],
+    "source_page": 7,
+    "source_exam": "49th BCS (Special)"
+  }
+]

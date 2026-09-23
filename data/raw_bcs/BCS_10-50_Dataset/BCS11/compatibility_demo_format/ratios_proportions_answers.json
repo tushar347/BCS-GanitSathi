@@ -1,0 +1,72 @@
+[
+  {
+    "family_id": "cricket_wicket_ratio_counts_f01",
+    "item_id": "BCS11_Q073",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "৪ জন",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ৪ জন পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "২ জন",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ২ জন লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "৫ জন",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ৫ জন বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "ratio_difference_find_quantity_f01",
+    "item_id": "BCS11_Q077",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "১৪ লিটার",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ১৪ লিটার পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "৬ লিটার",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ৬ লিটার লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "১০ লিটার",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ১০ লিটার বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  }
+]

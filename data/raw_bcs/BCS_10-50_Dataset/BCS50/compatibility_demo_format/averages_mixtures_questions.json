@@ -1,0 +1,27 @@
+[
+  {
+    "family_id": "mean_deviation_bcs50_q081_f01",
+    "item_id": "BCS50_Q081",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "mean_deviation",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "2, 3, 4 এবং 7 সংখ্যাগুলির গড় বিচ্যুতি কত?",
+    "answer_options": [
+      "0",
+      "2/3",
+      "3/2",
+      "4"
+    ],
+    "correct_answer": "3/2",
+    "solution_steps": [
+      "The mean is (2+3+4+7)/4=4.",
+      "Absolute deviations are 2,1,0,3; their mean is 6/4=3/2."
+    ],
+    "source_page": 5,
+    "source_exam": "50th BCS"
+  }
+]

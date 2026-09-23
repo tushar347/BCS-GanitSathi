@@ -1,0 +1,47 @@
+[
+  {
+    "family_id": "Q098",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৪৫",
+        "reasoning_steps": [
+          "Use the arithmetic mean instead: (18+72)/2=45."
+        ],
+        "code": "BCS44-098-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১২৯৬",
+        "reasoning_steps": [
+          "Calculate 18×72=1296.",
+          "Return the product without taking its square root."
+        ],
+        "code": "BCS44-098-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q103",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "13/12",
+        "reasoning_steps": [
+          "Add 1/3+3/4 without subtracting the overlap.",
+          "Return 13/12, which exceeds 1."
+        ],
+        "code": "BCS44-103-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "1/4",
+        "reasoning_steps": [
+          "Compute the intersection (1/3)(3/4)=1/4.",
+          "Return the intersection rather than the requested union."
+        ],
+        "code": "BCS44-103-INTERPRETATION-02"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "average_age_difference_bcs27_q046_f01",
+    "item_id": "BCS27_Q046",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "average_age_difference",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture"
+    },
+    "question_bn": "পিতা, মাতা ও পুত্রের বয়সের গড় ৩৭ বছর। পিতা ও পুত্রের বয়সের গড় ৩৫ বছর। মাতার বয়স কত?",
+    "answer_options": [
+      "৩৮ বছর",
+      "৪১ বছর",
+      "৪৫ বছর",
+      "৪৮ বছর"
+    ],
+    "correct_answer": "৪১ বছর",
+    "solution_steps": [
+      "তিনজনের মোট = 111।",
+      "পিতা+পুত্র = 70।",
+      "মাতা = 41 বছর।"
+    ],
+    "source_page": 9,
+    "source_exam": "27th BCS"
+  }
+]

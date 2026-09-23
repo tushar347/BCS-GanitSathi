@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "mixed_percent_to_fraction_f01",
+    "item_id": "BCS30_Q098",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_to_fraction",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "১৩(৩/৪)% এর সমান—",
+    "answer_options": [
+      "১১/৮০",
+      "১১/২০",
+      "৯/১",
+      "১/৮"
+    ],
+    "correct_answer": "১১/৮০",
+    "solution_steps": [
+      "13 3/4% = 13.75/100.",
+      "13.75/100 = 0.1375 = 11/80."
+    ],
+    "source_page": 11,
+    "source_exam": "30th BCS"
+  }
+]

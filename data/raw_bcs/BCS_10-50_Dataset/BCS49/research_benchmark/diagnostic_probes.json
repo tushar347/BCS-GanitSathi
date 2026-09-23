@@ -1,0 +1,155 @@
+[
+  {
+    "probe_id": "BCS49_Q001_P1",
+    "item_id": "BCS49_Q001",
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q004_P1",
+    "item_id": "BCS49_Q004",
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q010_P1",
+    "item_id": "BCS49_Q010",
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q022_P1",
+    "item_id": "BCS49_Q022",
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q027_P1",
+    "item_id": "BCS49_Q027",
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q037_P1",
+    "item_id": "BCS49_Q037",
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q061_P1",
+    "item_id": "BCS49_Q061",
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q080_P1",
+    "item_id": "BCS49_Q080",
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS49_Q087_P1",
+    "item_id": "BCS49_Q087",
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show one short intermediate calculation or state the rule you are using before giving the final answer.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  }
+]

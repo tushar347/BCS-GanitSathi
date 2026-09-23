@@ -1,0 +1,238 @@
+[
+  {
+    "item_id": "BCS27_Q041",
+    "family_id": "sum_of_squares_1_to_n_bcs27_q041_f01",
+    "exam": "27th BCS",
+    "question_number": 41,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_of_squares_1_to_n",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "১^২ + ২^২ + ৩^২ + ............ + ৫০^২ = কত?",
+    "question_normalized": "১^২ + ২^২ + ৩^২ + ............ + ৫০^২ = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৫৭২৫",
+      "৪২৯২৫",
+      "৪৫৫০০",
+      "৪৭২২৫"
+    ],
+    "printed_answer": "৪২৯২৫",
+    "accepted_answer_forms": [
+      "৪২৯২৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS27_Q042",
+    "family_id": "unit_buy_sell_profit_bcs27_q042_f01",
+    "exam": "27th BCS",
+    "question_number": 42,
+    "source_page": 8,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "unit_buy_sell_profit",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৪ টাকায় ৫টি দরে কিনে ৫ টাকায় ৪টি দরে বিক্রি করলে শতকরা কত লাভ হবে?",
+    "question_normalized": "৪ টাকায় ৫টি দরে কিনে ৫ টাকায় ৪টি দরে বিক্রি করলে শতকরা কত লাভ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৫%",
+      "৪৮.৫০%",
+      "৫২.৭৫%",
+      "৫৬.২৫%"
+    ],
+    "printed_answer": "৫৬.২৫%",
+    "accepted_answer_forms": [
+      "৫৬.২৫%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS27_Q043",
+    "family_id": "successive_equal_percentage_change_bcs27_q043_f01",
+    "exam": "27th BCS",
+    "question_number": 43,
+    "source_page": 8,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "successive_equal_percentage_change",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "এক ব্যবসায়ী একটি পণ্যের মূল্য ২৫% বাড়াল, অতঃপর বর্ধিত মূল্য থেকে ২৫% কমাল। সর্বশেষ মূল্য সর্বপ্রথম মূল্যের তুলনায় কী হলো?",
+    "question_normalized": "এক ব্যবসায়ী একটি পণ্যের মূল্য ২৫% বাড়াল, অতঃপর বর্ধিত মূল্য থেকে ২৫% কমাল। সর্বশেষ মূল্য সর্বপ্রথম মূল্যের তুলনায় কী হলো?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৫% কমেছে",
+      "৬.২৫% কমেছে",
+      "৬.২৫% বেড়েছে",
+      "৫% বেড়েছে"
+    ],
+    "printed_answer": "৬.২৫% কমেছে",
+    "accepted_answer_forms": [
+      "৬.২৫% কমেছে"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS27_Q044",
+    "family_id": "inverse_workers_time_bcs27_q044_f01",
+    "exam": "27th BCS",
+    "question_number": 44,
+    "source_page": 8,
+    "topic_group": "work_time",
+    "subskill": "inverse_workers_time",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি কাজ ৯ জন লোক ১২ দিনে করতে পারে। অতিরিক্ত ৩ জন লোক নিয়োগ করলে কাজটি কত দিনে শেষ হবে?",
+    "question_normalized": "একটি কাজ ৯ জন লোক ১২ দিনে করতে পারে। অতিরিক্ত ৩ জন লোক নিয়োগ করলে কাজটি কত দিনে শেষ হবে?",
+    "normalization_notes": [],
+    "units": [
+      "দিন"
+    ],
+    "answer_options": [
+      "৭",
+      "৯",
+      "১০",
+      "১২"
+    ],
+    "printed_answer": "৯",
+    "accepted_answer_forms": [
+      "৯"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS27_Q045",
+    "family_id": "inverse_variation_trip_cost_bcs27_q045_f01",
+    "exam": "27th BCS",
+    "question_number": 45,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "inverse_variation_trip_cost",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "শিক্ষা সফরের জন্য ২৪০০ টাকা বাস ভাড়া এবং প্রত্যেক ছাত্র/ছাত্রী সমান ভাড়া বহন করবে ঠিক হলো। অতিরিক্ত ১০ জন যাওয়ায় প্রতি জনের ভাড়া ৮ টাকা কমে গেল। বাসে কতজন ছাত্র/ছাত্রী গিয়েছিল?",
+    "question_normalized": "শিক্ষা সফরের জন্য ২৪০০ টাকা বাস ভাড়া এবং প্রত্যেক ছাত্র/ছাত্রী সমান ভাড়া বহন করবে ঠিক হলো। অতিরিক্ত ১০ জন যাওয়ায় প্রতি জনের ভাড়া ৮ টাকা কমে গেল। বাসে কতজন ছাত্র/ছাত্রী গিয়েছিল?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪০",
+      "৪৮",
+      "৫০",
+      "৬০"
+    ],
+    "printed_answer": "৬০",
+    "accepted_answer_forms": [
+      "৬০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS27_Q046",
+    "family_id": "average_age_difference_bcs27_q046_f01",
+    "exam": "27th BCS",
+    "question_number": 46,
+    "source_page": 9,
+    "topic_group": "averages_mixtures",
+    "subskill": "average_age_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "পিতা, মাতা ও পুত্রের বয়সের গড় ৩৭ বছর। পিতা ও পুত্রের বয়সের গড় ৩৫ বছর। মাতার বয়স কত?",
+    "question_normalized": "পিতা, মাতা ও পুত্রের বয়সের গড় ৩৭ বছর। পিতা ও পুত্রের বয়সের গড় ৩৫ বছর। মাতার বয়স কত?",
+    "normalization_notes": [],
+    "units": [
+      "বছর"
+    ],
+    "answer_options": [
+      "৩৮ বছর",
+      "৪১ বছর",
+      "৪৫ বছর",
+      "৪৮ বছর"
+    ],
+    "printed_answer": "৪১ বছর",
+    "accepted_answer_forms": [
+      "৪১ বছর"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS27_Q047",
+    "family_id": "square_identity_xy_bcs27_q047_f01",
+    "exam": "27th BCS",
+    "question_number": 47,
+    "source_page": 9,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "square_identity_xy",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি (x−y)^2 = 14 এবং xy = 2 হয় তবে x^2+y^2 = কত?",
+    "question_normalized": "যদি (x−y)^2 = 14 এবং xy = 2 হয় তবে x^2+y^2 = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১২",
+      "১৪",
+      "১৬",
+      "১৮"
+    ],
+    "printed_answer": "১৮",
+    "accepted_answer_forms": [
+      "১৮"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS27_Q050",
+    "family_id": "prime_range_difference_bcs27_q050_f01",
+    "exam": "27th BCS",
+    "question_number": 50,
+    "source_page": 9,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "prime_range_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৬০ থেকে ৮০-এর মধ্যবর্তী বৃহত্তম ও ক্ষুদ্রতম মৌলিক সংখ্যার অন্তর কত?",
+    "question_normalized": "৬০ থেকে ৮০-এর মধ্যবর্তী বৃহত্তম ও ক্ষুদ্রতম মৌলিক সংখ্যার অন্তর কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৮",
+      "১২",
+      "১৮",
+      "১৪০"
+    ],
+    "printed_answer": "১৮",
+    "accepted_answer_forms": [
+      "১৮"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

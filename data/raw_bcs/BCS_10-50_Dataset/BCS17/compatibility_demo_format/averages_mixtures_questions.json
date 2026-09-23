@@ -1,0 +1,28 @@
+[
+  {
+    "family_id": "mixture_ratio_add_pure_component_bcs17_q019_f01",
+    "item_id": "BCS17_Q019",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "mixture_ratio_add_pure_component",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ : ১। এতে কী পরিমাণ সোনা মেশালে অনুপাত ৪ : ১ হবে?",
+    "answer_options": [
+      "৮ গ্রাম",
+      "৬ গ্রাম",
+      "৩ গ্রাম",
+      "৪ গ্রাম"
+    ],
+    "correct_answer": "৪ গ্রাম",
+    "solution_steps": [
+      "১৬ গ্রামের ৩:১ অনুপাতে সোনা 12 গ্রাম এবং তামা 4 গ্রাম।",
+      "আর x গ্রাম সোনা যোগ করলে (12+x):4 = 4:1।",
+      "তাই 12+x=16, ফলে x=4 গ্রাম।"
+    ],
+    "source_page": 3,
+    "source_exam": "17th BCS"
+  }
+]

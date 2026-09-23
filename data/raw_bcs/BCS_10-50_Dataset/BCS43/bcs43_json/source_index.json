@@ -1,0 +1,640 @@
+[
+  {
+    "family_id": "Q146",
+    "source_uid": "BCS43:Q146",
+    "source_question_number": 146,
+    "source_page": 14,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "১০১১১০ বাইনারি নাম্বারের সমতুল্য ডেসিমাল নাম্বার কোনটি?",
+    "source_options_transcription": [
+      "৪৬",
+      "১৬",
+      "২৪",
+      "৫৪"
+    ],
+    "source_printed_answer": "৪৬",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q146_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q161",
+    "source_uid": "BCS43:Q161",
+    "source_question_number": 161,
+    "source_page": 16,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "বাস্তব সংখ্যায় 1/(3x−5) < 1/3 অসমতাটির সমাধান−",
+    "source_options_transcription": [
+      "−∞ < x < 5/3",
+      "8/3 < x < ∞",
+      "−∞ < x < 5/2 অথবা 8/3 < x < ∞",
+      "−∞ < x < 5/2 এবং 8/3 < x < ∞"
+    ],
+    "source_printed_answer": "8/3 < x < ∞",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q161_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The printed key gives only x>8/3. Negative denominators also satisfy the inequality, so the complete solution is x<5/3 or x>8/3. The two combined options print 5/2 rather than 5/3. The key and options are preserved, not repaired."
+  },
+  {
+    "family_id": "Q162",
+    "source_uid": "BCS43:Q162",
+    "source_question_number": 162,
+    "source_page": 16,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "একদল গরু প্রতিবার সমান সংখ্যায় ভাগ হয়ে তিন পথে গমন করে, সাত ঘাটে পানি পান করে, নয়টি বৃক্ষের নিচে ঘুমায় এবং বারো জন গোয়ালা সমান সংখ্যক গরুর দুধ দোয়ায়; তাহলে গরুর সংখ্যা কত?",
+    "source_options_transcription": [
+      "৫২২",
+      "২৫২",
+      "২২৫",
+      "১৫৫"
+    ],
+    "source_printed_answer": "২৫২",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q162_source_excerpt.png",
+    "transcription_or_interpretation_note": "The wording does not explicitly ask for the minimum. Larger multiples are possible in general, but only 252 among the supplied choices satisfies all conditions.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q163",
+    "source_uid": "BCS43:Q163",
+    "source_question_number": 163,
+    "source_page": 16,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "২০% যৌগিক মুনাফায় মূলধন ১০০০০ টাকা ২ বছরের জন্য বিনিয়োগ করা হলো। যদি যৌগিক মুনাফা অর্ধ বছর হিসেবে ধরা হয়, তাহলে চক্রবৃদ্ধি মূলধন কত?",
+    "source_options_transcription": [
+      "১২⁴",
+      "১১⁴",
+      "১০⁴",
+      "৯⁴"
+    ],
+    "source_printed_answer": "১১⁴",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q163_source_excerpt.png",
+    "transcription_or_interpretation_note": "The annual-rate convention is an explicit annotation. The source options are powers (including ১১⁴), not four-digit integers ending in ৪.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q164",
+    "source_uid": "BCS43:Q164",
+    "source_question_number": 164,
+    "source_page": 16,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "x = √4 + √3 হলে, x³ + 1/x³ এর মান কত?",
+    "source_options_transcription": [
+      "5√2",
+      "52",
+      "5√5",
+      "2√5"
+    ],
+    "source_printed_answer": "52",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q164_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q165",
+    "source_uid": "BCS43:Q165",
+    "source_question_number": 165,
+    "source_page": 16,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "একটি নৌকা পানির লেভেলে বাঁধা দড়ি দ্বারা একটি ডকের দিকে টানা হয়। নৌকাটি যখন ডক থেকে ১২ ফুট দূরে থাকে, তখন নৌকা থেকে ডক পর্যন্ত দড়ির দৈর্ঘ্য পানির উপর ডকের উচ্চতার দ্বিগুণের চেয়ে ৩ ফুট লম্বা হয়। তাহলে ডকের উচ্চতা কত?",
+    "source_options_transcription": [
+      "৯ ফুট",
+      "৮ ফুট",
+      "৫ ফুট",
+      "৪ ফুট"
+    ],
+    "source_printed_answer": "৫ ফুট",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q165_source_excerpt.png",
+    "transcription_or_interpretation_note": "The generated model treats the dock as vertical and the water as horizontal, with the boat 12 feet horizontally from the dock.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q166",
+    "source_uid": "BCS43:Q166",
+    "source_question_number": 166,
+    "source_page": 16,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "5x² − x² − 6 > 0 হলে, নিচের কোনটি সঠিক?",
+    "source_options_transcription": [
+      "x > 3, x < 2",
+      "2 > x > 3",
+      "x < 2",
+      "2 < x < 3"
+    ],
+    "source_printed_answer": "2 < x < 3",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q166_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The first term is printed 5x², not 5x. The literal inequality is 4x²−6>0, whose full solution is x<−√(3/2) or x>√(3/2), not the keyed interval 2<x<3. The source is not changed to a different quadratic."
+  },
+  {
+    "family_id": "Q167",
+    "source_uid": "BCS43:Q167",
+    "source_question_number": 167,
+    "source_page": 16,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "4x + 4¹⁻ˣ = 4 হলে x = কত?",
+    "source_options_transcription": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "source_printed_answer": "1/2",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q167_source_excerpt.png",
+    "transcription_or_interpretation_note": "The first x is on the baseline. No silent conversion of 4x to 4^x is made. The explanation confirms the keyed listed value; it does not claim that it is the only real solution, since x=0 also satisfies the literal equation.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q168",
+    "source_uid": "BCS43:Q168",
+    "source_question_number": 168,
+    "source_page": 16,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "2log₂3 + log₂5 এর মান কত?",
+    "source_options_transcription": [
+      "8",
+      "2",
+      "15",
+      "10"
+    ],
+    "source_printed_answer": "15",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q168_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The printed expression combines to log₂45, not 15. The source key is 15 and none of the listed numerical options equals log₂45. No missing exponent or operator is invented."
+  },
+  {
+    "family_id": "Q169",
+    "source_uid": "BCS43:Q169",
+    "source_question_number": 169,
+    "source_page": 16,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "(x−2)/(x−1) + 1/(x−1) − 2 এর সমাধান সেট কোনটি?",
+    "source_options_transcription": [
+      "{Φ}",
+      "{1}",
+      "{−1}",
+      "{2}"
+    ],
+    "source_printed_answer": "{Φ}",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q169_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The source prints an expression ending in minus 2, with no equality or inequality. Therefore a solution set is not defined by the displayed text. The printed {Φ} is retained and no equals sign is inserted."
+  },
+  {
+    "family_id": "Q170",
+    "source_uid": "BCS43:Q170",
+    "source_question_number": 170,
+    "source_page": 17,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "1/4 − 1/6 + 1/9 + 2/7 ধারাটির অসীম পদের সমষ্টি কত?",
+    "source_options_transcription": [
+      "S∞ = 20/3",
+      "S∞ = 3/20",
+      "S∞ = 20",
+      "S∞ = 320"
+    ],
+    "source_printed_answer": "S∞ = 3/20",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q170_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The displayed fourth term is +2/7, not −2/27, and the displayed terms do not specify an infinite continuation. The key 3/20 would follow from a different geometric series. The term and sign are preserved without repair."
+  },
+  {
+    "family_id": "Q171",
+    "source_uid": "BCS43:Q171",
+    "source_question_number": 171,
+    "source_page": 17,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "একটি কোণের মান তার সম্পূরক কোণের মানের অর্ধেকের সমান। কোণটির মান কত?",
+    "source_options_transcription": [
+      "৩০°",
+      "৬০°",
+      "৯০°",
+      "১২০°"
+    ],
+    "source_printed_answer": "৬০°",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q171_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q172",
+    "source_uid": "BCS43:Q172",
+    "source_question_number": 172,
+    "source_page": 17,
+    "topic": "geometry",
+    "status": "review_required",
+    "source_question_transcription": "O কেন্দ্র বিশিষ্ট বৃত্তে x কোণের মান কত?",
+    "source_options_transcription": [
+      "54°",
+      "72°",
+      "108°",
+      "126°"
+    ],
+    "source_printed_answer": "72°",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q172_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q172_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The diagram labels the central angle 180°, whereas the supplied key is 72°. Taking that printed central angle literally gives a 90° inscribed angle, which is absent from the options. The diagram and source key are retained without changing the angle label."
+  },
+  {
+    "family_id": "Q173",
+    "source_uid": "BCS43:Q173",
+    "source_question_number": 173,
+    "source_page": 17,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "A = {x ∈ IN | 2 < x ≤ 8), B = {x ∈ IN | x বিজোড় এবং x ≤ 9} হলে, A ∩ B = কত?",
+    "source_options_transcription": [
+      "{3, 5, 8}",
+      "{4, 5, 7}",
+      "{3, 4, 5}",
+      "{3, 5, 7}"
+    ],
+    "source_printed_answer": "{3, 5, 7}",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q173_source_excerpt.png",
+    "transcription_or_interpretation_note": "The mismatched closing parenthesis in A and the printed IN notation are preserved; the inequality and membership conditions remain readable.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q174",
+    "source_uid": "BCS43:Q174",
+    "source_question_number": 174,
+    "source_page": 17,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "একটি অনুষ্ঠানে কিছু লোক উপস্থিত ছিল। তারা কেবল একজনের সাথে একবার করমর্দন করতে পারবে। যদি করমর্দনের সংখ্যা ৩০০ হয়, তাহলে ঐ অনুষ্ঠানে কতজন লোক ছিল?",
+    "source_options_transcription": [
+      "২৪",
+      "২৫",
+      "৩০",
+      "৬০"
+    ],
+    "source_printed_answer": "২৫",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q174_source_excerpt.png",
+    "transcription_or_interpretation_note": "The all-pairs handshake convention is an explicit model interpretation matching the supplied key. The wording is not expanded inside question_bn.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q175",
+    "source_uid": "BCS43:Q175",
+    "source_question_number": 175,
+    "source_page": 17,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "A এবং B দুটি ঘটনা যেন, P(A) = 1/2, P(A ∪ B) = 3/4 এবং P(Bᶜ) = 5/8। P(Aᶜ ∩ Bᶜ) = কত?",
+    "source_options_transcription": [
+      "1/8",
+      "1/6",
+      "1/4",
+      "1/2"
+    ],
+    "source_printed_answer": "1/4",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q175_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q176",
+    "source_uid": "BCS43:Q176",
+    "source_question_number": 176,
+    "source_page": 17,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "‘ঙ, ঞ, ণ, ........’ ধারার পরবর্তী অক্ষর কী হবে?",
+    "source_options_transcription": [
+      "ঠ",
+      "ম",
+      "ন",
+      "র"
+    ],
+    "source_printed_answer": "ন",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q176_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q177",
+    "source_uid": "BCS43:Q177",
+    "source_question_number": 177,
+    "source_page": 17,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "নিচের শব্দগুলোর মধ্যে ৩টি সমগোত্রীয়। কোন শব্দটি আলাদা?",
+    "source_options_transcription": [
+      "Conventional",
+      "Peculiar",
+      "Conservative",
+      "Traditional"
+    ],
+    "source_printed_answer": "Peculiar",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q177_source_excerpt.png",
+    "transcription_or_interpretation_note": "This is retained as semantic classification in mental ability, not as an ordinary vocabulary-definition item. The grouping explanation is generated.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q178",
+    "source_uid": "BCS43:Q178",
+    "source_question_number": 178,
+    "source_page": 18,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "DC DE FE ?? HG HI সিরিজের প্রশ্নবোধক চিহ্নের স্থানে কোন বিকল্পটি বসবে?",
+    "source_options_transcription": [
+      "DE",
+      "ED",
+      "FG",
+      "GF"
+    ],
+    "source_printed_answer": "FG",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q178_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q179",
+    "source_uid": "BCS43:Q179",
+    "source_question_number": 179,
+    "source_page": 18,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "‘প্রতিযোগিতা’য় সবসময় কী থাকে?",
+    "source_options_transcription": [
+      "topic",
+      "examination",
+      "party",
+      "participant"
+    ],
+    "source_printed_answer": "participant",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q179_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q180",
+    "source_uid": "BCS43:Q180",
+    "source_question_number": 180,
+    "source_page": 18,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "‘A’ ‘B’-এর চেয়ে দ্বিগুণ কাজ করতে পারে; তারা দু’জন একত্রে একটি কাজ ১৪ দিনে শেষ করতে পারে। ‘A’ একা কাজটি কতদিনে করতে পারবে?",
+    "source_options_transcription": [
+      "১২ দিনে",
+      "২৪ দিনে",
+      "২১ দিনে",
+      "১৫ দিনে"
+    ],
+    "source_printed_answer": "২১ দিনে",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q180_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q181",
+    "source_uid": "BCS43:Q181",
+    "source_question_number": 181,
+    "source_page": 18,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "‘DRIVE is to LICENCE as BREATHE is to _____.’ এই বক্তব্যের শূন্যস্থানে কোন বিকল্পটি বসবে?",
+    "source_options_transcription": [
+      "OXYGEN",
+      "ATMOSPHERE",
+      "WINDPIPE",
+      "INHALE"
+    ],
+    "source_printed_answer": "OXYGEN",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q181_source_excerpt.png",
+    "transcription_or_interpretation_note": "The activity/prerequisite interpretation is a model annotation of the exam analogy, not a claim that the two requirements have identical kinds of necessity.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q182",
+    "source_uid": "BCS43:Q182",
+    "source_question_number": 182,
+    "source_page": 18,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "একটি প্রতিষ্ঠানের ৪০% কর্মচারী আন্ডারগ্রাজুয়েট, অবশিষ্ট কর্মচারীদের ৫০% গ্রাজুয়েট এবং অবশিষ্ট ১৮০ জন পোস্টগ্রাজুয়েট। প্রতিষ্ঠানটির কতজন কর্মচারী গ্রাজুয়েট?",
+    "source_options_transcription": [
+      "১৮০",
+      "২৪০",
+      "৩০০",
+      "৩৬০"
+    ],
+    "source_printed_answer": "১৮০",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q182_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q183",
+    "source_uid": "BCS43:Q183",
+    "source_question_number": 183,
+    "source_page": 18,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "যদি ROSE কে লেখা হয় 6821, CHAIR কে লেখা হয় 73456 এবং PREACH কে লেখা হয় 961473, তাহলে SEARCH-এর কোড কত?",
+    "source_options_transcription": [
+      "246173",
+      "214673",
+      "214763",
+      "216373"
+    ],
+    "source_printed_answer": "214673",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q183_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q184",
+    "source_uid": "BCS43:Q184",
+    "source_question_number": 184,
+    "source_page": 18,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "প্রশ্নবোধক চিহ্নিত স্থানে কোন সংখ্যা বসবে?",
+    "source_options_transcription": [
+      "20",
+      "26",
+      "30",
+      "25"
+    ],
+    "source_printed_answer": "26",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q184_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q184_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q185",
+    "source_uid": "BCS43:Q185",
+    "source_question_number": 185,
+    "source_page": 18,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "একটি ছবি দেখিয়ে তিন্নী বললো, ‘সে আমার দাদার একমাত্র ছেলের ছেলে’। ছবির ছেলেটির সাথে তিন্নীর সম্পর্ক কী?",
+    "source_options_transcription": [
+      "ভাই",
+      "চাচা",
+      "ছেলে",
+      "কোন সম্পর্ক নেই"
+    ],
+    "source_printed_answer": "ভাই",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q185_source_excerpt.png",
+    "transcription_or_interpretation_note": "The wording asks about Tinni’s relationship to the boy, while the key ভাই describes the boy’s relationship to Tinni. This direction-of-relation looseness is documented; neither source wording nor key is silently rewritten.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q186",
+    "source_uid": "BCS43:Q186",
+    "source_question_number": 186,
+    "source_page": 18,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোন শব্দটি ভিন্ন ধরনের?",
+    "source_options_transcription": [
+      "চাঁদ",
+      "প্লুটো",
+      "মঙ্গল",
+      "পৃথিবী"
+    ],
+    "source_printed_answer": "চাঁদ",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q186_source_excerpt.png",
+    "transcription_or_interpretation_note": "The model explanation avoids treating Pluto as a major planet. The source has no printed classification explanation; its key চাঁদ is preserved.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q187",
+    "source_uid": "BCS43:Q187",
+    "source_question_number": 187,
+    "source_page": 19,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "এক ব্যক্তি ৫ মাইল পশ্চিমে, ২ মাইল দক্ষিণে, এর পর আবার ৫ মাইল পশ্চিমে যায়। যাত্রাস্থান থেকে তার সরাসরি দূরত্ব কত?",
+    "source_options_transcription": [
+      "৮ মাইল",
+      "১৫ মাইল",
+      "১২ মাইল",
+      "উপরের কোনোটিই নয়"
+    ],
+    "source_printed_answer": "উপরের কোনোটিই নয়",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q187_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q188",
+    "source_uid": "BCS43:Q188",
+    "source_question_number": 188,
+    "source_page": 19,
+    "topic": "ratios",
+    "status": "review_required",
+    "source_question_transcription": "লিভার এর ভারসাম্য ঠিক রাখতে প্রশ্নবোধক স্থানে কত পাউন্ড ওজন স্থাপন করতে হবে?",
+    "source_options_transcription": [
+      "30 পাউন্ড",
+      "25 পাউন্ড",
+      "40 পাউন্ড",
+      "35 পাউন্ড"
+    ],
+    "source_printed_answer": "25 পাউন্ড",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q188_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q188_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The drawing supplies 20 lb and 30 lb loads but no numerical lever-arm lengths. Its arrow segments are not a stated scale. The keyed 25 lb cannot be established without inventing missing distances."
+  },
+  {
+    "family_id": "Q200",
+    "source_uid": "BCS43:Q200",
+    "source_question_number": 200,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "নিচের ক, খ, গ ও ঘ বিকল্প নকশা ৪টির মধ্যে কোনটি প্রশ্নবোধক চিহ্নের স্থানে বসবে?",
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "ক",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q200_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q200_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  }
+]

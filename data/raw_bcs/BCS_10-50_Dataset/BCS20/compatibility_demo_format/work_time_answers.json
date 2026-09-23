@@ -1,0 +1,37 @@
+[
+  {
+    "family_id": "two_workers_partial_then_one_f01",
+    "item_id": "BCS20_Q093",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "১৮ এবং ১২ মিনিট",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ১৮ এবং ১২ মিনিট পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "১৫ এবং ১২ মিনিট",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ১৫ এবং ১২ মিনিট লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "১০ এবং ১৫ মিনিট",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ১০ এবং ১৫ মিনিট বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  }
+]

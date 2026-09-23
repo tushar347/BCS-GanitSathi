@@ -1,0 +1,29 @@
+[
+  {
+    "family_id": "Q092",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "loss percentage with a price relationship",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "percentage loss",
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "ক্ষতি": "loss",
+      "লাভ": "profit"
+    },
+    "question_bn": "ক্রয়মূল্য বিক্রয়মূল্যের দ্বিগুন হলে শতকরা লাভ বা ক্ষতির পরিমান কত?",
+    "answer_options": [
+      "লাভ ২৫%",
+      "ক্ষতি ২৫%",
+      "লাভ ১০%",
+      "ক্ষতি ৫০%"
+    ],
+    "correct_answer": "ক্ষতি ৫০%",
+    "solution_steps": [
+      "Let the sale price be 100 and the cost price be 200.",
+      "Loss=200−100=100.",
+      "Percentage loss=100/200×100=50%."
+    ]
+  }
+]

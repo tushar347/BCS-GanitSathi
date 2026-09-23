@@ -1,0 +1,37 @@
+[
+  {
+    "q": 88,
+    "page": 10,
+    "reason": "rectangle mensuration - outside initial scope"
+  },
+  {
+    "q": 89,
+    "page": 10,
+    "reason": "circle/coordinate geometry - outside initial scope"
+  },
+  {
+    "q": 93,
+    "page": 11,
+    "reason": "angle geometry - outside initial scope"
+  },
+  {
+    "q": 94,
+    "page": 11,
+    "reason": "circle geometry - outside initial scope"
+  },
+  {
+    "q": 95,
+    "page": 11,
+    "reason": "triangle congruence geometry - outside initial scope"
+  },
+  {
+    "q": 96,
+    "page": 11,
+    "reason": "triangle geometry - outside initial scope"
+  },
+  {
+    "q": 97,
+    "page": 11,
+    "reason": "trigonometric height/geometry - outside initial scope"
+  }
+]

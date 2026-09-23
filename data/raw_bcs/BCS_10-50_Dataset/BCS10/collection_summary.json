@@ -1,0 +1,17 @@
+{
+  "exam": "10th BCS",
+  "source_pdf": "10th BCS.pdf",
+  "main_in_scope_questions": 13,
+  "review_required": 0,
+  "excluded_out_of_scope": 3,
+  "authored_histories": 52,
+  "topic_counts": {
+    "percentages_profit_loss": 4,
+    "ratios_proportions": 0,
+    "work_time": 0,
+    "speed_distance": 0,
+    "averages_mixtures": 2,
+    "elementary_algebra_number_relations": 7
+  },
+  "research_note": "Questions, choices and printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

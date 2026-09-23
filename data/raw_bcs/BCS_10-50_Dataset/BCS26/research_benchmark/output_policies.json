@@ -1,0 +1,342 @@
+[
+  {
+    "item_id": "BCS26_Q181",
+    "family_id": "triangular_number_sequence_bcs26_q181_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q182",
+    "family_id": "average_age_group_bcs26_q182_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q183",
+    "family_id": "mixture_ratio_difference_bcs26_q183_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q184",
+    "family_id": "buy_sell_units_profit_percentage_bcs26_q184_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q185",
+    "family_id": "workers_days_proportion_bcs26_q185_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q186",
+    "family_id": "boat_stream_round_trip_time_bcs26_q186_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q187",
+    "family_id": "fraction_of_number_equation_bcs26_q187_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q188",
+    "family_id": "count_primes_interval_bcs26_q188_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q189",
+    "family_id": "sqrt_prime_irrational_bcs26_q189_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q190",
+    "family_id": "radical_power_bcs26_q190_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q191",
+    "family_id": "combined_work_rate_bcs26_q191_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q192",
+    "family_id": "count_divisors_bcs26_q192_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q193",
+    "family_id": "consecutive_square_difference_bcs26_q193_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q194",
+    "family_id": "sum_difference_square_sum_bcs26_q194_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q195",
+    "family_id": "reciprocal_square_identity_bcs26_q195_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q198",
+    "family_id": "complete_square_cross_term_bcs26_q198_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q199",
+    "family_id": "factor_difference_square_shift_bcs26_q199_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

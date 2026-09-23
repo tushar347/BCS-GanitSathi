@@ -1,0 +1,292 @@
+[
+  {
+    "item_id": "BCS35_Q171",
+    "family_id": "gcd_lcm_missing_number_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q173",
+    "family_id": "mixture_ratio_add_component_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q174",
+    "family_id": "weighted_average_two_groups_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q175",
+    "family_id": "quadratic_from_difference_product_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q176",
+    "family_id": "rational_equation_two_roots_option_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q177",
+    "family_id": "absolute_value_interval_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q178",
+    "family_id": "negative_exponent_decimal_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q179",
+    "family_id": "log_basic_reciprocal_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q180",
+    "family_id": "log_product_quotient_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS35_Q181",
+    "family_id": "gp_common_ratio_from_terms_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  }
+]

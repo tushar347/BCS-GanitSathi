@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "two_workers_partial_then_one_f01",
+    "item_id": "BCS20_Q093",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "two_pipes_partial_then_one",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "সময়": "time",
+      "হার": "rate",
+      "নল": "pipe/tap"
+    },
+    "question_bn": "দুটি নল দ্বারা একটি চৌবাচ্চা ৮ মিনিটে পূর্ণ হয়। নল দুটি খুলে দেওয়ার ৪ মিনিট পর প্রথম নলটি বন্ধ করে দেওয়াতে চৌবাচ্চাটি পূর্ণ হতে আরও ৬ মিনিট লাগল। প্রত্যেক নল দ্বারা পৃথকভাবে চৌবাচ্চাটি পূর্ণ হতে কত সময় লাগবে?",
+    "answer_options": [
+      "১৮ এবং ১২ মিনিট",
+      "২৪ এবং ১২ মিনিট",
+      "১৫ এবং ১২ মিনিট",
+      "১০ এবং ১৫ মিনিট"
+    ],
+    "correct_answer": "২৪ এবং ১২ মিনিট",
+    "solution_steps": [
+      "দুই নলের যৌথ হার =1/8 ট্যাংক/মিনিট। প্রথম 4 মিনিটে পূর্ণ হয় 1/2।",
+      "বাকি 1/2 দ্বিতীয় নল 6 মিনিটে পূরণ করে, তাই দ্বিতীয় নলের হার=1/12।",
+      "প্রথম নলের হার=1/8-1/12=1/24। তাই সময় 24 ও 12 মিনিট।"
+    ],
+    "source_page": 25,
+    "source_exam": "20th BCS"
+  }
+]

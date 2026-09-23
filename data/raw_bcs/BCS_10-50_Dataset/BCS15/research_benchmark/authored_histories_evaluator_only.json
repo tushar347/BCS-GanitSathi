@@ -1,0 +1,222 @@
+[
+  {
+    "history_id": "BCS15_Q028_H_CORRECT",
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q028_H_CONCEPT",
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q028_H_SLIP",
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q028_H_AMBIG",
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS15_Q029_H_CORRECT",
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q029_H_CONCEPT",
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q029_H_SLIP",
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q029_H_AMBIG",
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS15_Q076_H_CORRECT",
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q076_H_CONCEPT",
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q076_H_SLIP",
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q076_H_AMBIG",
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS15_Q077_H_CORRECT",
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q077_H_CONCEPT",
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q077_H_SLIP",
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS15_Q077_H_AMBIG",
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  }
+]

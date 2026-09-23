@@ -1,0 +1,141 @@
+[
+  {
+    "family_id": "Q089",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "counting perfect squares in a finite uniform sample",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "probability",
+    "english_glossary": {
+      "সম্ভাবনা": "probability"
+    },
+    "question_bn": "১ থেকে ৪৪০ পর্যন্ত সংখ্যাগুলোর একটি দৈবচয়ন পদ্ধতিতে নেওয়া হলে সংখ্যাটি বর্গসংখ্যা হওয়ার সম্ভাবনা−",
+    "answer_options": [
+      "1/22",
+      "1/64",
+      "1/60",
+      "2/65"
+    ],
+    "correct_answer": "1/22",
+    "solution_steps": [
+      "There are 440 integers in the inclusive range.",
+      "Since 20²=400 and 21²=441, exactly 20 of them are perfect squares.",
+      "Under uniform selection the probability is 20/440=1/22."
+    ]
+  },
+  {
+    "family_id": "Q097",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "combinations with category constraints",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "number of committees",
+    "english_glossary": {},
+    "question_bn": "৫ জন পুরুষ ও ৪ জন মহিলার একটি দল থেকে একজন পুরুষ ও দুইজন মহিলা নিয়ে কত প্রকারে একটি কমিটি গঠন করা যাবে?",
+    "answer_options": [
+      "১০",
+      "১৫",
+      "২৫",
+      "৩০"
+    ],
+    "correct_answer": "৩০",
+    "solution_steps": [
+      "Choose one man in 5 ways.",
+      "Choose two women in C(4,2)=6 ways.",
+      "Independent choices multiply, giving 5×6=30 committees."
+    ]
+  },
+  {
+    "family_id": "Q100",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "comparison of positive fractions",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "largest fraction",
+    "english_glossary": {},
+    "question_bn": "5/12, 6/13, 11/24 এবং 3/8 এর মধ্যে বড় ভগ্নাংশটি−",
+    "answer_options": [
+      "5/12",
+      "6/13",
+      "11/24",
+      "3/8"
+    ],
+    "correct_answer": "6/13",
+    "solution_steps": [
+      "Compare 6/13 with 11/24: 6×24=144 is greater than 11×13=143.",
+      "Also 6×12=72>5×13=65, so 6/13>5/12.",
+      "Finally 6×8=48>3×13=39, so 6/13 is the largest."
+    ]
+  },
+  {
+    "family_id": "Q108",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "elapsed time and time remaining",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "minutes until six",
+    "english_glossary": {},
+    "question_bn": "৫০ মিনিট আগে সময় ছিল ৪টা বেজে ৪৫ মিনিট, ৬টা বাজতে আর কতক্ষণ সময় বাকি আছে?",
+    "answer_options": [
+      "১৫ মিনিট",
+      "২০ মিনিট",
+      "২৫ মিনিট",
+      "৩০ মিনিট"
+    ],
+    "correct_answer": "২৫ মিনিট",
+    "solution_steps": [
+      "Add 50 minutes to 4:45 to get the current time 5:35.",
+      "From 5:35 to 6:00 there are 25 minutes."
+    ]
+  },
+  {
+    "family_id": "Q110",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "ordering positive fractions",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "smallest fraction",
+    "english_glossary": {},
+    "question_bn": "নিচের কোনটি সবচেয়ে ছোট সংখ্যা?",
+    "answer_options": [
+      "18/36",
+      "5/3",
+      "16/31",
+      "4/12"
+    ],
+    "correct_answer": "4/12",
+    "solution_steps": [
+      "Simplify 18/36=1/2 and 4/12=1/3.",
+      "The fraction 16/31 is greater than 1/2, while 5/3 is greater than 1.",
+      "Therefore 4/12 is smallest."
+    ]
+  },
+  {
+    "family_id": "Q111",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "decimal multiplication and rounding",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "product to the precision of the options",
+    "english_glossary": {},
+    "question_bn": ".১ × ৩.৩৩ × ৭.১ = ?",
+    "answer_options": [
+      "৭.১৫",
+      "৫.১৮",
+      "২.৩৬",
+      "১.৯৮"
+    ],
+    "correct_answer": "২.৩৬",
+    "solution_steps": [
+      "Multiply 3.33×7.1=23.643.",
+      "Multiply by 0.1 to obtain the exact product 2.3643.",
+      "Rounded to two decimal places, as in all the choices, this is 2.36."
+    ]
+  }
+]

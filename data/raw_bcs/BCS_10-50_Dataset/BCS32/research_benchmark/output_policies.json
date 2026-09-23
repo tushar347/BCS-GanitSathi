@@ -1,0 +1,321 @@
+[
+  {
+    "item_id": "BCS32_Q081",
+    "family_id": "parity_two_odd_numbers_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q084",
+    "family_id": "triangular_number_sequence_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q085",
+    "family_id": "surd_rationalization_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q086",
+    "family_id": "complete_square_two_variables_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q087",
+    "family_id": "profit_items_per_money_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q091",
+    "family_id": "fraction_comparison_f02",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q092",
+    "family_id": "consecutive_three_product_120_sum_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q093",
+    "family_id": "one_digit_recurring_decimal_to_fraction_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q094",
+    "family_id": "difference_of_squares_shifted_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q095",
+    "family_id": "basic_log_power_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS32_Q096",
+    "family_id": "polynomial_lcm_factorization_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  }
+]

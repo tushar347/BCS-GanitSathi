@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "item_id": "BCS21_Q046",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "relative_jump_speed_ratio",
+    "difficulty_rating": 3,
+    "target_completion_time": "90-180 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time"
+    },
+    "question_bn": "একটি কুকুর একটি খরগোশকে ধরার জন্য তাড়া করে। কুকুর যে সময়ে ৪ বার লাফ দেয়, খরগোশ সে সময়ে ৫ বার লাফ দেয়। কিন্তু খরগোশ ৪ লাফে যতদূর যায়, কুকুর ৩ লাফে ততদূর যায়। কুকুর ও খরগোশের গতিবেগের অনুপাত কত?",
+    "answer_options": [
+      "১৫ : ১৬",
+      "১৬ : ১৫",
+      "৪ : ৩",
+      "৩ : ৪"
+    ],
+    "correct_answer": "১৬ : ১৫",
+    "solution_steps": [
+      "খরগোশের ১ লাফ = r ধরলে কুকুরের ১ লাফ = ৪r/৩।",
+      "একই সময়ে কুকুর যায় ৪×৪r/৩ = ১৬r/৩ এবং খরগোশ যায় ৫r।",
+      "অনুপাত = ১৬/৩ : ৫ = ১৬ : ১৫।"
+    ],
+    "source_page": 5,
+    "source_exam": "21st BCS"
+  }
+]

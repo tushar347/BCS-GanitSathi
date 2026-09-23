@@ -1,0 +1,239 @@
+[
+  {
+    "item_id": "BCS23_Q071",
+    "family_id": "mixture_part_by_ratio_bcs23_q071_f01",
+    "exam": "23rd BCS",
+    "question_number": 71,
+    "source_page": 12,
+    "topic_group": "averages_mixtures",
+    "subskill": "mixture_part_by_ratio",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৭২ কেজি ওজনবিশিষ্ট একটি মিশ্রণ A-এর ১৭ ভাগ, B-এর ৩ ভাগ এবং C-এর ৪ ভাগ দ্বারা গঠিত। মিশ্রণে B কতটুকু রয়েছে?",
+    "question_normalized": "৭২ কেজি ওজনবিশিষ্ট একটি মিশ্রণ A-এর ১৭ ভাগ, B-এর ৩ ভাগ এবং C-এর ৪ ভাগ দ্বারা গঠিত। মিশ্রণে B কতটুকু রয়েছে?",
+    "normalization_notes": [],
+    "units": [
+      "কেজি"
+    ],
+    "answer_options": [
+      "৯ কেজি",
+      "১২ কেজি",
+      "১৭ কেজি",
+      "৫১ কেজি"
+    ],
+    "printed_answer": "৯ কেজি",
+    "accepted_answer_forms": [
+      "৯ কেজি"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS23_Q072",
+    "family_id": "average_speed_round_trip_bcs23_q072_f01",
+    "exam": "23rd BCS",
+    "question_number": 72,
+    "source_page": 12,
+    "topic_group": "speed_distance",
+    "subskill": "average_speed_round_trip",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একজন মাঝি স্রোতের অনুকূলে ২ ঘণ্টায় ৫ মাইল যায় এবং ৪ ঘণ্টায় প্রাথমিক অবস্থানে ফিরে আসে। তার ভ্রমণে প্রতি ঘণ্টায় গড় গতিবেগ কত?",
+    "question_normalized": "একজন মাঝি স্রোতের অনুকূলে ২ ঘণ্টায় ৫ মাইল যায় এবং ৪ ঘণ্টায় প্রাথমিক অবস্থানে ফিরে আসে। তার ভ্রমণে প্রতি ঘণ্টায় গড় গতিবেগ কত?",
+    "normalization_notes": [],
+    "units": [
+      "মাইল",
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "৫/৬ মাইল",
+      "১ ২/৩ মাইল",
+      "১ ৭/৮ মাইল",
+      "৩ ৩/৮ মাইল"
+    ],
+    "printed_answer": "১ ২/৩ মাইল",
+    "accepted_answer_forms": [
+      "১ ২/৩ মাইল"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS23_Q073",
+    "family_id": "combined_weighted_average_bcs23_q073_f01",
+    "exam": "23rd BCS",
+    "question_number": 73,
+    "source_page": 13,
+    "topic_group": "averages_mixtures",
+    "subskill": "combined_weighted_average",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "M সংখ্যক সংখ্যার গড় A এবং N সংখ্যক সংখ্যার গড় B হলে সবগুলোর গড় কত?",
+    "question_normalized": "M সংখ্যক সংখ্যার গড় A এবং N সংখ্যক সংখ্যার গড় B হলে সবগুলোর গড় কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(A+B)/2",
+      "(AM+BN)/2",
+      "(AM+BN)/(M+N)",
+      "(AM+BN)/(A+B)"
+    ],
+    "printed_answer": "(AM+BN)/(M+N)",
+    "accepted_answer_forms": [
+      "(AM+BN)/(M+N)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS23_Q076",
+    "family_id": "arithmetic_progression_next_term_bcs23_q076_f01",
+    "exam": "23rd BCS",
+    "question_number": 76,
+    "source_page": 13,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "arithmetic_progression_next_term",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন সমান্তর প্রগতিতে প্রথম দুটি সংখ্যা ৫ ও ১৭ হলে, তৃতীয় সংখ্যাটি কত?",
+    "question_normalized": "কোন সমান্তর প্রগতিতে প্রথম দুটি সংখ্যা ৫ ও ১৭ হলে, তৃতীয় সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২২",
+      "২৫",
+      "২৯",
+      "৮৫"
+    ],
+    "printed_answer": "২৯",
+    "accepted_answer_forms": [
+      "২৯"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS23_Q077",
+    "family_id": "fibonacci_next_term_bcs23_q077_f01",
+    "exam": "23rd BCS",
+    "question_number": 77,
+    "source_page": 13,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fibonacci_next_term",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১, ২, ৩, ৫, ৮, ১৩, ২১, ৩৪ ... ধারাটির পরবর্তী সংখ্যা কত?",
+    "question_normalized": "১, ২, ৩, ৫, ৮, ১৩, ২১, ৩৪ ... ধারাটির পরবর্তী সংখ্যা কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫৫",
+      "৪০",
+      "৬৮",
+      "৮৯"
+    ],
+    "printed_answer": "৫৫",
+    "accepted_answer_forms": [
+      "৫৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS23_Q078",
+    "family_id": "percentage_of_number_bcs23_q078_f01",
+    "exam": "23rd BCS",
+    "question_number": 78,
+    "source_page": 14,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_of_number",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১/২-এর শতকরা কত ৩/৪ হবে?",
+    "question_normalized": "১/২-এর শতকরা কত ৩/৪ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১২০%",
+      "১২৫%",
+      "১৪০%",
+      "১৫০%"
+    ],
+    "printed_answer": "১৫০%",
+    "accepted_answer_forms": [
+      "১৫০%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS23_Q079",
+    "family_id": "constant_expenditure_price_increase_bcs23_q079_f01",
+    "exam": "23rd BCS",
+    "question_number": 79,
+    "source_page": 14,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "constant_expenditure_price_increase",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "যদি তেলের মূল্য ২৫% বৃদ্ধি পায়, তবে তেলের ব্যবহার শতকরা কত কমালে তেল বাবদ খরচ বৃদ্ধি পাবে না?",
+    "question_normalized": "যদি তেলের মূল্য ২৫% বৃদ্ধি পায়, তবে তেলের ব্যবহার শতকরা কত কমালে তেল বাবদ খরচ বৃদ্ধি পাবে না?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২০%",
+      "১৬%",
+      "১৫%",
+      "২০%"
+    ],
+    "printed_answer": "২০%",
+    "accepted_answer_forms": [
+      "২০%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS23_Q080",
+    "family_id": "pass_fail_inclusion_exclusion_bcs23_q080_f01",
+    "exam": "23rd BCS",
+    "question_number": 80,
+    "source_page": 14,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "pass_fail_inclusion_exclusion",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "কোনো স্কুলে ৭০% শিক্ষার্থী ইংরেজিতে এবং ৮০% শিক্ষার্থী বাংলায় পাশ করেছে; ১০% উভয় বিষয়ে ফেল করেছে। যদি উভয় বিষয়ে ৩০০ জন শিক্ষার্থী পাশ করে, তবে মোট কতজন পরীক্ষা দিয়েছে?",
+    "question_normalized": "কোনো স্কুলে ৭০% শিক্ষার্থী ইংরেজিতে এবং ৮০% শিক্ষার্থী বাংলায় পাশ করেছে; ১০% উভয় বিষয়ে ফেল করেছে। যদি উভয় বিষয়ে ৩০০ জন শিক্ষার্থী পাশ করে, তবে মোট কতজন পরীক্ষা দিয়েছে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪০০ জন",
+      "৫০০ জন",
+      "৫৬০ জন",
+      "৭৬০ জন"
+    ],
+    "printed_answer": "৫০০ জন",
+    "accepted_answer_forms": [
+      "৫০০ জন"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

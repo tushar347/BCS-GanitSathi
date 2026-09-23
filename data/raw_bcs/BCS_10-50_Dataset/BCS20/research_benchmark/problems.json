@@ -1,0 +1,255 @@
+[
+  {
+    "item_id": "BCS20_Q091",
+    "family_id": "simple_interest_find_principal_f01",
+    "exam": "20th BCS",
+    "question_number": 91,
+    "source_page": 24,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "simple_interest_find_principal",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "বার্ষিক ৪ ১/২% সরল সুদে কত টাকা বিনিয়োগ করলে, ৪ বছরে তা ৮২৬ টাকা হবে?",
+    "question_normalized": "বার্ষিক ৪ ১/২% সরল সুদে কত টাকা বিনিয়োগ করলে, ৪ বছরে তা ৮২৬ টাকা হবে?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "বছর",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "৪৫৮ টাকা",
+      "৬৫০ টাকা",
+      "৭০০ টাকা",
+      "৭২৫ টাকা"
+    ],
+    "printed_answer": "৭০০ টাকা",
+    "accepted_answer_forms": [
+      "৭০০ টাকা",
+      "700"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS20_Q092",
+    "family_id": "age_ratio_past_condition_f01",
+    "exam": "20th BCS",
+    "question_number": 92,
+    "source_page": 24,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "age_equations",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "পিতার বর্তমান বয়স পুত্রের বয়সের চারগুণ। ৬ বছর পূর্বে পিতার বয়স পুত্রের বয়সের দশগুণ ছিল। পিতা ও পুত্রের বর্তমান বয়স কত?",
+    "question_normalized": "পিতার বর্তমান বয়স পুত্রের বয়সের চারগুণ। ৬ বছর পূর্বে পিতার বয়স পুত্রের বয়সের দশগুণ ছিল। পিতা ও পুত্রের বর্তমান বয়স কত?",
+    "normalization_notes": [],
+    "units": [
+      "বছর"
+    ],
+    "answer_options": [
+      "৫৬ বছর এবং ১৪ বছর",
+      "৩২ বছর এবং ৭ বছর",
+      "৩৬ বছর এবং ৯ বছর",
+      "৪০ বছর এবং ১০ বছর"
+    ],
+    "printed_answer": "৩৬ বছর এবং ৯ বছর",
+    "accepted_answer_forms": [
+      "৩৬ বছর এবং ৯ বছর",
+      "36 and 9"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS20_Q093",
+    "family_id": "two_workers_partial_then_one_f01",
+    "exam": "20th BCS",
+    "question_number": 93,
+    "source_page": 25,
+    "topic_group": "work_time",
+    "subskill": "two_pipes_partial_then_one",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুটি নল দ্বারা একটি চৌবাচ্চা ৮ মিনিটে পূর্ণ হয়। নল দুটি খুলে দেওয়ার ৪ মিনিট পর প্রথম নলটি বন্ধ করে দেওয়াতে চৌবাচ্চাটি পূর্ণ হতে আরও ৬ মিনিট লাগল। প্রত্যেক নল দ্বারা পৃথকভাবে চৌবাচ্চাটি পূর্ণ হতে কত সময় লাগবে?",
+    "question_normalized": "দুটি নল দ্বারা একটি চৌবাচ্চা ৮ মিনিটে পূর্ণ হয়। নল দুটি খুলে দেওয়ার ৪ মিনিট পর প্রথম নলটি বন্ধ করে দেওয়াতে চৌবাচ্চাটি পূর্ণ হতে আরও ৬ মিনিট লাগল। প্রত্যেক নল দ্বারা পৃথকভাবে চৌবাচ্চাটি পূর্ণ হতে কত সময় লাগবে?",
+    "normalization_notes": [],
+    "units": [
+      "মিনিট"
+    ],
+    "answer_options": [
+      "১৮ এবং ১২ মিনিট",
+      "২৪ এবং ১২ মিনিট",
+      "১৫ এবং ১২ মিনিট",
+      "১০ এবং ১৫ মিনিট"
+    ],
+    "printed_answer": "২৪ এবং ১২ মিনিট",
+    "accepted_answer_forms": [
+      "২৪ এবং ১২ মিনিট",
+      "24 and 12 minutes"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS20_Q094",
+    "family_id": "fraction_equation_find_missing_addend_f01",
+    "exam": "20th BCS",
+    "question_number": 94,
+    "source_page": 25,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_equation_find_addend",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x/y এর সঙ্গে কত যোগ করলে যোগফল 2y/x হবে?",
+    "question_normalized": "x/y এর সঙ্গে কত যোগ করলে যোগফল 2y/x হবে?",
+    "normalization_notes": [
+      "The PDF visually flattens stacked fractions as “xy” and “2yx”; options likewise lose fraction bars. The normalized form follows the printed option structure and key."
+    ],
+    "units": [],
+    "answer_options": [
+      "(2y² - x²)/(xy)",
+      "(x² - 2y²)/(xy)",
+      "(x² + 2y²)/(xy)",
+      "(x² - y²)/(xy)"
+    ],
+    "printed_answer": "(2y² - x²)/(xy)",
+    "accepted_answer_forms": [
+      "(2y² - x²)/(xy)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS20_Q095",
+    "family_id": "square_sum_from_sum_squares_product_f01",
+    "exam": "20th BCS",
+    "question_number": 95,
+    "source_page": 25,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "square_of_sum_from_squares_product",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x² + y² = 8 এবং xy = 7 হলে (x + y)² এর মান কত?",
+    "question_normalized": "x² + y² = 8 এবং xy = 7 হলে (x + y)² এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৪",
+      "১৬",
+      "২২",
+      "৩০"
+    ],
+    "printed_answer": "২২",
+    "accepted_answer_forms": [
+      "২২",
+      "22"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS20_Q096",
+    "family_id": "average_speed_distance_over_time_f01",
+    "exam": "20th BCS",
+    "question_number": 96,
+    "source_page": 25,
+    "topic_group": "speed_distance",
+    "subskill": "average_speed_distance_time",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "ঢাকা ও চট্টগ্রামের দূরত্ব 300 কি.মি.। ঢাকা হতে একটি ট্রেন সকাল 7 টায় ছেড়ে গিয়ে বিকেল 3 টায় চট্টগ্রাম পৌঁছে। ট্রেনটির গড় গতিবেগ ঘণ্টায় কত ছিল?",
+    "question_normalized": "ঢাকা ও চট্টগ্রামের দূরত্ব 300 কি.মি.। ঢাকা হতে একটি ট্রেন সকাল 7 টায় ছেড়ে গিয়ে বিকেল 3 টায় চট্টগ্রাম পৌঁছে। ট্রেনটির গড় গতিবেগ ঘণ্টায় কত ছিল?",
+    "normalization_notes": [],
+    "units": [
+      "কিলোমিটার",
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "24.5 কি.মি.",
+      "37.5 কি.মি.",
+      "42.0 কি.মি.",
+      "45.0 কি.মি."
+    ],
+    "printed_answer": "37.5 কি.মি.",
+    "accepted_answer_forms": [
+      "37.5 কি.মি.",
+      "37.5 km/h",
+      "37.5"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS20_Q098",
+    "family_id": "ratio_equal_addition_f01",
+    "exam": "20th BCS",
+    "question_number": 98,
+    "source_page": 26,
+    "topic_group": "ratios_proportions",
+    "subskill": "ratio_after_equal_addition",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুটি সংখ্যার অনুপাত ৫ : ৮। উভয়ের সাথে ২ যোগ করলে অনুপাতটি ২ : ৩ হয়। সংখ্যা দুটি কী কী?",
+    "question_normalized": "দুটি সংখ্যার অনুপাত ৫ : ৮। উভয়ের সাথে ২ যোগ করলে অনুপাতটি ২ : ৩ হয়। সংখ্যা দুটি কী কী?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭ ও ১১",
+      "১২ ও ১৮",
+      "১০ ও ২৪",
+      "১০ ও ১৬"
+    ],
+    "printed_answer": "১০ ও ১৬",
+    "accepted_answer_forms": [
+      "১০ ও ১৬",
+      "10 and 16"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS20_Q100",
+    "family_id": "combine_pair_average_single_value_f01",
+    "exam": "20th BCS",
+    "question_number": 100,
+    "source_page": 26,
+    "topic_group": "averages_mixtures",
+    "subskill": "combine_average_with_single_value",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x ও y এর মানের গড় 9 এবং z = 12 হলে, x, y এবং z এর মানের গড় কত হবে?",
+    "question_normalized": "x ও y এর মানের গড় 9 এবং z = 12 হলে, x, y এবং z এর মানের গড় কত হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৬",
+      "৯",
+      "১০",
+      "১২"
+    ],
+    "printed_answer": "১০",
+    "accepted_answer_forms": [
+      "১০",
+      "10"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 20th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

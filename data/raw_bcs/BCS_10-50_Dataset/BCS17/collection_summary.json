@@ -1,0 +1,17 @@
+{
+  "exam": "17th BCS",
+  "source_pdf": "bcs17.pdf",
+  "main_in_scope_questions": 10,
+  "review_required": 1,
+  "excluded_out_of_scope": 4,
+  "authored_histories": 40,
+  "topic_counts": {
+    "percentages_profit_loss": 0,
+    "ratios_proportions": 1,
+    "work_time": 0,
+    "speed_distance": 0,
+    "averages_mixtures": 1,
+    "elementary_algebra_number_relations": 8
+  },
+  "research_note": "Questions, choices and printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

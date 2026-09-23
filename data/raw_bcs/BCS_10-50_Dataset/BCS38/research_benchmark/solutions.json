@@ -1,0 +1,258 @@
+[
+  {
+    "item_id": "BCS38_Q164",
+    "family_id": "profit_loss_items_per_money_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "At the loss price, selling price is 88% of cost price.",
+          "For 10% profit, selling price must be 110% of cost price.",
+          "Required unit price ratio =110/88=1.25, so for the same money quantity becomes 5/1.25=4."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q165",
+    "family_id": "ratio_gcd_numbers_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Numbers are 2k and 3k. Since 2 and 3 are coprime, GCD=k.",
+          "k=4, so larger number=3×4=12."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q166",
+    "family_id": "simple_interest_from_amount_fraction_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let principal=P. Interest=(3/8)P, so amount=(11/8)P=5500.",
+          "P=4000 and interest=1500.",
+          "Rate=1500/(4000×3)×100=12.5%."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q167",
+    "family_id": "percentage_remainder_total_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Wife and son receive 12%+58%=70%.",
+          "Remaining 30%=720000.",
+          "Total=720000/0.30=2400000 taka."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q168",
+    "family_id": "surd_reciprocal_cube_sum_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "1/x=√3-√2 because (√3+√2)(√3-√2)=1.",
+          "x+1/x=2√3.",
+          "x³+1/x³=(x+1/x)³-3(x+1/x)=24√3-6√3=18√3."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q169",
+    "family_id": "log_unknown_base_reciprocal_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x⁻²=1/8.",
+          "Therefore x²=8. A logarithm base must be positive and not 1.",
+          "So x=√8=2√2."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q170",
+    "family_id": "exponential_substitution_two_solutions_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let t=2^x>0. Then 2^(1-x)=2/t.",
+          "t+2/t=3 gives t²-3t+2=0.",
+          "t=1 or 2, hence x=0 or 1."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q172",
+    "family_id": "ap_first_term_from_term_sum_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "a+4d=18.",
+          "S5=5/2(2a+4d)=75, so a+2d=15.",
+          "Subtract to get 2d=3, hence d=1.5 and a=12."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q178",
+    "family_id": "sum_first_n_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Use n(n+1)/2 with n=100.",
+          "100×101/2=5050."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q184",
+    "family_id": "alternating_times2_plus3_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The intended pattern alternates ×2 and +3: 1→2→5→10→13→26→29→58.",
+          "Therefore 48 breaks the pattern."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q187",
+    "family_id": "combined_work_two_people_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Combined rate=1/8 job/day.",
+          "First rate=1/12.",
+          "Second rate=1/8-1/12=1/24.",
+          "So the second person needs 24 days."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q189",
+    "family_id": "prime_composite_identification_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "253=11×23, so it is composite.",
+          "The other listed values are prime."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS38_Q190",
+    "family_id": "perpendicular_displacement_5_12_13_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "North and east legs are perpendicular.",
+          "Displacement=√(12²+5²)=√169=13 km."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

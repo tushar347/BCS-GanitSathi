@@ -1,0 +1,695 @@
+[
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q149",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 14,
+    "printed_question_number": 149,
+    "question_file": "number_system_questions.json",
+    "answer_file": "number_system_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "১১",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The annotated calculation assumes byte-addressable memory and 1 kilobyte = 1024 bytes; the source does not state those conventions.",
+      "Included under number system because the required calculation is finding n such that 2^n = 2048, not recalling a hardware name."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q150",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 14,
+    "printed_question_number": 150,
+    "question_file": "number_system_questions.json",
+    "answer_file": "number_system_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "$(১৩৭২)_{৮}$",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "Base subscripts are represented with LaTeX; the printed option digits are preserved.",
+      "Two printed distractors contain the digit 8 despite being labelled as base 8; they are preserved, not repaired."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q161",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 161,
+    "question_file": "algebra_questions.json",
+    "answer_file": "algebra_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "$x^{2}y(x+y)^{2}$",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q162",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 162,
+    "question_file": "ratios_questions.json",
+    "answer_file": "ratios_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "10 : 15 : 21",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q163",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 163,
+    "question_file": "percentages_questions.json",
+    "answer_file": "percentages_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "১%",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q164",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 164,
+    "question_file": "review_required_questions.json",
+    "answer_file": "review_required_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": "10, 25",
+    "source_key_overridden": false,
+    "status": "held_for_review",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "withheld",
+    "notes": [
+      "The source prints a plus sign after (x+5)^2, not an equals sign. The displayed expression has no equality and does not define the identity being asked about.",
+      "The printed key 10, 25 is retained. No replacement equation, solution, or mistake analysis has been invented."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q165",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 165,
+    "question_file": "geometry_questions.json",
+    "answer_file": "geometry_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "$\\frac{x}{y}=\\frac{1}{2}$",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The printed rational equation x/y = 1/2 has y != 0. It lies on 2x-y=0 with the undefined origin excluded; the source treats it as the straight-line option."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q166",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 166,
+    "question_file": "algebra_questions.json",
+    "answer_file": "algebra_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "17",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The source visually prints p2 + q2 with baseline 2s. That text is retained. The annotation explicitly interprets it as p^2 + q^2, consistent with the printed key."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q167",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 167,
+    "question_file": "algebra_questions.json",
+    "answer_file": "algebra_answers.json",
+    "source_answer_option_index_0_based": 0,
+    "source_answer_option_label": "ক",
+    "source_answer_transcription": "a + b = 1",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The annotated solution uses a common valid real logarithm base and the domain on which the displayed logarithms exist."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q168",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 15,
+    "printed_question_number": 168,
+    "question_file": "algebra_questions.json",
+    "answer_file": "algebra_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "3",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q169",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 169,
+    "question_file": "algebra_questions.json",
+    "answer_file": "algebra_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": "$3\\sqrt{3}$",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "As with finite-pattern questions generally, the annotation adopts the geometric progression suggested by the given terms and source key."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q170",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 170,
+    "question_file": "geometry_questions.json",
+    "answer_file": "geometry_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "60°",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "Only theta < 90 degrees is printed; there is no lower bound. The supplied MCQ options give a unique selection, but the inequality alone does not make theta unique over all real angles.",
+      "Placed in geometry as an angle/trigonometry subskill; the demo has no separate trigonometry topic."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q171",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 171,
+    "question_file": "mensuration_questions.json",
+    "answer_file": "mensuration_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "২π",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The options omit centimetres; the target unit is inferred from the stated diameter and is not appended to the source option strings."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q172",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 172,
+    "question_file": "geometry_questions.json",
+    "answer_file": "geometry_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": "90°",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "Classified as geometry, not ratios: the decisive step is a Pythagorean side-length test."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q173",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 173,
+    "question_file": "arithmetic_questions.json",
+    "answer_file": "arithmetic_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "3/10",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "Included in the broad arithmetic category as finite counting followed by division; probability is not separately named in the demo taxonomy.",
+      "The annotated probability calculation assumes equally likely selection from the ten integers, consistent with the printed key."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q174",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 174,
+    "question_file": "arithmetic_questions.json",
+    "answer_file": "arithmetic_answers.json",
+    "source_answer_option_index_0_based": 0,
+    "source_answer_option_label": "ক",
+    "source_answer_transcription": "96",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The source does not explicitly say that each digit is used once. The annotation uses that no-repetition convention, which yields the printed key 96. Allowing repetition would define a different problem.",
+      "Included in broad arithmetic as counting by the multiplication principle; the demo has no separate permutations topic."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q175",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 175,
+    "question_file": "algebra_questions.json",
+    "answer_file": "algebra_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": "{7}",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The source visually prints x2 with a baseline 2. That text is retained; the annotation explicitly interprets it as x^2, consistent with the source key."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q176",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 176,
+    "question_file": "mental_ability_questions.json",
+    "answer_file": "mental_ability_answers.json",
+    "source_answer_option_index_0_based": 0,
+    "source_answer_option_label": "ক",
+    "source_answer_transcription": "১/৮",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q177",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 177,
+    "question_file": "arithmetic_questions.json",
+    "answer_file": "arithmetic_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": "৮৪ পয়সা",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q178",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 178,
+    "question_file": "review_required_questions.json",
+    "answer_file": "review_required_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "অনিশ্চিত",
+    "source_key_overridden": false,
+    "status": "held_for_review",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "withheld",
+    "notes": [
+      "The two premises and the final statement are absent from the visible source page. The printed key is retained but cannot be justified from this incomplete prompt.",
+      "No missing premises or conclusion have been fabricated; solution_steps and possible_mistakes are empty."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q179",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 179,
+    "question_file": "number_system_questions.json",
+    "answer_file": "number_system_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": ".৩১",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The leading decimal points are preserved without silently adding zeros to the option strings."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q180",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 16,
+    "printed_question_number": 180,
+    "question_file": "arithmetic_questions.json",
+    "answer_file": "arithmetic_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "৬ ফুট",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q181",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 17,
+    "printed_question_number": 181,
+    "question_file": "mental_ability_questions.json",
+    "answer_file": "mental_ability_answers.json",
+    "source_answer_option_index_0_based": 0,
+    "source_answer_option_label": "ক",
+    "source_answer_transcription": "![ক](assets/Q181_option_a.png)",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The printed answer is itself a diagram and matches option ক. The answer mapping is visual, not OCR-derived.",
+      "The annotated explanation adopts the signed-triad convention that a positive product of relationship signs is balanced; the source does not give a written definition or worked solution."
+    ],
+    "image_paths_in_question": [
+      "assets/Q181_option_a.png",
+      "assets/Q181_option_b.png",
+      "assets/Q181_option_c.png",
+      "assets/Q181_option_d.png"
+    ],
+    "visual_content_transcription": {
+      "P_to_O": [
+        "+",
+        "+",
+        "+",
+        "−"
+      ],
+      "P_to_X": [
+        "−",
+        "+",
+        "−",
+        "+"
+      ],
+      "O_to_X": [
+        "−",
+        "−",
+        "+",
+        "+"
+      ]
+    }
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q182",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 17,
+    "printed_question_number": 182,
+    "question_file": "mental_ability_questions.json",
+    "answer_file": "mental_ability_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "১৬",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q183",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 17,
+    "printed_question_number": 183,
+    "question_file": "mental_ability_questions.json",
+    "answer_file": "mental_ability_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": "৪",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The printed second and third answer options both read ৩. The duplication is preserved, not silently changed to ২.",
+      "The row contains five figures numbered 1 through 5. The model-generated explanation identifies figure 4 as the one with no right angle; this explanation is not printed in the PDF."
+    ],
+    "image_paths_in_question": [
+      "assets/Q183_stem.png"
+    ],
+    "visual_content_transcription": {
+      "figure_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_descriptions": [
+        "horizontal rectangle",
+        "quadrilateral with sloping left side and right angles on the right",
+        "vertical rectangle",
+        "hexagon with sloping sides and no right angle",
+        "house-shaped pentagon with right angles at the bottom"
+      ]
+    }
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q185",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 17,
+    "printed_question_number": 185,
+    "question_file": "mental_ability_questions.json",
+    "answer_file": "mental_ability_answers.json",
+    "source_answer_option_index_0_based": 3,
+    "source_answer_option_label": "ঘ",
+    "source_answer_transcription": "১১০",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The inferred code uses positions in the Bangla consonant sequence and English alphabet. This is a model-generated interpretation supported by the example 6 × 7 = 42 and the printed key, not an explicit source rule."
+    ],
+    "image_paths_in_question": []
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q186",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 17,
+    "printed_question_number": 186,
+    "question_file": "review_required_questions.json",
+    "answer_file": "review_required_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "![খ](assets/Q186_option_b.png)",
+    "source_key_overridden": false,
+    "status": "held_for_review",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "withheld",
+    "notes": [
+      "The printed answer image matches option খ and is retained unchanged.",
+      "On visual inspection, option খ mirrors individual letter glyphs while retaining the R-O-S-E order. A whole-word left-right reflection also reverses the order; option গ appears to show that. This is an explicitly labelled visual-review finding, not a substituted answer key.",
+      "The prompt does not show a mirror axis. Because the supplied key is questionable, no endorsed solution or mistake-analysis records have been generated."
+    ],
+    "image_paths_in_question": [
+      "assets/Q186_option_a.png",
+      "assets/Q186_option_b.png",
+      "assets/Q186_option_c.png"
+    ]
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q187",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 18,
+    "printed_question_number": 187,
+    "question_file": "mental_ability_questions.json",
+    "answer_file": "mental_ability_answers.json",
+    "source_answer_option_index_0_based": 1,
+    "source_answer_option_label": "খ",
+    "source_answer_transcription": "![খ](assets/Q187_option_b.png)",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [
+      "The source question is diagram-only: 1 over A, 3 over C, 5 over E, followed by a question mark. No invented verbal question has been added.",
+      "Option ক is a box containing a plus sign; its unusual printed form is preserved."
+    ],
+    "image_paths_in_question": [
+      "assets/Q187_option_a.png",
+      "assets/Q187_option_b.png",
+      "assets/Q187_option_c.png",
+      "assets/Q187_option_d.png",
+      "assets/Q187_stem.png"
+    ],
+    "visual_content_transcription": {
+      "stem_pairs": [
+        [
+          1,
+          "A"
+        ],
+        [
+          3,
+          "C"
+        ],
+        [
+          5,
+          "E"
+        ]
+      ],
+      "options": [
+        {
+          "symbol": "+"
+        },
+        {
+          "top": 7,
+          "bottom": "G"
+        },
+        {
+          "top": 11,
+          "bottom": "K"
+        },
+        {
+          "top": 10,
+          "bottom": "P"
+        }
+      ],
+      "printed_answer": {
+        "top": 7,
+        "bottom": "G"
+      }
+    }
+  },
+  {
+    "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+    "family_id": "Q188",
+    "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+    "pdf_page": 18,
+    "printed_question_number": 188,
+    "question_file": "speed_distance_questions.json",
+    "answer_file": "speed_distance_answers.json",
+    "source_answer_option_index_0_based": 2,
+    "source_answer_option_label": "গ",
+    "source_answer_transcription": "৩০০ ফুট",
+    "source_key_overridden": false,
+    "status": "included_with_model_annotations",
+    "transcription_method": "direct page-image inspection; no OCR",
+    "source_has_worked_solution": false,
+    "solution_and_mistake_annotation_origin": "model_generated_not_in_pdf",
+    "notes": [],
+    "image_paths_in_question": []
+  }
+]

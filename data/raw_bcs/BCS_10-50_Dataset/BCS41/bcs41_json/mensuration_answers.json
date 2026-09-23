@@ -1,0 +1,48 @@
+[
+  {
+    "family_id": "Q093",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০%",
+        "reasoning_steps": [
+          "Assume the width also increases by 5% and add the two percentages.",
+          "Return 10% although only length changes."
+        ],
+        "code": "BCS41-093-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১০৫%",
+        "reasoning_steps": [
+          "Find the new area as 105% of the original.",
+          "Report the new total percentage rather than the increase."
+        ],
+        "code": "BCS41-093-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q095",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "৯√৩ বর্গ সে.মি.",
+        "reasoning_steps": [
+          "Treat the circle’s radius 6 as the triangle side.",
+          "Calculate (√3/4)×6²=9√3."
+        ],
+        "code": "BCS41-095-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০৮√৩ বর্গ সে.মি.",
+        "reasoning_steps": [
+          "Use a=6√3 correctly but omit division by 4 in the area formula.",
+          "Return √3×108=108√3."
+        ],
+        "code": "BCS41-095-CONCEPTUAL-02"
+      }
+    ]
+  }
+]

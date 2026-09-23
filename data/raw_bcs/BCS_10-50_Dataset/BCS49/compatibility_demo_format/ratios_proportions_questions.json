@@ -1,0 +1,27 @@
+[
+  {
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "item_id": "BCS49_Q087",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "unit_rate_people_items",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "১ জন লোক ১টা কলা ১ মিনিটে খেতে পারে। তাহলে ৫ জন লোক ৫টা কলা খেতে কত মিনিট সময় লাগবে?",
+    "answer_options": [
+      "৫",
+      "২৫",
+      "১",
+      "১০"
+    ],
+    "correct_answer": "১",
+    "solution_steps": [
+      "Each person eats one banana in one minute.",
+      "Five people can therefore eat five bananas simultaneously in one minute."
+    ],
+    "source_page": 7,
+    "source_exam": "49th BCS (Special)"
+  }
+]

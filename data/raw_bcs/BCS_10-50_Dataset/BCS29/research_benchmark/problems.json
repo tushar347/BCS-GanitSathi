@@ -1,0 +1,304 @@
+[
+  {
+    "item_id": "BCS29_Q081",
+    "family_id": "prime_numbers_ending_digit_sum_f01",
+    "exam": "29th BCS",
+    "question_number": 81,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "prime_numbers_digit_condition",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "১০ থেকে ৬০ পর্যন্ত যে সকল মৌলিক সংখ্যার একক স্থানীয় অঙ্ক ৯ তাদের সমষ্টি কত?",
+    "question_normalized": "১০ থেকে ৬০ পর্যন্ত যে সকল মৌলিক সংখ্যার একক স্থানীয় অঙ্ক ৯ তাদের সমষ্টি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৪৬",
+      "৯৯",
+      "১০৫",
+      "১০৭"
+    ],
+    "printed_answer": "১০৭",
+    "accepted_answer_forms": [
+      "১০৭",
+      "107"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q082",
+    "family_id": "verbal_less_than_equation_f01",
+    "exam": "29th BCS",
+    "question_number": 82,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "verbal_relation_to_equation",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৪০ সংখ্যাটি a হতে ১১ কম। গাণিতিক আকারে প্রকাশ করলে কী হবে?",
+    "question_normalized": "৪০ সংখ্যাটি a হতে ১১ কম। গাণিতিক আকারে প্রকাশ করলে কী হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "a + ১১ = ৪০",
+      "a + ৪০ = ১১",
+      "a = ৪০ + ১১",
+      "a = ৪০ + ১"
+    ],
+    "printed_answer": "a = ৪০ + ১১",
+    "accepted_answer_forms": [
+      "a = ৪০ + ১১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q083",
+    "family_id": "digit_length_boundary_difference_f01",
+    "exam": "29th BCS",
+    "question_number": 83,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "place_value_boundary_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "পাঁচ অঙ্কের ক্ষুদ্রতম সংখ্যা ও চার অঙ্কের বৃহত্তম সংখ্যার অন্তর কত?",
+    "question_normalized": "পাঁচ অঙ্কের ক্ষুদ্রতম সংখ্যা ও চার অঙ্কের বৃহত্তম সংখ্যার অন্তর কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৯",
+      "১০",
+      "১",
+      "−১"
+    ],
+    "printed_answer": "১",
+    "accepted_answer_forms": [
+      "১",
+      "1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q084",
+    "family_id": "decimal_addition_place_value_f01",
+    "exam": "29th BCS",
+    "question_number": 84,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "decimal_addition",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১.১, .০১ ও .০০১১ এর সমষ্টি কত?",
+    "question_normalized": "১.১, .০১ ও .০০১১ এর সমষ্টি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "০.০১১১১",
+      "১.১১১১",
+      "১১.১১০১",
+      "১.১০১১১"
+    ],
+    "printed_answer": "১.১১১১",
+    "accepted_answer_forms": [
+      "১.১১১১",
+      "1.1111"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q085",
+    "family_id": "terminating_decimal_to_mixed_fraction_f01",
+    "exam": "29th BCS",
+    "question_number": 85,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "decimal_to_fraction",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১.১৬ এর সাধারণ ভগ্নাংশ কোনটি?",
+    "question_normalized": "১.১৬ এর সাধারণ ভগ্নাংশ কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১(১/৬)",
+      "১(৮/৪৫)",
+      "১(১৬/৯৯)",
+      "১(৪/২৫)"
+    ],
+    "printed_answer": "১(৪/২৫)",
+    "accepted_answer_forms": [
+      "১(৪/২৫)",
+      "1 4/25",
+      "29/25"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q086",
+    "family_id": "money_value_fraction_f01",
+    "exam": "29th BCS",
+    "question_number": 86,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "money_fraction_of_total",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৪টি ১ টাকার নোট ও ৮টি ২ টাকার নোট ৮টি ৫ টাকার নোটের কত অংশ?",
+    "question_normalized": "৪টি ১ টাকার নোট ও ৮টি ২ টাকার নোট ৮টি ৫ টাকার নোটের কত অংশ?",
+    "normalization_notes": [],
+    "units": [
+      "taka"
+    ],
+    "answer_options": [
+      "১/৪",
+      "১/২",
+      "১/৮",
+      "১/১৬"
+    ],
+    "printed_answer": "১/২",
+    "accepted_answer_forms": [
+      "১/২",
+      "1/2"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q087",
+    "family_id": "consecutive_three_product_120_sum_f01",
+    "exam": "29th BCS",
+    "question_number": 87,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "consecutive_numbers_product_sum",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে তাদের যোগফল হবে—",
+    "question_normalized": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে তাদের যোগফল হবে—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৯",
+      "১২",
+      "১৪",
+      "১৫"
+    ],
+    "printed_answer": "১৫",
+    "accepted_answer_forms": [
+      "১৫",
+      "15"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q088",
+    "family_id": "compare_divisor_counts_f01",
+    "exam": "29th BCS",
+    "question_number": 88,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "divisor_count_comparison",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "en",
+    "question_original": "Which of the following integers has the most divisors?",
+    "question_normalized": "Which of the following integers has the most divisors?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "88",
+      "91",
+      "95",
+      "99"
+    ],
+    "printed_answer": "88",
+    "accepted_answer_forms": [
+      "88"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q089",
+    "family_id": "successive_discount_f01",
+    "exam": "29th BCS",
+    "question_number": 89,
+    "source_page": 9,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "successive_discount",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "en",
+    "question_original": "Successive discount of 20% and 15% are equal to a single discount of—",
+    "question_normalized": "Successive discount of 20% and 15% are equal to a single discount of—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "30%",
+      "32%",
+      "34%",
+      "35%"
+    ],
+    "printed_answer": "32%",
+    "accepted_answer_forms": [
+      "32%",
+      "৩২%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS29_Q090",
+    "family_id": "directional_displacement_southeast_f01",
+    "exam": "29th BCS",
+    "question_number": 90,
+    "source_page": 9,
+    "topic_group": "speed_distance",
+    "subskill": "directional_displacement_southeast",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "en",
+    "question_original": "City B is 5 miles east of city A. City C is 10 miles southeast of city B. Which of the following is the closest to the distance from city A to City C?",
+    "question_normalized": "City B is 5 miles east of city A. City C is 10 miles southeast of city B. Which of the following is the closest to the distance from city A to City C?",
+    "normalization_notes": [],
+    "units": [
+      "mile"
+    ],
+    "answer_options": [
+      "11 miles",
+      "12 miles",
+      "13 miles",
+      "14 miles"
+    ],
+    "printed_answer": "14 miles",
+    "accepted_answer_forms": [
+      "14 miles"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

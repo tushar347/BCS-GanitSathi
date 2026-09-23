@@ -1,0 +1,49 @@
+[
+  {
+    "family_id": "Q086",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "one’s complement of a binary string",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "complemented bit string",
+    "english_glossary": {},
+    "question_bn": "নিচের কোনটি ১০০ এর ১ কমপ্লিমেন্ট?",
+    "answer_options": [
+      "১১১",
+      "১০১",
+      "০১১",
+      "০০১"
+    ],
+    "correct_answer": "০১১",
+    "solution_steps": [
+      "Treat 100 as the binary string supplied in the question.",
+      "For a one’s complement, change each 1 to 0 and each 0 to 1.",
+      "Thus 100 becomes 011, retaining all three positions."
+    ]
+  },
+  {
+    "family_id": "Q115",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "counting multiples in an interval",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "number of multiples",
+    "english_glossary": {
+      "বিভাজ্য": "divisible"
+    },
+    "question_bn": "১০০ থেকে ২০০ এর মধ্যে ৩ দ্বারা বিভাজ্য সংখ্যা কয়টি?",
+    "answer_options": [
+      "৩১",
+      "৩২",
+      "৩৩",
+      "৩৪"
+    ],
+    "correct_answer": "৩৩",
+    "solution_steps": [
+      "The first multiple is 102=3×34 and the last is 198=3×66.",
+      "Count the integer multipliers 34 through 66: 66−34+1=33."
+    ]
+  }
+]

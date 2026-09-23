@@ -1,0 +1,340 @@
+[
+  {
+    "item_id": "BCS12_Q084",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 84,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "price_increase_constant_expenditure",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+    "question_normalized": "চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+    "normalization_notes": [],
+    "units": [
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "৩০%",
+      "২৫%",
+      "১৫%",
+      "২০%"
+    ],
+    "printed_answer": "২০%",
+    "accepted_answer_forms": [
+      "২০%",
+      "20%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q085",
+    "family_id": "percentage_total_questions_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 85,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_equation_total_count",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "বার্ষিক পরীক্ষায় একটি ছাত্র মোট n সংখ্যক প্রশ্নের প্রথম ২০টির মধ্যে ১৫টির নির্ভুল উত্তর দিল। বাকি প্রশ্নের ১/৩ অংশ সে নির্ভুল উত্তর দিল। সব প্রশ্নের মান সমান। যদি ছাত্র শতকরা ৭৫ ভাগ নম্বর পায় তবে প্রশ্নের সংখ্যা কত ছিল?",
+    "question_normalized": "বার্ষিক পরীক্ষায় একটি ছাত্র মোট n সংখ্যক প্রশ্নের প্রথম ২০টির মধ্যে ১৫টির নির্ভুল উত্তর দিল। বাকি প্রশ্নের ১/৩ অংশ সে নির্ভুল উত্তর দিল। সব প্রশ্নের মান সমান। যদি ছাত্র শতকরা ৭৫ ভাগ নম্বর পায় তবে প্রশ্নের সংখ্যা কত ছিল?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৫টি",
+      "২০টি",
+      "২৫টি",
+      "১৮টি"
+    ],
+    "printed_answer": "২০টি",
+    "accepted_answer_forms": [
+      "২০টি",
+      "20"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q086",
+    "family_id": "compound_ratio_multiple_pairs_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 86,
+    "source_page": 7,
+    "topic_group": "ratios_proportions",
+    "subskill": "compound_ratio",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৫ : ১৮, ৭ : ২ এবং ৩ : ৬ এর মিশ্র অনুপাত কত?",
+    "question_normalized": "৫ : ১৮, ৭ : ২ এবং ৩ : ৬ এর মিশ্র অনুপাত কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭২ : ১০৫",
+      "৭২ : ৩৫",
+      "৩৫ : ৭২",
+      "১০৫ : ৭২"
+    ],
+    "printed_answer": "৩৫ : ৭২",
+    "accepted_answer_forms": [
+      "৩৫ : ৭২",
+      "35:72"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q087",
+    "family_id": "boat_stream_round_trip_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 87,
+    "source_page": 7,
+    "topic_group": "speed_distance",
+    "subskill": "boat_stream_round_trip",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "নৌকা ও স্রোতের বেগ যথাক্রমে ঘণ্টায় ১০ ও ৫ কিলোমিটার। নদীপথে ৪৫ কিলোমিটার দীর্ঘ পথ একবার অতিক্রম করে ফিরে আসতে কত সময় লাগবে?",
+    "question_normalized": "নৌকা ও স্রোতের বেগ যথাক্রমে ঘণ্টায় ১০ ও ৫ কিলোমিটার। নদীপথে ৪৫ কিলোমিটার দীর্ঘ পথ একবার অতিক্রম করে ফিরে আসতে কত সময় লাগবে?",
+    "normalization_notes": [],
+    "units": [
+      "কিলোমিটার",
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "১২ ঘণ্টা",
+      "১০ ঘণ্টা",
+      "১৫ ঘণ্টা",
+      "২০ ঘণ্টা"
+    ],
+    "printed_answer": "১২ ঘণ্টা",
+    "accepted_answer_forms": [
+      "১২ ঘণ্টা",
+      "12 hours",
+      "12"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q088",
+    "family_id": "metric_mass_conversion_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 88,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "metric_unit_conversion",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "২০৫৭৩.৪ মিলিগ্রামে কত কিলোগ্রাম?",
+    "question_normalized": "২০৫৭৩.৪ মিলিগ্রামে কত কিলোগ্রাম?",
+    "normalization_notes": [],
+    "units": [
+      "মিলিগ্রাম",
+      "কিলোগ্রাম"
+    ],
+    "answer_options": [
+      "২.০৫৭৩৪",
+      "০.২০৫৭৩৪",
+      "০.০২০৫৭৩৪",
+      "২০.৫৭৩৪০"
+    ],
+    "printed_answer": "০.০২০৫৭৩৪",
+    "accepted_answer_forms": [
+      "০.০২০৫৭৩৪",
+      "0.0205734"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q089",
+    "family_id": "complete_square_two_variables_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 89,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "complete_square_two_variables",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x² - 8x - 8y + 16 + y² এর সঙ্গে কত যোগ করলে যোগফল একটি পূর্ণবর্গ হবে?",
+    "question_normalized": "x² - 8x - 8y + 16 + y² এর সঙ্গে কত যোগ করলে যোগফল একটি পূর্ণবর্গ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-2xy",
+      "8xy",
+      "6xy",
+      "2xy"
+    ],
+    "printed_answer": "2xy",
+    "accepted_answer_forms": [
+      "2xy",
+      "২xy"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q091",
+    "family_id": "sophie_germain_identity_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 91,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sophie_germain_factorization",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "a⁴ + 4 এর উৎপাদক কী কী?",
+    "question_normalized": "a⁴ + 4 এর উৎপাদক কী কী?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(a² + 2a + 2)(a² + 2a - 2)",
+      "(a² + 2a + 2)(a² - 2a + 2)",
+      "(a² - 2a + 2)(a² + 2a - 2)",
+      "(a² - 2a - 2)(a² - 2a + 2)"
+    ],
+    "printed_answer": "(a² + 2a + 2)(a² - 2a + 2)",
+    "accepted_answer_forms": [
+      "(a² + 2a + 2)(a² - 2a + 2)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q092",
+    "family_id": "perfect_square_quadratic_parameter_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 92,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "perfect_square_quadratic_parameter",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "p এর মান কত হলে, 4x² - px + 9 একটি পূর্ণবর্গ হবে?",
+    "question_normalized": "p এর মান কত হলে, 4x² - px + 9 একটি পূর্ণবর্গ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১০",
+      "৯",
+      "১৭",
+      "১২"
+    ],
+    "printed_answer": "১২",
+    "accepted_answer_forms": [
+      "১২",
+      "12"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q093",
+    "family_id": "sequence_doubling_differences_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 93,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sequence_doubling_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৮, ১১, ১৭, ২৯, ৫৩, ...... । পরবর্তী সংখ্যাটি কত?",
+    "question_normalized": "৮, ১১, ১৭, ২৯, ৫৩, ...... । পরবর্তী সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১০১",
+      "১০২",
+      "৭৫",
+      "৫৯"
+    ],
+    "printed_answer": "১০১",
+    "accepted_answer_forms": [
+      "১০১",
+      "101"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q098",
+    "family_id": "rational_between_irrationals_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 98,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "rational_between_surds",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোন সংখ্যাটি √2 এবং √3 এর মধ্যবর্তী মূলদ সংখ্যা?",
+    "question_normalized": "নিচের কোন সংখ্যাটি √2 এবং √3 এর মধ্যবর্তী মূলদ সংখ্যা?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(√2+√3)/2",
+      "(√2×√3)/2",
+      "1.5",
+      "1.8"
+    ],
+    "printed_answer": "1.5",
+    "accepted_answer_forms": [
+      "1.5",
+      "১.৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS12_Q099",
+    "family_id": "lcm_make_perfect_square_f01",
+    "exam": "12th BCS (Police)",
+    "question_number": 99,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "lcm_perfect_square",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "একটি স্কুলে ছাত্রদের ড্রিল করার সময় ৮, ১০ এবং ১২ সারিতে সাজানো যায়। আবার বর্গাকারেও সাজানো যায়। ঐ স্কুলে কমপক্ষে কতজন ছাত্র আছে?",
+    "question_normalized": "একটি স্কুলে ছাত্রদের ড্রিল করার সময় ৮, ১০ এবং ১২ সারিতে সাজানো যায়। আবার বর্গাকারেও সাজানো যায়। ঐ স্কুলে কমপক্ষে কতজন ছাত্র আছে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৬০০",
+      "২৪০০",
+      "১২০০",
+      "৩০০০"
+    ],
+    "printed_answer": "৩৬০০",
+    "accepted_answer_forms": [
+      "৩৬০০",
+      "3600"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 12th BCS (Police) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

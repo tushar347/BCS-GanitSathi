@@ -1,0 +1,78 @@
+[
+  {
+    "family_id": "Q165",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "Pythagorean equation from a dock-and-rope configuration",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "85 seconds",
+    "target_quantity": "dock height in feet",
+    "english_glossary": {
+      "দৈর্ঘ্য": "length"
+    },
+    "question_bn": "একটি নৌকা পানির লেভেলে বাঁধা দড়ি দ্বারা একটি ডকের দিকে টানা হয়। নৌকাটি যখন ডক থেকে ১২ ফুট দূরে থাকে, তখন নৌকা থেকে ডক পর্যন্ত দড়ির দৈর্ঘ্য পানির উপর ডকের উচ্চতার দ্বিগুণের চেয়ে ৩ ফুট লম্বা হয়। তাহলে ডকের উচ্চতা কত?",
+    "answer_options": [
+      "৯ ফুট",
+      "৮ ফুট",
+      "৫ ফুট",
+      "৪ ফুট"
+    ],
+    "correct_answer": "৫ ফুট",
+    "solution_steps": [
+      "Let the height be h and rope length be 2h+3.",
+      "The right triangle gives h²+12²=(2h+3)².",
+      "Simplify to h²+4h−45=0=(h+9)(h−5).",
+      "The positive height is 5 feet."
+    ]
+  },
+  {
+    "family_id": "Q171",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "supplementary-angle equation",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "angle measure",
+    "english_glossary": {
+      "কোণ": "angle"
+    },
+    "question_bn": "একটি কোণের মান তার সম্পূরক কোণের মানের অর্ধেকের সমান। কোণটির মান কত?",
+    "answer_options": [
+      "৩০°",
+      "৬০°",
+      "৯০°",
+      "১২০°"
+    ],
+    "correct_answer": "৬০°",
+    "solution_steps": [
+      "Let the angle be θ. Its supplement is 180°−θ.",
+      "Set θ=(180°−θ)/2, so 3θ=180°.",
+      "Thus θ=60°."
+    ]
+  },
+  {
+    "family_id": "Q187",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "straight-line displacement by Pythagoras",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "55 seconds",
+    "target_quantity": "distance from the starting point",
+    "english_glossary": {
+      "দূরত্ব": "distance"
+    },
+    "question_bn": "এক ব্যক্তি ৫ মাইল পশ্চিমে, ২ মাইল দক্ষিণে, এর পর আবার ৫ মাইল পশ্চিমে যায়। যাত্রাস্থান থেকে তার সরাসরি দূরত্ব কত?",
+    "answer_options": [
+      "৮ মাইল",
+      "১৫ মাইল",
+      "১২ মাইল",
+      "উপরের কোনোটিই নয়"
+    ],
+    "correct_answer": "উপরের কোনোটিই নয়",
+    "solution_steps": [
+      "The final displacement is 10 miles west and 2 miles south.",
+      "The direct distance is √(10²+2²)=√104=2√26≈10.20 miles.",
+      "None of the three numerical choices equals this distance."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "family_id": "Q164",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "polynomial identity and coefficient comparison",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "values of b and c",
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "অভেদ": "identity"
+    },
+    "question_bn": "$(x+5)^{2} + x^{2} + bx + c$ সমীকরণে b ও c এর মান কত হলে সমীকরণটি অভেদ হবে?",
+    "answer_options": [
+      "3, 10",
+      "10, 15",
+      "15, 25",
+      "10, 25"
+    ],
+    "correct_answer": "10, 25",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q178",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "logical conclusion from two premises",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "truth status of the final statement",
+    "english_glossary": {
+      "উক্তি": "statement",
+      "সত্য": "true",
+      "অনিশ্চিত": "uncertain"
+    },
+    "question_bn": "মনে কর প্রথম দুটি উক্তি সত্য। তবে শেষের উক্তিটি—",
+    "answer_options": [
+      "সত্য",
+      "মিথ্যা",
+      "অনিশ্চিত",
+      "আংশিক সত্য"
+    ],
+    "correct_answer": "অনিশ্চিত",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q186",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "mirror image of an English word",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "mirror image of ROSE",
+    "english_glossary": {
+      "আয়না": "mirror",
+      "প্রতিবিম্ব": "reflection"
+    },
+    "question_bn": "ROSE এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+    "answer_options": [
+      "![ক](assets/Q186_option_a.png)",
+      "![খ](assets/Q186_option_b.png)",
+      "![গ](assets/Q186_option_c.png)",
+      "কোনোটিই নয়"
+    ],
+    "correct_answer": "![খ](assets/Q186_option_b.png)",
+    "solution_steps": []
+  }
+]

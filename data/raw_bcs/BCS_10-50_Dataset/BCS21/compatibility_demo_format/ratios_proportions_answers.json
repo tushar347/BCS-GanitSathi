@@ -1,0 +1,66 @@
+[
+  {
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "item_id": "BCS21_Q043",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "১০০ টাকা",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "১০০ টাকা",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "১০০ টাকা",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "item_id": "BCS21_Q044",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "১২ গ্রাম",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "১২ গ্রাম",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "১২ গ্রাম",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  }
+]

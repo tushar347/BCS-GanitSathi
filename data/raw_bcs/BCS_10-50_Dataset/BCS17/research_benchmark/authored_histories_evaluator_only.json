@@ -1,0 +1,552 @@
+[
+  {
+    "history_id": "BCS17_Q006_H_CORRECT",
+    "item_id": "BCS17_Q006",
+    "family_id": "fractional_exponent_negative_power_bcs17_q006_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q006_H_CONCEPT",
+    "item_id": "BCS17_Q006",
+    "family_id": "fractional_exponent_negative_power_bcs17_q006_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q006_H_SLIP",
+    "item_id": "BCS17_Q006",
+    "family_id": "fractional_exponent_negative_power_bcs17_q006_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q006_H_AMBIG",
+    "item_id": "BCS17_Q006",
+    "family_id": "fractional_exponent_negative_power_bcs17_q006_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q008_H_CORRECT",
+    "item_id": "BCS17_Q008",
+    "family_id": "common_remainder_lcm_bcs17_q008_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q008_H_CONCEPT",
+    "item_id": "BCS17_Q008",
+    "family_id": "common_remainder_lcm_bcs17_q008_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q008_H_SLIP",
+    "item_id": "BCS17_Q008",
+    "family_id": "common_remainder_lcm_bcs17_q008_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q008_H_AMBIG",
+    "item_id": "BCS17_Q008",
+    "family_id": "common_remainder_lcm_bcs17_q008_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q009_H_CORRECT",
+    "item_id": "BCS17_Q009",
+    "family_id": "length_ratio_combined_piece_bcs17_q009_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q009_H_CONCEPT",
+    "item_id": "BCS17_Q009",
+    "family_id": "length_ratio_combined_piece_bcs17_q009_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q009_H_SLIP",
+    "item_id": "BCS17_Q009",
+    "family_id": "length_ratio_combined_piece_bcs17_q009_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q009_H_AMBIG",
+    "item_id": "BCS17_Q009",
+    "family_id": "length_ratio_combined_piece_bcs17_q009_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q012_H_CORRECT",
+    "item_id": "BCS17_Q012",
+    "family_id": "nested_parentheses_simplification_bcs17_q012_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q012_H_CONCEPT",
+    "item_id": "BCS17_Q012",
+    "family_id": "nested_parentheses_simplification_bcs17_q012_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q012_H_SLIP",
+    "item_id": "BCS17_Q012",
+    "family_id": "nested_parentheses_simplification_bcs17_q012_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q012_H_AMBIG",
+    "item_id": "BCS17_Q012",
+    "family_id": "nested_parentheses_simplification_bcs17_q012_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q015_H_CORRECT",
+    "item_id": "BCS17_Q015",
+    "family_id": "geometric_sequence_missing_term_bcs17_q015_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q015_H_CONCEPT",
+    "item_id": "BCS17_Q015",
+    "family_id": "geometric_sequence_missing_term_bcs17_q015_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q015_H_SLIP",
+    "item_id": "BCS17_Q015",
+    "family_id": "geometric_sequence_missing_term_bcs17_q015_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q015_H_AMBIG",
+    "item_id": "BCS17_Q015",
+    "family_id": "geometric_sequence_missing_term_bcs17_q015_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q016_H_CORRECT",
+    "item_id": "BCS17_Q016",
+    "family_id": "gcd_lcm_difference_find_numbers_bcs17_q016_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q016_H_CONCEPT",
+    "item_id": "BCS17_Q016",
+    "family_id": "gcd_lcm_difference_find_numbers_bcs17_q016_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q016_H_SLIP",
+    "item_id": "BCS17_Q016",
+    "family_id": "gcd_lcm_difference_find_numbers_bcs17_q016_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q016_H_AMBIG",
+    "item_id": "BCS17_Q016",
+    "family_id": "gcd_lcm_difference_find_numbers_bcs17_q016_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q017_H_CORRECT",
+    "item_id": "BCS17_Q017",
+    "family_id": "evaluate_function_value_bcs17_q017_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q017_H_CONCEPT",
+    "item_id": "BCS17_Q017",
+    "family_id": "evaluate_function_value_bcs17_q017_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q017_H_SLIP",
+    "item_id": "BCS17_Q017",
+    "family_id": "evaluate_function_value_bcs17_q017_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q017_H_AMBIG",
+    "item_id": "BCS17_Q017",
+    "family_id": "evaluate_function_value_bcs17_q017_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q018_H_CORRECT",
+    "item_id": "BCS17_Q018",
+    "family_id": "simultaneous_linear_equations_intersection_bcs17_q018_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q018_H_CONCEPT",
+    "item_id": "BCS17_Q018",
+    "family_id": "simultaneous_linear_equations_intersection_bcs17_q018_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q018_H_SLIP",
+    "item_id": "BCS17_Q018",
+    "family_id": "simultaneous_linear_equations_intersection_bcs17_q018_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q018_H_AMBIG",
+    "item_id": "BCS17_Q018",
+    "family_id": "simultaneous_linear_equations_intersection_bcs17_q018_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q019_H_CORRECT",
+    "item_id": "BCS17_Q019",
+    "family_id": "mixture_ratio_add_pure_component_bcs17_q019_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q019_H_CONCEPT",
+    "item_id": "BCS17_Q019",
+    "family_id": "mixture_ratio_add_pure_component_bcs17_q019_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q019_H_SLIP",
+    "item_id": "BCS17_Q019",
+    "family_id": "mixture_ratio_add_pure_component_bcs17_q019_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q019_H_AMBIG",
+    "item_id": "BCS17_Q019",
+    "family_id": "mixture_ratio_add_pure_component_bcs17_q019_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS17_Q020_H_CORRECT",
+    "item_id": "BCS17_Q020",
+    "family_id": "quadratic_equal_roots_parameter_bcs17_q020_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q020_H_CONCEPT",
+    "item_id": "BCS17_Q020",
+    "family_id": "quadratic_equal_roots_parameter_bcs17_q020_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q020_H_SLIP",
+    "item_id": "BCS17_Q020",
+    "family_id": "quadratic_equal_roots_parameter_bcs17_q020_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS17_Q020_H_AMBIG",
+    "item_id": "BCS17_Q020",
+    "family_id": "quadratic_equal_roots_parameter_bcs17_q020_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  }
+]

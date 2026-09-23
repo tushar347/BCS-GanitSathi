@@ -1,0 +1,164 @@
+[
+  {
+    "item_id": "BCS16_Q030",
+    "family_id": "profit_loss_changed_cost_and_selling_price_bcs16_q030_f01",
+    "exam": "16th BCS",
+    "question_number": 30,
+    "source_page": 3,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "profit_loss_changed_cost_and_selling_price",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "একজন দোকানদার ৭ ১/২% ক্ষতিতে একটি দ্রব্য বিক্রয় করল। যদি দ্রব্যটির ক্রয়মূল্য ১০% কম হতো এবং বিক্রয়মূল্য ৩১ টাকা বেশি হতো, তাহলে তার ২০% লাভ হতো। দ্রব্যটির ক্রয়মূল্য কত?",
+    "question_normalized": "একজন দোকানদার ৭ ১/২% ক্ষতিতে একটি দ্রব্য বিক্রয় করল। যদি দ্রব্যটির ক্রয়মূল্য ১০% কম হতো এবং বিক্রয়মূল্য ৩১ টাকা বেশি হতো, তাহলে তার ২০% লাভ হতো। দ্রব্যটির ক্রয়মূল্য কত?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "১০০ টাকা",
+      "২০০ টাকা",
+      "৩০০ টাকা",
+      "৪০০ টাকা"
+    ],
+    "printed_answer": "২০০ টাকা",
+    "accepted_answer_forms": [
+      "২০০ টাকা",
+      "200 টাকা",
+      "200"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 16th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS16_Q031",
+    "family_id": "combined_work_find_individual_time_bcs16_q031_f01",
+    "exam": "16th BCS",
+    "question_number": 31,
+    "source_page": 3,
+    "topic_group": "work_time",
+    "subskill": "combined_work_find_individual_time",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুই ব্যক্তি একত্রে একটি কাজ ৮ দিনে করতে পারে। প্রথম ব্যক্তি একাকী কাজটি ১২ দিনে করতে পারে। দ্বিতীয় ব্যক্তি একাকী কাজটি কত দিনে করতে পারবে?",
+    "question_normalized": "দুই ব্যক্তি একত্রে একটি কাজ ৮ দিনে করতে পারে। প্রথম ব্যক্তি একাকী কাজটি ১২ দিনে করতে পারে। দ্বিতীয় ব্যক্তি একাকী কাজটি কত দিনে করতে পারবে?",
+    "normalization_notes": [],
+    "units": [
+      "দিন"
+    ],
+    "answer_options": [
+      "২০ দিনে",
+      "২২ দিনে",
+      "২৪ দিনে",
+      "২৬ দিনে"
+    ],
+    "printed_answer": "২৪ দিনে",
+    "accepted_answer_forms": [
+      "২৪ দিনে",
+      "24 দিন",
+      "24"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 16th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS16_Q032",
+    "family_id": "simple_interest_common_rate_bcs16_q032_f01",
+    "exam": "16th BCS",
+    "question_number": 32,
+    "source_page": 3,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "simple_interest_common_rate",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৫০০ টাকার ৪ বছরের সুদ এবং ৬০০ টাকার ৫ বছরের সুদ একত্রে ৫০০ টাকা হলে সুদের হার কত?",
+    "question_normalized": "৫০০ টাকার ৪ বছরের সুদ এবং ৬০০ টাকার ৫ বছরের সুদ একত্রে ৫০০ টাকা হলে সুদের হার কত?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "বছর",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "৫%",
+      "৬%",
+      "১০%",
+      "১২%"
+    ],
+    "printed_answer": "১০%",
+    "accepted_answer_forms": [
+      "১০%",
+      "10%",
+      "১০ শতাংশ"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 16th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS16_Q033",
+    "family_id": "lcm_divisibility_offset_bcs16_q033_f01",
+    "exam": "16th BCS",
+    "question_number": 33,
+    "source_page": 3,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "lcm_divisibility_offset",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোন লঘিষ্ঠ সংখ্যার সাথে ৩ যোগ করলে যোগফল ২৪, ৩৬ এবং ৪৮ দ্বারা বিভাজ্য হবে?",
+    "question_normalized": "কোন লঘিষ্ঠ সংখ্যার সাথে ৩ যোগ করলে যোগফল ২৪, ৩৬ এবং ৪৮ দ্বারা বিভাজ্য হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৮৯",
+      "১৪১",
+      "২৪৮",
+      "১৭০"
+    ],
+    "printed_answer": "১৪১",
+    "accepted_answer_forms": [
+      "১৪১",
+      "141"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 16th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS16_Q034",
+    "family_id": "odd_number_of_divisors_perfect_square_bcs16_q034_f01",
+    "exam": "16th BCS",
+    "question_number": 34,
+    "source_page": 3,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "odd_number_of_divisors_perfect_square",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "নিম্নলিখিত চারটি সংখ্যার মধ্যে কোনটির ভাজক সংখ্যা বিজোড়?",
+    "question_normalized": "নিম্নলিখিত চারটি সংখ্যার মধ্যে কোনটির ভাজক সংখ্যা বিজোড়?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২০৪৮",
+      "৫১২",
+      "১০২৪",
+      "৪৮"
+    ],
+    "printed_answer": "১০২৪",
+    "accepted_answer_forms": [
+      "১০২৪",
+      "1024"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 16th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

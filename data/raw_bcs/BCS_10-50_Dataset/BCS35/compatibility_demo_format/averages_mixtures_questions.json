@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "weighted_average_two_groups_f01",
+    "item_id": "BCS35_Q174",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "weighted_average_group",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture",
+      "মোট": "total"
+    },
+    "question_bn": "১০০ জন শিক্ষার্থীর পরিসংখ্যানে গড় নম্বর ৭০। এদের মধ্যে ৬০ জন ছাত্রীর গড় নম্বর ৭৫ হলে, ছাত্রদের গড় নম্বর কত?",
+    "answer_options": [
+      "৫৫.৫",
+      "৬৫.৫",
+      "৬০.৫",
+      "৬২.৫"
+    ],
+    "correct_answer": "৬২.৫",
+    "solution_steps": [
+      "Total marks = 100×70=7000.",
+      "Girls total = 60×75=4500.",
+      "Boys count =40 and boys total=2500.",
+      "Boys average=2500/40=62.5."
+    ],
+    "source_page": 18,
+    "source_exam": "35th BCS"
+  }
+]

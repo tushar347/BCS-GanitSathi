@@ -1,0 +1,147 @@
+[
+  {
+    "item_id": "BCS28_Q093",
+    "family_id": "typing_work_rate_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS28_Q096",
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS28_Q097",
+    "family_id": "percentage_equivalence_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS28_Q099",
+    "family_id": "divide_by_fraction_then_add_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS28_Q100",
+    "family_id": "equal_distance_average_speed_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  }
+]

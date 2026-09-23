@@ -1,0 +1,402 @@
+[
+  {
+    "item_id": "BCS16_Q030",
+    "family_id": "profit_loss_changed_cost_and_selling_price_bcs16_q030_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q030_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS16_Q030_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ২০০ টাকা পেয়েছি।",
+        "normalized_text": "final_answer = ২০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS16_Q030_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q030",
+    "family_id": "profit_loss_changed_cost_and_selling_price_bcs16_q030_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q030_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q030_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ১০০ টাকা পেয়েছি।",
+        "normalized_text": "final_answer = ১০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q030_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q030",
+    "family_id": "profit_loss_changed_cost_and_selling_price_bcs16_q030_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q030_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q030_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ১০০ টাকা লিখেছি।",
+        "normalized_text": "final_answer = ১০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q030_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q030",
+    "family_id": "profit_loss_changed_cost_and_selling_price_bcs16_q030_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q030_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS16_Q030_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "১০০ টাকা",
+        "normalized_text": "final_answer = ১০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q030_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q031",
+    "family_id": "combined_work_find_individual_time_bcs16_q031_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q031_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS16_Q031_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ২৪ দিনে পেয়েছি।",
+        "normalized_text": "final_answer = ২৪ দিনে",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS16_Q031_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q031",
+    "family_id": "combined_work_find_individual_time_bcs16_q031_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q031_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q031_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ২০ দিনে পেয়েছি।",
+        "normalized_text": "final_answer = ২০ দিনে",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q031_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q031",
+    "family_id": "combined_work_find_individual_time_bcs16_q031_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q031_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q031_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ২০ দিনে লিখেছি।",
+        "normalized_text": "final_answer = ২০ দিনে",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q031_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q031",
+    "family_id": "combined_work_find_individual_time_bcs16_q031_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q031_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS16_Q031_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "২০ দিনে",
+        "normalized_text": "final_answer = ২০ দিনে",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q031_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q032",
+    "family_id": "simple_interest_common_rate_bcs16_q032_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q032_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS16_Q032_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ১০% পেয়েছি।",
+        "normalized_text": "final_answer = ১০%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS16_Q032_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q032",
+    "family_id": "simple_interest_common_rate_bcs16_q032_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q032_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q032_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ৫% পেয়েছি।",
+        "normalized_text": "final_answer = ৫%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q032_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q032",
+    "family_id": "simple_interest_common_rate_bcs16_q032_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q032_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q032_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ৫% লিখেছি।",
+        "normalized_text": "final_answer = ৫%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q032_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q032",
+    "family_id": "simple_interest_common_rate_bcs16_q032_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q032_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS16_Q032_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৫%",
+        "normalized_text": "final_answer = ৫%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q032_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q033",
+    "family_id": "lcm_divisibility_offset_bcs16_q033_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q033_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS16_Q033_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ১৪১ পেয়েছি।",
+        "normalized_text": "final_answer = ১৪১",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS16_Q033_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q033",
+    "family_id": "lcm_divisibility_offset_bcs16_q033_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q033_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q033_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ৮৯ পেয়েছি।",
+        "normalized_text": "final_answer = ৮৯",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q033_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q033",
+    "family_id": "lcm_divisibility_offset_bcs16_q033_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q033_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q033_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ৮৯ লিখেছি।",
+        "normalized_text": "final_answer = ৮৯",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q033_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q033",
+    "family_id": "lcm_divisibility_offset_bcs16_q033_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q033_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS16_Q033_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৮৯",
+        "normalized_text": "final_answer = ৮৯",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q033_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q034",
+    "family_id": "odd_number_of_divisors_perfect_square_bcs16_q034_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q034_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS16_Q034_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ১০২৪ পেয়েছি।",
+        "normalized_text": "final_answer = ১০২৪",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS16_Q034_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q034",
+    "family_id": "odd_number_of_divisors_perfect_square_bcs16_q034_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q034_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q034_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ২০৪৮ পেয়েছি।",
+        "normalized_text": "final_answer = ২০৪৮",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q034_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q034",
+    "family_id": "odd_number_of_divisors_perfect_square_bcs16_q034_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q034_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS16_Q034_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ২০৪৮ লিখেছি।",
+        "normalized_text": "final_answer = ২০৪৮",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q034_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS16_Q034",
+    "family_id": "odd_number_of_divisors_perfect_square_bcs16_q034_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS16_Q034_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS16_Q034_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "২০৪৮",
+        "normalized_text": "final_answer = ২০৪৮",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS16_Q034_g1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "item_id": "BCS34_Q028",
+    "family_id": "decimal_repeating_difference_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS34_Q030",
+    "family_id": "exponent_factorization_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS34_Q034",
+    "family_id": "consecutive_product_sum_average_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS34_Q036",
+    "family_id": "quadratic_collection_count_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS34_Q037",
+    "family_id": "unit_price_quantity_change_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS34_Q041",
+    "family_id": "geometric_sequence_times4_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS34_Q042",
+    "family_id": "part_whole_ratio_2_to_3_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  },
+  {
+    "item_id": "BCS34_Q100",
+    "family_id": "perfect_square_root_f01",
+    "protected_hint_state": {
+      "permitted_actions": [
+        "clarification",
+        "diagnostic_probe",
+        "conceptual_hint",
+        "local_scaffold",
+        "independent_retry"
+      ],
+      "permitted_facts": [
+        "question quantities",
+        "verified local relation",
+        "non-decisive hint"
+      ],
+      "prohibited_decisive_disclosures": [
+        "final answer",
+        "decisive calculation that completes the item"
+      ]
+    },
+    "authorized_worked_solution_state": {
+      "permitted_actions": [
+        "worked_solution"
+      ],
+      "final_answer_allowed": true
+    },
+    "policy_status": "draft_for_human_review"
+  }
+]

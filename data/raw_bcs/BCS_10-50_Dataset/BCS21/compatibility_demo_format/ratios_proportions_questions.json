@@ -1,0 +1,60 @@
+[
+  {
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "item_id": "BCS21_Q043",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "nested_ratio_sharing",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion"
+    },
+    "question_bn": "১০০০ টাকা ক ও খ ১ : ৪ অনুপাতে ভাগ করে নেয়। খ-এর অংশ সে এবং তার মা ও মেয়ের মধ্যে ২ : ১ : ১ অনুপাতে ভাগ করে। মেয়ে কত টাকা পাবে?",
+    "answer_options": [
+      "১০০ টাকা",
+      "৪০০ টাকা",
+      "২০০ টাকা",
+      "৮০০ টাকা"
+    ],
+    "correct_answer": "২০০ টাকা",
+    "solution_steps": [
+      "খ পায় ১০০০×৪/৫ = ৮০০ টাকা।",
+      "২:১:১ অনুপাতে মোট ৪ অংশ।",
+      "মেয়ের অংশ = ৮০০×১/৪ = ২০০ টাকা।"
+    ],
+    "source_page": 5,
+    "source_exam": "21st BCS"
+  },
+  {
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "item_id": "BCS21_Q044",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "alloy_ratio_adjustment",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion"
+    },
+    "question_bn": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ : ১। এতে কী পরিমাণ সোনা মিশালে অনুপাত ৪ : ১ হবে?",
+    "answer_options": [
+      "১২ গ্রাম",
+      "৪ গ্রাম",
+      "৩ গ্রাম",
+      "৬ গ্রাম"
+    ],
+    "correct_answer": "৪ গ্রাম",
+    "solution_steps": [
+      "প্রথমে সোনা ১২ গ্রাম ও তামা ৪ গ্রাম।",
+      "x গ্রাম সোনা যোগ করলে (১২+x):৪ = ৪:১।",
+      "১২+x=১৬, তাই x=৪ গ্রাম।"
+    ],
+    "source_page": 5,
+    "source_exam": "21st BCS"
+  }
+]

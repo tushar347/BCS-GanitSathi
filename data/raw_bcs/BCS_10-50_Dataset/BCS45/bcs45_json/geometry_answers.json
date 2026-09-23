@@ -1,0 +1,111 @@
+[
+  {
+    "family_id": "Q165",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "GEOM165-CONCEPT-01",
+        "wrong_answer": "$x=\\frac{1}{y}$",
+        "reasoning_steps": [
+          "Rearrange x = 1/y into xy = 1.",
+          "Incorrectly treat a product of two first-degree variables as a first-degree expression.",
+          "Choose x = 1/y as a straight line."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "GEOM165-ARITH-01",
+        "wrong_answer": "$\\frac{x}{y}=\\frac{y}{2}$",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Try to clear denominators in x/y = y/2 by multiplying both sides by 2y.",
+          "Drop one factor of y and mistakenly write 2x = y instead of 2x = y^2.",
+          "Conclude from the incorrectly simplified equation that the first option is a line."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "GEOM165-INTERP-01",
+        "wrong_answer": "$x^{-2}+y=1$",
+        "reasoning_steps": [
+          "Misread the superscript −2 in x^(−2) as subtraction of 2.",
+          "Interpret the option as x−2+y = 1.",
+          "Rearrange that different equation into x+y = 3 and select the second option."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q170",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "GEOM170-CONCEPT-01",
+        "wrong_answer": "approximately 63.435°",
+        "reasoning_steps": [
+          "Omit the leading 1 and treat the equation as tan^2(theta) = 4.",
+          "Take the positive square root to get tan(theta) = 2.",
+          "Report arctan(2), approximately 63.435 degrees, instead of checking the original equation."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "GEOM170-ARITH-01",
+        "wrong_answer": "45°",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Attempt to subtract 1 from both sides.",
+          "Calculate 4−1 as 1 rather than 3.",
+          "Use tan^2(theta) = 1 and select the listed angle 45 degrees."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "GEOM170-INTERP-01",
+        "wrong_answer": "30°",
+        "reasoning_steps": [
+          "Misread tan as cot in the displayed equation.",
+          "Solve 1+cot^2(theta) = 4, so cot(theta) = √3 for the listed acute angles.",
+          "Select 30 degrees, which solves the altered equation."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q172",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "GEOM172-CONCEPT-01",
+        "wrong_answer": "80°",
+        "reasoning_steps": [
+          "Incorrectly assume the angles are in the same ratio as the side lengths.",
+          "Calculate the largest angle as 180 × 3/(1+2√2+3), approximately 79.08 degrees.",
+          "Choose the nearest listed value, 80 degrees, even though the side-to-angle proportionality assumption is invalid."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "GEOM172-ARITH-01",
+        "wrong_answer": "135°",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Try to apply the cosine rule to the angle opposite the side of relative length 3.",
+          "Miscalculate (2√2)^2 as 4 rather than 8.",
+          "Obtain cos(C) = (1+4−9)/(2 × 1 × 2√2) = −1/√2.",
+          "Report 135 degrees from that incorrectly computed cosine."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "GEOM172-INTERP-01",
+        "wrong_answer": "approximately 19.47°",
+        "reasoning_steps": [
+          "Correctly recognise a right triangle with hypotenuse 3k.",
+          "Find the angle opposite the smallest side k rather than the largest side.",
+          "Report arcsin(1/3), approximately 19.47 degrees, instead of the right angle."
+        ]
+      }
+    ]
+  }
+]

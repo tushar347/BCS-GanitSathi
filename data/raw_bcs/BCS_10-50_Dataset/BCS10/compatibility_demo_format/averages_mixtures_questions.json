@@ -1,0 +1,63 @@
+[
+  {
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "item_id": "BCS10_Q092",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "mixture_ratio_addition",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture",
+      "পরিমাণ": "quantity",
+      "অনুপাত": "ratio"
+    },
+    "question_bn": "৬০ লিটার কেরোসিন ও পেট্রোলের মিশ্রণের অনুপাত ৭ : ৩। ঐ মিশ্রণে আর কত লিটার পেট্রোল মিশালে অনুপাত ৩ : ৭ হবে?",
+    "answer_options": [
+      "৭০",
+      "৮০",
+      "৯০",
+      "৯৮"
+    ],
+    "correct_answer": "৮০",
+    "solution_steps": [
+      "প্রথমে কেরোসিন = 60×7/10 = 42 লিটার এবং পেট্রোল = 18 লিটার।",
+      "আর x লিটার পেট্রোল দিলে 42:(18+x)=3:7।",
+      "294=54+3x, তাই x=80 লিটার।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "average_consecutive_integers_f01",
+    "item_id": "BCS10_Q093",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "average_consecutive_integers",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture",
+      "পরিমাণ": "quantity",
+      "অনুপাত": "ratio"
+    },
+    "question_bn": "১ থেকে ৪৯ পর্যন্ত সংখ্যাগুলোর গড় কত?",
+    "answer_options": [
+      "২৩",
+      "২৪.৫",
+      "২৫",
+      "২৫.৫"
+    ],
+    "correct_answer": "২৫",
+    "solution_steps": [
+      "১ থেকে ৪৯ পর্যন্ত ধারাবাহিক সংখ্যার গড় = (প্রথম+শেষ)/2।",
+      "=(1+49)/2=25।"
+    ],
+    "source_page": 12,
+    "source_exam": "10th BCS"
+  }
+]

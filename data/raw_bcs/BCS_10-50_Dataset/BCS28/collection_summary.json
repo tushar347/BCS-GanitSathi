@@ -1,0 +1,17 @@
+{
+  "exam": "28th BCS",
+  "main_in_scope_items": 5,
+  "review_required_core_items": 1,
+  "excluded_math_or_reasoning_items": 4,
+  "authored_histories": 20,
+  "counts_by_topic": {
+    "percentages_profit_loss": 1,
+    "ratios_proportions": 0,
+    "work_time": 1,
+    "speed_distance": 2,
+    "averages_mixtures": 0,
+    "elementary_algebra_number_relations": 1
+  },
+  "scope_note": "Main set follows the six initial GonitSathi topic groups: percentages/profit-loss; ratios/proportions; work/time; speed/distance; averages/mixtures; elementary algebra/number relations. Geometry, set theory, probability, combinatorics, and mental-ability-only items are logged as excluded for this initial benchmark.",
+  "gold_label_warning": "Model-authored solutions, histories, probes, and diagnostic labels are drafts. The guideline requires independent mathematically competent Bengali-speaking human review/adjudication before gold test use."
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "workers_output_direct_proportion_f01",
+    "item_id": "BCS33_Q053",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "workers_output_time_proportion",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "কাজের হার": "work rate"
+    },
+    "question_bn": "৫ জন তাঁত-শ্রমিক ৫ দিনে ৫টি কাপড় বুনতে পারে। একই ধরনের ৭টি কাপড় বুনতে ৭ জন শ্রমিকের কত দিন লাগবে?",
+    "answer_options": [
+      "৫ দিন",
+      "২৫/৪৯ দিন",
+      "৪৯/২৫ দিন",
+      "৭ দিন"
+    ],
+    "correct_answer": "৫ দিন",
+    "solution_steps": [
+      "Five workers make five pieces in five days, so each worker makes one piece in five days.",
+      "Seven workers therefore make seven pieces in the same five days."
+    ],
+    "source_page": 7,
+    "source_exam": "33th BCS"
+  }
+]

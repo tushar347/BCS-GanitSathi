@@ -1,0 +1,98 @@
+[
+  {
+    "family_id": "profit_loss_items_per_money_f01",
+    "item_id": "BCS38_Q164",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "profit_loss_fixed_revenue_quantity",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "টাকায় 5টি মার্বেল বিক্রয় করায় 12% ক্ষতি হয়। 10% লাভ করতে হলে টাকায় কয়টি বিক্রয় করতে হবে?",
+    "answer_options": [
+      "4টি",
+      "3টি",
+      "2টি",
+      "কোনোটিই নয়"
+    ],
+    "correct_answer": "4টি",
+    "solution_steps": [
+      "At the loss price, selling price is 88% of cost price.",
+      "For 10% profit, selling price must be 110% of cost price.",
+      "Required unit price ratio =110/88=1.25, so for the same money quantity becomes 5/1.25=4."
+    ],
+    "source_page": 17,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "simple_interest_from_amount_fraction_f01",
+    "item_id": "BCS38_Q166",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_interest_rate",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "কোন আসল 3 বছরে মুনাফা-আসলে 5500 টাকা হয়। মুনাফা আসলের 3/8 অংশ হলে মুনাফার হার কত?",
+    "answer_options": [
+      "10%",
+      "12.5%",
+      "15%",
+      "12%"
+    ],
+    "correct_answer": "12.5%",
+    "solution_steps": [
+      "Let principal=P. Interest=(3/8)P, so amount=(11/8)P=5500.",
+      "P=4000 and interest=1500.",
+      "Rate=1500/(4000×3)×100=12.5%."
+    ],
+    "source_page": 17,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "percentage_remainder_total_f01",
+    "item_id": "BCS38_Q167",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_remainder_total",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "মি. রেজা তাঁর সম্পদের ১২% স্ত্রীকে, ৫৮% ছেলেকে এবং অবশিষ্ট ৭২০০০০/- টাকা মেয়েকে দিলেন। তাঁর সম্পদের মোট মূল্য কত?",
+    "answer_options": [
+      "২৪০০০০০ টাকা",
+      "২০০০০০০ টাকা",
+      "১৬০০০০০ টাকা",
+      "১২০০০০০ টাকা"
+    ],
+    "correct_answer": "২৪০০০০০ টাকা",
+    "solution_steps": [
+      "Wife and son receive 12%+58%=70%.",
+      "Remaining 30%=720000.",
+      "Total=720000/0.30=2400000 taka."
+    ],
+    "source_page": 17,
+    "source_exam": "38th BCS"
+  }
+]

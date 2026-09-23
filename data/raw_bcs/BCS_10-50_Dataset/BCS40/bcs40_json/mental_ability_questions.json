@@ -1,0 +1,121 @@
+[
+  {
+    "family_id": "Q176",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "relative position in the Bengali consonant sequence",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "fifth preceding letter",
+    "english_glossary": {},
+    "question_bn": "বাংলা ব্যঞ্জন বর্ণমালায় ‘ম’ অক্ষরটির পূর্বের পঞ্চম অক্ষরটি কী?",
+    "answer_options": [
+      "ধ",
+      "ন",
+      "প",
+      "ল"
+    ],
+    "correct_answer": "ন",
+    "solution_steps": [
+      "Count backwards from ম without counting ম itself.",
+      "The preceding letters are ভ(1),ব(2),ফ(3),প(4),ন(5).",
+      "Therefore the answer is ন."
+    ]
+  },
+  {
+    "family_id": "Q177",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "reverse-alphabet substitution",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "decoded letter string",
+    "english_glossary": {},
+    "question_bn": "যদি ABC = ZYX হয়, তবে GIVV = ?",
+    "answer_options": [
+      "TERE",
+      "TEER",
+      "TREE",
+      "FREE"
+    ],
+    "correct_answer": "TREE",
+    "solution_steps": [
+      "The example maps alphabet position n to 27−n.",
+      "G→T, I→R and V→E.",
+      "Thus GIVV becomes TREE."
+    ]
+  },
+  {
+    "family_id": "Q178",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "horizontal mirror image of a word",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "correct reflected drawing",
+    "english_glossary": {
+      "প্রতিবিম্ব": "reflection"
+    },
+    "question_bn": "‘UNICEF’ এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+    "answer_options": [
+      "![ক](assets/Q178_option_a.png)",
+      "![খ](assets/Q178_option_b.png)",
+      "![গ](assets/Q178_option_c.png)",
+      "![ঘ](assets/Q178_option_d.png)"
+    ],
+    "correct_answer": "![খ](assets/Q178_option_b.png)",
+    "solution_steps": [
+      "Reverse the left-to-right letter order and mirror the asymmetric glyphs.",
+      "The reflected word begins with a mirrored F and ends with U.",
+      "Option খ matches the source answer drawing."
+    ]
+  },
+  {
+    "family_id": "Q197",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "horizontal mirror image of a word",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "correct reflected drawing",
+    "english_glossary": {
+      "প্রতিবিম্ব": "reflection"
+    },
+    "question_bn": "‘UNICEF’ এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+    "answer_options": [
+      "![ক](assets/Q197_option_a.png)",
+      "![খ](assets/Q197_option_b.png)",
+      "![গ](assets/Q197_option_c.png)",
+      "![ঘ](assets/Q197_option_d.png)"
+    ],
+    "correct_answer": "![খ](assets/Q197_option_b.png)",
+    "solution_steps": [
+      "Reverse letter order and the left-right orientation of asymmetric glyphs.",
+      "Match the reflected sequence to the alternatives.",
+      "The source answer drawing corresponds to option খ."
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "paired odd-number and letter sequence",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "next paired card",
+    "english_glossary": {},
+    "question_bn": "![প্রশ্নের চিত্র](assets/Q200_stem.png)",
+    "answer_options": [
+      "![ক](assets/Q200_option_a.png)",
+      "![খ](assets/Q200_option_b.png)",
+      "![গ](assets/Q200_option_c.png)",
+      "![ঘ](assets/Q200_option_d.png)"
+    ],
+    "correct_answer": "![খ](assets/Q200_option_b.png)",
+    "solution_steps": [
+      "Read the uncrossed-out entries on the three source cards as 1/A, 3/C and 5/E.",
+      "The numbers advance by 2 and the letters by two alphabet positions.",
+      "The next card is 7/G, corresponding to option খ."
+    ]
+  }
+]

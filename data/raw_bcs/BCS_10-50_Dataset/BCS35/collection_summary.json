@@ -1,0 +1,17 @@
+{
+  "exam": "35th BCS",
+  "main_in_scope_items": 10,
+  "review_required_core_items": 1,
+  "excluded_math_or_reasoning_items": 8,
+  "authored_histories": 40,
+  "counts_by_topic": {
+    "percentages_profit_loss": 0,
+    "ratios_proportions": 1,
+    "work_time": 0,
+    "speed_distance": 0,
+    "averages_mixtures": 1,
+    "elementary_algebra_number_relations": 8
+  },
+  "scope_note": "Main set follows the six initial GonitSathi topic groups: percentages/profit-loss; ratios/proportions; work/time; speed/distance; averages/mixtures; elementary algebra/number relations. Geometry, set theory, probability, combinatorics, and mental-ability-only items are logged as excluded for this initial benchmark.",
+  "gold_label_warning": "Model-authored solutions, histories, probes, and diagnostic labels are drafts. The guideline requires independent mathematically competent Bengali-speaking human review/adjudication before gold test use."
+}

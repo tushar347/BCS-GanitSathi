@@ -1,0 +1,172 @@
+[
+  {
+    "probe_id": "BCS39_Q045_P1",
+    "item_id": "BCS39_Q045",
+    "family_id": "exponential_equation_surd_base_bcs39_q045_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q048_P1",
+    "item_id": "BCS39_Q048",
+    "family_id": "simple_vs_compound_interest_difference_two_years_bcs39_q048_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q049_P1",
+    "item_id": "BCS39_Q049",
+    "family_id": "ratio_lcm_find_gcd_bcs39_q049_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q050_P1",
+    "item_id": "BCS39_Q050",
+    "family_id": "quadratic_inequality_bcs39_q050_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q055_P1",
+    "item_id": "BCS39_Q055",
+    "family_id": "absolute_value_inequality_bcs39_q055_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q056_P1",
+    "item_id": "BCS39_Q056",
+    "family_id": "decimal_multiplication_bcs39_q056_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q057_P1",
+    "item_id": "BCS39_Q057",
+    "family_id": "compare_fractions_bcs39_q057_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q058_P1",
+    "item_id": "BCS39_Q058",
+    "family_id": "geometric_sequence_nth_term_bcs39_q058_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q059_P1",
+    "item_id": "BCS39_Q059",
+    "family_id": "loss_percentage_find_cost_price_bcs39_q059_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS39_Q061_P1",
+    "item_id": "BCS39_Q061",
+    "family_id": "identify_prime_number_bcs39_q061_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  }
+]

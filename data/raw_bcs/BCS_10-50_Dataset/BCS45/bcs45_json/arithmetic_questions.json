@@ -1,0 +1,112 @@
+[
+  {
+    "family_id": "Q173",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "elementary probability by counting prime outcomes",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "probability of selecting a prime",
+    "english_glossary": {
+      "মৌলিক": "prime",
+      "সম্ভাবনা": "probability",
+      "পর্যন্ত": "through"
+    },
+    "question_bn": "29 থেকে 38 পর্যন্ত সংখ্যা হতে যে কোনো একটিকে ইচ্ছামত বেছে নিলে সেটি মৌলিক হওয়ার সম্ভাবনা কত?",
+    "answer_options": [
+      "1/2",
+      "1/3",
+      "3/10",
+      "7/10"
+    ],
+    "correct_answer": "3/10",
+    "solution_steps": [
+      "Use equally likely selection from the integers 29 through 38, inclusive, as assumed by the printed key.",
+      "The total number of possible selections is 38−29+1 = 10.",
+      "The prime numbers in this range are 29, 31, and 37, giving 3 favourable outcomes.",
+      "The probability is 3/10."
+    ]
+  },
+  {
+    "family_id": "Q174",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "counting digit arrangements with a leading-zero restriction",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "number of five-digit numbers",
+    "english_glossary": {
+      "অংকগুলি": "the digits",
+      "পাঁচ অংকের": "five-digit",
+      "সংখ্যা গঠন": "forming numbers"
+    },
+    "question_bn": "0, 1, 2, 3, 4 অংকগুলি দ্বারা কতগুলি পাঁচ অংকের অর্থপূর্ণ সংখ্যা গঠন করা যাবে?",
+    "answer_options": [
+      "96",
+      "120",
+      "24",
+      "144"
+    ],
+    "correct_answer": "96",
+    "solution_steps": [
+      "Use each of the five listed digits once, the no-repetition convention consistent with the source key but not expressly stated in its wording.",
+      "The leading digit cannot be 0, so it has 4 choices: 1, 2, 3, or 4.",
+      "After choosing the leading digit, arrange the remaining four distinct digits in 4! = 24 ways.",
+      "The total is 4 × 24 = 96 five-digit numbers."
+    ]
+  },
+  {
+    "family_id": "Q177",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "total cost from a unit price",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "20 seconds",
+    "target_quantity": "cost of four sheets in paisa",
+    "english_glossary": {
+      "প্রতি পাতা": "per sheet",
+      "পয়সা": "paisa",
+      "চার পাতা": "four sheets"
+    },
+    "question_bn": "কাগজের প্রতি পাতা বিক্রি হয় ২১ পয়সায়। চার পাতা কত পয়সায় বিক্রি হবে?",
+    "answer_options": [
+      "৪ পয়সা",
+      "৯৪ পয়সা",
+      "৮ পয়সা",
+      "৮৪ পয়সা"
+    ],
+    "correct_answer": "৮৪ পয়সা",
+    "solution_steps": [
+      "Each sheet costs 21 paisa and the required quantity is 4 sheets.",
+      "Multiply unit price by quantity: 21 × 4 = 84.",
+      "The total cost is 84 paisa, matching ৮৪ পয়সা."
+    ]
+  },
+  {
+    "family_id": "Q180",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "quantity purchased from budget and unit price",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "20 seconds",
+    "target_quantity": "length of rope in feet",
+    "english_glossary": {
+      "প্রতি ফুট": "per foot",
+      "দড়ি": "rope",
+      "ক্রয়": "purchase"
+    },
+    "question_bn": "যখন প্রতি ফুট দড়ি ১০ টাকায় বিক্রি হয়, তখন ৬০ টাকায় তুমি কত ফুট দড়ি ক্রয় করতে পারবে?",
+    "answer_options": [
+      "৮ ফুট",
+      "৭ ফুট",
+      "৬ ফুট",
+      "১০ ফুট"
+    ],
+    "correct_answer": "৬ ফুট",
+    "solution_steps": [
+      "The price is 10 taka for each foot of rope, and the budget is 60 taka.",
+      "Divide the budget by the price per foot: 60/10 = 6.",
+      "The purchasable length is 6 feet, matching ৬ ফুট."
+    ]
+  }
+]

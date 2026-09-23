@@ -1,0 +1,104 @@
+[
+  {
+    "item_id": "BCS13_Q081",
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "probe_id": "BCS13_Q081_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS13_Q082",
+    "family_id": "percentage_total_questions_f01",
+    "probe_id": "BCS13_Q082_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS13_Q083",
+    "family_id": "equal_distance_average_speed_f01",
+    "probe_id": "BCS13_Q083_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS13_Q084",
+    "family_id": "polynomial_known_root_parameter_f01",
+    "probe_id": "BCS13_Q084_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS13_Q085",
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "probe_id": "BCS13_Q085_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  },
+  {
+    "item_id": "BCS13_Q090",
+    "family_id": "logarithm_exact_power_f01",
+    "probe_id": "BCS13_Q090_P1",
+    "target_ambiguity": "distinguish rule selection from a transient calculation slip",
+    "allowed_state": "before_final_answer_reveal",
+    "probe_bn": "প্রথম যে ধাপটি ব্যবহার করবে সেটি লিখে বলো কেন ওই নিয়ম বা সম্পর্কটি এখানে প্রযোজ্য। চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short mathematical step plus one brief justification",
+    "disclosure_review": "does_not_reveal_final_answer",
+    "branch_records": []
+  }
+]

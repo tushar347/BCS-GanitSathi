@@ -1,0 +1,68 @@
+{
+  "$defs": {
+    "CandidateCause": {
+      "enum": [
+        "conceptual_error",
+        "percentage_base",
+        "transient_slip",
+        "linguistic_slip",
+        "interface_slip",
+        "no_error",
+        "unresolved"
+      ],
+      "title": "CandidateCause",
+      "type": "string"
+    }
+  },
+  "description": "Output contract for LLM evidence parsing (Appendix B.1).",
+  "properties": {
+    "interpreted_relation": {
+      "description": "Extracted mathematical equation or relation string, e.g. 'new_quantity = 100 - 25'",
+      "title": "Interpreted Relation",
+      "type": "string"
+    },
+    "evidence_spans": {
+      "description": "Exact substrings from the student input that ground this interpretation",
+      "items": {
+        "type": "string"
+      },
+      "title": "Evidence Spans",
+      "type": "array"
+    },
+    "interpretation_uncertainty": {
+      "description": "Interpretation uncertainty (0.0=clear, 1.0=highly ambiguous)",
+      "maximum": 1.0,
+      "minimum": 0.0,
+      "title": "Interpretation Uncertainty",
+      "type": "number"
+    },
+    "candidate_explanations": {
+      "description": "Candidate error hypotheses suggested by student input",
+      "items": {
+        "$ref": "#/$defs/CandidateCause"
+      },
+      "title": "Candidate Explanations",
+      "type": "array"
+    },
+    "assistance_references": {
+      "description": "Any hints or equations from recent tutor turns that student may have relied on",
+      "items": {
+        "type": "string"
+      },
+      "title": "Assistance References",
+      "type": "array"
+    },
+    "needs_clarification": {
+      "default": false,
+      "description": "True if input is ambiguous or underspecified",
+      "title": "Needs Clarification",
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "interpreted_relation",
+    "interpretation_uncertainty"
+  ],
+  "title": "ExtractorOutputContract",
+  "type": "object"
+}

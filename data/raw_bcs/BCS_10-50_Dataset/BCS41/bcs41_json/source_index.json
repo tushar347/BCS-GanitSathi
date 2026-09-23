@@ -1,0 +1,620 @@
+[
+  {
+    "family_id": "Q086",
+    "source_uid": "BCS41:Q086",
+    "source_question_number": 86,
+    "source_page": 8,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোনটি ১০০ এর ১ কমপ্লিমেন্ট?",
+    "source_options_transcription": [
+      "১১১",
+      "১০১",
+      "০১১",
+      "০০১"
+    ],
+    "source_printed_answer": "০১১",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q086_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q088",
+    "source_uid": "BCS41:Q088",
+    "source_question_number": 88,
+    "source_page": 8,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "নিচের কোনটি সঠিক নয়?",
+    "source_options_transcription": [
+      "\\overline{A+B}=\\overline{A}\\cdot\\overline{B}",
+      "\\overline{A+B}=\\overline{A}+\\overline{B}",
+      "\\overline{A\\cdot B\\cdot C}=\\overline{A}+\\overline{B}+\\overline{C}",
+      "\\overline{A\\cdot B\\cdot C}=\\overline{A}\\cdot\\overline{B}\\cdot\\overline{C}"
+    ],
+    "source_printed_answer": "\\overline{A+B}=\\overline{A}+\\overline{B}",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q088_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q088_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The source key selects খ, but the fourth printed identity is also false in general. For example A=1,B=0,C=1 makes the left side of ঘ equal 1 and the right side 0. This is not a uniquely answerable single-choice item. Overbars are preserved in LaTeX and source images."
+  },
+  {
+    "family_id": "Q089",
+    "source_uid": "BCS41:Q089",
+    "source_question_number": 89,
+    "source_page": 9,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "১ থেকে ৪৪০ পর্যন্ত সংখ্যাগুলোর একটি দৈবচয়ন পদ্ধতিতে নেওয়া হলে সংখ্যাটি বর্গসংখ্যা হওয়ার সম্ভাবনা−",
+    "source_options_transcription": [
+      "1/22",
+      "1/64",
+      "1/60",
+      "2/65"
+    ],
+    "source_printed_answer": "1/22",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q089_source_excerpt.png",
+    "transcription_or_interpretation_note": "Uniform selection is the ordinary interpretation of the question’s random selection.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q090",
+    "source_uid": "BCS41:Q090",
+    "source_question_number": 90,
+    "source_page": 9,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "০.১২ + ০.০০১২ + ০.০০০০১২ + ....... ধারাটির অসীম পদ পর্যন্ত যোগফল−",
+    "source_options_transcription": [
+      "4/33",
+      "4/99",
+      "122/99",
+      "14/99"
+    ],
+    "source_printed_answer": "4/33",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q090_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q091",
+    "source_uid": "BCS41:Q091",
+    "source_question_number": 91,
+    "source_page": 9,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "√(−8) × √(−2) = কত?",
+    "source_options_transcription": [
+      "4",
+      "4i",
+      "−4",
+      "−4i"
+    ],
+    "source_printed_answer": "−4",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q091_source_excerpt.png",
+    "transcription_or_interpretation_note": "The explanation uses principal complex square roots. The radical signs are visible in the page image even though the parsed text loses them.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q092",
+    "source_uid": "BCS41:Q092",
+    "source_question_number": 92,
+    "source_page": 9,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "|x − 2| < 3 হলে, m এবং n এর কোন মানের জন্য m < 3x হবে?",
+    "source_options_transcription": [
+      "m = 1, n = 10",
+      "m = 2, n = 20",
+      "m = 3, n = 30",
+      "m = 4, n = 40"
+    ],
+    "source_printed_answer": "m = 2, n = 20",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q092_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The source asks for both m and n but prints only m<3x; n does not occur in the target inequality. The premise gives −1<x<5 and hence −3<3x<15, which does not recover the supplied keyed pair. No missing expression is inserted."
+  },
+  {
+    "family_id": "Q093",
+    "source_uid": "BCS41:Q093",
+    "source_question_number": 93,
+    "source_page": 9,
+    "topic": "mensuration",
+    "status": "annotated",
+    "source_question_transcription": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৫% বৃদ্ধি করলে তার ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+    "source_options_transcription": [
+      "৫%",
+      "১০%",
+      "২০%",
+      "২৫%"
+    ],
+    "source_printed_answer": "৫%",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q093_source_excerpt.png",
+    "transcription_or_interpretation_note": "Classified by the rectangle area-scaling skill. The unchanged-width assumption is stated explicitly in the generated solution.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q094",
+    "source_uid": "BCS41:Q094",
+    "source_question_number": 94,
+    "source_page": 9,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "চিনির মূল্য ১০% কমে যাওয়ায় চিনির ব্যবহার শতকরা কত ভাগ বাড়ালে চিনি বাবদ খরচ একই থাকবে?",
+    "source_options_transcription": [
+      "৮%",
+      "8 1/3%",
+      "১০%",
+      "11 1/9%"
+    ],
+    "source_printed_answer": "11 1/9%",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q094_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q095",
+    "source_uid": "BCS41:Q095",
+    "source_question_number": 95,
+    "source_page": 9,
+    "topic": "mensuration",
+    "status": "annotated",
+    "source_question_transcription": "৬ সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের অন্তঃস্থ একটি সমবাহু ত্রিভুজের ক্ষেত্রফল−",
+    "source_options_transcription": [
+      "21√3 বর্গ সে.মি.",
+      "23√2 বর্গ সে.মি.",
+      "25√3 বর্গ সে.মি.",
+      "27√3 বর্গ সে.মি."
+    ],
+    "source_printed_answer": "27√3 বর্গ সে.মি.",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q095_source_excerpt.png",
+    "transcription_or_interpretation_note": "The generated solution interprets অন্তঃস্থ as inscribed, matching the source’s keyed area.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q096",
+    "source_uid": "BCS41:Q096",
+    "source_question_number": 96,
+    "source_page": 9,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "ΔABC এর A = 40° এবং ∠B = 80°। ∠C এর সমদ্বিখণ্ডক AB বাহুকে D বিন্দুতে ছেদ করে ∠CDA = ?",
+    "source_options_transcription": [
+      "110°",
+      "100°",
+      "90°",
+      "80°"
+    ],
+    "source_printed_answer": "110°",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q096_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q097",
+    "source_uid": "BCS41:Q097",
+    "source_question_number": 97,
+    "source_page": 9,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "৫ জন পুরুষ ও ৪ জন মহিলার একটি দল থেকে একজন পুরুষ ও দুইজন মহিলা নিয়ে কত প্রকারে একটি কমিটি গঠন করা যাবে?",
+    "source_options_transcription": [
+      "১০",
+      "১৫",
+      "২৫",
+      "৩০"
+    ],
+    "source_printed_answer": "৩০",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q097_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q098",
+    "source_uid": "BCS41:Q098",
+    "source_question_number": 98,
+    "source_page": 10,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "x + 2^(1/3) + 2^(2/3) = 0 হলে, x³ + 6 এর মান কত?",
+    "source_options_transcription": [
+      "4x",
+      "6x",
+      "4",
+      "8"
+    ],
+    "source_printed_answer": "6x",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q098_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q099",
+    "source_uid": "BCS41:Q099",
+    "source_question_number": 99,
+    "source_page": 10,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "5^x + 8.5^x + 16.5^x = 1 হলে, x এর মান কত?",
+    "source_options_transcription": [
+      "−3",
+      "−2",
+      "−1",
+      "−1/2"
+    ],
+    "source_printed_answer": "−2",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q099_source_excerpt.png",
+    "transcription_or_interpretation_note": "The dots are typographically ambiguous. The literal source string is preserved; the multiplication interpretation is explicit, not a silent decimal/exponential rewrite. Reading 8.5 and 16.5 as decimal bases would give a different equation.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q100",
+    "source_uid": "BCS41:Q100",
+    "source_question_number": 100,
+    "source_page": 10,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "5/12, 6/13, 11/24 এবং 3/8 এর মধ্যে বড় ভগ্নাংশটি−",
+    "source_options_transcription": [
+      "5/12",
+      "6/13",
+      "11/24",
+      "3/8"
+    ],
+    "source_printed_answer": "6/13",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q100_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q101",
+    "source_uid": "BCS41:Q101",
+    "source_question_number": 101,
+    "source_page": 10,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "a + b = 7 এবং ab = 12 হলে, 1/a² + 1/b² এর মান কত?",
+    "source_options_transcription": [
+      "3/25",
+      "25/144",
+      "31/144",
+      "11/49"
+    ],
+    "source_printed_answer": "25/144",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q101_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q102",
+    "source_uid": "BCS41:Q102",
+    "source_question_number": 102,
+    "source_page": 10,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "বার্ষিক ১০% মুনাফায় ৮০০ টাকার ২ বছরের চক্রবৃদ্ধি মূলধন কত?",
+    "source_options_transcription": [
+      "৯৪০ টাকা",
+      "৯৬০ টাকা",
+      "৯৬৮ টাকা",
+      "৯৮০ টাকা"
+    ],
+    "source_printed_answer": "৯৬৮ টাকা",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q102_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q103",
+    "source_uid": "BCS41:Q103",
+    "source_question_number": 103,
+    "source_page": 10,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "log₂(log_{√e}(e²)) = ?",
+    "source_options_transcription": [
+      "−2",
+      "−1",
+      "1",
+      "2"
+    ],
+    "source_printed_answer": "2",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q103_source_excerpt.png",
+    "transcription_or_interpretation_note": "Subscript/base nesting is transcribed from the visible mathematical layout.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q104",
+    "source_uid": "BCS41:Q104",
+    "source_question_number": 104,
+    "source_page": 10,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোন অক্ষরগুলো পুনর্বিন্যাস করে একটি অর্থবোধক শব্দ তৈরি করা যায়?",
+    "source_options_transcription": [
+      "রা ত্র হো অ",
+      "র বা ধী প নি",
+      "প্র তা রি দা",
+      "সা ব ব অ ধ্যা"
+    ],
+    "source_printed_answer": "রা ত্র হো অ",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q104_source_excerpt.png",
+    "transcription_or_interpretation_note": "Clusters, rather than Unicode code points, are rearranged. The generated trace establishes the keyed anagram and does not claim an exhaustive lexical search of the other groups.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q105",
+    "source_uid": "BCS41:Q105",
+    "source_question_number": 105,
+    "source_page": 10,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "পাঁচজন ব্যক্তি ট্রেনে ভ্রমণ করছেন। তাঁরা হলেন ক, খ, গ, ঘ, ঙ। ক হলেন গ এর মা, গ আবার ঙ এর স্ত্রী। ঘ হলেন ক এর ভাই এবং খ হলেন ক এর স্বামী। ঙ এর সঙ্গে খ এর সম্পর্ক কী?",
+    "source_options_transcription": [
+      "শ্বশুর",
+      "পিতা",
+      "চাচা",
+      "ভাই"
+    ],
+    "source_printed_answer": "শ্বশুর",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q105_source_excerpt.png",
+    "transcription_or_interpretation_note": "The intended family model assumes the mother’s husband is the child’s father. Alternative step-family relationships are not specified.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q106",
+    "source_uid": "BCS41:Q106",
+    "source_question_number": 106,
+    "source_page": 10,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "যদি মাসের ২য় দিন সোমবার হয়, তবে মাসের ১৮তম দিন কী বার হবে?",
+    "source_options_transcription": [
+      "রবিবার",
+      "সোমবার",
+      "মঙ্গলবার",
+      "বুধবার"
+    ],
+    "source_printed_answer": "বুধবার",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q106_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q107",
+    "source_uid": "BCS41:Q107",
+    "source_question_number": 107,
+    "source_page": 11,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "প্রশ্নবোধক চিহ্নিত স্থানে কোন সংখ্যা বসবে?",
+    "source_options_transcription": [
+      "১৮",
+      "৬৮",
+      "৮১",
+      "৪৪"
+    ],
+    "source_printed_answer": "৬৮",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q107_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q107_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q108",
+    "source_uid": "BCS41:Q108",
+    "source_question_number": 108,
+    "source_page": 11,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "৫০ মিনিট আগে সময় ছিল ৪টা বেজে ৪৫ মিনিট, ৬টা বাজতে আর কতক্ষণ সময় বাকি আছে?",
+    "source_options_transcription": [
+      "১৫ মিনিট",
+      "২০ মিনিট",
+      "২৫ মিনিট",
+      "৩০ মিনিট"
+    ],
+    "source_printed_answer": "২৫ মিনিট",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q108_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q110",
+    "source_uid": "BCS41:Q110",
+    "source_question_number": 110,
+    "source_page": 11,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোনটি সবচেয়ে ছোট সংখ্যা?",
+    "source_options_transcription": [
+      "18/36",
+      "5/3",
+      "16/31",
+      "4/12"
+    ],
+    "source_printed_answer": "4/12",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q110_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q111",
+    "source_uid": "BCS41:Q111",
+    "source_question_number": 111,
+    "source_page": 11,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": ".১ × ৩.৩৩ × ৭.১ = ?",
+    "source_options_transcription": [
+      "৭.১৫",
+      "৫.১৮",
+      "২.৩৬",
+      "১.৯৮"
+    ],
+    "source_printed_answer": "২.৩৬",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q111_source_excerpt.png",
+    "transcription_or_interpretation_note": "The source does not state a rounding instruction. Its answer ২.৩৬ is the exact product 2.3643 rounded to the common two-decimal precision of the options; it is not an exact equality.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q112",
+    "source_uid": "BCS41:Q112",
+    "source_question_number": 112,
+    "source_page": 11,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "একজন ব্যক্তির বেতন ৫% কমেছে। কিন্তু এক বছর পর তা আবার ৫% বেড়েছে। মোটের উপর তার বেতন শতকরা কত বৃদ্ধি বা হ্রাস পেয়েছে?",
+    "source_options_transcription": [
+      "০.৫% বেড়েছে",
+      "০.২৫% বেড়েছে",
+      "০.২৫% কমেছে",
+      "০.৫% কমেছে"
+    ],
+    "source_printed_answer": "০.২৫% কমেছে",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q112_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q114",
+    "source_uid": "BCS41:Q114",
+    "source_question_number": 114,
+    "source_page": 11,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "ঘড়ি : কাঁটা : : থার্মোমিটার : ?",
+    "source_options_transcription": [
+      "ফারেনহাইট",
+      "তাপমাত্রা",
+      "চিকিৎসা",
+      "পারদ"
+    ],
+    "source_printed_answer": "পারদ",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q114_source_excerpt.png",
+    "transcription_or_interpretation_note": "The source’s analogy assumes a mercury thermometer; the generated explanation does not imply that every thermometer contains mercury.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q115",
+    "source_uid": "BCS41:Q115",
+    "source_question_number": 115,
+    "source_page": 11,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "১০০ থেকে ২০০ এর মধ্যে ৩ দ্বারা বিভাজ্য সংখ্যা কয়টি?",
+    "source_options_transcription": [
+      "৩১",
+      "৩২",
+      "৩৩",
+      "৩৪"
+    ],
+    "source_printed_answer": "৩৩",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q115_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q117",
+    "source_uid": "BCS41:Q117",
+    "source_question_number": 117,
+    "source_page": 12,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "রহিম উত্তর দিকে ১০ মাইল হেঁটে ডানদিকে ঘুরে ৫ মাইল হাঁটেন। তারপর ডানদিকে ঘুরে ২ মাইল হাঁটেন। তিনি কোন দিকে হাঁটছেন?",
+    "source_options_transcription": [
+      "পূর্ব",
+      "পশ্চিম",
+      "উত্তর",
+      "দক্ষিণ"
+    ],
+    "source_printed_answer": "দক্ষিণ",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q117_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q200",
+    "source_uid": "BCS41:Q200",
+    "source_question_number": 200,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "‘RELATION’-এর আয়নায় প্রতিবিম্ব কোনটি?",
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "ক",
+    "source_answer_option_label": "ক",
+    "question_images": [
+      "assets/Q200_option_a.png",
+      "assets/Q200_option_b.png",
+      "assets/Q200_option_c.png",
+      "assets/Q200_option_d.png"
+    ],
+    "source_evidence_image": "audit_assets/Q200_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  }
+]

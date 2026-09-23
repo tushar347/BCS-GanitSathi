@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "item_id": "BCS21_Q049",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "least_addition_divisibility",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "৯৯৯৯৯৯-এর সঙ্গে কোন ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল ২, ৩, ৪, ৫ এবং ৬ দ্বারা নিঃশেষে বিভাজ্য হবে?",
+    "answer_options": [
+      "২১",
+      "৩৯",
+      "৩৩",
+      "২৯"
+    ],
+    "correct_answer": "২১",
+    "solution_steps": [
+      "২,৩,৪,৫,৬-এর ল.সা.গু = ৬০।",
+      "৯৯৯৯৯৯ কে ৬০ দিয়ে ভাগ করলে পরবর্তী গুণিতক ১০০০০২০।",
+      "যোগ করতে হবে ১০০০০২০−৯৯৯৯৯৯ = ২১।"
+    ],
+    "source_page": 5,
+    "source_exam": "21st BCS"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "item_id": "BCS21_Q041",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "fraction_of_income_percentage",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "একজন চাকরিজীবীর বেতনের ১/১০ অংশ কাপড় ক্রয়ে, ১/৩ অংশ খাদ্য ক্রয়ে এবং ১/৫ অংশ বাসা ভাড়ায় ব্যয় হয়। তার আয়ের শতকরা কত ভাগ অবশিষ্ট রইল?",
+    "answer_options": [
+      "৩৬ ২/৩%",
+      "৩৩ ১/৩%",
+      "৫০%",
+      "৬৬ ২/৩%"
+    ],
+    "correct_answer": "৩৬ ২/৩%",
+    "solution_steps": [
+      "মোট ব্যয় = ১/১০ + ১/৩ + ১/৫ = ১৯/৩০।",
+      "অবশিষ্ট = ১১/৩০।",
+      "(১১/৩০)×১০০ = ৩৬ ২/৩%。"
+    ],
+    "source_page": 4,
+    "source_exam": "21st BCS"
+  }
+]

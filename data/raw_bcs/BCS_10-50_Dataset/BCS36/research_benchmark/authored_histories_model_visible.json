@@ -1,0 +1,882 @@
+[
+  {
+    "history_id": "BCS36_Q174_H_CORRECT",
+    "item_id": "BCS36_Q174",
+    "family_id": "vat_percent_total_cost_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q174_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ৪২ টাকা পেয়েছি।",
+        "normalized_text": "final_answer = ৪২ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q174_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q174_H_CONCEPT",
+    "item_id": "BCS36_Q174",
+    "family_id": "vat_percent_total_cost_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q174_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর ১৪ টাকা পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = ১৪ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q174_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q174_H_SLIP",
+    "item_id": "BCS36_Q174",
+    "family_id": "vat_percent_total_cost_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q174_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি ১৪ টাকা লিখেছি।",
+        "normalized_text": "final_answer = ১৪ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q174_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q174_H_AMBIG",
+    "item_id": "BCS36_Q174",
+    "family_id": "vat_percent_total_cost_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q174_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "১৪ টাকা",
+        "normalized_text": "final_answer = ১৪ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q174_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q175_H_CORRECT",
+    "item_id": "BCS36_Q175",
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q175_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ২০% পেয়েছি।",
+        "normalized_text": "final_answer = ২০%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q175_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q175_H_CONCEPT",
+    "item_id": "BCS36_Q175",
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q175_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর ১৬% পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = ১৬%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q175_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q175_H_SLIP",
+    "item_id": "BCS36_Q175",
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q175_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি ১৬% লিখেছি।",
+        "normalized_text": "final_answer = ১৬%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q175_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q175_H_AMBIG",
+    "item_id": "BCS36_Q175",
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q175_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "১৬%",
+        "normalized_text": "final_answer = ১৬%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q175_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q176_H_CORRECT",
+    "item_id": "BCS36_Q176",
+    "family_id": "gcd_lcm_from_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q176_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ২৬০ পেয়েছি।",
+        "normalized_text": "final_answer = ২৬০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q176_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q176_H_CONCEPT",
+    "item_id": "BCS36_Q176",
+    "family_id": "gcd_lcm_from_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q176_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর ৭৮০ পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = ৭৮০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q176_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q176_H_SLIP",
+    "item_id": "BCS36_Q176",
+    "family_id": "gcd_lcm_from_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q176_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি ৭৮০ লিখেছি।",
+        "normalized_text": "final_answer = ৭৮০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q176_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q176_H_AMBIG",
+    "item_id": "BCS36_Q176",
+    "family_id": "gcd_lcm_from_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q176_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৭৮০",
+        "normalized_text": "final_answer = ৭৮০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q176_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q177_H_CORRECT",
+    "item_id": "BCS36_Q177",
+    "family_id": "sum_odd_numbers_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q177_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি x² পেয়েছি।",
+        "normalized_text": "final_answer = x²",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q177_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q177_H_CONCEPT",
+    "item_id": "BCS36_Q177",
+    "family_id": "sum_odd_numbers_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q177_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর x(x−1) পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = x(x−1)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q177_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q177_H_SLIP",
+    "item_id": "BCS36_Q177",
+    "family_id": "sum_odd_numbers_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q177_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি x(x−1) লিখেছি।",
+        "normalized_text": "final_answer = x(x−1)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q177_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q177_H_AMBIG",
+    "item_id": "BCS36_Q177",
+    "family_id": "sum_odd_numbers_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q177_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "x(x−1)",
+        "normalized_text": "final_answer = x(x−1)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q177_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q178_H_CORRECT",
+    "item_id": "BCS36_Q178",
+    "family_id": "log_radical_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q178_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি 8 পেয়েছি।",
+        "normalized_text": "final_answer = 8",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q178_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q178_H_CONCEPT",
+    "item_id": "BCS36_Q178",
+    "family_id": "log_radical_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q178_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর 4 পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = 4",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q178_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q178_H_SLIP",
+    "item_id": "BCS36_Q178",
+    "family_id": "log_radical_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q178_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি 4 লিখেছি।",
+        "normalized_text": "final_answer = 4",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q178_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q178_H_AMBIG",
+    "item_id": "BCS36_Q178",
+    "family_id": "log_radical_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q178_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "4",
+        "normalized_text": "final_answer = 4",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q178_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q179_H_CORRECT",
+    "item_id": "BCS36_Q179",
+    "family_id": "exponential_same_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q179_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি 0 পেয়েছি।",
+        "normalized_text": "final_answer = 0",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q179_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q179_H_CONCEPT",
+    "item_id": "BCS36_Q179",
+    "family_id": "exponential_same_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q179_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর 1 পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q179_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q179_H_SLIP",
+    "item_id": "BCS36_Q179",
+    "family_id": "exponential_same_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q179_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি 1 লিখেছি।",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q179_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q179_H_AMBIG",
+    "item_id": "BCS36_Q179",
+    "family_id": "exponential_same_base_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q179_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q179_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q183_H_CORRECT",
+    "item_id": "BCS36_Q183",
+    "family_id": "system_candidate_pair_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q183_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি (11, 8) পেয়েছি।",
+        "normalized_text": "final_answer = (11, 8)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q183_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q183_H_CONCEPT",
+    "item_id": "BCS36_Q183",
+    "family_id": "system_candidate_pair_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q183_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর (7, 4) পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = (7, 4)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q183_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q183_H_SLIP",
+    "item_id": "BCS36_Q183",
+    "family_id": "system_candidate_pair_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q183_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি (7, 4) লিখেছি।",
+        "normalized_text": "final_answer = (7, 4)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q183_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q183_H_AMBIG",
+    "item_id": "BCS36_Q183",
+    "family_id": "system_candidate_pair_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q183_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "(7, 4)",
+        "normalized_text": "final_answer = (7, 4)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q183_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q185_H_CORRECT",
+    "item_id": "BCS36_Q185",
+    "family_id": "reciprocal_cube_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q185_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি 4 পেয়েছি।",
+        "normalized_text": "final_answer = 4",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q185_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q185_H_CONCEPT",
+    "item_id": "BCS36_Q185",
+    "family_id": "reciprocal_cube_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q185_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর 1 পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q185_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q185_H_SLIP",
+    "item_id": "BCS36_Q185",
+    "family_id": "reciprocal_cube_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q185_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি 1 লিখেছি।",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q185_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q185_H_AMBIG",
+    "item_id": "BCS36_Q185",
+    "family_id": "reciprocal_cube_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q185_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q185_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q186_H_CORRECT",
+    "item_id": "BCS36_Q186",
+    "family_id": "ap_sum_given_last_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q186_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি 861 পেয়েছি।",
+        "normalized_text": "final_answer = 861",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q186_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q186_H_CONCEPT",
+    "item_id": "BCS36_Q186",
+    "family_id": "ap_sum_given_last_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q186_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর 961 পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = 961",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q186_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q186_H_SLIP",
+    "item_id": "BCS36_Q186",
+    "family_id": "ap_sum_given_last_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q186_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি 961 লিখেছি।",
+        "normalized_text": "final_answer = 961",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q186_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q186_H_AMBIG",
+    "item_id": "BCS36_Q186",
+    "family_id": "ap_sum_given_last_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q186_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "961",
+        "normalized_text": "final_answer = 961",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q186_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q190_H_CORRECT",
+    "item_id": "BCS36_Q190",
+    "family_id": "decimal_square_root_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q190_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ৩.৯৫ পেয়েছি।",
+        "normalized_text": "final_answer = ৩.৯৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q190_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q190_H_CONCEPT",
+    "item_id": "BCS36_Q190",
+    "family_id": "decimal_square_root_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q190_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর ৩.৮৫ পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = ৩.৮৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q190_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q190_H_SLIP",
+    "item_id": "BCS36_Q190",
+    "family_id": "decimal_square_root_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q190_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি ৩.৮৫ লিখেছি।",
+        "normalized_text": "final_answer = ৩.৮৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q190_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q190_H_AMBIG",
+    "item_id": "BCS36_Q190",
+    "family_id": "decimal_square_root_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q190_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৩.৮৫",
+        "normalized_text": "final_answer = ৩.৮৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q190_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q191_H_CORRECT",
+    "item_id": "BCS36_Q191",
+    "family_id": "interleaved_sequence_multiples7_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS36_Q191_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ২৮ পেয়েছি।",
+        "normalized_text": "final_answer = ২৮",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS36_Q191_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q191_H_CONCEPT",
+    "item_id": "BCS36_Q191",
+    "family_id": "interleaved_sequence_multiples7_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q191_E1K",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি এভাবে প্রয়োগ করেছি এবং উত্তর ৬ পেয়েছি।",
+        "normalized_text": "candidate_rule_application -> final_answer = ৬",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q191_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q191_H_SLIP",
+    "item_id": "BCS36_Q191",
+    "family_id": "interleaved_sequence_multiples7_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS36_Q191_E1S",
+        "event_type": "student_step",
+        "original_text": "শেষ হিসাবের পরে আমি ৬ লিখেছি।",
+        "normalized_text": "final_answer = ৬",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q191_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS36_Q191_H_AMBIG",
+    "item_id": "BCS36_Q191",
+    "family_id": "interleaved_sequence_multiples7_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS36_Q191_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৬",
+        "normalized_text": "final_answer = ৬",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS36_Q191_g1"
+      }
+    ]
+  }
+]

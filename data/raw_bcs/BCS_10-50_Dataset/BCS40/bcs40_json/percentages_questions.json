@@ -1,0 +1,51 @@
+[
+  {
+    "family_id": "Q163",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "time under simple interest",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "number of years",
+    "english_glossary": {},
+    "question_bn": "৪৫০ টাকা বার্ষিক ৬% সুদে কত বছরে সুদে-আসলে ৫৫৮ টাকা হবে?",
+    "answer_options": [
+      "৩ বছরে",
+      "৪ বছরে",
+      "৫ বছরে",
+      "৬ বছরে"
+    ],
+    "correct_answer": "৪ বছরে",
+    "solution_steps": [
+      "Under the simple-interest convention, total interest is 558−450=108 taka.",
+      "Yearly interest is 450×0.06=27 taka.",
+      "Time=108/27=4 years."
+    ]
+  },
+  {
+    "family_id": "Q164",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "cost price from two profit/loss scenarios",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "cost price",
+    "english_glossary": {
+      "ক্ষতি": "loss",
+      "লাভ": "profit"
+    },
+    "question_bn": "একটি মোটর সাইকেল ১২% ক্ষতিতে বিক্রি করা হলো। যদি বিক্রয় মূল্য ১২০০ টাকা বেশি হতো তাহলে ৮% লাভ হতো। মোটর সাইকেলের ক্রয়মূল্য−",
+    "answer_options": [
+      "৬০০০ টাকা",
+      "৫০০০ টাকা",
+      "৪০০০ টাকা",
+      "৮০০০ টাকা"
+    ],
+    "correct_answer": "৬০০০ টাকা",
+    "solution_steps": [
+      "Let the cost be C. The two selling prices are 0.88C and 1.08C.",
+      "Their difference is 0.20C=1200.",
+      "Hence C=1200/0.20=6000 taka."
+    ]
+  }
+]

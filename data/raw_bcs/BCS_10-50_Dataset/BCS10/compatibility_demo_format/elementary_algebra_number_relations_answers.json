@@ -1,0 +1,247 @@
+[
+  {
+    "family_id": "prime_numbers_in_range_f01",
+    "item_id": "BCS10_Q085",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "১১টি",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ১১টি পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "৮টি",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ৮টি লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "৯টি",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ৯টি বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "identify_prime_number_f01",
+    "item_id": "BCS10_Q086",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "১৪৩",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ১৪৩ পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "৯১",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ৯১ লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "৮৭",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ৮৭ বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "gcd_lcm_product_f01",
+    "item_id": "BCS10_Q087",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "২৪",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ২৪ পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "৩২",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ৩২ লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "১২",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ১২ বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "decimal_product_fraction_f01",
+    "item_id": "BCS10_Q088",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "১/৮০",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ১/৮০ পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "১/৮০০",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ১/৮০০ লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "১/৮০০০",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ১/৮০০০ বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "sum_difference_find_product_f01",
+    "item_id": "BCS10_Q094",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "2",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে 2 পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "3",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে 3 লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "3",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে 3 বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "factor_identity_parameter_f01",
+    "item_id": "BCS10_Q095",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "-5",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে -5 পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "25",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে 25 লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "-25",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে -25 বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "sum_cubes_sum_zero_f01",
+    "item_id": "BCS10_Q100",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "abc",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে abc পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "6abc",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে 6abc লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "9abc",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে 9abc বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  }
+]

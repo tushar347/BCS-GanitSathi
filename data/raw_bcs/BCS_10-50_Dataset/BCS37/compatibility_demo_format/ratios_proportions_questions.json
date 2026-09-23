@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "fractional_ratio_partition_f01",
+    "item_id": "BCS37_Q193",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "fractional_ratio_partition",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "গ.সা.গু": "GCD"
+    },
+    "question_bn": "261 টি আম তিন ভাইয়ের মধ্যে 1/3 : 1/5 : 1/9 অনুপাতে ভাগ করে দিলে প্রথম ভাই কতটি আম পাবে?",
+    "answer_options": [
+      "45",
+      "81",
+      "90",
+      "135"
+    ],
+    "correct_answer": "135",
+    "solution_steps": [
+      "Convert the fractional ratio using LCM 45: 15:9:5.",
+      "Total ratio parts=29.",
+      "First share=261×15/29=135."
+    ],
+    "source_page": 20,
+    "source_exam": "37th BCS"
+  }
+]

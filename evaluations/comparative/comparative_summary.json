@@ -1,0 +1,162 @@
+{
+  "B0_RuleTemplate": {
+    "system_name": "B0_RuleTemplate",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": "NA",
+      "first_error_accuracy": 0.3286,
+      "unsupported_commit_risk": 0.0,
+      "commitment_coverage": 0.0,
+      "total_commitments": 0
+    },
+    "resource_stats": {
+      "avg_latency_ms": 0.01,
+      "total_neural_calls": 0,
+      "total_symbolic_calls": 0,
+      "total_tokens_generated": 724,
+      "total_steps": 70
+    }
+  },
+  "B1_PromptedTutor": {
+    "system_name": "B1_PromptedTutor",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": 1.4286,
+      "first_error_accuracy": 0.3286,
+      "unsupported_commit_risk": 0.5652,
+      "commitment_coverage": 0.6571,
+      "total_commitments": 46
+    },
+    "resource_stats": {
+      "avg_latency_ms": 0.07,
+      "total_neural_calls": 0,
+      "total_symbolic_calls": 0,
+      "total_tokens_generated": 534,
+      "total_steps": 70
+    }
+  },
+  "B2_VerifyThenGenerate": {
+    "system_name": "B2_VerifyThenGenerate",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": 1.4286,
+      "first_error_accuracy": 0.3143,
+      "unsupported_commit_risk": 0.0,
+      "commitment_coverage": 0.0,
+      "total_commitments": 0
+    },
+    "resource_stats": {
+      "avg_latency_ms": 151.37,
+      "total_neural_calls": 0,
+      "total_symbolic_calls": 70,
+      "total_tokens_generated": 748,
+      "total_steps": 70
+    }
+  },
+  "B3_BayesianDiagnostic": {
+    "system_name": "B3_BayesianDiagnostic",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": 0.8099,
+      "first_error_accuracy": 0.3143,
+      "unsupported_commit_risk": 0.0,
+      "commitment_coverage": 0.0,
+      "total_commitments": 0
+    },
+    "resource_stats": {
+      "avg_latency_ms": 166.82,
+      "total_neural_calls": 0,
+      "total_symbolic_calls": 70,
+      "total_tokens_generated": 560,
+      "total_steps": 70
+    }
+  },
+  "B4_IntelliCode": {
+    "system_name": "B4_IntelliCode",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": 0.8422,
+      "first_error_accuracy": 0.0,
+      "unsupported_commit_risk": 0.7143,
+      "commitment_coverage": 1.0,
+      "total_commitments": 70
+    },
+    "resource_stats": {
+      "avg_latency_ms": 127.03,
+      "total_neural_calls": 0,
+      "total_symbolic_calls": 70,
+      "total_tokens_generated": 910,
+      "total_steps": 70
+    }
+  },
+  "B5_ScaffoldLM": {
+    "system_name": "B5_ScaffoldLM",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": 0.9979,
+      "first_error_accuracy": 0.0,
+      "unsupported_commit_risk": 0.7143,
+      "commitment_coverage": 1.0,
+      "total_commitments": 70
+    },
+    "resource_stats": {
+      "avg_latency_ms": 127.18,
+      "total_neural_calls": 0,
+      "total_symbolic_calls": 70,
+      "total_tokens_generated": 1100,
+      "total_steps": 70
+    }
+  },
+  "B6_SLOW": {
+    "system_name": "B6_SLOW",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": 1.0417,
+      "first_error_accuracy": 0.0,
+      "unsupported_commit_risk": 0.7143,
+      "commitment_coverage": 1.0,
+      "total_commitments": 70
+    },
+    "resource_stats": {
+      "avg_latency_ms": 132.72,
+      "total_neural_calls": 70,
+      "total_symbolic_calls": 140,
+      "total_tokens_generated": 722,
+      "total_steps": 70
+    }
+  },
+  "GonitSathi_G": {
+    "system_name": "GonitSathi_G",
+    "split": "test",
+    "total_families": 102,
+    "total_histories": 70,
+    "metrics": {
+      "multiclass_brier_score": 1.009,
+      "first_error_accuracy": 0.3571,
+      "unsupported_commit_risk": 0.0,
+      "commitment_coverage": 0.0,
+      "total_commitments": 0
+    },
+    "resource_stats": {
+      "avg_latency_ms": 162.0,
+      "total_neural_calls": 0,
+      "total_symbolic_calls": 70,
+      "total_tokens_generated": 792,
+      "total_steps": 70
+    }
+  }
+}

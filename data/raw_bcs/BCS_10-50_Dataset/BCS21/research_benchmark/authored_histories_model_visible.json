@@ -1,0 +1,562 @@
+[
+  {
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q041_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS21_Q041_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ৩৬ ২/৩%",
+        "normalized_text": "final_answer = ৩৬ ২/৩%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS21_Q041_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q041_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q041_E1C",
+        "event_type": "student_step",
+        "original_text": "Used an incorrect rule and got ৩৩ ১/৩%.",
+        "normalized_text": "final_answer = ৩৩ ১/৩%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q041_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q041_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q041_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ৩৩ ১/৩%.",
+        "normalized_text": "final_answer = ৩৩ ১/৩%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q041_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q041_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS21_Q041_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৩৩ ১/৩%",
+        "normalized_text": "final_answer = ৩৩ ১/৩%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q041_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q042_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS21_Q042_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ৩৩ ১/৩%",
+        "normalized_text": "final_answer = ৩৩ ১/৩%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS21_Q042_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q042_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q042_E1C",
+        "event_type": "student_step",
+        "original_text": "Used an incorrect rule and got ২৫%.",
+        "normalized_text": "final_answer = ২৫%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q042_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q042_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q042_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ২৫%.",
+        "normalized_text": "final_answer = ২৫%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q042_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q042_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS21_Q042_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "২৫%",
+        "normalized_text": "final_answer = ২৫%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q042_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q043_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS21_Q043_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ২০০ টাকা",
+        "normalized_text": "final_answer = ২০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS21_Q043_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q043_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q043_E1C",
+        "event_type": "student_step",
+        "original_text": "Used an incorrect rule and got ১০০ টাকা.",
+        "normalized_text": "final_answer = ১০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q043_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q043_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q043_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ১০০ টাকা.",
+        "normalized_text": "final_answer = ১০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q043_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q043_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS21_Q043_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "১০০ টাকা",
+        "normalized_text": "final_answer = ১০০ টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q043_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q044_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS21_Q044_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ৪ গ্রাম",
+        "normalized_text": "final_answer = ৪ গ্রাম",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS21_Q044_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q044_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q044_E1C",
+        "event_type": "student_step",
+        "original_text": "Used an incorrect rule and got ১২ গ্রাম.",
+        "normalized_text": "final_answer = ১২ গ্রাম",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q044_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q044_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q044_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ১২ গ্রাম.",
+        "normalized_text": "final_answer = ১২ গ্রাম",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q044_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q044_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS21_Q044_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "১২ গ্রাম",
+        "normalized_text": "final_answer = ১২ গ্রাম",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q044_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q046_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS21_Q046_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ১৬ : ১৫",
+        "normalized_text": "final_answer = ১৬ : ১৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS21_Q046_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q046_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q046_E1C",
+        "event_type": "student_step",
+        "original_text": "Used an incorrect rule and got ১৫ : ১৬.",
+        "normalized_text": "final_answer = ১৫ : ১৬",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q046_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q046_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q046_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ১৫ : ১৬.",
+        "normalized_text": "final_answer = ১৫ : ১৬",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q046_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q046_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS21_Q046_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "১৫ : ১৬",
+        "normalized_text": "final_answer = ১৫ : ১৬",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q046_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q049_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS21_Q049_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ২১",
+        "normalized_text": "final_answer = ২১",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS21_Q049_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q049_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q049_E1C",
+        "event_type": "student_step",
+        "original_text": "Used an incorrect rule and got ৩৯.",
+        "normalized_text": "final_answer = ৩৯",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q049_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q049_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q049_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ৩৯.",
+        "normalized_text": "final_answer = ৩৯",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q049_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q049_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS21_Q049_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৩৯",
+        "normalized_text": "final_answer = ৩৯",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q049_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q050_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS21_Q050_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ৮০ কেজি",
+        "normalized_text": "final_answer = ৮০ কেজি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS21_Q050_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q050_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q050_E1C",
+        "event_type": "student_step",
+        "original_text": "Used an incorrect rule and got ১০০ কেজি.",
+        "normalized_text": "final_answer = ১০০ কেজি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q050_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q050_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS21_Q050_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ১০০ কেজি.",
+        "normalized_text": "final_answer = ১০০ কেজি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q050_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS21_Q050_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS21_Q050_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "১০০ কেজি",
+        "normalized_text": "final_answer = ১০০ কেজি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS21_Q050_g1"
+      }
+    ]
+  }
+]

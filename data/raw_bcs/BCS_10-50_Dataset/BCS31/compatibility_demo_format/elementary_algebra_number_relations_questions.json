@@ -1,0 +1,400 @@
+[
+  {
+    "family_id": "fraction_comparison_f01",
+    "item_id": "BCS31_Q081",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "fraction_comparison",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "কোনটি সবচেয়ে ছোট?",
+    "answer_options": [
+      "2/11",
+      "3/11",
+      "2/13",
+      "4/15"
+    ],
+    "correct_answer": "2/13",
+    "solution_steps": [
+      "Compare the positive fractions by decimal value or cross multiplication.",
+      "2/13≈0.154, 2/11≈0.182, 4/15≈0.267 and 3/11≈0.273.",
+      "Thus 2/13 is the smallest."
+    ],
+    "source_page": 9,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "log_power_reciprocal_f01",
+    "item_id": "BCS31_Q086",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithm_power",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "log₂(1/32) = কত?",
+    "answer_options": [
+      "1/25",
+      "−5",
+      "1/5",
+      "−1/5"
+    ],
+    "correct_answer": "−5",
+    "solution_steps": [
+      "1/32=2^-5.",
+      "Therefore log_2(1/32)=-5."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "polynomial_gcd_factorization_f01",
+    "item_id": "BCS31_Q088",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_gcd",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "(4x² − 16) এবং 6x² + 24x + 24 এর গ.সা.গু—",
+    "answer_options": [
+      "x + 2",
+      "x + 4",
+      "x + 5",
+      "2(x + 2)"
+    ],
+    "correct_answer": "2(x + 2)",
+    "solution_steps": [
+      "4x²-16=4(x-2)(x+2).",
+      "6x²+24x+24=6(x+2)².",
+      "The greatest common factor is 2(x+2)."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "item_id": "BCS31_Q089",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "remainder_theorem",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "x³ − x² কে x − 2 দ্বারা ভাগ করলে অবশেষ থাকবে—",
+    "answer_options": [
+      "2",
+      "4",
+      "−6",
+      "−8"
+    ],
+    "correct_answer": "4",
+    "solution_steps": [
+      "By the remainder theorem the remainder is f(2).",
+      "f(2)=2³-2²=8-4=4."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "reciprocal_square_difference_f01",
+    "item_id": "BCS31_Q090",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "reciprocal_square_identity",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "যদি a² + 1/a² = 51 হয় তবে a − 1/a এর মান কত?",
+    "answer_options": [
+      "±9",
+      "±7",
+      "±5",
+      "±3"
+    ],
+    "correct_answer": "±7",
+    "solution_steps": [
+      "(a-1/a)²=a²+1/a²-2.",
+      "So (a-1/a)²=51-2=49.",
+      "Hence a-1/a=±7."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "linear_system_substitution_f01",
+    "item_id": "BCS31_Q091",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "linear_system_two_variables",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "3x − 7y + 10 = 0 এবং y − 2x − 3 = 0 এর সমাধান—",
+    "answer_options": [
+      "x = 1, y = −1",
+      "x = 1, y = 1",
+      "x = −1, y = −1",
+      "x = −1, y = 1"
+    ],
+    "correct_answer": "x = −1, y = 1",
+    "solution_steps": [
+      "From y-2x-3=0, y=2x+3.",
+      "Substitute into 3x-7y+10=0 to get -11x-11=0.",
+      "Thus x=-1 and y=1."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "numbers_from_sum_product_f01",
+    "item_id": "BCS31_Q092",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "numbers_from_sum_product",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "যদি a + b = 2, ab = 1 হয় তবে a এবং b এর মান যথাক্রমে—",
+    "answer_options": [
+      "0, 2",
+      "1, 1",
+      "−1, 3",
+      "−3, −4"
+    ],
+    "correct_answer": "1, 1",
+    "solution_steps": [
+      "a and b are roots of t²-2t+1=0.",
+      "This is (t-1)²=0.",
+      "So a=b=1."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "sum_first_n_squares_identity_f01",
+    "item_id": "BCS31_Q093",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_of_squares_formula",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "1² + 2² + 3² + ........... + x² এর মান কত?",
+    "answer_options": [
+      "x(x + 1)(2x + 1)/6",
+      "x(x + 1)/2",
+      "x",
+      "{x(x + 1)/2}²"
+    ],
+    "correct_answer": "x(x + 1)(2x + 1)/6",
+    "solution_steps": [
+      "Use the standard identity for the sum of the first x squares.",
+      "1²+2²+...+x²=x(x+1)(2x+1)/6."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "function_evaluation_zero_f01",
+    "item_id": "BCS31_Q094",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "function_evaluation",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "f(x) = x³ − 2x + 10 হলে f(0) = কত?",
+    "answer_options": [
+      "1",
+      "5",
+      "8",
+      "10"
+    ],
+    "correct_answer": "10",
+    "solution_steps": [
+      "Substitute x=0.",
+      "f(0)=0-0+10=10."
+    ],
+    "source_page": 10,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "larger_number_from_sum_product_f01",
+    "item_id": "BCS31_Q096",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "larger_number_from_sum_product",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "দুটি সংখ্যার যোগফল 48 এবং তাদের গুণফল 432 তবে বড় সংখ্যাটি কত?",
+    "answer_options": [
+      "36",
+      "37",
+      "38",
+      "40"
+    ],
+    "correct_answer": "36",
+    "solution_steps": [
+      "The numbers are roots of t²-48t+432=0.",
+      "This factors as (t-12)(t-36)=0.",
+      "The larger number is 36."
+    ],
+    "source_page": 11,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "item_id": "BCS31_Q098",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "fractional_exponents",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "যদি (64)^(2/3) + (625)^(1/2) = 3k হয় তবে k এর মান—",
+    "answer_options": [
+      "9 2/3",
+      "11 1/3",
+      "12 2/5",
+      "13 2/3"
+    ],
+    "correct_answer": "13 2/3",
+    "solution_steps": [
+      "64^(2/3)=(cube root 64)^2=4²=16.",
+      "625^(1/2)=25, so the sum is 41.",
+      "3k=41, hence k=41/3=13 2/3."
+    ],
+    "source_page": 11,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "item_id": "BCS31_Q099",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "reciprocal_sum_from_sum_product",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "যদি দুটি সংখ্যার যোগফল এবং গুণফল যথাক্রমে 20 এবং 96 হয়, তবে সংখ্যা দুটির ব্যস্তানুপাতিক যোগফল কত হবে?",
+    "answer_options": [
+      "1/8",
+      "1/6",
+      "13/4",
+      "5/24"
+    ],
+    "correct_answer": "5/24",
+    "solution_steps": [
+      "For numbers a and b, 1/a+1/b=(a+b)/(ab).",
+      "Using a+b=20 and ab=96 gives 20/96=5/24."
+    ],
+    "source_page": 11,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "item_id": "BCS31_Q100",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "largest_smallest_digit_arrangement",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "0, 1, 2 এবং 3 দ্বারা গঠিত চার অঙ্কের বৃহত্তম এবং ক্ষুদ্রতম সংখ্যার বিয়োগফল—",
+    "answer_options": [
+      "3147",
+      "2287",
+      "2987",
+      "2187"
+    ],
+    "correct_answer": "2187",
+    "solution_steps": [
+      "Using each digit once, the largest number is 3210.",
+      "The smallest four-digit number is 1023 because the leading digit cannot be 0.",
+      "3210-1023=2187."
+    ],
+    "source_page": 11,
+    "source_exam": "31th BCS"
+  }
+]

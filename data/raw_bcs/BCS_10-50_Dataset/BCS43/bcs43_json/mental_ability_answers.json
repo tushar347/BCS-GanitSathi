@@ -1,0 +1,197 @@
+[
+  {
+    "family_id": "Q176",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "ম",
+        "reasoning_steps": [
+          "Recognize the nasal-consonant sequence but skip the dental nasal ন.",
+          "Select ম."
+        ],
+        "code": "BCS43-176-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "ঠ",
+        "reasoning_steps": [
+          "Treat the sequence as moving backward inside one consonant group.",
+          "Choose ঠ without following the group-ending nasal pattern."
+        ],
+        "code": "BCS43-176-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q177",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "Traditional",
+        "reasoning_steps": [
+          "Choose the last word without comparing the shared customary-versus-unusual relationship.",
+          "Mark Traditional as different."
+        ],
+        "code": "BCS43-177-INTERPRETATION-01"
+      }
+    ]
+  },
+  {
+    "family_id": "Q178",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "GF",
+        "reasoning_steps": [
+          "Find the required letters F and G but reverse their order.",
+          "Return GF."
+        ],
+        "code": "BCS43-178-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "DE",
+        "reasoning_steps": [
+          "Repeat the preceding even-position pair instead of advancing both letters.",
+          "Return DE."
+        ],
+        "code": "BCS43-178-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q179",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "examination",
+        "reasoning_steps": [
+          "Focus on examination-based competitions only.",
+          "Treat one possible form of competition as a feature of every competition."
+        ],
+        "code": "BCS43-179-INTERPRETATION-01"
+      }
+    ]
+  },
+  {
+    "family_id": "Q181",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "INHALE",
+        "reasoning_steps": [
+          "Change the relationship to an activity and a related action.",
+          "Choose INHALE instead of the intended requirement."
+        ],
+        "code": "BCS43-181-INTERPRETATION-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "WINDPIPE",
+        "reasoning_steps": [
+          "Choose an anatomical passage rather than the required substance used in the analogy.",
+          "Select WINDPIPE."
+        ],
+        "code": "BCS43-181-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q183",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "214763",
+        "reasoning_steps": [
+          "Find the correct digit for each letter.",
+          "Interchange the positions of R and C when writing the code.",
+          "Return 214763."
+        ],
+        "code": "BCS43-183-INTERPRETATION-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "246173",
+        "reasoning_steps": [
+          "Use the letters in SARECH order instead of SEARCH.",
+          "Return 246173."
+        ],
+        "code": "BCS43-183-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q184",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "6",
+        "reasoning_steps": [
+          "Add the two numbers without squaring them.",
+          "Return 1+5=6."
+        ],
+        "code": "BCS43-184-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "25",
+        "reasoning_steps": [
+          "Square only the larger number and ignore 1.",
+          "Return 5²=25."
+        ],
+        "code": "BCS43-184-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q185",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "চাচা",
+        "reasoning_steps": [
+          "Stop at the grandfather’s son and mistake the boy for that generation.",
+          "Report paternal uncle."
+        ],
+        "code": "BCS43-185-INTERPRETATION-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "ছেলে",
+        "reasoning_steps": [
+          "Ignore the two preceding generations and attach the final son directly to Tinni.",
+          "Report son."
+        ],
+        "code": "BCS43-185-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q186",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "প্লুটো",
+        "reasoning_steps": [
+          "Group only major planets together and identify Pluto by its dwarf-planet status.",
+          "Ignore that the Moon is also not a major planet, so this does not isolate the source’s intended one-item distinction."
+        ],
+        "code": "BCS43-186-INTERPRETATION-01"
+      }
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "খ",
+        "reasoning_steps": [
+          "Retain the W produced by the first pair instead of applying the operation to the inverted V.",
+          "Select the W-shaped alternative."
+        ],
+        "code": "BCS43-200-INTERPRETATION-01"
+      }
+    ]
+  }
+]

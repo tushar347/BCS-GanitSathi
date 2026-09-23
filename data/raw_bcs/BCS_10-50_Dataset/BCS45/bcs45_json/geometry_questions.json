@@ -1,0 +1,85 @@
+[
+  {
+    "family_id": "Q165",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "recognising a straight-line equation in Cartesian coordinates",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "equation representing a straight line",
+    "english_glossary": {
+      "সরলরেখা": "straight line",
+      "সমীকরণ": "equation"
+    },
+    "question_bn": "নিচের কোনটি সরলরেখার সমীকরণ?",
+    "answer_options": [
+      "$\\frac{x}{y}=\\frac{y}{2}$",
+      "$x^{-2}+y=1$",
+      "$\\frac{x}{y}=\\frac{1}{2}$",
+      "$x=\\frac{1}{y}$"
+    ],
+    "correct_answer": "$\\frac{x}{y}=\\frac{1}{2}$",
+    "solution_steps": [
+      "A Cartesian straight-line equation can be rearranged into a first-degree relation between x and y.",
+      "For the third option, multiply x/y = 1/2 by 2y to obtain 2x = y, with y ≠ 0 retained from the original fraction.",
+      "The other options give 2x = y^2, y = 1−1/x^2, and xy = 1; these are not first-degree line equations.",
+      "Select x/y = 1/2 as the source's line option, noting that the displayed fraction excludes the origin."
+    ]
+  },
+  {
+    "family_id": "Q170",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "selecting an angle from a trigonometric identity",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "angle theta in degrees",
+    "english_glossary": {
+      "যদি": "if",
+      "হয়": "holds"
+    },
+    "question_bn": "যদি $1+\\tan^{2}\\theta=4$ এবং $\\theta<90^{\\circ}$ হয়, θ = ?",
+    "answer_options": [
+      "30°",
+      "45°",
+      "60°",
+      "0°"
+    ],
+    "correct_answer": "60°",
+    "solution_steps": [
+      "Subtract 1 from the equation to obtain tan^2(theta) = 3.",
+      "Check the supplied options rather than assuming the printed upper bound uniquely determines all real solutions.",
+      "For theta = 60 degrees, tan(theta) = √3, so 1+tan^2(theta) = 4 and theta < 90 degrees.",
+      "The other listed angles do not satisfy the equation; select 60 degrees."
+    ]
+  },
+  {
+    "family_id": "Q172",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "recognising a right triangle from side ratios",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "largest angle of the triangle",
+    "english_glossary": {
+      "ত্রিভুজ": "triangle",
+      "বাহুগুলোর": "of the sides",
+      "অনুপাত": "ratio",
+      "বৃহত্তম কোণ": "largest angle"
+    },
+    "question_bn": "একটি ত্রিভুজের বাহুগুলোর অনুপাত ১ : ২√২ : ৩ হলে এর বৃহত্তম কোণটির মান কত?",
+    "answer_options": [
+      "30°",
+      "60°",
+      "80°",
+      "90°"
+    ],
+    "correct_answer": "90°",
+    "solution_steps": [
+      "Represent the side lengths by k, 2√2 k, and 3k, where k > 0.",
+      "Their squared relative lengths are 1, 8, and 9.",
+      "Since 1+8 = 9, the triangle satisfies the Pythagorean relation and its largest side is the hypotenuse.",
+      "The angle opposite the side 3k is therefore the largest angle and equals 90 degrees."
+    ]
+  }
+]

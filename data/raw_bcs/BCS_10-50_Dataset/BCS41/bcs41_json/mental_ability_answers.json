@@ -1,0 +1,145 @@
+[
+  {
+    "family_id": "Q104",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "প্র তা রি দা",
+        "reasoning_steps": [
+          "Select a group by familiar-looking clusters without constructing a word using all clusters exactly once.",
+          "Choose the third option."
+        ],
+        "code": "BCS41-104-INTERPRETATION-01"
+      }
+    ]
+  },
+  {
+    "family_id": "Q105",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "পিতা",
+        "reasoning_steps": [
+          "Identify খ as গ’s father but attach that relationship directly to ঙ.",
+          "Ignore the marriage link."
+        ],
+        "code": "BCS41-105-INTERPRETATION-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "চাচা",
+        "reasoning_steps": [
+          "Use the brother relationship involving ঘ instead of the requested person খ.",
+          "Report paternal uncle."
+        ],
+        "code": "BCS41-105-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q106",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "মঙ্গলবার",
+        "reasoning_steps": [
+          "Use a one-day shift by misreading the date interval as 15 days.",
+          "Move forward one weekday from Monday."
+        ],
+        "code": "BCS41-106-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "সোমবার",
+        "reasoning_steps": [
+          "Ignore all days beyond the two complete weeks.",
+          "Keep Monday and lose the remaining two days."
+        ],
+        "code": "BCS41-106-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q107",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০৮",
+        "reasoning_steps": [
+          "Add the two lower entries before multiplication.",
+          "Calculate 9×(7+5)=108, unlike the example rule."
+        ],
+        "code": "BCS41-107-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৫২",
+        "reasoning_steps": [
+          "Swap the lower-left and lower-right entries.",
+          "Calculate 9×5+7=52."
+        ],
+        "code": "BCS41-107-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q114",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "তাপমাত্রা",
+        "reasoning_steps": [
+          "Change the relationship from instrument and indicator to instrument and measured quantity.",
+          "Choose temperature."
+        ],
+        "code": "BCS41-114-INTERPRETATION-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "ফারেনহাইট",
+        "reasoning_steps": [
+          "Choose a measurement scale rather than the indicator material.",
+          "Select Fahrenheit."
+        ],
+        "code": "BCS41-114-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q117",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "পূর্ব",
+        "reasoning_steps": [
+          "Apply only the first right turn.",
+          "Stop at east."
+        ],
+        "code": "BCS41-117-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "উত্তর",
+        "reasoning_steps": [
+          "Use the initial direction throughout and ignore both changes of heading.",
+          "Return north."
+        ],
+        "code": "BCS41-117-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "BCS41-200-CONCEPTUAL-01",
+        "wrong_answer": "NOITALER",
+        "reasoning_steps": [
+          "Reverse the character order but keep each letter in its ordinary, unmirrored orientation.",
+          "Return NOITALER instead of reflecting the asymmetric letter shapes as well."
+        ]
+      }
+    ]
+  }
+]

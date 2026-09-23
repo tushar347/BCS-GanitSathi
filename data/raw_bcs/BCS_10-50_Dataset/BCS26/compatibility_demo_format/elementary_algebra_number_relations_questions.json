@@ -1,0 +1,322 @@
+[
+  {
+    "family_id": "triangular_number_sequence_bcs26_q181_f01",
+    "item_id": "BCS26_Q181",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "triangular_number_sequence",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "১, ৩, ৬, ১০, ১৫, ২১ ....... ধারাটির দশম পদ কত?",
+    "answer_options": [
+      "৪৫",
+      "৫৫",
+      "৬২",
+      "৬৫"
+    ],
+    "correct_answer": "৫৫",
+    "solution_steps": [
+      "এটি triangular number ধারা: n(n+1)/2।",
+      "10তম পদ = 10×11/2 = 55।"
+    ],
+    "source_page": 30,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "fraction_of_number_equation_bcs26_q187_f01",
+    "item_id": "BCS26_Q187",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "fraction_of_number_equation",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "কোন সংখ্যার ১/২ অংশের সাথে ৬ যোগ করলে সংখ্যাটির ২/৩ অংশ হবে। সংখ্যাটি কত?",
+    "answer_options": [
+      "৫৩",
+      "৬৩",
+      "৩৬",
+      "৩৫"
+    ],
+    "correct_answer": "৩৬",
+    "solution_steps": [
+      "x/2+6=2x/3।",
+      "৬ দিয়ে গুণ: 3x+36=4x।",
+      "x=36।"
+    ],
+    "source_page": 31,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "count_primes_interval_bcs26_q188_f01",
+    "item_id": "BCS26_Q188",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "count_primes_interval",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "৪৩ থেকে ৬০-এর মধ্যে মৌলিক সংখ্যার সংখ্যা কত?",
+    "answer_options": [
+      "৫",
+      "৩",
+      "৭",
+      "৪"
+    ],
+    "correct_answer": "৪",
+    "solution_steps": [
+      "মৌলিক সংখ্যা: 43, 47, 53, 59।",
+      "মোট 4।"
+    ],
+    "source_page": 32,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "sqrt_prime_irrational_bcs26_q189_f01",
+    "item_id": "BCS26_Q189",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sqrt_prime_irrational",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "যদি P একটি মৌলিক সংখ্যা হয় তবে √P কী ধরনের সংখ্যা?",
+    "answer_options": [
+      "স্বাভাবিক সংখ্যা",
+      "পূর্ণসংখ্যা",
+      "মূলদ সংখ্যা",
+      "অমূলদ সংখ্যা"
+    ],
+    "correct_answer": "অমূলদ সংখ্যা",
+    "solution_steps": [
+      "মৌলিক P পূর্ণবর্গ নয়।",
+      "পূর্ণবর্গ নয় এমন ধনাত্মক পূর্ণসংখ্যার বর্গমূল অমূলদ।"
+    ],
+    "source_page": 32,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "radical_power_bcs26_q190_f01",
+    "item_id": "BCS26_Q190",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "radical_power",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "(√3 × √5)^4-এর মান কত?",
+    "answer_options": [
+      "30",
+      "60",
+      "225",
+      "15"
+    ],
+    "correct_answer": "225",
+    "solution_steps": [
+      "√3×√5=√15।",
+      "(√15)^4=15^2=225।"
+    ],
+    "source_page": 32,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "count_divisors_bcs26_q192_f01",
+    "item_id": "BCS26_Q192",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "count_divisors",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "৭২ সংখ্যাটির মোট ভাজক কতটি?",
+    "answer_options": [
+      "৯টি",
+      "১০টি",
+      "১১টি",
+      "১২টি"
+    ],
+    "correct_answer": "১২টি",
+    "solution_steps": [
+      "72=2^3×3^2।",
+      "ভাজক সংখ্যা=(3+1)(2+1)=12।"
+    ],
+    "source_page": 32,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "consecutive_square_difference_bcs26_q193_f01",
+    "item_id": "BCS26_Q193",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "consecutive_square_difference",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "দুইটি ক্রমিক পূর্ণসংখ্যা নির্ণয় করুন, যাদের বর্গের অন্তর ৪৭।",
+    "answer_options": [
+      "২১ এবং ২২",
+      "২২ এবং ২৩",
+      "২৩ এবং ২৪",
+      "২৪ এবং ২৫"
+    ],
+    "correct_answer": "২৩ এবং ২৪",
+    "solution_steps": [
+      "(n+1)^2−n^2=2n+1=47।",
+      "n=23, তাই সংখ্যা 23 ও 24।"
+    ],
+    "source_page": 32,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "sum_difference_square_sum_bcs26_q194_f01",
+    "item_id": "BCS26_Q194",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_difference_square_sum",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "x+y = 8, x−y = 6 হলে, x^2+y^2-এর মান কত?",
+    "answer_options": [
+      "40",
+      "60",
+      "50",
+      "80"
+    ],
+    "correct_answer": "50",
+    "solution_steps": [
+      "x=7, y=1।",
+      "x^2+y^2=49+1=50।"
+    ],
+    "source_page": 33,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "reciprocal_square_identity_bcs26_q195_f01",
+    "item_id": "BCS26_Q195",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "reciprocal_square_identity",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "a + 1/a = √3 হলে, a^2 + 1/a^2-এর মান কত?",
+    "answer_options": [
+      "6",
+      "4",
+      "2",
+      "1"
+    ],
+    "correct_answer": "1",
+    "solution_steps": [
+      "(a+1/a)^2=a^2+2+1/a^2=3।",
+      "তাই a^2+1/a^2=1।"
+    ],
+    "source_page": 33,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "complete_square_cross_term_bcs26_q198_f01",
+    "item_id": "BCS26_Q198",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "complete_square_cross_term",
+    "difficulty_rating": 3,
+    "target_completion_time": "90-180 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "x^2 − 8x − 8y + 16 + y^2-এর সঙ্গে কত যোগ করলে যোগফল একটি পূর্ণবর্গ হবে?",
+    "answer_options": [
+      "−2xy",
+      "8xy",
+      "6xy",
+      "2xy"
+    ],
+    "correct_answer": "2xy",
+    "solution_steps": [
+      "বর্তমান রাশি = (x−4)^2 + y^2−8y।",
+      "2xy যোগ করলে x^2+2xy+y^2−8x−8y+16 = (x+y−4)^2।"
+    ],
+    "source_page": 33,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "factor_difference_square_shift_bcs26_q199_f01",
+    "item_id": "BCS26_Q199",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "factor_difference_square_shift",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "x^2 − y^2 + 2y − 1-এর একটি উৎপাদক কোনটি?",
+    "answer_options": [
+      "x+y+1",
+      "x−y",
+      "x+y−1",
+      "x−y−1"
+    ],
+    "correct_answer": "x+y−1",
+    "solution_steps": [
+      "x^2−(y−1)^2।",
+      "= (x−y+1)(x+y−1)।"
+    ],
+    "source_page": 33,
+    "source_exam": "26th BCS"
+  }
+]

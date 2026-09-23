@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "average_speed_round_trip_bcs23_q072_f01",
+    "item_id": "BCS23_Q072",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "average_speed_round_trip",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time"
+    },
+    "question_bn": "একজন মাঝি স্রোতের অনুকূলে ২ ঘণ্টায় ৫ মাইল যায় এবং ৪ ঘণ্টায় প্রাথমিক অবস্থানে ফিরে আসে। তার ভ্রমণে প্রতি ঘণ্টায় গড় গতিবেগ কত?",
+    "answer_options": [
+      "৫/৬ মাইল",
+      "১ ২/৩ মাইল",
+      "১ ৭/৮ মাইল",
+      "৩ ৩/৮ মাইল"
+    ],
+    "correct_answer": "১ ২/৩ মাইল",
+    "solution_steps": [
+      "মোট দূরত্ব = 10 মাইল।",
+      "মোট সময় = 6 ঘণ্টা।",
+      "গড় গতি = 10/6 = 1 2/3 মাইল/ঘণ্টা।"
+    ],
+    "source_page": 12,
+    "source_exam": "23rd BCS"
+  }
+]

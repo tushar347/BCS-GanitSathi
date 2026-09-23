@@ -1,0 +1,64 @@
+[
+  {
+    "family_id": "cricket_wicket_ratio_counts_f01",
+    "item_id": "BCS11_Q073",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "count_relation_word_problem",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "অংশ": "part",
+      "পরিমাণ": "quantity"
+    },
+    "question_bn": "একটি ক্রিকেট দলে যতজন স্ট্যাম্প আউট হলো তার দেড়গুণ ক্যাচ আউট হলো এবং মোট উইকেটের অর্ধেক বোল্ড আউট হলো। এই দলের কতজন ক্যাচ আউট হলো?",
+    "answer_options": [
+      "৪ জন",
+      "৩ জন",
+      "২ জন",
+      "৫ জন"
+    ],
+    "correct_answer": "৩ জন",
+    "solution_steps": [
+      "স্ট্যাম্প আউট = s, ক্যাচ আউট = 1.5s।",
+      "বোল্ড আউট মোটের অর্ধেক, তাই স্ট্যাম্প+ক্যাচ = মোটের অর্ধেক; সুতরাং বোল্ড = s+1.5s।",
+      "মোট উইকেট 10 ধরলে s+1.5s=5, তাই s=2 এবং ক্যাচ=3।"
+    ],
+    "source_page": 6,
+    "source_exam": "11th BCS"
+  },
+  {
+    "family_id": "ratio_difference_find_quantity_f01",
+    "item_id": "BCS11_Q077",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "ratio_difference_find_part",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "অংশ": "part",
+      "পরিমাণ": "quantity"
+    },
+    "question_bn": "একটি পাত্রে দুধ ও পানির অনুপাত ৫ : ২। যদি পানি অপেক্ষা দুধের পরিমাণ ৬ লিটার বেশি হয়, পানির পরিমাণ কত?",
+    "answer_options": [
+      "১৪ লিটার",
+      "৬ লিটার",
+      "১০ লিটার",
+      "৪ লিটার"
+    ],
+    "correct_answer": "৪ লিটার",
+    "solution_steps": [
+      "অনুপাতের পার্থক্য 5-2=3 অংশ = 6 লিটার।",
+      "১ অংশ =2 লিটার।",
+      "পানি =2 অংশ =4 লিটার।"
+    ],
+    "source_page": 6,
+    "source_exam": "11th BCS"
+  }
+]

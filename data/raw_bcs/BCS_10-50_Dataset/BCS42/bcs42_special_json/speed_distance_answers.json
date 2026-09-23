@@ -1,0 +1,37 @@
+[
+  {
+    "family_id": "Q046",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০ কিমি/ঘণ্টা",
+        "reasoning_steps": [
+          "Find the original travel time as 6 hours.",
+          "Use the halved time of 3 hours to calculate 30/3.",
+          "Report the doubled speed instead of the original speed."
+        ],
+        "code": "BCS42-046-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৬ কিমি/ঘণ্টা",
+        "reasoning_steps": [
+          "Obtain t/2=t−3.",
+          "Incorrectly conclude t=5 instead of t=6.",
+          "Calculate 30/5=6 km/h."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS42-046-ARITHMETIC-02"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৭.৫ কিমি/ঘণ্টা",
+        "reasoning_steps": [
+          "Correctly calculate Jaynul’s time as 6 hours and Roni’s time as 4 hours.",
+          "Answer with Roni’s speed, 30/4=7.5 km/h."
+        ],
+        "code": "BCS42-046-INTERPRETATION-03"
+      }
+    ]
+  }
+]

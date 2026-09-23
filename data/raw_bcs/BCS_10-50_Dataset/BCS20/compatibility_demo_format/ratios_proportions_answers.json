@@ -1,0 +1,37 @@
+[
+  {
+    "family_id": "ratio_equal_addition_f01",
+    "item_id": "BCS20_Q098",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "৭ ও ১১",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ৭ ও ১১ পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "১২ ও ১৮",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ১২ ও ১৮ লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "১০ ও ২৪",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ১০ ও ২৪ বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  }
+]

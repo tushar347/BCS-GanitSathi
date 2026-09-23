@@ -1,0 +1,223 @@
+[
+  {
+    "family_id": "metric_mass_conversion_f01",
+    "item_id": "BCS12_Q088",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "metric_unit_conversion",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "২০৫৭৩.৪ মিলিগ্রামে কত কিলোগ্রাম?",
+    "answer_options": [
+      "২.০৫৭৩৪",
+      "০.২০৫৭৩৪",
+      "০.০২০৫৭৩৪",
+      "২০.৫৭৩৪০"
+    ],
+    "correct_answer": "০.০২০৫৭৩৪",
+    "solution_steps": [
+      "১ কিলোগ্রাম = ১,০০০,০০০ মিলিগ্রাম।",
+      "20573.4÷1,000,000=0.0205734 কিলোগ্রাম।"
+    ],
+    "source_page": 7,
+    "source_exam": "12th BCS (Police)"
+  },
+  {
+    "family_id": "complete_square_two_variables_f01",
+    "item_id": "BCS12_Q089",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "complete_square_two_variables",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "x² - 8x - 8y + 16 + y² এর সঙ্গে কত যোগ করলে যোগফল একটি পূর্ণবর্গ হবে?",
+    "answer_options": [
+      "-2xy",
+      "8xy",
+      "6xy",
+      "2xy"
+    ],
+    "correct_answer": "2xy",
+    "solution_steps": [
+      "x²+y²+2xy=(x+y)²।",
+      "প্রদত্ত রাশিতে 2xy যোগ করলে x²+y²+2xy-8x-8y+16 = (x+y-4)²।",
+      "তাই প্রয়োজন 2xy।"
+    ],
+    "source_page": 8,
+    "source_exam": "12th BCS (Police)"
+  },
+  {
+    "family_id": "sophie_germain_identity_f01",
+    "item_id": "BCS12_Q091",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sophie_germain_factorization",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "a⁴ + 4 এর উৎপাদক কী কী?",
+    "answer_options": [
+      "(a² + 2a + 2)(a² + 2a - 2)",
+      "(a² + 2a + 2)(a² - 2a + 2)",
+      "(a² - 2a + 2)(a² + 2a - 2)",
+      "(a² - 2a - 2)(a² - 2a + 2)"
+    ],
+    "correct_answer": "(a² + 2a + 2)(a² - 2a + 2)",
+    "solution_steps": [
+      "Sophie Germain পরিচিতি: a⁴+4 = a⁴+4a²+4-4a²।",
+      "= (a²+2)²-(2a)²।",
+      "= (a²+2a+2)(a²-2a+2)।"
+    ],
+    "source_page": 8,
+    "source_exam": "12th BCS (Police)"
+  },
+  {
+    "family_id": "perfect_square_quadratic_parameter_f01",
+    "item_id": "BCS12_Q092",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "perfect_square_quadratic_parameter",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "p এর মান কত হলে, 4x² - px + 9 একটি পূর্ণবর্গ হবে?",
+    "answer_options": [
+      "১০",
+      "৯",
+      "১৭",
+      "১২"
+    ],
+    "correct_answer": "১২",
+    "solution_steps": [
+      "পূর্ণবর্গ রাশি হবে (2x-3)²=4x²-12x+9।",
+      "তাই p=12।"
+    ],
+    "source_page": 8,
+    "source_exam": "12th BCS (Police)"
+  },
+  {
+    "family_id": "sequence_doubling_differences_f01",
+    "item_id": "BCS12_Q093",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sequence_doubling_difference",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "৮, ১১, ১৭, ২৯, ৫৩, ...... । পরবর্তী সংখ্যাটি কত?",
+    "answer_options": [
+      "১০১",
+      "১০২",
+      "৭৫",
+      "৫৯"
+    ],
+    "correct_answer": "১০১",
+    "solution_steps": [
+      "পার্থক্য 3,6,12,24; প্রতিবার দ্বিগুণ হচ্ছে।",
+      "পরের পার্থক্য 48।",
+      "53+48=101।"
+    ],
+    "source_page": 8,
+    "source_exam": "12th BCS (Police)"
+  },
+  {
+    "family_id": "rational_between_irrationals_f01",
+    "item_id": "BCS12_Q098",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "rational_between_surds",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "নিচের কোন সংখ্যাটি √2 এবং √3 এর মধ্যবর্তী মূলদ সংখ্যা?",
+    "answer_options": [
+      "(√2+√3)/2",
+      "(√2×√3)/2",
+      "1.5",
+      "1.8"
+    ],
+    "correct_answer": "1.5",
+    "solution_steps": [
+      "√2≈1.414 এবং √3≈1.732।",
+      "1.5 এই দুই মানের মধ্যে এবং এটি মূলদ সংখ্যা।"
+    ],
+    "source_page": 8,
+    "source_exam": "12th BCS (Police)"
+  },
+  {
+    "family_id": "lcm_make_perfect_square_f01",
+    "item_id": "BCS12_Q099",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "lcm_perfect_square",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "একটি স্কুলে ছাত্রদের ড্রিল করার সময় ৮, ১০ এবং ১২ সারিতে সাজানো যায়। আবার বর্গাকারেও সাজানো যায়। ঐ স্কুলে কমপক্ষে কতজন ছাত্র আছে?",
+    "answer_options": [
+      "৩৬০০",
+      "২৪০০",
+      "১২০০",
+      "৩০০০"
+    ],
+    "correct_answer": "৩৬০০",
+    "solution_steps": [
+      "LCM(8,10,12)=120।",
+      "প্রয়োজন এমন ক্ষুদ্রতম পূর্ণবর্গ যা 120 দ্বারা বিভাজ্য। 120=2³×3×5।",
+      "সূচক জোড় করতে গুণ করতে হবে 2×3×5=30; ফলে 120×30=3600=60²।"
+    ],
+    "source_page": 8,
+    "source_exam": "12th BCS (Police)"
+  }
+]

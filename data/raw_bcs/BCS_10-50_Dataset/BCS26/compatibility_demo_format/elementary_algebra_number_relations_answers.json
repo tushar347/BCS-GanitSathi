@@ -1,0 +1,354 @@
+[
+  {
+    "family_id": "triangular_number_sequence_bcs26_q181_f01",
+    "item_id": "BCS26_Q181",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "৪৫",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৪৫",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৪৫",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "fraction_of_number_equation_bcs26_q187_f01",
+    "item_id": "BCS26_Q187",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "৫৩",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৫৩",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৫৩",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "count_primes_interval_bcs26_q188_f01",
+    "item_id": "BCS26_Q188",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "৫",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৫",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৫",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "sqrt_prime_irrational_bcs26_q189_f01",
+    "item_id": "BCS26_Q189",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "স্বাভাবিক সংখ্যা",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "স্বাভাবিক সংখ্যা",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "স্বাভাবিক সংখ্যা",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "radical_power_bcs26_q190_f01",
+    "item_id": "BCS26_Q190",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "30",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "30",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "30",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "count_divisors_bcs26_q192_f01",
+    "item_id": "BCS26_Q192",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "৯টি",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৯টি",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৯টি",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "consecutive_square_difference_bcs26_q193_f01",
+    "item_id": "BCS26_Q193",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "২১ এবং ২২",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "২১ এবং ২২",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "২১ এবং ২২",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "sum_difference_square_sum_bcs26_q194_f01",
+    "item_id": "BCS26_Q194",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "40",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "40",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "40",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "reciprocal_square_identity_bcs26_q195_f01",
+    "item_id": "BCS26_Q195",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "6",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "6",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "6",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "complete_square_cross_term_bcs26_q198_f01",
+    "item_id": "BCS26_Q198",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "−2xy",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "−2xy",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "−2xy",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "factor_difference_square_shift_bcs26_q199_f01",
+    "item_id": "BCS26_Q199",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "x+y+1",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "x+y+1",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "x+y+1",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  }
+]

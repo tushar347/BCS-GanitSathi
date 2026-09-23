@@ -1,0 +1,47 @@
+[
+  {
+    "family_id": "Q105",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "GCD of numerical coefficients only",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "greatest common divisor of coefficients",
+    "english_glossary": {},
+    "question_bn": "6 a2bc এবং 4a3b2c2 এর সংখ্যা সহগের গ. সা. গু নিচের কোনটি?",
+    "answer_options": [
+      "a²bc",
+      "2a²bc",
+      "2a²b²c²",
+      "কোনটিই নয়"
+    ],
+    "correct_answer": "কোনটিই নয়",
+    "solution_steps": [
+      "The question asks for numerical coefficients, which are 6 and 4.",
+      "Their greatest common divisor is 2.",
+      "None of the first three options is the standalone number 2, so choose none of these."
+    ]
+  },
+  {
+    "family_id": "Q138",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "decimal-to-octal conversion",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "octal representation",
+    "english_glossary": {},
+    "question_bn": "নিচের কোন Ocatal সংখ্যাটি Decimal সংখ্যা ৫৫-এর সমতুল্য?",
+    "answer_options": [
+      "৫৫",
+      "৭৭",
+      "৬৭",
+      "৮৭"
+    ],
+    "correct_answer": "৬৭",
+    "solution_steps": [
+      "Divide decimal 55 by 8: quotient 6, remainder 7.",
+      "Therefore 55₁₀=67₈."
+    ]
+  }
+]

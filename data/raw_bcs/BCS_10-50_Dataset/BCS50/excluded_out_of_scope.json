@@ -1,0 +1,98 @@
+[
+  {
+    "question_number": 64,
+    "source_page": 4,
+    "reason": "equilateral-triangle area / geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 65,
+    "source_page": 4,
+    "reason": "power-set counting / set theory - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 72,
+    "source_page": 4,
+    "reason": "probability - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 73,
+    "source_page": 4,
+    "reason": "permutation counting - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 77,
+    "source_page": 4,
+    "reason": "triangle-angle geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 79,
+    "source_page": 4,
+    "reason": "proper-subset counting / set theory - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 83,
+    "source_page": 5,
+    "reason": "rectangle-vs-square area geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 85,
+    "source_page": 5,
+    "reason": "calendar/month reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 86,
+    "source_page": 5,
+    "reason": "spatial relation reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 88,
+    "source_page": 5,
+    "reason": "rotation/direction reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 89,
+    "source_page": 5,
+    "reason": "ranking reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 90,
+    "source_page": 5,
+    "reason": "clock-hand reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 91,
+    "source_page": 5,
+    "reason": "buoyancy/physics - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 92,
+    "source_page": 5,
+    "reason": "kinetic-energy/physics - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 93,
+    "source_page": 5,
+    "reason": "mirror-image distance / physics - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 94,
+    "source_page": 5,
+    "reason": "leap-year/calendar reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  }
+]

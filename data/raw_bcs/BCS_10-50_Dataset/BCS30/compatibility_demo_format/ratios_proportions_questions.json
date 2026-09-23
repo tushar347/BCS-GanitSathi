@@ -1,0 +1,30 @@
+[
+  {
+    "family_id": "fourth_proportional_f01",
+    "item_id": "BCS30_Q099",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "fourth_proportional",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion"
+    },
+    "question_bn": "৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক কত?",
+    "answer_options": [
+      "৪",
+      "১৪",
+      "১৬",
+      "১২"
+    ],
+    "correct_answer": "১২",
+    "solution_steps": [
+      "For fourth proportional d, 3:9 = 4:d.",
+      "3d=36, so d=12."
+    ],
+    "source_page": 11,
+    "source_exam": "30th BCS"
+  }
+]

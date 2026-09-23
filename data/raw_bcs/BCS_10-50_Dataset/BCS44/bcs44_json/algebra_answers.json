@@ -1,0 +1,121 @@
+[
+  {
+    "family_id": "Q091",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "100",
+        "reasoning_steps": [
+          "Correctly combine the logarithm arguments to get 100.",
+          "Return the argument rather than its logarithm."
+        ],
+        "code": "BCS44-091-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "1.60206",
+        "reasoning_steps": [
+          "Treat the leading 2 as multiplying 5 inside the logarithm instead of as a coefficient of the logarithm.",
+          "Calculate log₁₀(2×5×36/9)=log₁₀40≈1.60206."
+        ],
+        "code": "BCS44-091-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q093",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "5",
+        "reasoning_steps": [
+          "Read the requested inverse value as f(2).",
+          "Calculate 2×2+1=5."
+        ],
+        "code": "BCS44-093-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "1",
+        "reasoning_steps": [
+          "Subtract 1 from 2 to obtain 1.",
+          "Omit division by the coefficient 2 when reversing the function."
+        ],
+        "code": "BCS44-093-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q095",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "10",
+        "reasoning_steps": [
+          "Ignore the negative sign on the logarithm value.",
+          "Calculate 10¹=10."
+        ],
+        "code": "BCS44-095-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "0.001",
+        "reasoning_steps": [
+          "Set x=10^(−1).",
+          "Misplace the decimal by two additional places and write 0.001."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS44-095-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q099",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "0",
+        "reasoning_steps": [
+          "Cancel every positive term with a following negative term.",
+          "Ignore the unpaired final positive term when n is odd.",
+          "Claim the sum is always 0."
+        ],
+        "code": "BCS44-099-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "1",
+        "reasoning_steps": [
+          "Assume n is odd although its parity is unspecified.",
+          "Return the odd-case result 1 as a formula for every n."
+        ],
+        "code": "BCS44-099-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q104",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "x<5/3",
+        "reasoning_steps": [
+          "Use only 3x+2<7 and ignore the negative bound.",
+          "Report x<5/3 without the lower limit."
+        ],
+        "code": "BCS44-104-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "−3<x<3",
+        "reasoning_steps": [
+          "Obtain −9<3x<5.",
+          "Incorrectly divide the upper bound 5 by 3 as 3.",
+          "Return −3<x<3."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS44-104-ARITHMETIC-02"
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "item_id": "BCS46_Q036",
+    "family_id": "fraction_comparison_bcs46_q036_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS46_Q037",
+    "family_id": "compound_amount_bcs46_q037_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS46_Q039",
+    "family_id": "quadratic_inequality_bcs46_q039_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS46_Q040",
+    "family_id": "algebraic_identity_evaluation_bcs46_q040_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS46_Q041",
+    "family_id": "simultaneous_linear_equations_bcs46_q041_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS46_Q043",
+    "family_id": "logarithmic_equation_bcs46_q043_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS46_Q056",
+    "family_id": "reversed_digits_age_equation_bcs46_q056_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

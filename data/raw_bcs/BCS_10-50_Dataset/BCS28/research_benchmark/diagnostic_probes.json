@@ -1,0 +1,107 @@
+[
+  {
+    "probe_id": "BCS28_Q093_P1",
+    "item_id": "BCS28_Q093",
+    "family_id": "typing_work_rate_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "সময়গুলো সরাসরি যোগ করবে, নাকি প্রতিদিনের কাজের হার যোগ করবে? শুধু হারগুলোর সম্পর্কটি লিখো।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS28_Q096_P1",
+    "item_id": "BCS28_Q096",
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পথ, দিক বা সমান দূরত্বের গতি থেকে প্রয়োজনীয় সম্পর্কটি কী হবে? চূড়ান্ত উত্তর ছাড়া এক ধাপ লিখো।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS28_Q097_P1",
+    "item_id": "BCS28_Q097",
+    "family_id": "percentage_equivalence_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "শতকরা পরিবর্তনটি কোন মূল পরিমাণের উপর হিসাব করতে হবে, এবং 100 ধরে নিলে নতুন মানটি কীভাবে লিখবে?",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS28_Q099_P1",
+    "item_id": "BCS28_Q099",
+    "family_id": "divide_by_fraction_then_add_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS28_Q100_P1",
+    "item_id": "BCS28_Q100",
+    "family_id": "equal_distance_average_speed_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পথ, দিক বা সমান দূরত্বের গতি থেকে প্রয়োজনীয় সম্পর্কটি কী হবে? চূড়ান্ত উত্তর ছাড়া এক ধাপ লিখো।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  }
+]

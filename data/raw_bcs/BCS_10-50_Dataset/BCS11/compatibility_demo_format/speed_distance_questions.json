@@ -1,0 +1,64 @@
+[
+  {
+    "family_id": "same_distance_speed_arrival_time_gap_f01",
+    "item_id": "BCS11_Q071",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "same_route_different_speeds_arrival_gap",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time",
+      "ঘণ্টা": "hour"
+    },
+    "question_bn": "ক ঘণ্টায় ১০ কি.মি. এবং খ ঘণ্টায় ১৫ কি.মি. বেগে একই স্থান থেকে রাজশাহীর পথে রওয়ানা হলো। ক ১০.১০ মিনিটের সময় এবং খ ৯.৪০ মিনিটের সময় রাজশাহী পৌঁছল। রওয়ানা হওয়ার স্থান থেকে রাজশাহীর দূরত্ব কত কি.মি.?",
+    "answer_options": [
+      "২০ কি.মি.",
+      "২৫ কি.মি.",
+      "১৫ কি.মি.",
+      "২৮ কি.মি."
+    ],
+    "correct_answer": "১৫ কি.মি.",
+    "solution_steps": [
+      "দুইজনের পৌঁছানোর সময়ের পার্থক্য 30 মিনিট = 0.5 ঘণ্টা।",
+      "একই দূরত্ব d হলে d/10 - d/15 = 0.5।",
+      "d/30=0.5, তাই d=15 কি.মি.।"
+    ],
+    "source_page": 5,
+    "source_exam": "11th BCS"
+  },
+  {
+    "family_id": "outbound_projectile_return_sound_f01",
+    "item_id": "BCS11_Q074",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "projectile_sound_return_timing",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time",
+      "ঘণ্টা": "hour"
+    },
+    "question_bn": "একটি বন্দুকের গুলি প্রতি সেকেন্ডে ১৫৪০ ফুট গতিবেগে লক্ষ্যভেদ করে। এক ব্যক্তি বন্দুক ছোঁড়ার ৩ সেকেন্ড পরে লক্ষ্যভেদের শব্দ শুনতে পায়। শব্দের গতি প্রতি সেকেন্ডে ১১০০ ফুট। লক্ষ্যবস্তুর দূরত্ব কত?",
+    "answer_options": [
+      "২০২৫ ফুট",
+      "১৯২৫ ফুট",
+      "১৯৯৫ ফুট",
+      "১৯৭৫ ফুট"
+    ],
+    "correct_answer": "১৯২৫ ফুট",
+    "solution_steps": [
+      "দূরত্ব d হলে গুলির যেতে সময় d/1540 এবং শব্দ ফিরে আসতে সময় d/1100।",
+      "d/1540+d/1100=3।",
+      "সমাধানে d=1925 ফুট।"
+    ],
+    "source_page": 6,
+    "source_exam": "11th BCS"
+  }
+]

@@ -1,0 +1,717 @@
+[
+  {
+    "history_id": "BCS10_Q085_H_CORRECT",
+    "item_id": "BCS10_Q085",
+    "family_id": "prime_numbers_in_range_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q085_H_CONCEPT",
+    "item_id": "BCS10_Q085",
+    "family_id": "prime_numbers_in_range_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q085_H_SLIP",
+    "item_id": "BCS10_Q085",
+    "family_id": "prime_numbers_in_range_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q085_H_AMBIG",
+    "item_id": "BCS10_Q085",
+    "family_id": "prime_numbers_in_range_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q086_H_CORRECT",
+    "item_id": "BCS10_Q086",
+    "family_id": "identify_prime_number_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q086_H_CONCEPT",
+    "item_id": "BCS10_Q086",
+    "family_id": "identify_prime_number_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q086_H_SLIP",
+    "item_id": "BCS10_Q086",
+    "family_id": "identify_prime_number_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q086_H_AMBIG",
+    "item_id": "BCS10_Q086",
+    "family_id": "identify_prime_number_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q087_H_CORRECT",
+    "item_id": "BCS10_Q087",
+    "family_id": "gcd_lcm_product_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q087_H_CONCEPT",
+    "item_id": "BCS10_Q087",
+    "family_id": "gcd_lcm_product_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q087_H_SLIP",
+    "item_id": "BCS10_Q087",
+    "family_id": "gcd_lcm_product_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q087_H_AMBIG",
+    "item_id": "BCS10_Q087",
+    "family_id": "gcd_lcm_product_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q088_H_CORRECT",
+    "item_id": "BCS10_Q088",
+    "family_id": "decimal_product_fraction_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q088_H_CONCEPT",
+    "item_id": "BCS10_Q088",
+    "family_id": "decimal_product_fraction_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q088_H_SLIP",
+    "item_id": "BCS10_Q088",
+    "family_id": "decimal_product_fraction_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q088_H_AMBIG",
+    "item_id": "BCS10_Q088",
+    "family_id": "decimal_product_fraction_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q089_H_CORRECT",
+    "item_id": "BCS10_Q089",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q089_H_CONCEPT",
+    "item_id": "BCS10_Q089",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q089_H_SLIP",
+    "item_id": "BCS10_Q089",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q089_H_AMBIG",
+    "item_id": "BCS10_Q089",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q090_H_CORRECT",
+    "item_id": "BCS10_Q090",
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q090_H_CONCEPT",
+    "item_id": "BCS10_Q090",
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q090_H_SLIP",
+    "item_id": "BCS10_Q090",
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q090_H_AMBIG",
+    "item_id": "BCS10_Q090",
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q091_H_CORRECT",
+    "item_id": "BCS10_Q091",
+    "family_id": "simple_interest_amount_multiple_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q091_H_CONCEPT",
+    "item_id": "BCS10_Q091",
+    "family_id": "simple_interest_amount_multiple_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q091_H_SLIP",
+    "item_id": "BCS10_Q091",
+    "family_id": "simple_interest_amount_multiple_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q091_H_AMBIG",
+    "item_id": "BCS10_Q091",
+    "family_id": "simple_interest_amount_multiple_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q092_H_CORRECT",
+    "item_id": "BCS10_Q092",
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q092_H_CONCEPT",
+    "item_id": "BCS10_Q092",
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q092_H_SLIP",
+    "item_id": "BCS10_Q092",
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q092_H_AMBIG",
+    "item_id": "BCS10_Q092",
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q093_H_CORRECT",
+    "item_id": "BCS10_Q093",
+    "family_id": "average_consecutive_integers_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q093_H_CONCEPT",
+    "item_id": "BCS10_Q093",
+    "family_id": "average_consecutive_integers_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q093_H_SLIP",
+    "item_id": "BCS10_Q093",
+    "family_id": "average_consecutive_integers_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q093_H_AMBIG",
+    "item_id": "BCS10_Q093",
+    "family_id": "average_consecutive_integers_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q094_H_CORRECT",
+    "item_id": "BCS10_Q094",
+    "family_id": "sum_difference_find_product_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q094_H_CONCEPT",
+    "item_id": "BCS10_Q094",
+    "family_id": "sum_difference_find_product_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q094_H_SLIP",
+    "item_id": "BCS10_Q094",
+    "family_id": "sum_difference_find_product_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q094_H_AMBIG",
+    "item_id": "BCS10_Q094",
+    "family_id": "sum_difference_find_product_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q095_H_CORRECT",
+    "item_id": "BCS10_Q095",
+    "family_id": "factor_identity_parameter_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q095_H_CONCEPT",
+    "item_id": "BCS10_Q095",
+    "family_id": "factor_identity_parameter_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q095_H_SLIP",
+    "item_id": "BCS10_Q095",
+    "family_id": "factor_identity_parameter_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q095_H_AMBIG",
+    "item_id": "BCS10_Q095",
+    "family_id": "factor_identity_parameter_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q099_H_CORRECT",
+    "item_id": "BCS10_Q099",
+    "family_id": "successive_markup_two_stage_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q099_H_CONCEPT",
+    "item_id": "BCS10_Q099",
+    "family_id": "successive_markup_two_stage_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q099_H_SLIP",
+    "item_id": "BCS10_Q099",
+    "family_id": "successive_markup_two_stage_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q099_H_AMBIG",
+    "item_id": "BCS10_Q099",
+    "family_id": "successive_markup_two_stage_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS10_Q100_H_CORRECT",
+    "item_id": "BCS10_Q100",
+    "family_id": "sum_cubes_sum_zero_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q100_H_CONCEPT",
+    "item_id": "BCS10_Q100",
+    "family_id": "sum_cubes_sum_zero_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q100_H_SLIP",
+    "item_id": "BCS10_Q100",
+    "family_id": "sum_cubes_sum_zero_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS10_Q100_H_AMBIG",
+    "item_id": "BCS10_Q100",
+    "family_id": "sum_cubes_sum_zero_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  }
+]

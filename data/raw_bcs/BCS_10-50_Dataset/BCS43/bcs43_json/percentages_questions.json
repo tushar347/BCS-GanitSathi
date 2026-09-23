@@ -1,0 +1,51 @@
+[
+  {
+    "family_id": "Q163",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "compound amount with semiannual compounding",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "65 seconds",
+    "target_quantity": "accumulated amount",
+    "english_glossary": {
+      "মুনাফা": "interest or profit",
+      "মূলধন": "principal"
+    },
+    "question_bn": "২০% যৌগিক মুনাফায় মূলধন ১০০০০ টাকা ২ বছরের জন্য বিনিয়োগ করা হলো। যদি যৌগিক মুনাফা অর্ধ বছর হিসেবে ধরা হয়, তাহলে চক্রবৃদ্ধি মূলধন কত?",
+    "answer_options": [
+      "১২⁴",
+      "১১⁴",
+      "১০⁴",
+      "৯⁴"
+    ],
+    "correct_answer": "১১⁴",
+    "solution_steps": [
+      "Interpret 20% as the nominal annual rate, compounded half-yearly.",
+      "There are 4 half-years, each at 10%.",
+      "Amount=10000(1.10)⁴=11⁴=14641 taka."
+    ]
+  },
+  {
+    "family_id": "Q182",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "successive percentage partition",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "number of graduates",
+    "english_glossary": {},
+    "question_bn": "একটি প্রতিষ্ঠানের ৪০% কর্মচারী আন্ডারগ্রাজুয়েট, অবশিষ্ট কর্মচারীদের ৫০% গ্রাজুয়েট এবং অবশিষ্ট ১৮০ জন পোস্টগ্রাজুয়েট। প্রতিষ্ঠানটির কতজন কর্মচারী গ্রাজুয়েট?",
+    "answer_options": [
+      "১৮০",
+      "২৪০",
+      "৩০০",
+      "৩৬০"
+    ],
+    "correct_answer": "১৮০",
+    "solution_steps": [
+      "After the 40% undergraduates, 60% of employees remain.",
+      "Half of this remainder are graduates and half are postgraduates.",
+      "These two groups are equal, so there are 180 graduates."
+    ]
+  }
+]

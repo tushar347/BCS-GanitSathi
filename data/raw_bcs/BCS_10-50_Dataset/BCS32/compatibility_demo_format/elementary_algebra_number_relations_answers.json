@@ -1,0 +1,322 @@
+[
+  {
+    "family_id": "parity_two_odd_numbers_f01",
+    "item_id": "BCS32_Q081",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "x + y + 1",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "x + y + 1",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "x + y + 1",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "triangular_number_sequence_f01",
+    "item_id": "BCS32_Q084",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "৪৫",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৪৫",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৪৫",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "surd_rationalization_f01",
+    "item_id": "BCS32_Q085",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "3−√2",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "3−√2",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "3−√2",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "complete_square_two_variables_f01",
+    "item_id": "BCS32_Q086",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "4xy",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "4xy",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "4xy",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "fraction_comparison_f02",
+    "item_id": "BCS32_Q091",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "৫/৬",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৫/৬",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৫/৬",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "consecutive_three_product_120_sum_f01",
+    "item_id": "BCS32_Q092",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "৯",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৯",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৯",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "one_digit_recurring_decimal_to_fraction_f01",
+    "item_id": "BCS32_Q093",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "৪৭/৯০",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৪৭/৯০",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৪৭/৯০",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "difference_of_squares_shifted_f01",
+    "item_id": "BCS32_Q094",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "x + y + 1",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "x + y + 1",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "x + y + 1",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "basic_log_power_f01",
+    "item_id": "BCS32_Q095",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "4",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "4",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "4",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "polynomial_lcm_factorization_f01",
+    "item_id": "BCS32_Q096",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "algebra_or_pattern_rule_error",
+        "wrong_answer": "xy",
+        "reasoning_steps": [
+          "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "xy",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "xy",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  }
+]

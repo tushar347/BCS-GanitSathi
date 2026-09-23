@@ -1,0 +1,60 @@
+[
+  {
+    "family_id": "max_value_from_average_minimum_f01",
+    "item_id": "BCS33_Q041",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "maximum_value_from_average_and_minimum",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মোট": "total"
+    },
+    "question_bn": "তিন সদস্যের একটি বিতর্ক দলের সদস্যদের গড় বয়স ২৪ বছর। যদি কোনো সদস্যের বয়সই ২১ বছরের নিচে না হয় তবে তাদের কোনো একজনের সর্বোচ্চ বয়স কত হতে পারে?",
+    "answer_options": [
+      "২৫ বছর",
+      "৩০ বছর",
+      "২৮ বছর",
+      "৩২ বছর"
+    ],
+    "correct_answer": "৩০ বছর",
+    "solution_steps": [
+      "Total age = 3*24 = 72 years.",
+      "To maximize one age, minimize the other two at 21 each.",
+      "Maximum age = 72-21-21 = 30 years."
+    ],
+    "source_page": 5,
+    "source_exam": "33th BCS"
+  },
+  {
+    "family_id": "combined_average_formula_f01",
+    "item_id": "BCS33_Q044",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "combined_average_formula",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মোট": "total"
+    },
+    "question_bn": "m সংখ্যক সংখ্যার গড় x এবং n সংখ্যক সংখ্যার গড় y হলে সব সংখ্যার গড় কত?",
+    "answer_options": [
+      "(x + y)/(mn)",
+      "(x + y)/(m + n)",
+      "(mx + ny)/(m + n)",
+      "(mx + ny)/(mn)"
+    ],
+    "correct_answer": "(mx + ny)/(m + n)",
+    "solution_steps": [
+      "The first group total is mx and the second group total is ny.",
+      "Combined total is mx+ny and combined count is m+n.",
+      "So the average is (mx+ny)/(m+n)."
+    ],
+    "source_page": 6,
+    "source_exam": "33th BCS"
+  }
+]

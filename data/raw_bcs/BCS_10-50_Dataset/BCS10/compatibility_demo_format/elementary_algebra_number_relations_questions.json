@@ -1,0 +1,220 @@
+[
+  {
+    "family_id": "prime_numbers_in_range_f01",
+    "item_id": "BCS10_Q085",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "count_primes_in_range",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "১ থেকে ৩০ পর্যন্ত কয়টি মৌলিক সংখ্যা আছে?",
+    "answer_options": [
+      "১১টি",
+      "৮টি",
+      "১০টি",
+      "৯টি"
+    ],
+    "correct_answer": "১০টি",
+    "solution_steps": [
+      "১ থেকে ৩০ পর্যন্ত মৌলিক সংখ্যা: ২, ৩, ৫, ৭, ১১, ১৩, ১৭, ১৯, ২৩, ২৯।",
+      "মোট ১০টি।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "identify_prime_number_f01",
+    "item_id": "BCS10_Q086",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "identify_prime_number",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "নিচের কোন সংখ্যাটি মৌলিক সংখ্যা?",
+    "answer_options": [
+      "১৪৩",
+      "৯১",
+      "৪৭",
+      "৮৭"
+    ],
+    "correct_answer": "৪৭",
+    "solution_steps": [
+      "১৪৩=১১×১৩, ৯১=৭×১৩ এবং ৮৭=৩×২৯, তাই এগুলো যৌগিক।",
+      "৪৭-এর ১ ও ৪৭ ছাড়া কোনো ধনাত্মক ভাজক নেই; তাই ৪৭ মৌলিক।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "gcd_lcm_product_f01",
+    "item_id": "BCS10_Q087",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "gcd_lcm_product_relation",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "দুটি সংখ্যার গুণফল ১৫৩৬। সংখ্যা দুটির ল.সা.গু ৯৬ হলে, গ.সা.গু কত?",
+    "answer_options": [
+      "১৬",
+      "২৪",
+      "৩২",
+      "১২"
+    ],
+    "correct_answer": "১৬",
+    "solution_steps": [
+      "দুটি ধনাত্মক পূর্ণসংখ্যার গুণফল = ল.সা.গু × গ.সা.গু।",
+      "গ.সা.গু = ১৫৩৬÷৯৬ = ১৬।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "decimal_product_fraction_f01",
+    "item_id": "BCS10_Q088",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "decimal_product_fraction",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "(0.1×0.01×0.001)/(0.2×0.02×0.002) এর মান কত?",
+    "answer_options": [
+      "১/৮০",
+      "১/৮০০",
+      "১/৮০০০",
+      "১/৮"
+    ],
+    "correct_answer": "১/৮",
+    "solution_steps": [
+      "প্রতিটি অনুপাত 0.1/0.2 = 1/2, 0.01/0.02 = 1/2, 0.001/0.002 = 1/2।",
+      "তাই মোট মান = (1/2)^3 = 1/8।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "sum_difference_find_product_f01",
+    "item_id": "BCS10_Q094",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "solve_sum_difference_product",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "a + b = 5 এবং a - b = 3 হলে, ab এর মান কত?",
+    "answer_options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "4",
+    "solution_steps": [
+      "দুটি সমীকরণ যোগ করলে 2a=8, তাই a=4।",
+      "তখন b=1।",
+      "ab=4×1=4।"
+    ],
+    "source_page": 12,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "factor_identity_parameter_f01",
+    "item_id": "BCS10_Q095",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_identity_parameter",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "যদি (x - 5)(a + x) = x² - 25 হয় তবে, a এর মান কত?",
+    "answer_options": [
+      "-5",
+      "5",
+      "25",
+      "-25"
+    ],
+    "correct_answer": "5",
+    "solution_steps": [
+      "x²-25=(x-5)(x+5)।",
+      "তাই (x-5)(a+x)=(x-5)(x+5) থেকে a+x=x+5।",
+      "অতএব a=5।"
+    ],
+    "source_page": 12,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "sum_cubes_sum_zero_f01",
+    "item_id": "BCS10_Q100",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_cubes_when_sum_zero",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "a + b + c = 0 হলে, a³ + b³ + c³ এর মান কত?",
+    "answer_options": [
+      "abc",
+      "3abc",
+      "6abc",
+      "9abc"
+    ],
+    "correct_answer": "3abc",
+    "solution_steps": [
+      "পরিচিতি: a³+b³+c³-3abc=(a+b+c)(a²+b²+c²-ab-bc-ca)।",
+      "a+b+c=0, তাই a³+b³+c³=3abc।"
+    ],
+    "source_page": 12,
+    "source_exam": "10th BCS"
+  }
+]

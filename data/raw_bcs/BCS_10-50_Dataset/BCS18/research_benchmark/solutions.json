@@ -1,0 +1,258 @@
+[
+  {
+    "item_id": "BCS18_Q023",
+    "family_id": "linear_equation_from_verbal_relation_bcs18_q023_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সংখ্যাটি x হলে 3x+2x=90।",
+          "5x=90, তাই x=18।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q024",
+    "family_id": "consecutive_integers_partial_sums_bcs18_q024_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম সংখ্যা a হলে প্রথম পাঁচটির যোগফল 5a+10=560।",
+          "তাই a=110।",
+          "শেষ পাঁচটি হলো a+5 থেকে a+9; যোগফল =5a+35=585।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q025",
+    "family_id": "compare_fraction_to_two_thirds_bcs18_q025_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "2/3 ≈ 0.6667।",
+          "33/50=0.66, 8/11≈0.7273, 3/5=0.6, 13/27≈0.4815।",
+          "শুধু 8/11 হলো 2/3-এর চেয়ে বড়।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q026",
+    "family_id": "count_multiples_in_interval_bcs18_q026_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১২=4×3 এবং ৯৬=4×24।",
+          "তাই 3 থেকে 24 পর্যন্ত মোট পূর্ণসংখ্যা = 24-3+1 = 22।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q027",
+    "family_id": "equal_arithmetic_means_find_unknown_bcs18_q027_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "6,8,10-এর গড় =24/3=8।",
+          "তাই (7+9+x)/3=8।",
+          "16+x=24, তাই x=8।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q028",
+    "family_id": "linear_equation_substitution_bcs18_q028_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x=3y সমীকরণে বসালে 3y+5y=16।",
+          "8y=16, তাই y=2।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q029",
+    "family_id": "simultaneous_fractional_linear_equations_bcs18_q029_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ধরি ক=a এবং খ=b। প্রথম সমীকরণ a/2+b/3=45; 6 দিয়ে গুণে 3a+2b=270।",
+          "দ্বিতীয় সমীকরণ b/2+2a/5=50; 10 দিয়ে গুণে 4a+5b=500।",
+          "সমীকরণ দুটি সমাধান করলে a=50 এবং b=60।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q030",
+    "family_id": "choose_two_fastest_machines_combined_rate_bcs18_q030_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সর্বোচ্চ সম্মিলিত ক্ষমতার জন্য দ্রুততম দুই মেশিন নিতে হবে: 4 ঘণ্টা ও 5 ঘণ্টা।",
+          "তাদের এক ঘণ্টার কাজ = 1/4+1/5 = 9/20।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q031",
+    "family_id": "percentage_failed_find_total_bcs18_q031_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অকৃতকার্য পরীক্ষার্থী =12+30=42 জন।",
+          "পাস 30% হলে অকৃতকার্য 70%।",
+          "মোট পরীক্ষার্থী =42/0.70=60 জন।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q032",
+    "family_id": "equal_selling_price_profit_loss_bcs18_q032_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম চেয়ারের ক্রয়মূল্য =3600/1.2=3000 টাকা।",
+          "দ্বিতীয় চেয়ারের ক্রয়মূল্য =3600/0.8=4500 টাকা।",
+          "মোট ক্রয়মূল্য 7500 এবং মোট বিক্রয়মূল্য 7200।",
+          "লোকসান =7500-7200=300 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q033",
+    "family_id": "two_pipes_partial_tank_time_bcs18_q033_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দুই পাইপের সম্মিলিত হার =1/5+1/3=8/15 ট্যাংক/ঘণ্টা।",
+          "2/3 অংশ ভর্তি করতে সময় =(2/3)/(8/15)=5/4 ঘণ্টা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q034",
+    "family_id": "opposite_direction_walkers_delayed_start_bcs18_q034_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "রহিম রওয়ানা হওয়ার আগে করিম 3 মাইল এগোয়, তাই তখন তাদের দূরত্ব 45-3=42 মাইল।",
+          "দুইজন বিপরীত দিকে আসায় আপেক্ষিক বেগ =3+4=7 মাইল/ঘণ্টা।",
+          "দেখা হতে সময় =42/7=6 ঘণ্টা।",
+          "রহিম হাঁটে 4×6=24 মাইল।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS18_Q037",
+    "family_id": "sum_first_hundred_natural_numbers_bcs18_q037_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১ থেকে n পর্যন্ত যোগফল = n(n+1)/2।",
+          "n=100 হলে যোগফল =100×101/2=5050।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "item_id": "BCS24_Q092",
+    "family_id": "successive_profit_loss_bcs24_q092_f01",
+    "exam": "24th BCS",
+    "question_number": 92,
+    "source_page": 16,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "successive_profit_loss",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "এক ব্যক্তি একটি দ্রব্য ১২০০ টাকায় কিনে ১৫% লাভে বিক্রয় করল; ক্রেতা ঐ দ্রব্য তৃতীয় ব্যক্তির কাছে ৫% ক্ষতিতে বিক্রয় করল। শেষ বিক্রয়মূল্য কত ছিল?",
+    "question_normalized": "এক ব্যক্তি একটি দ্রব্য ১২০০ টাকায় কিনে ১৫% লাভে বিক্রয় করল; ক্রেতা ঐ দ্রব্য তৃতীয় ব্যক্তির কাছে ৫% ক্ষতিতে বিক্রয় করল। শেষ বিক্রয়মূল্য কত ছিল?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা"
+    ],
+    "answer_options": [
+      "১২৮০",
+      "১২৮১",
+      "১৩১০",
+      "১৩১১"
+    ],
+    "printed_answer": "১৩১১",
+    "accepted_answer_forms": [
+      "১৩১১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS24_Q093",
+    "family_id": "constant_budget_consumption_reduction_bcs24_q093_f01",
+    "exam": "24th BCS",
+    "question_number": 93,
+    "source_page": 16,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "constant_budget_consumption_reduction",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "চালের দাম ২৫% বেড়ে যাওয়ায় একজন ব্যক্তি চালের ব্যবহার এমনভাবে কমালেন যেন তার সাংসারিক ব্যয় অপরিবর্তিত থাকে। তিনি চালের ব্যবহার শতকরা কত ভাগ কমাবেন?",
+    "question_normalized": "চালের দাম ২৫% বেড়ে যাওয়ায় একজন ব্যক্তি চালের ব্যবহার এমনভাবে কমালেন যেন তার সাংসারিক ব্যয় অপরিবর্তিত থাকে। তিনি চালের ব্যবহার শতকরা কত ভাগ কমাবেন?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২০%",
+      "১৬%",
+      "১৮%",
+      "১৫%"
+    ],
+    "printed_answer": "২০%",
+    "accepted_answer_forms": [
+      "২০%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS24_Q094",
+    "family_id": "fraction_in_lowest_terms_bcs24_q094_f01",
+    "exam": "24th BCS",
+    "question_number": 94,
+    "source_page": 16,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_in_lowest_terms",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোন ভগ্নাংশটি লঘিষ্ঠ আকারে প্রকাশিত?",
+    "question_normalized": "কোন ভগ্নাংশটি লঘিষ্ঠ আকারে প্রকাশিত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭৭/১৪৩",
+      "১০২/২৮৯",
+      "১১৩/৩৫৫",
+      "৩৪৩/১০০১"
+    ],
+    "printed_answer": "১১৩/৩৫৫",
+    "accepted_answer_forms": [
+      "১১৩/৩৫৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS24_Q095",
+    "family_id": "successive_fraction_spending_bcs24_q095_f01",
+    "exam": "24th BCS",
+    "question_number": 95,
+    "source_page": 16,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "successive_fraction_spending",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "এক ব্যক্তি তার মোট সম্পত্তির ৩/৭ অংশ ব্যয় করার পরে অবশিষ্টের ৫/১২ অংশ ব্যয় করে দেখলেন যে তার নিকট ১০০০ টাকা রয়েছে। তার মোট সম্পত্তির মূল্য কত?",
+    "question_normalized": "এক ব্যক্তি তার মোট সম্পত্তির ৩/৭ অংশ ব্যয় করার পরে অবশিষ্টের ৫/১২ অংশ ব্যয় করে দেখলেন যে তার নিকট ১০০০ টাকা রয়েছে। তার মোট সম্পত্তির মূল্য কত?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা"
+    ],
+    "answer_options": [
+      "২০০০ টাকা",
+      "২৩০০ টাকা",
+      "২৫০০ টাকা",
+      "৩০০০ টাকা"
+    ],
+    "printed_answer": "৩০০০ টাকা",
+    "accepted_answer_forms": [
+      "৩০০০ টাকা"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS24_Q097",
+    "family_id": "square_number_sequence_bcs24_q097_f01",
+    "exam": "24th BCS",
+    "question_number": 97,
+    "source_page": 17,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "square_number_sequence",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৯, ৩৬, ৮১, ১৪৪.... এর পরবর্তী সংখ্যা কত?",
+    "question_normalized": "৯, ৩৬, ৮১, ১৪৪.... এর পরবর্তী সংখ্যা কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৬৯",
+      "২২৫",
+      "২৫৬",
+      "২৭২"
+    ],
+    "printed_answer": "২২৫",
+    "accepted_answer_forms": [
+      "২২৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS24_Q099",
+    "family_id": "sum_product_square_difference_bcs24_q099_f01",
+    "exam": "24th BCS",
+    "question_number": 99,
+    "source_page": 17,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_product_square_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x+y = 7 এবং xy = 10 হলে, (x−y)^2-এর মান কত?",
+    "question_normalized": "x+y = 7 এবং xy = 10 হলে, (x−y)^2-এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "printed_answer": "9",
+    "accepted_answer_forms": [
+      "9"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS24_Q100",
+    "family_id": "factor_quadratic_bcs24_q100_f01",
+    "exam": "24th BCS",
+    "question_number": 100,
+    "source_page": 17,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "factor_quadratic",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "2x^2 + x − 15-এর উৎপাদক কোনটি?",
+    "question_normalized": "2x^2 + x − 15-এর উৎপাদক কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(x+3)(2x−5)",
+      "(x−3)(2x−5)",
+      "(x−3)(2x+5)",
+      "(x+3)(2x+5)"
+    ],
+    "printed_answer": "(x+3)(2x−5)",
+    "accepted_answer_forms": [
+      "(x+3)(2x−5)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

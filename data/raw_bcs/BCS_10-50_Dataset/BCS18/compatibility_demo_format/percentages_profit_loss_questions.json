@@ -1,0 +1,55 @@
+[
+  {
+    "family_id": "percentage_failed_find_total_bcs18_q031_f01",
+    "item_id": "BCS18_Q031",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_failed_find_total",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি কম্পিউটার বিজ্ঞান পরীক্ষায় ৩০% পরীক্ষার্থী পাস করেছে। যারা পাস করতে পারেনি তাদের ১২ জন কম্পিউটার বিজ্ঞান কোর্সে অংশগ্রহণ করেছে এবং ৩০ জন উক্ত কোর্সে অংশগ্রহণ করেনি। কতজন পরীক্ষার্থী পরীক্ষায় অংশগ্রহণ করেছে?",
+    "answer_options": [
+      "৬০ জন",
+      "৮০ জন",
+      "১০০ জন",
+      "১২০ জন"
+    ],
+    "correct_answer": "৬০ জন",
+    "solution_steps": [
+      "অকৃতকার্য পরীক্ষার্থী =12+30=42 জন।",
+      "পাস 30% হলে অকৃতকার্য 70%।",
+      "মোট পরীক্ষার্থী =42/0.70=60 জন।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "equal_selling_price_profit_loss_bcs18_q032_f01",
+    "item_id": "BCS18_Q032",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "equal_selling_price_profit_loss",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "৩৬০০ টাকা করে দুটি চেয়ার বিক্রয় করা হয়েছে। একটি ২০% লাভে এবং অন্যটি ২০% লোকসানে বিক্রয় করা হয়েছে। সব মিলিয়ে কত লোকসান হয়েছে?",
+    "answer_options": [
+      "লাভ-লোকসান কিছুই হয়নি",
+      "৯০০ টাকা",
+      "৩০০ টাকা",
+      "৬০০ টাকা"
+    ],
+    "correct_answer": "৩০০ টাকা",
+    "solution_steps": [
+      "প্রথম চেয়ারের ক্রয়মূল্য =3600/1.2=3000 টাকা।",
+      "দ্বিতীয় চেয়ারের ক্রয়মূল্য =3600/0.8=4500 টাকা।",
+      "মোট ক্রয়মূল্য 7500 এবং মোট বিক্রয়মূল্য 7200।",
+      "লোকসান =7500-7200=300 টাকা।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  }
+]

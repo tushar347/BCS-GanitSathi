@@ -1,0 +1,17 @@
+{
+  "exam": "24th BCS",
+  "source_pdf": "24th-bcs-1771051677-2796(1).pdf",
+  "main_in_scope_questions": 7,
+  "review_required": 1,
+  "excluded_out_of_scope": 2,
+  "authored_histories": 28,
+  "topic_counts": {
+    "percentages_profit_loss": 2,
+    "ratios_proportions": 0,
+    "work_time": 0,
+    "speed_distance": 0,
+    "averages_mixtures": 0,
+    "elementary_algebra_number_relations": 5
+  },
+  "research_note": "Questions/options/printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

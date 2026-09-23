@@ -1,0 +1,52 @@
+[
+  {
+    "item_id": "BCS12_Q094",
+    "exam": "12th BCS (Police)",
+    "question_number": 94,
+    "source_page": 8,
+    "category": "geometry",
+    "question_summary": "",
+    "exclusion_reason": "Rhombus/quadrilateral classification is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS12_Q095",
+    "exam": "12th BCS (Police)",
+    "question_number": 95,
+    "source_page": 8,
+    "category": "geometry",
+    "question_summary": "",
+    "exclusion_reason": "Regular polygon interior-angle question is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS12_Q096",
+    "exam": "12th BCS (Police)",
+    "question_number": 96,
+    "source_page": 8,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Equilateral-triangle area question is outside scope.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS12_Q097",
+    "exam": "12th BCS (Police)",
+    "question_number": 97,
+    "source_page": 8,
+    "category": "geometry",
+    "question_summary": "",
+    "exclusion_reason": "Circle/chord geometry question is outside scope.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS12_Q100",
+    "exam": "12th BCS (Police)",
+    "question_number": 100,
+    "source_page": 8,
+    "category": "non_core_reasoning",
+    "question_summary": "",
+    "exclusion_reason": "Traffic-light sequence/general-knowledge item is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  }
+]

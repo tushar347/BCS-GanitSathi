@@ -1,0 +1,63 @@
+[
+  {
+    "family_id": "successive_profit_loss_bcs24_q092_f01",
+    "item_id": "BCS24_Q092",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "successive_profit_loss",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "এক ব্যক্তি একটি দ্রব্য ১২০০ টাকায় কিনে ১৫% লাভে বিক্রয় করল; ক্রেতা ঐ দ্রব্য তৃতীয় ব্যক্তির কাছে ৫% ক্ষতিতে বিক্রয় করল। শেষ বিক্রয়মূল্য কত ছিল?",
+    "answer_options": [
+      "১২৮০",
+      "১২৮১",
+      "১৩১০",
+      "১৩১১"
+    ],
+    "correct_answer": "১৩১১",
+    "solution_steps": [
+      "প্রথম বিক্রয় = 1200×1.15 = 1380।",
+      "দ্বিতীয় বিক্রয় = 1380×0.95 = 1311।"
+    ],
+    "source_page": 16,
+    "source_exam": "24th BCS"
+  },
+  {
+    "family_id": "constant_budget_consumption_reduction_bcs24_q093_f01",
+    "item_id": "BCS24_Q093",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "constant_budget_consumption_reduction",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "চালের দাম ২৫% বেড়ে যাওয়ায় একজন ব্যক্তি চালের ব্যবহার এমনভাবে কমালেন যেন তার সাংসারিক ব্যয় অপরিবর্তিত থাকে। তিনি চালের ব্যবহার শতকরা কত ভাগ কমাবেন?",
+    "answer_options": [
+      "২০%",
+      "১৬%",
+      "১৮%",
+      "১৫%"
+    ],
+    "correct_answer": "২০%",
+    "solution_steps": [
+      "নতুন দাম = 1.25 গুণ।",
+      "পরিমাণ = 1/1.25 = 0.8 গুণ।",
+      "হ্রাস = 20%。"
+    ],
+    "source_page": 16,
+    "source_exam": "24th BCS"
+  }
+]

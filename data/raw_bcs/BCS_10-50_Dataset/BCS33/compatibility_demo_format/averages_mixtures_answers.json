@@ -1,0 +1,66 @@
+[
+  {
+    "family_id": "max_value_from_average_minimum_f01",
+    "item_id": "BCS33_Q041",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "weighted_average_error",
+        "wrong_answer": "২৫ বছর",
+        "reasoning_steps": [
+          "Averages values without preserving the correct total or weighting by group size.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "২৫ বছর",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "২৫ বছর",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "combined_average_formula_f01",
+    "item_id": "BCS33_Q044",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "weighted_average_error",
+        "wrong_answer": "(x + y)/(mn)",
+        "reasoning_steps": [
+          "Averages values without preserving the correct total or weighting by group size.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "(x + y)/(mn)",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "(x + y)/(mn)",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  }
+]

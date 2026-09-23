@@ -1,0 +1,2487 @@
+[
+  {
+    "family_id": "FAM_ALGEBRA_BCS11_001",
+    "raw_source_id": "Q0007",
+    "topic": "algebra",
+    "subskill": "simplification",
+    "difficulty": "Easy",
+    "question_bn": "a − {a − (a + 1)} = কত?",
+    "target_quantity": "simplified expression",
+    "answer_options": [
+      "a − 1",
+      "1",
+      "a",
+      "a + 1"
+    ],
+    "correct_answer": "a + 1",
+    "solution_steps": [
+      "Work from the innermost bracket outwards. The innermost bracket is $(a + 1)$.",
+      "Next, simplify inside the braces: $a - (a + 1) = a - a - 1 = -1$.",
+      "Finally, $a - \\{-1\\} = a + 1$.",
+      "So the simplified expression is $a + 1$."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 76
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Work from the innermost bracket outwards. The innermost bracket is $(a + 1)$.",
+          "Next, simplify inside the braces: $a - (a + 1) = a - a - 1 = -1$.",
+          "So the simplified expression is $a + 1$."
+        ],
+        "final_response": "a + 1",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The printed expression is source-sensitive, and the source answer identifies a+1. Treating the final",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: a−1।"
+        ],
+        "final_response": "a−1",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: a−1.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Work from the innermost bracket outwards. The innermost bracket is $(a + 1)$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 1।"
+        ],
+        "final_response": "1",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 1: The source marks a+1 as the answer. Reducing the expression to a constant ignores the remaining vari",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Work from the innermost bracket outwards. The innermost bracket is $(a + 1)$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ALGEBRA_BCS11_001_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for simplified expression.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে simplified expression নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute simplified expression?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ALGEBRA_BCS11_002",
+    "raw_source_id": "Q0010",
+    "topic": "algebra",
+    "subskill": "difference of cubes",
+    "difficulty": "Medium",
+    "question_bn": "যদি a³ − b³ = 513 এবং a − b = 3 হয়, তবে ab-এর মান কত?",
+    "target_quantity": "value of ab",
+    "answer_options": [
+      "৫৪",
+      "৩৫",
+      "৪৫",
+      "৫৫"
+    ],
+    "correct_answer": "৫৪",
+    "solution_steps": [
+      "Use the identity $a^{3} - b^{3} = (a - b)(a^{2} + ab + b^{2})$.",
+      "Substituting the given values: $513 = 3(a^{2} + ab + b^{2})$, so $a^{2} + ab + b^{2} = 171$.",
+      "Squaring $a - b = 3$ gives $a^{2} - 2ab + b^{2} = 9$.",
+      "Subtracting the second equation from the first: $3ab = 171 - 9 = 162$, so $ab = 54$."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 82
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Use the identity $a^{3} - b^{3} = (a - b)(a^{2} + ab + b^{2})$.",
+          "Substituting the given values: $513 = 3(a^{2} + ab + b^{2})$, so $a^{2} + ab + b^{2} = 171$.",
+          "Subtracting the second equation from the first: $3ab = 171 - 9 = 162$, so $ab = 54$."
+        ],
+        "final_response": "৫৪",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: Use a³−b³=(a−b)(a²+ab+b²). Together with (a−b)^2=9, subtracting the equations gives 3ab=162.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 45।"
+        ],
+        "final_response": "45",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 45.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Use the identity $a^{3} - b^{3} = (a - b)(a^{2} + ab + b^{2})$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 55।"
+        ],
+        "final_response": "55",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 55: a²+ab+b²=171 and a²−2ab+b²=9. Their difference is 3ab=162, so ab=54, not 55.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Use the identity $a^{3} - b^{3} = (a - b)(a^{2} + ab + b^{2})$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ALGEBRA_BCS11_002_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for value of ab.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে value of ab নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute value of ab?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ALGEBRA_BCS11_003",
+    "raw_source_id": "Q0011",
+    "topic": "algebra",
+    "subskill": "polynomial division",
+    "difficulty": "Easy",
+    "question_bn": "(x + 3)(x − 3)-কে x² − 6 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+    "target_quantity": "remainder",
+    "answer_options": [
+      "−৬",
+      "৩",
+      "৬",
+      "−৩"
+    ],
+    "correct_answer": "−৩",
+    "solution_steps": [
+      "Expand the numerator: $(x+3)(x-3) = x^{2} - 9$.",
+      "Rewrite $x^{2} - 9$ in terms of the divisor: $x^{2} - 9 = (x^{2} - 6) - 3$.",
+      "So $(x^{2} - 9) \\div (x^{2} - 6)$ gives quotient $1$ with remainder $-3$."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 83
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Expand the numerator: $(x+3)(x-3) = x^{2} - 9$.",
+          "Rewrite $x^{2} - 9$ in terms of the divisor: $x^{2} - 9 = (x^{2} - 6) - 3$.",
+          "So $(x^{2} - 9) \\div (x^{2} - 6)$ gives quotient $1$ with remainder $-3$."
+        ],
+        "final_response": "−৩",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: (x+3)(x−3)=x²−9. Relative to the divisor x²−6, the remainder is −3.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: −6।"
+        ],
+        "final_response": "−6",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: −6.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Expand the numerator: $(x+3)(x-3) = x^{2} - 9$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 6।"
+        ],
+        "final_response": "6",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 6: x²−9=(x²−6)−3. The remainder has a negative sign, so +6 is incorrect.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Expand the numerator: $(x+3)(x-3) = x^{2} - 9$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ALGEBRA_BCS11_003_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for remainder.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে remainder নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute remainder?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ALGEBRA_BCS12_004",
+    "raw_source_id": "Q0018",
+    "topic": "algebra",
+    "subskill": "perfect square completion",
+    "difficulty": "Medium",
+    "question_bn": "x² − 8x − 8y + 16 + y² এর সঙ্গে কত যোগ করলে যোগফল একটি পূর্ণবর্গ হবে?",
+    "target_quantity": "expression to add",
+    "answer_options": [
+      "−2xy",
+      "8xy",
+      "6xy",
+      "2xy"
+    ],
+    "correct_answer": "2xy",
+    "solution_steps": [
+      "Rewrite the expression grouped by variable: $x^{2} + y^{2} - 8x - 8y + 16$.",
+      "Compare this to the expansion of $(x + y - 4)^{2} = x^{2} + y^{2} + 2xy - 8x - 8y + 16$.",
+      "The two differ only by the $2xy$ term, which is missing from the original expression.",
+      "So adding $2xy$ turns the expression into $(x+y-4)^{2}$, a perfect square."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 89
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Rewrite the expression grouped by variable: $x^{2} + y^{2} - 8x - 8y + 16$.",
+          "Compare this to the expansion of $(x + y - 4)^{2} = x^{2} + y^{2} + 2xy - 8x - 8y + 16$.",
+          "So adding $2xy$ turns the expression into $(x+y-4)^{2}$, a perfect square."
+        ],
+        "final_response": "2xy",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The supplied source answer is 2xy, but the printed algebraic expression is internally inconsistent w",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: -2xy।"
+        ],
+        "final_response": "-2xy",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: -2xy.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Rewrite the expression grouped by variable: $x^{2} + y^{2} - 8x - 8y + 16$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 8xy।"
+        ],
+        "final_response": "8xy",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 8xy: The source answer is 2xy. Multiplying the missing cross-term by an arbitrary factor does not resolve",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Rewrite the expression grouped by variable: $x^{2} + y^{2} - 8x - 8y + 16$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ALGEBRA_BCS12_004_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for expression to add.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে expression to add নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute expression to add?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ALGEBRA_BCS12_005",
+    "raw_source_id": "Q0019",
+    "topic": "algebra",
+    "subskill": "factorization",
+    "difficulty": "Easy",
+    "question_bn": "2x² − x − 3 এর উৎপাদক হবে—",
+    "target_quantity": "factors",
+    "answer_options": [
+      "(2x + 3)(x + 1)",
+      "(2x − 3)(x − 1)",
+      "(2x + 3)(x − 1)",
+      "(2x − 3)(x + 1)"
+    ],
+    "correct_answer": "(2x − 3)(x + 1)",
+    "solution_steps": [
+      "Split the middle term: for $2x^{2} - x - 3$, look for two numbers multiplying to $2 \\times (-3) = -6$ and adding to $-1$: those are $2$ and $-3$.",
+      "$2x^{2} - x - 3 = 2x^{2} + 2x - 3x - 3$.",
+      "Group and factor: $2x(x+1) - 3(x+1) = (2x-3)(x+1)$.",
+      "Check by expanding: $(2x-3)(x+1) = 2x^{2} + 2x - 3x - 3 = 2x^{2} - x - 3$."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 90
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Split the middle term: for $2x^{2} - x - 3$, look for two numbers multiplying to $2 \\times (-3) = -6$ and adding to $-1$: those are $2$ and $-3$.",
+          "$2x^{2} - x - 3 = 2x^{2} + 2x - 3x - 3$.",
+          "Check by expanding: $(2x-3)(x+1) = 2x^{2} + 2x - 3x - 3 = 2x^{2} - x - 3$."
+        ],
+        "final_response": "(2x − 3)(x + 1)",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: Direct multiplication gives 2x²+5x+3, not 2x²−x−15. The source expression/options are inconsistent, ",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: (2x+3)(x+1)।"
+        ],
+        "final_response": "(2x+3)(x+1)",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: (2x+3)(x+1).",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Split the middle term: for $2x^{2} - x - 3$, look for two numbers multiplying to $2 \\times (-3) = -6$ and adding to $-1$: those are $2$ and $-3$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: (2x−3)(x−1)।"
+        ],
+        "final_response": "(2x−3)(x−1)",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced (2x−3)(x−1): Multiplying gives 2x²−5x+3, which does not equal 2x²−x−15. Therefore this option cannot factor the d",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Split the middle term: for $2x^{2} - x - 3$, look for two numbers multiplying to $2 \\times (-3) = -6$ and adding to $-1$: those are $2$ and $-3$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ALGEBRA_BCS12_005_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for factors.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে factors নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute factors?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ALGEBRA_BCS12_006",
+    "raw_source_id": "Q0020",
+    "topic": "algebra",
+    "subskill": "factorization identity",
+    "difficulty": "Medium",
+    "question_bn": "a⁴ + 4 এর উৎপাদক কী কী?",
+    "target_quantity": "factors",
+    "answer_options": [
+      "(a²+2a+2)(a²+2a−2)",
+      "(a²+2a+2)(a²−2a+2)",
+      "(a²−2a+2)(a²+2a−2)",
+      "(a²−2a−2)(a²−2a+2)"
+    ],
+    "correct_answer": "(a²+2a+2)(a²−2a+2)",
+    "solution_steps": [
+      "Add and subtract $4a^{2}$ to build a difference of squares: $a^{4} + 4 = a^{4} + 4a^{2} + 4 - 4a^{2}$.",
+      "The first three terms form a perfect square: $a^{4} + 4a^{2} + 4 = (a^{2} + 2)^{2}$.",
+      "So the expression is $(a^{2}+2)^{2} - (2a)^{2}$, a difference of squares.",
+      "Factor using $A^2 - B^2 = (A-B)(A+B)$: $(a^{2}+2-2a)(a^{2}+2+2a) = (a^{2}-2a+2)(a^{2}+2a+2)$."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 91
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Add and subtract $4a^{2}$ to build a difference of squares: $a^{4} + 4 = a^{4} + 4a^{2} + 4 - 4a^{2}$.",
+          "The first three terms form a perfect square: $a^{4} + 4a^{2} + 4 = (a^{2} + 2)^{2}$.",
+          "Factor using $A^2 - B^2 = (A-B)(A+B)$: $(a^{2}+2-2a)(a^{2}+2+2a) = (a^{2}-2a+2)(a^{2}+2a+2)$."
+        ],
+        "final_response": "(a²+2a+2)(a²−2a+2)",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The identity a⁴+4=(a²+2)²−(2a)² is a difference of squares. Factoring gives (a²+2a+2)(a²−2a+2).",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: (a²+2a+2)(a²+2a−2)।"
+        ],
+        "final_response": "(a²+2a+2)(a²+2a−2)",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: (a²+2a+2)(a²+2a−2).",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Add and subtract $4a^{2}$ to build a difference of squares: $a^{4} + 4 = a^{4} + 4a^{2} + 4 - 4a^{2}$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: (a²−2a+2)(a²+2a−2)।"
+        ],
+        "final_response": "(a²−2a+2)(a²+2a−2)",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced (a²−2a+2)(a²+2a−2): The signs must match the difference-of-squares factors. The correct pair has +2a in one factor and −",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Add and subtract $4a^{2}$ to build a difference of squares: $a^{4} + 4 = a^{4} + 4a^{2} + 4 - 4a^{2}$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ALGEBRA_BCS12_006_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for factors.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে factors নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute factors?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ARITHMETIC_BCS11_001",
+    "raw_source_id": "Q0004",
+    "topic": "arithmetic",
+    "subskill": "number sequence",
+    "difficulty": "Easy",
+    "question_bn": "১৯, ৩৩, ৫১, ৭৩, .......... পরবর্তী সংখ্যাটি কত?",
+    "target_quantity": "next number in sequence",
+    "answer_options": [
+      "৮৫",
+      "১২১",
+      "৯৯",
+      "৯৮"
+    ],
+    "correct_answer": "৯৯",
+    "solution_steps": [
+      "Take consecutive differences: $33 - 19 = 14$, $51 - 33 = 18$, $73 - 51 = 22$.",
+      "These differences increase by 4 each time ($14, 18, 22$), so the next difference is $22 + 4 = 26$.",
+      "The next term is $73 + 26 = 99$."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 72
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Take consecutive differences: $33 - 19 = 14$, $51 - 33 = 18$, $73 - 51 = 22$.",
+          "These differences increase by 4 each time ($14, 18, 22$), so the next difference is $22 + 4 = 26$.",
+          "The next term is $73 + 26 = 99$."
+        ],
+        "final_response": "৯৯",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The successive differences are 14, 18, 22, so the next difference is 26. The differences themselves ",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 98।"
+        ],
+        "final_response": "98",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 98.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Take consecutive differences: $33 - 19 = 14$, $51 - 33 = 18$, $73 - 51 = 22$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 121।"
+        ],
+        "final_response": "121",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 121: The next term is 73+26=99. 121 does not follow from the next difference of 26.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Take consecutive differences: $33 - 19 = 14$, $51 - 33 = 18$, $73 - 51 = 22$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ARITHMETIC_BCS11_001_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for next number in sequence.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে next number in sequence নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute next number in sequence?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ARITHMETIC_BCS11_002",
+    "raw_source_id": "Q0012",
+    "topic": "arithmetic",
+    "subskill": "unit conversion",
+    "difficulty": "Easy",
+    "question_bn": "এক মিটার সমান কত ইঞ্চি?",
+    "target_quantity": "length in inches",
+    "answer_options": [
+      "৩৭.৩৯ ইঞ্চি",
+      "৩৯.৩৭ ইঞ্চি",
+      "৩৯.৪৭ ইঞ্চি",
+      "৩৮.৫৫ ইঞ্চি"
+    ],
+    "correct_answer": "৩৯.৩৭ ইঞ্চি",
+    "solution_steps": [
+      "$1$ inch $= 2.54$ centimetres, so $1$ centimetre $= 1/2.54$ inches.",
+      "$1$ metre $= 100$ centimetres.",
+      "$100 / 2.54 \\approx 39.37$ inches."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 85
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "$1$ inch $= 2.54$ centimetres, so $1$ centimetre $= 1/2.54$ inches.",
+          "$1$ metre $= 100$ centimetres.",
+          "$100 / 2.54 \\approx 39.37$ inches."
+        ],
+        "final_response": "৩৯.৩৭ ইঞ্চি",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: One meter is 100 cm and one inch is 2.54 cm. Thus 100/2.54≈39.37 inches.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 37.39 inches।"
+        ],
+        "final_response": "37.39 inches",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 37.39 inches.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "$1$ inch $= 2.54$ centimetres, so $1$ centimetre $= 1/2.54$ inches.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 39.47 inches।"
+        ],
+        "final_response": "39.47 inches",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 39.47 inches: 100/2.54 is approximately 39.37. A decimal-place or rounding error can produce 39.47.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "$1$ inch $= 2.54$ centimetres, so $1$ centimetre $= 1/2.54$ inches."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ARITHMETIC_BCS11_002_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for length in inches.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে length in inches নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute length in inches?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ARITHMETIC_BCS12_003",
+    "raw_source_id": "Q0017",
+    "topic": "arithmetic",
+    "subskill": "unit conversion",
+    "difficulty": "Easy",
+    "question_bn": "২০৫৭৩.৪ মিলিগ্রামে কত কিলোগ্রাম?",
+    "target_quantity": "weight in kilograms",
+    "answer_options": [
+      "২.০৫৭৩৪",
+      "০.২০৫৭৩৪",
+      "০.০২০৫৭৩৪",
+      "২০.৫৭৩৪০"
+    ],
+    "correct_answer": "০.০২০৫৭৩৪",
+    "solution_steps": [
+      "$1$ kilogram $= 1{,}000{,}000$ milligrams (via $1$ kg $= 1{,}000$ g and $1$ g $= 1{,}000$ mg).",
+      "$20573.4 \\div 1{,}000{,}000 = 0.0205734$ kilograms."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 88
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "$1$ kilogram $= 1{,}000{,}000$ milligrams (via $1$ kg $= 1{,}000$ g and $1$ g $= 1{,}000$ mg).",
+          "$20573.4 \\div 1{,}000{,}000 = 0.0205734$ kilograms.",
+          "$20573.4 \\div 1{,}000{,}000 = 0.0205734$ kilograms."
+        ],
+        "final_response": "০.০২০৫৭৩৪",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: One kilogram contains 1,000,000 milligrams. Therefore 20,573.4 mg divided by 1,000,000 is 0.0205734 ",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 0.205734 kg।"
+        ],
+        "final_response": "0.205734 kg",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 0.205734 kg.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "$1$ kilogram $= 1{,}000{,}000$ milligrams (via $1$ kg $= 1{,}000$ g and $1$ g $= 1{,}000$ mg).",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 2.05734 kg।"
+        ],
+        "final_response": "2.05734 kg",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 2.05734 kg: The conversion requires division by one million, not ten thousand. Thus 2.05734 kg is 100 times too ",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "$1$ kilogram $= 1{,}000{,}000$ milligrams (via $1$ kg $= 1{,}000$ g and $1$ g $= 1{,}000$ mg)."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ARITHMETIC_BCS12_003_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for weight in kilograms.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে weight in kilograms নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute weight in kilograms?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ARITHMETIC_BCS12_004",
+    "raw_source_id": "Q0022",
+    "topic": "arithmetic",
+    "subskill": "number sequence",
+    "difficulty": "Easy",
+    "question_bn": "৮, ১১, ১৭, ২৯, ৫৩, ...... পরবর্তী সংখ্যাটি কত?",
+    "target_quantity": "পরবর্তী সংখ্যা",
+    "answer_options": [
+      "১০১",
+      "১০২",
+      "৭৫",
+      "৫৯"
+    ],
+    "correct_answer": "১০১",
+    "solution_steps": [
+      "The differences between consecutive terms are $11 - 8 = 3$, $17 - 11 = 6$, $29 - 17 = 12$, and $53 - 29 = 24$.",
+      "The difference doubles at each step.",
+      "The next difference will be $24 \\times 2 = 48$.",
+      "Therefore, the next number is $53 + 48 = 101$."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 93
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "The differences between consecutive terms are $11 - 8 = 3$, $17 - 11 = 6$, $29 - 17 = 12$, and $53 - 29 = 24$.",
+          "The difference doubles at each step.",
+          "Therefore, the next number is $53 + 48 = 101$."
+        ],
+        "final_response": "১০১",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The differences are 3,6,12,24, doubling each time. The next difference is 48, so the next term is 10",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 102।"
+        ],
+        "final_response": "102",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 102.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "The differences between consecutive terms are $11 - 8 = 3$, $17 - 11 = 6$, $29 - 17 = 12$, and $53 - 29 = 24$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 75।"
+        ],
+        "final_response": "75",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 75: 53+48=101. 75 does not follow the established difference pattern.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "The differences between consecutive terms are $11 - 8 = 3$, $17 - 11 = 6$, $29 - 17 = 12$, and $53 - 29 = 24$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ARITHMETIC_BCS12_004_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for পরবর্তী সংখ্যা.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে পরবর্তী সংখ্যা নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute পরবর্তী সংখ্যা?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ARITHMETIC_BCS12_005",
+    "raw_source_id": "Q0027",
+    "topic": "arithmetic",
+    "subskill": "irrational numbers",
+    "difficulty": "Easy",
+    "question_bn": "নিচের কোন সংখ্যাটি √2 এবং √3 এর মধ্যবর্তী মূলদ সংখ্যা?",
+    "target_quantity": "মূলদ সংখ্যা",
+    "answer_options": [
+      "(√2+√3)/2",
+      "√2·√3/2",
+      "1.5",
+      "1.8"
+    ],
+    "correct_answer": "1.5",
+    "solution_steps": [
+      "The approximate decimal value of $\\sqrt{2}$ is $1.414$.",
+      "The approximate decimal value of $\\sqrt{3}$ is $1.732$.",
+      "We are looking for a rational number (a number that can be written as a simple fraction) that falls between $1.414$ and $1.732$.",
+      "The number $1.5$ (which is $\\frac{3}{2}$) is rational and lies exactly in this range."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 98
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "The approximate decimal value of $\\sqrt{2}$ is $1.414$.",
+          "The approximate decimal value of $\\sqrt{3}$ is $1.732$.",
+          "The number $1.5$ (which is $\\frac{3}{2}$) is rational and lies exactly in this range."
+        ],
+        "final_response": "1.5",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: √2≈1.414 and √3≈1.732, so 1.5 lies between them. The average of the two radicals is also between the",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: (√2+√3)/2।"
+        ],
+        "final_response": "(√2+√3)/2",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: (√2+√3)/2.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "The approximate decimal value of $\\sqrt{2}$ is $1.414$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: √2·√3/2।"
+        ],
+        "final_response": "√2·√3/2",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced √2·√3/2: √6/2≈1.225, which is below √2. It therefore is not between √2 and √3.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "The approximate decimal value of $\\sqrt{2}$ is $1.414$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ARITHMETIC_BCS12_005_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for মূলদ সংখ্যা.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে মূলদ সংখ্যা নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute মূলদ সংখ্যা?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_ARITHMETIC_BCS12_006",
+    "raw_source_id": "Q0028",
+    "topic": "arithmetic",
+    "subskill": "counting and arrangement",
+    "difficulty": "Medium",
+    "question_bn": "একটি স্কুলে ছাত্রদের ড্রিল করার সময় ৮, ১০ এবং ১২ সারিতে সাজানো যায়। আবার বর্গাকারেও সাজানো যায়। ঐ স্কুলে কমপক্ষে কতজন ছাত্র আছে?",
+    "target_quantity": "ছাত্রসংখ্যা",
+    "answer_options": [
+      "৩৬০০",
+      "২৪০০",
+      "১২০০",
+      "১০০০"
+    ],
+    "correct_answer": "৩৬০০",
+    "solution_steps": [
+      "To arrange the students in rows of $8$, $10$, and $12$, the total number must be a common multiple of these numbers. The Least Common Multiple (LCM) of $8$, $10$, and $12$ is $120$.",
+      "Because the students can also be arranged in a solid square, the total number of students must be a perfect square.",
+      "The prime factorization of $120$ is $2^3 \\times 3 \\times 5$. To make this a perfect square, we must multiply by the missing factors to make all exponents even: $2 \\times 3 \\times 5 = 30$.",
+      "The minimum perfect square multiple is $120 \\times 30 = 3600$."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 99
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "To arrange the students in rows of $8$, $10$, and $12$, the total number must be a common multiple of these numbers. The Least Common Multiple (LCM) of $8$, $10$, and $12$ is $120$.",
+          "Because the students can also be arranged in a solid square, the total number of students must be a perfect square.",
+          "The minimum perfect square multiple is $120 \\times 30 = 3600$."
+        ],
+        "final_response": "৩৬০০",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The number must be divisible by 8, 10 and 12, and also be a perfect square. LCM=120; the smallest sq",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 2400।"
+        ],
+        "final_response": "2400",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 2400.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "To arrange the students in rows of $8$, $10$, and $12$, the total number must be a common multiple of these numbers. The Least Common Multiple (LCM) of $8$, $10$, and $12$ is $120$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 1200।"
+        ],
+        "final_response": "1200",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 1200: 1200 is a common multiple of 8,10,12 but is not a perfect square. The square condition is essential.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "To arrange the students in rows of $8$, $10$, and $12$, the total number must be a common multiple of these numbers. The Least Common Multiple (LCM) of $8$, $10$, and $12$ is $120$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_ARITHMETIC_BCS12_006_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for ছাত্রসংখ্যা.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে ছাত্রসংখ্যা নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute ছাত্রসংখ্যা?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_GEOMETRY_BCS11_001",
+    "raw_source_id": "Q0002",
+    "topic": "geometry",
+    "subskill": "rectangle perimeter",
+    "difficulty": "Easy",
+    "question_bn": "একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য বিস্তারের ৩ গুণ। দৈর্ঘ্য ৪৮ মিটার হলে ক্ষেত্রটির পরিসীমা কত?",
+    "target_quantity": "perimeter of rectangle",
+    "answer_options": [
+      "১২৮ মিটার",
+      "১৪৪ মিটার",
+      "৬৪ মিটার",
+      "৯৬ মিটার"
+    ],
+    "correct_answer": "১২৮ মিটার",
+    "solution_steps": [
+      "The length is given as 48 metres.",
+      "The length is 3 times the width, so the width is $48/3 = 16$ metres.",
+      "Perimeter of a rectangle $= 2(\\text{length} + \\text{width}) = 2(48 + 16) = 2 \\times 64 = 128$ metres."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 70
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "The length is given as 48 metres.",
+          "The length is 3 times the width, so the width is $48/3 = 16$ metres.",
+          "Perimeter of a rectangle $= 2(\\text{length} + \\text{width}) = 2(48 + 16) = 2 \\times 64 = 128$ metres."
+        ],
+        "final_response": "১২৮ মিটার",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The width is one-third of the 48-meter length, so it is 16 meters. The perimeter must use both lengt",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 144 meters।"
+        ],
+        "final_response": "144 meters",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 144 meters.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "The length is given as 48 metres.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 96 meters।"
+        ],
+        "final_response": "96 meters",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 96 meters: Perimeter = 2(48+16)=128 meters. Using 96 corresponds to an incomplete perimeter calculation.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "The length is given as 48 metres."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_GEOMETRY_BCS11_001_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for perimeter of rectangle.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে perimeter of rectangle নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute perimeter of rectangle?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_GEOMETRY_BCS11_002",
+    "raw_source_id": "Q0006",
+    "topic": "geometry",
+    "subskill": "circle area",
+    "difficulty": "Medium",
+    "question_bn": "একটি বৃত্তের ব্যাসার্ধকে r থেকে বৃদ্ধি করে r + n করা হয়, তাতে তার ক্ষেত্রফল দ্বিগুণ হয়। r-এর মান কত?",
+    "target_quantity": "radius r",
+    "answer_options": [
+      "n/(√2−1)",
+      "n+√2",
+      "√(2n)",
+      "√(2(n+1))"
+    ],
+    "correct_answer": "n/(√2−1)",
+    "solution_steps": [
+      "The original area is $\\pi r^{2}$ and the new area is $\\pi(r+n)^{2}$.",
+      "The area doubles, so $\\pi(r+n)^{2} = 2\\pi r^{2}$, which simplifies to $(r+n)^{2} = 2r^{2}$.",
+      "Taking positive square roots (a radius is positive): $r + n = r\\sqrt{2}$.",
+      "Rearranging: $n = r(\\sqrt{2} - 1)$, so $r = n/(\\sqrt{2} - 1)$."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 75
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "The original area is $\\pi r^{2}$ and the new area is $\\pi(r+n)^{2}$.",
+          "The area doubles, so $\\pi(r+n)^{2} = 2\\pi r^{2}$, which simplifies to $(r+n)^{2} = 2r^{2}$.",
+          "Rearranging: $n = r(\\sqrt{2} - 1)$, so $r = n/(\\sqrt{2} - 1)$."
+        ],
+        "final_response": "n/(√2−1)",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: Doubling the area means (r+n)^2=2r^2. Taking the positive square root gives r+n=r√2, which must then",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: n+sqrt(2)।"
+        ],
+        "final_response": "n+sqrt(2)",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: n+sqrt(2).",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "The original area is $\\pi r^{2}$ and the new area is $\\pi(r+n)^{2}$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: sqrt(2n)।"
+        ],
+        "final_response": "sqrt(2n)",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced sqrt(2n): From n=r(√2−1), divide by √2−1. There is no square-root-of-n step in this derivation.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "The original area is $\\pi r^{2}$ and the new area is $\\pi(r+n)^{2}$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_GEOMETRY_BCS11_002_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for radius r.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে radius r নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute radius r?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_GEOMETRY_BCS12_003",
+    "raw_source_id": "Q0023",
+    "topic": "geometry",
+    "subskill": "rhombus",
+    "difficulty": "Easy",
+    "question_bn": "চারটি সমান বাহু দ্বারা সীমাবদ্ধ একটি ক্ষেত্র যার একটি কোণ সমকোণ নয়, এরূপ চিত্রকে বলা হয়—",
+    "target_quantity": "answer/result",
+    "answer_options": [
+      "বর্গক্ষেত্র",
+      "চতুর্ভুজ",
+      "রম্বস",
+      "সামান্তরিক"
+    ],
+    "correct_answer": "রম্বস",
+    "solution_steps": [
+      "A quadrilateral bounded by four equal sides is either a square or a rhombus.",
+      "If any angle is a right angle ($90^{\\circ}$), it is a square. Since none of the angles are right angles, it cannot be a square.",
+      "Therefore, the shape is a rhombus."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 94
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "A quadrilateral bounded by four equal sides is either a square or a rhombus.",
+          "If any angle is a right angle ($90^{\\circ}$), it is a square. Since none of the angles are right angles, it cannot be a square.",
+          "Therefore, the shape is a rhombus."
+        ],
+        "final_response": "রম্বস",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: Four equal sides define a rhombus; excluding a right angle rules out a square. Therefore the describ",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: square।"
+        ],
+        "final_response": "square",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: square.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "A quadrilateral bounded by four equal sides is either a square or a rhombus.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: quadrilateral।"
+        ],
+        "final_response": "quadrilateral",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced quadrilateral: Quadrilateral is a broad category, while the four equal sides give the more specific classification.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "A quadrilateral bounded by four equal sides is either a square or a rhombus."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_GEOMETRY_BCS12_003_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for answer/result.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে answer/result নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute answer/result?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_GEOMETRY_BCS12_004",
+    "raw_source_id": "Q0024",
+    "topic": "geometry",
+    "subskill": "regular polygon interior angle",
+    "difficulty": "Medium",
+    "question_bn": "একটি সুষম বহুভুজের একটি অন্তঃকোণের পরিমাণ ১৩৫° হলে বহুভুজটির বাহুর সংখ্যা হবে—",
+    "target_quantity": "বাহুর সংখ্যা",
+    "answer_options": [
+      "৬",
+      "৭",
+      "৮",
+      "১০"
+    ],
+    "correct_answer": "৮",
+    "solution_steps": [
+      "The formula for each interior angle of a regular polygon with $n$ sides is $\\frac{(n - 2) \\times 180^{\\circ}}{n}$.",
+      "Given the interior angle is $135^{\\circ}$, we set up the equation: $\\frac{(n - 2) \\times 180}{n} = 135$.",
+      "Cross-multiplying gives $180n - 360 = 135n$.",
+      "Subtracting $135n$ from both sides yields $45n = 360$, which gives $n = 8$."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 95
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "The formula for each interior angle of a regular polygon with $n$ sides is $\\frac{(n - 2) \\times 180^{\\circ}}{n}$.",
+          "Given the interior angle is $135^{\\circ}$, we set up the equation: $\\frac{(n - 2) \\times 180}{n} = 135$.",
+          "Subtracting $135n$ from both sides yields $45n = 360$, which gives $n = 8$."
+        ],
+        "final_response": "৮",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: For a regular n-gon, interior angle=(n−2)180/n. Setting this equal to 135° gives n=8.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 7।"
+        ],
+        "final_response": "7",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 7.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "The formula for each interior angle of a regular polygon with $n$ sides is $\\frac{(n - 2) \\times 180^{\\circ}}{n}$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 6।"
+        ],
+        "final_response": "6",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 6: A regular hexagon has interior angle 120°, not 135°. Therefore 6 cannot satisfy the condition.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "The formula for each interior angle of a regular polygon with $n$ sides is $\\frac{(n - 2) \\times 180^{\\circ}}{n}$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_GEOMETRY_BCS12_004_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for বাহুর সংখ্যা.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে বাহুর সংখ্যা নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute বাহুর সংখ্যা?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_GEOMETRY_BCS12_005",
+    "raw_source_id": "Q0025",
+    "topic": "geometry",
+    "subskill": "equilateral triangle area",
+    "difficulty": "Medium",
+    "question_bn": "একটি সমবাহু ত্রিভুজের একটি বাহু ১৬ মিটার হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+    "target_quantity": "ক্ষেত্রফল",
+    "answer_options": [
+      "১৯২",
+      "৩২√৩",
+      "৬৪√৩",
+      "৬৪"
+    ],
+    "correct_answer": "৬৪√৩",
+    "solution_steps": [
+      "The area of an equilateral triangle with side length $a$ is given by the formula $\\frac{\\sqrt{3}}{4}a^2$.",
+      "Substituting the given side length $a = 16$: $\\text{Area} = \\frac{\\sqrt{3}}{4} \\times 16^2$.",
+      "This simplifies to $\\frac{\\sqrt{3}}{4} \\times 256 = 64\\sqrt{3}$ square metres."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 96
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "The area of an equilateral triangle with side length $a$ is given by the formula $\\frac{\\sqrt{3}}{4}a^2$.",
+          "Substituting the given side length $a = 16$: $\\text{Area} = \\frac{\\sqrt{3}}{4} \\times 16^2$.",
+          "This simplifies to $\\frac{\\sqrt{3}}{4} \\times 256 = 64\\sqrt{3}$ square metres."
+        ],
+        "final_response": "৬৪√৩",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The area of an equilateral triangle is (√3/4)a². For a=16, the area is 64√3 square meters.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 64।"
+        ],
+        "final_response": "64",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 64.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "The area of an equilateral triangle with side length $a$ is given by the formula $\\frac{\\sqrt{3}}{4}a^2$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 32√3।"
+        ],
+        "final_response": "32√3",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 32√3: 16²=256 and one-quarter is 64. Using one-eighth instead of one-quarter produces 32√3 incorrectly.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "The area of an equilateral triangle with side length $a$ is given by the formula $\\frac{\\sqrt{3}}{4}a^2$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_GEOMETRY_BCS12_005_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for ক্ষেত্রফল.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে ক্ষেত্রফল নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute ক্ষেত্রফল?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_PERCENTAGE_PROFIT_LOSS_BCS11_001",
+    "raw_source_id": "Q0001",
+    "topic": "percentage_profit_loss",
+    "subskill": "percentage decrease and unit price",
+    "difficulty": "Hard",
+    "question_bn": "চালের মূল্য ১২% কমে যাওয়ায় ৬,০০০ টাকায় পূর্বাপেক্ষা ১ কুইন্টাল চাল বেশি পাওয়া যায়। ১ কুইন্টাল চালের বর্তমান মূল্য কত?",
+    "target_quantity": "current price per quintal",
+    "answer_options": [
+      "৭৫০ টাকা",
+      "৭০০ টাকা",
+      "৭২০ টাকা",
+      "৭৫ টাকা"
+    ],
+    "correct_answer": "৭২০ টাকা",
+    "solution_steps": [
+      "Let the current price be $x$ taka per quintal. The price fell by 12%, so the current price is 88% of the old price, which means the old price was $x/0.88$ taka per quintal.",
+      "Quantity obtainable for 6,000 taka now is $6000/x$ quintals; at the old price it was $6000 \\div (x/0.88) = 0.88 \\times 6000/x$ quintals.",
+      "The extra quantity is 1 quintal, so $6000/x - 0.88(6000/x) = 1$, which gives $6000(0.12)/x = 1$.",
+      "Therefore $720/x = 1$, so $x = 720$ taka per quintal.",
+      "Check: at 720 taka the buyer gets $6000/720 = 8.333$ quintals; the old price was $720/0.88 \\approx 818.18$ taka, giving $6000/818.18 = 7.333$ quintals. The difference is exactly 1 quintal."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 69
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Let the current price be $x$ taka per quintal. The price fell by 12%, so the current price is 88% of the old price, which means the old price was $x/0.88$ taka per quintal.",
+          "Quantity obtainable for 6,000 taka now is $6000/x$ quintals; at the old price it was $6000 \\div (x/0.88) = 0.88 \\times 6000/x$ quintals.",
+          "Check: at 720 taka the buyer gets $6000/720 = 8.333$ quintals; the old price was $720/0.88 \\approx 818.18$ taka, giving $6000/818.18 = 7.333$ quintals. The difference is exactly 1 quintal."
+        ],
+        "final_response": "৭২০ টাকা",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The 12% price reduction means the current price is 88% of the old price. The extra one quintal condi",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 700 taka।"
+        ],
+        "final_response": "700 taka",
+        "gold_error_cause": "percentage_base",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 700 taka.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Let the current price be $x$ taka per quintal. The price fell by 12%, so the current price is 88% of the old price, which means the old price was $x/0.88$ taka per quintal.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 750 taka।"
+        ],
+        "final_response": "750 taka",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 750 taka: At a current price of 750 taka, the quantity difference is not exactly one quintal. Substitution int",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Let the current price be $x$ taka per quintal. The price fell by 12%, so the current price is 88% of the old price, which means the old price was $x/0.88$ taka per quintal."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_PERCENTAGE_PROFIT_LOSS_BCS11_001_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for current price per quintal.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে current price per quintal নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute current price per quintal?",
+          "candidate_causes": [
+            "no_error",
+            "percentage_base",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_PERCENTAGE_PROFIT_LOSS_BCS11_002",
+    "raw_source_id": "Q0009",
+    "topic": "percentage_profit_loss",
+    "subskill": "percentage comparison",
+    "difficulty": "Medium",
+    "question_bn": "ক-এর বেতন খ-এর বেতন অপেক্ষা শতকরা ৩৫% বেশি হলে, খ-এর বেতন ক-এর বেতন অপেক্ষা কত শতাংশ কম?",
+    "target_quantity": "percentage salary decrease",
+    "answer_options": [
+      "২৭%",
+      "২৫.৯৩%",
+      "৪০%",
+      "২৫.৫০%"
+    ],
+    "correct_answer": "২৫.৯৩%",
+    "solution_steps": [
+      "Let B's salary be 100 taka. Since A earns 35% more, A's salary is 135 taka.",
+      "B falls short of A by $135 - 100 = 35$ taka.",
+      "The comparison is now against A's salary, so the base is 135, not 100.",
+      "Percentage shortfall $= (35/135) \\times 100 = 25.925\\ldots\\% \\approx 25.93\\%$."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 79
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Let B's salary be 100 taka. Since A earns 35% more, A's salary is 135 taka.",
+          "B falls short of A by $135 - 100 = 35$ taka.",
+          "Percentage shortfall $= (35/135) \\times 100 = 25.925\\ldots\\% \\approx 25.93\\%$."
+        ],
+        "final_response": "২৫.৯৩%",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: If B's salary is 100, A's is 135. The decrease from A to B is 35/135, not 35/100.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 27%।"
+        ],
+        "final_response": "27%",
+        "gold_error_cause": "percentage_base",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 27%.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Let B's salary be 100 taka. Since A earns 35% more, A's salary is 135 taka.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 40%।"
+        ],
+        "final_response": "40%",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 40%: The required percentage is measured relative to A's salary of 135. Using B's salary as the denominat",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Let B's salary be 100 taka. Since A earns 35% more, A's salary is 135 taka."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_PERCENTAGE_PROFIT_LOSS_BCS11_002_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for percentage salary decrease.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে percentage salary decrease নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute percentage salary decrease?",
+          "candidate_causes": [
+            "no_error",
+            "percentage_base",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_PERCENTAGE_PROFIT_LOSS_BCS12_003",
+    "raw_source_id": "Q0013",
+    "topic": "percentage_profit_loss",
+    "subskill": "percentage increase and consumption",
+    "difficulty": "Easy",
+    "question_bn": "চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+    "target_quantity": "percentage decrease in sugar consumption",
+    "answer_options": [
+      "৩০%",
+      "২৫%",
+      "১৫%",
+      "২০%"
+    ],
+    "correct_answer": "২০%",
+    "solution_steps": [
+      "Let the old price be 100 taka per unit. A 25% increase makes the new price 125 taka.",
+      "Expenditure = price × quantity. To keep expenditure unchanged, the new quantity must be $100/125 = 0.8$ times the old quantity.",
+      "A factor of 0.8 means the quantity consumed dropped by 20%."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 84
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Let the old price be 100 taka per unit. A 25% increase makes the new price 125 taka.",
+          "Expenditure = price × quantity. To keep expenditure unchanged, the new quantity must be $100/125 = 0.8$ times the old quantity.",
+          "A factor of 0.8 means the quantity consumed dropped by 20%."
+        ],
+        "final_response": "২০%",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: A 25% price increase changes the price from 100 to 125. To keep expenditure fixed, consumption must ",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 25%।"
+        ],
+        "final_response": "25%",
+        "gold_error_cause": "percentage_base",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 25%.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Let the old price be 100 taka per unit. A 25% increase makes the new price 125 taka.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 15%।"
+        ],
+        "final_response": "15%",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 15%: The decrease is 20%, not 15%. The calculation must compare the new quantity with the original quanti",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Let the old price be 100 taka per unit. A 25% increase makes the new price 125 taka."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_PERCENTAGE_PROFIT_LOSS_BCS12_003_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for percentage decrease in sugar consumption.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে percentage decrease in sugar consumption নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute percentage decrease in sugar consumption?",
+          "candidate_causes": [
+            "no_error",
+            "percentage_base",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_PERCENTAGE_PROFIT_LOSS_BCS12_004",
+    "raw_source_id": "Q0014",
+    "topic": "percentage_profit_loss",
+    "subskill": "percentage of questions",
+    "difficulty": "Medium",
+    "question_bn": "বার্ষিক পরীক্ষায় একটি ছাত্র মোট ক সংখ্যক প্রশ্নের প্রথম ২০টির মধ্যে ১৫টির নির্ভুল উত্তর দিল। বাকি যা প্রশ্ন রইল তার ১/৩ অংশ সে নির্ভুল উত্তর দিল। সমগ্র প্রশ্নের মান সমান। যদি ছাত্র শতকরা ৭৫ ভাগ নম্বর পায় তবে প্রশ্নের সংখ্যা কত ছিল?",
+    "target_quantity": "total number of questions",
+    "answer_options": [
+      "১৫টি",
+      "২০টি",
+      "২৫টি",
+      "১৮টি"
+    ],
+    "correct_answer": "২০টি",
+    "solution_steps": [
+      "Notice that 15 out of the first 20 questions is $15/20 = 75\\%$ — already exactly the overall percentage the student ended up with.",
+      "Let the total number of questions be $N$. The remaining questions number $N - 20$, and the student answered $\\frac{1}{3}(N-20)$ of those correctly.",
+      "Overall score: $\\dfrac{15 + \\frac{1}{3}(N-20)}{N} = 0.75$.",
+      "Multiply both sides by $3N$: $45 + (N - 20) = 2.25N \\implies 25 + N = 2.25N \\implies 25 = 1.25N \\implies N = 20$.",
+      "Since the extra questions are answered at only 33.3%, which is below the 75% average from the first 20, adding any of them would pull the overall average below 75%. The only way to keep the average at exactly 75% is for there to be no extra questions at all — so the total is 20."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 85
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Notice that 15 out of the first 20 questions is $15/20 = 75\\%$ — already exactly the overall percentage the student ended up with.",
+          "Let the total number of questions be $N$. The remaining questions number $N - 20$, and the student answered $\\frac{1}{3}(N-20)$ of those correctly.",
+          "Since the extra questions are answered at only 33.3%, which is below the 75% average from the first 20, adding any of them would pull the overall average below 75%. The only way to keep the average at exactly 75% is for there to be no extra questions at all — so the total is 20."
+        ],
+        "final_response": "২০টি",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The first 20 questions contain 15 correct answers. Using the remaining-question condition together w",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 25 questions।"
+        ],
+        "final_response": "25 questions",
+        "gold_error_cause": "percentage_base",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 25 questions.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Notice that 15 out of the first 20 questions is $15/20 = 75\\%$ — already exactly the overall percentage the student ended up with.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 18 questions।"
+        ],
+        "final_response": "18 questions",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 18 questions: If the total were 18, the phrase 'first 20 questions' would be impossible. Therefore 18 cannot satis",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Notice that 15 out of the first 20 questions is $15/20 = 75\\%$ — already exactly the overall percentage the student ended up with."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_PERCENTAGE_PROFIT_LOSS_BCS12_004_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for total number of questions.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে total number of questions নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute total number of questions?",
+          "candidate_causes": [
+            "no_error",
+            "percentage_base",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_PERCENTAGE_PROFIT_LOSS_BCS13_005",
+    "raw_source_id": "Q0029",
+    "topic": "percentage_profit_loss",
+    "subskill": "successive percentage decrease",
+    "difficulty": "Medium",
+    "question_bn": "একটি ১০,০০০ টাকার বিলের উপর এককালীন ৪০% কমতি এবং পরপর ৩৬% ও ৪% কমতির পার্থক্য কত টাকা?",
+    "target_quantity": "পার্থক্য",
+    "answer_options": [
+      "শূন্য",
+      "১৪৪",
+      "২৫৬",
+      "৪০০"
+    ],
+    "correct_answer": "১৪৪",
+    "solution_steps": [
+      "A single $40\\%$ discount reduces the original bill to $10,000 \\times (1 - 0.40) = 6,000$.",
+      "Successive discounts of $36\\%$ and $4\\%$ reduce the bill to $10,000 \\times (1 - 0.36) \\times (1 - 0.04)$.",
+      "This equals $10,000 \\times 0.64 \\times 0.96 = 6,144$.",
+      "The difference between the final amounts is $6,144 - 6,000 = 144$."
+    ],
+    "exam_source": {
+      "exam": "13th BCS",
+      "question_number": 81
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "A single $40\\%$ discount reduces the original bill to $10,000 \\times (1 - 0.40) = 6,000$.",
+          "Successive discounts of $36\\%$ and $4\\%$ reduce the bill to $10,000 \\times (1 - 0.36) \\times (1 - 0.04)$.",
+          "The difference between the final amounts is $6,144 - 6,000 = 144$."
+        ],
+        "final_response": "১৪৪",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: A single 40% reduction leaves 60% of the bill. Successive 36% and 4% reductions leave 64%×96%=61.44%",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 256 taka।"
+        ],
+        "final_response": "256 taka",
+        "gold_error_cause": "percentage_base",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 256 taka.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "A single $40\\%$ discount reduces the original bill to $10,000 \\times (1 - 0.40) = 6,000$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 400 taka।"
+        ],
+        "final_response": "400 taka",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 400 taka: Successive reductions are not simply added to 40%. 36% followed by 4% gives a remaining factor of 0.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "A single $40\\%$ discount reduces the original bill to $10,000 \\times (1 - 0.40) = 6,000$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_PERCENTAGE_PROFIT_LOSS_BCS13_005_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for পার্থক্য.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে পার্থক্য নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute পার্থক্য?",
+          "candidate_causes": [
+            "no_error",
+            "percentage_base",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_RATIOS_PROPORTIONS_BCS11_001",
+    "raw_source_id": "Q0008",
+    "topic": "ratios_proportions",
+    "subskill": "ratio and difference",
+    "difficulty": "Easy",
+    "question_bn": "একটি পাত্রে দুধ ও পানির অনুপাত ৫ : ২। যদি পানির অপেক্ষা দুধের পরিমাণ ৬ লিটার বেশি হয়, পানির পরিমাণ কত?",
+    "target_quantity": "quantity of water",
+    "answer_options": [
+      "১৪ লিটার",
+      "৬ লিটার",
+      "১০ লিটার",
+      "৪ লিটার"
+    ],
+    "correct_answer": "৪ লিটার",
+    "solution_steps": [
+      "Milk : water $= 5 : 2$, so the difference between them is $5 - 2 = 3$ parts.",
+      "That difference equals 6 litres, so $3$ parts $= 6$ litres and $1$ part $= 2$ litres.",
+      "Water is 2 parts, so the quantity of water $= 2 \\times 2 = 4$ litres.",
+      "Check: milk $= 5 \\times 2 = 10$ litres, and $10 - 4 = 6$ litres."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 77
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Milk : water $= 5 : 2$, so the difference between them is $5 - 2 = 3$ parts.",
+          "That difference equals 6 litres, so $3$ parts $= 6$ litres and $1$ part $= 2$ litres.",
+          "Check: milk $= 5 \\times 2 = 10$ litres, and $10 - 4 = 6$ litres."
+        ],
+        "final_response": "৪ লিটার",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The ratio milk:water is 5:2, so their difference is 3 parts. Three parts equal 6 liters, making one ",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 6 liters।"
+        ],
+        "final_response": "6 liters",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 6 liters.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Milk : water $= 5 : 2$, so the difference between them is $5 - 2 = 3$ parts.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 10 liters।"
+        ],
+        "final_response": "10 liters",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 10 liters: Water is 2 parts, not 5 parts. With one part equal to 2 liters, water is 4 liters.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Milk : water $= 5 : 2$, so the difference between them is $5 - 2 = 3$ parts."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_RATIOS_PROPORTIONS_BCS11_001_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for quantity of water.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে quantity of water নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute quantity of water?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_RATIOS_PROPORTIONS_BCS12_002",
+    "raw_source_id": "Q0015",
+    "topic": "ratios_proportions",
+    "subskill": "mixed ratio",
+    "difficulty": "Easy",
+    "question_bn": "৫ : ১৮, ৭ : ২ এবং ৩ : ৬ এর মিশ্র অনুপাত কত?",
+    "target_quantity": "compounded ratio",
+    "answer_options": [
+      "৭২ : ১০৫",
+      "৭২ : ৩৫",
+      "৩৫ : ৭২",
+      "১০৫ : ৭২"
+    ],
+    "correct_answer": "৩৫ : ৭২",
+    "solution_steps": [
+      "The compounded ratio multiplies the ratios together as fractions: $\\frac{5}{18} \\times \\frac{7}{2} \\times \\frac{3}{6}$.",
+      "Multiply numerators and denominators: $\\frac{5 \\times 7 \\times 3}{18 \\times 2 \\times 6} = \\frac{105}{216}$.",
+      "Both share a common factor of 3: $105/3 = 35$ and $216/3 = 72$, giving $35 : 72$."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 86
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "The compounded ratio multiplies the ratios together as fractions: $\\frac{5}{18} \\times \\frac{7}{2} \\times \\frac{3}{6}$.",
+          "Multiply numerators and denominators: $\\frac{5 \\times 7 \\times 3}{18 \\times 2 \\times 6} = \\frac{105}{216}$.",
+          "Both share a common factor of 3: $105/3 = 35$ and $216/3 = 72$, giving $35 : 72$."
+        ],
+        "final_response": "৩৫ : ৭২",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: A compound ratio is obtained by multiplying the three component ratios. (5/18)(7/2)(3/6)=35/72.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 72:35।"
+        ],
+        "final_response": "72:35",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 72:35.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "The compounded ratio multiplies the ratios together as fractions: $\\frac{5}{18} \\times \\frac{7}{2} \\times \\frac{3}{6}$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 35:72।"
+        ],
+        "final_response": "35:72",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 35:72: The simplified result is 35:72. Reversing numerator and denominator changes the compound ratio.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "The compounded ratio multiplies the ratios together as fractions: $\\frac{5}{18} \\times \\frac{7}{2} \\times \\frac{3}{6}$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_RATIOS_PROPORTIONS_BCS12_002_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for compounded ratio.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে compounded ratio নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute compounded ratio?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_RATIOS_PROPORTIONS_BCS22_003",
+    "raw_source_id": "Q0060",
+    "topic": "ratios_proportions",
+    "subskill": "division in ratio",
+    "difficulty": "Easy",
+    "question_bn": "৬০ মিটার দৈর্ঘ্যবিশিষ্ট বাঁশকে ৩ : ৭ : ১০ অনুপাতে ভাগ করলে টুকরোগুলোর সাইজ কত?",
+    "target_quantity": "তিন টুকরোর দৈর্ঘ্য",
+    "answer_options": [
+      "৮ মি., ২২ মি., ৩০ মি.",
+      "১০ মি., ২০ মি., ৩০ মি.",
+      "৯ মি., ২১ মি., ৩০ মি.",
+      "১২ মি., ২০ মি., ২৮ মি."
+    ],
+    "correct_answer": "৯ মি., ২১ মি., ৩০ মি.",
+    "solution_steps": [
+      "Sum of the ratio parts = $3 + 7 + 10 = 20$.",
+      "Value of one part = $60 / 20 = 3$ meters.",
+      "The sizes of the pieces are $3 \\times 3$, $7 \\times 3$, and $10 \\times 3$, which are $9, 21, 30$ meters."
+    ],
+    "exam_source": {
+      "exam": "22nd BCS",
+      "question_number": 75
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Sum of the ratio parts = $3 + 7 + 10 = 20$.",
+          "Value of one part = $60 / 20 = 3$ meters.",
+          "The sizes of the pieces are $3 \\times 3$, $7 \\times 3$, and $10 \\times 3$, which are $9, 21, 30$ meters."
+        ],
+        "final_response": "৯ মি., ২১ মি., ৩০ মি.",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: Add the ratio parts 3 + 7 + 10 = 20. Mistakenly divide 60 meters by 20 and then assign 1 meter to ev",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 10 m, 20 m, 30 m।"
+        ],
+        "final_response": "10 m, 20 m, 30 m",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 10 m, 20 m, 30 m.",
+        "diagnostic_code": "RAT1-CONCEPT-01"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Sum of the ratio parts = $3 + 7 + 10 = 20$.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 12 m, 20 m, 28 m।"
+        ],
+        "final_response": "12 m, 20 m, 28 m",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 12 m, 20 m, 28 m: Find the total ratio as 20. Find each ratio unit as 60 ÷ 20 = 3 meters. Multiply 3 × 3 correctly as ",
+        "diagnostic_code": "RAT1-ARITH-01"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Sum of the ratio parts = $3 + 7 + 10 = 20$."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_RATIOS_PROPORTIONS_BCS22_003_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for তিন টুকরোর দৈর্ঘ্য.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে তিন টুকরোর দৈর্ঘ্য নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute তিন টুকরোর দৈর্ঘ্য?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_SPEED_DISTANCE_TIME_BCS11_001",
+    "raw_source_id": "Q0003",
+    "topic": "speed_distance_time",
+    "subskill": "relative speed",
+    "difficulty": "Medium",
+    "question_bn": "ক ঘণ্টায় ১০ কিমি এবং খ ঘণ্টায় ১৫ কিমি বেগে একই স্থান থেকে রাজশাহীর পথে রওনা হলো। ক ১০:১০ মিনিটের সময় এবং খ ৯:৪০ মিনিটের সময় রাজশাহী পৌঁছল। রওনা হওয়ার স্থান থেকে রাজশাহীর দূরত্ব কত কিমি?",
+    "target_quantity": "distance",
+    "answer_options": [
+      "২০ কিমি",
+      "২৫ কিমি",
+      "১৫ কিমি",
+      "২৮ কিমি"
+    ],
+    "correct_answer": "১৫ কিমি",
+    "solution_steps": [
+      "A and B leave the same place at the same time and cover the same distance; only their arrival times differ.",
+      "B arrives at 9:40 and A at 10:10, so A's journey takes 30 minutes $= 1/2$ hour longer than B's.",
+      "Let the distance be $d$ km. A's travel time is $d/10$ hours and B's is $d/15$ hours, so $d/10 - d/15 = 1/2$.",
+      "$\\frac{3d - 2d}{30} = \\frac{1}{2} \\implies \\frac{d}{30} = \\frac{1}{2} \\implies d = 15$ km.",
+      "Check: A takes $15/10 = 1.5$ hours and B takes $15/15 = 1$ hour, a difference of 30 minutes."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 71
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "A and B leave the same place at the same time and cover the same distance; only their arrival times differ.",
+          "B arrives at 9:40 and A at 10:10, so A's journey takes 30 minutes $= 1/2$ hour longer than B's.",
+          "Check: A takes $15/10 = 1.5$ hours and B takes $15/15 = 1$ hour, a difference of 30 minutes."
+        ],
+        "final_response": "১৫ কিমি",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The 30-minute arrival difference comes from the difference between the two travel times. The faster ",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 20 km।"
+        ],
+        "final_response": "20 km",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 20 km.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "A and B leave the same place at the same time and cover the same distance; only their arrival times differ.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 25 km।"
+        ],
+        "final_response": "25 km",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 25 km: For distance d, d/10−d/15=1/2. Solving gives d/30=1/2 and d=15 km, not 25 km.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "A and B leave the same place at the same time and cover the same distance; only their arrival times differ."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_SPEED_DISTANCE_TIME_BCS11_001_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for distance.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে distance নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute distance?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_SPEED_DISTANCE_TIME_BCS11_002",
+    "raw_source_id": "Q0005",
+    "topic": "speed_distance_time",
+    "subskill": "sound and projectile timing",
+    "difficulty": "Hard",
+    "question_bn": "একটি বন্দুকের গুলি প্রতি সেকেন্ডে ১৫৪০ ফুট গতিবেগে লক্ষ্যভেদ করে। এক ব্যক্তি বন্দুক ছোড়ার ৩ সেকেন্ড পরে লক্ষ্যভেদের শব্দ শুনতে পায়। শব্দের গতি প্রতি সেকেন্ডে ১১০০ ফুট। লক্ষ্যবস্তুটির দূরত্ব কত?",
+    "target_quantity": "distance to target",
+    "answer_options": [
+      "২০২৫ ফুট",
+      "১৯২৫ ফুট",
+      "১৯৭৫ ফুট",
+      "১৮৭৫ ফুট"
+    ],
+    "correct_answer": "১৯২৫ ফুট",
+    "solution_steps": [
+      "Let the distance to the target be $d$ feet. The 3 seconds covers two legs of travel: the bullet going to the target, and then the sound of the impact coming back to the shooter. The two times therefore add.",
+      "Time for the bullet to reach the target $= d/1540$ seconds; time for the sound to return $= d/1100$ seconds.",
+      "So $d/1540 + d/1100 = 3$. Using the LCM $7700$: $\\frac{5d + 7d}{7700} = 3 \\implies \\frac{12d}{7700} = 3$.",
+      "$d = \\frac{3 \\times 7700}{12} = 1925$ feet.",
+      "Check: $1925/1540 = 1.25$ s for the bullet and $1925/1100 = 1.75$ s for the sound, totalling exactly 3 seconds."
+    ],
+    "exam_source": {
+      "exam": "11th BCS",
+      "question_number": 74
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Let the distance to the target be $d$ feet. The 3 seconds covers two legs of travel: the bullet going to the target, and then the sound of the impact coming back to the shooter. The two times therefore add.",
+          "Time for the bullet to reach the target $= d/1540$ seconds; time for the sound to return $= d/1100$ seconds.",
+          "Check: $1925/1540 = 1.25$ s for the bullet and $1925/1100 = 1.75$ s for the sound, totalling exactly 3 seconds."
+        ],
+        "final_response": "১৯২৫ ফুট",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: The sound and bullet reach the target at different speeds. The 3-second delay is the difference betw",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 2025 feet।"
+        ],
+        "final_response": "2025 feet",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 2025 feet.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Let the distance to the target be $d$ feet. The 3 seconds covers two legs of travel: the bullet going to the target, and then the sound of the impact coming back to the shooter. The two times therefore add.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 1975 feet।"
+        ],
+        "final_response": "1975 feet",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 1975 feet: Solving d/1100−d/1540=3 gives d=1925 feet. A small arithmetic error in the common-denominator calcul",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Let the distance to the target be $d$ feet. The 3 seconds covers two legs of travel: the bullet going to the target, and then the sound of the impact coming back to the shooter. The two times therefore add."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_SPEED_DISTANCE_TIME_BCS11_002_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for distance to target.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে distance to target নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute distance to target?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "family_id": "FAM_SPEED_DISTANCE_TIME_BCS12_003",
+    "raw_source_id": "Q0016",
+    "topic": "speed_distance_time",
+    "subskill": "boat and stream",
+    "difficulty": "Medium",
+    "question_bn": "নৌকা ও স্রোতের বেগ যথাক্রমে ঘণ্টায় ১০ ও ৫ কিলোমিটার। নদীপথে ৪৫ কিলোমিটার দীর্ঘ পথ একবার অতিক্রম করে ফিরে আসতে কত সময় লাগবে?",
+    "target_quantity": "total time",
+    "answer_options": [
+      "১২ ঘণ্টা",
+      "১০ ঘণ্টা",
+      "১৫ ঘণ্টা",
+      "২০ ঘণ্টা"
+    ],
+    "correct_answer": "১২ ঘণ্টা",
+    "solution_steps": [
+      "Downstream speed (with the current) $= 10 + 5 = 15$ km/h.",
+      "Upstream speed (against the current) $= 10 - 5 = 5$ km/h.",
+      "Time downstream $= 45/15 = 3$ hours; time upstream $= 45/5 = 9$ hours.",
+      "Total time for the round trip $= 3 + 9 = 12$ hours."
+    ],
+    "exam_source": {
+      "exam": "12th BCS",
+      "question_number": 87
+    },
+    "trajectories": [
+      {
+        "history_id": "H1_CORRECT",
+        "attempt_type": "correct_work",
+        "student_visible_steps": [
+          "Downstream speed (with the current) $= 10 + 5 = 15$ km/h.",
+          "Upstream speed (against the current) $= 10 - 5 = 5$ km/h.",
+          "Total time for the round trip $= 3 + 9 = 12$ hours."
+        ],
+        "final_response": "১২ ঘণ্টা",
+        "gold_error_cause": "no_error",
+        "mathematical_status": "valid",
+        "description": "Learner followed valid multi-step derivation and reached the verified correct answer."
+      },
+      {
+        "history_id": "H2_CONCEPTUAL",
+        "attempt_type": "persistent_conceptual_error",
+        "student_visible_steps": [
+          "শুরুতেই বিকল্প ধারণা প্রয়োগ করা হয়েছে: Downstream speed is 15 km/h and upstream speed is 5 km/h. The total time is 45/15+45/5=3+9=12 hours.",
+          "ভুল সমীকরণ অনুধাবনের কারণে চূড়ান্ত মান এসেছে: 10 hours।"
+        ],
+        "final_response": "10 hours",
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "invalid",
+        "description": "Learner misapplied structural mathematical relation, leading directly to exam distractor: 10 hours.",
+        "diagnostic_code": "MATH-01-CONC"
+      },
+      {
+        "history_id": "H3_SLIP",
+        "attempt_type": "transient_arithmetic_slip",
+        "student_visible_steps": [
+          "Downstream speed (with the current) $= 10 + 5 = 15$ km/h.",
+          "মধ্যবর্তী রূপান্তর সঠিক হলেও গণনায় বিচ্যুতির কারণে উত্তর দাঁড়ায়: 15 hours।"
+        ],
+        "final_response": "15 hours",
+        "gold_error_cause": "transient_slip",
+        "mathematical_status": "invalid",
+        "description": "Problem setup is correct, but arithmetic slip produced 15 hours: The two travel times are 3 and 9 hours. Adding them gives 12, so 15 is not consistent.",
+        "diagnostic_code": "MATH-01-ARIT"
+      },
+      {
+        "history_id": "H4_AMBIGUOUS",
+        "attempt_type": "ambiguous_attempt",
+        "student_visible_steps": [
+          "Downstream speed (with the current) $= 10 + 5 = 15$ km/h."
+        ],
+        "final_response": null,
+        "gold_error_cause": "unresolved",
+        "mathematical_status": "unsupported",
+        "description": "Student wrote intermediate setup only; cannot diagnose root cause without probing.",
+        "diagnostic_probe": {
+          "probe_id": "PRB_FAM_SPEED_DISTANCE_TIME_BCS12_003_01",
+          "target_ambiguity": "Clarify student's intended formula to solve for total time.",
+          "prompt_bn": "আপনার প্রথম ধাপটি সঠিক। এর পরের ধাপে আপনি কীভাবে total time নির্ণয় করবেন?",
+          "prompt_en": "Your first step is correct. In the next step, how will you compute total time?",
+          "candidate_causes": [
+            "no_error",
+            "unresolved",
+            "transient_slip"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "family_id": "sum_of_squares_1_to_n_bcs27_q041_f01",
+    "item_id": "BCS27_Q041",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_of_squares_1_to_n",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "১^২ + ২^২ + ৩^২ + ............ + ৫০^২ = কত?",
+    "answer_options": [
+      "৩৫৭২৫",
+      "৪২৯২৫",
+      "৪৫৫০০",
+      "৪৭২২৫"
+    ],
+    "correct_answer": "৪২৯২৫",
+    "solution_steps": [
+      "সূত্র n(n+1)(2n+1)/6।",
+      "n=50 দিলে 50×51×101/6=42925।"
+    ],
+    "source_page": 8,
+    "source_exam": "27th BCS"
+  },
+  {
+    "family_id": "inverse_variation_trip_cost_bcs27_q045_f01",
+    "item_id": "BCS27_Q045",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "inverse_variation_trip_cost",
+    "difficulty_rating": 3,
+    "target_completion_time": "90-180 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "শিক্ষা সফরের জন্য ২৪০০ টাকা বাস ভাড়া এবং প্রত্যেক ছাত্র/ছাত্রী সমান ভাড়া বহন করবে ঠিক হলো। অতিরিক্ত ১০ জন যাওয়ায় প্রতি জনের ভাড়া ৮ টাকা কমে গেল। বাসে কতজন ছাত্র/ছাত্রী গিয়েছিল?",
+    "answer_options": [
+      "৪০",
+      "৪৮",
+      "৫০",
+      "৬০"
+    ],
+    "correct_answer": "৬০",
+    "solution_steps": [
+      "আগে n জন হলে 2400/n; পরে n+10 জন হলে 2400/(n+10)।",
+      "পার্থক্য 8: 2400/n−2400/(n+10)=8।",
+      "সমাধানে n=50; মোট গেছে 60 জন।"
+    ],
+    "source_page": 8,
+    "source_exam": "27th BCS"
+  },
+  {
+    "family_id": "square_identity_xy_bcs27_q047_f01",
+    "item_id": "BCS27_Q047",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "square_identity_xy",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "যদি (x−y)^2 = 14 এবং xy = 2 হয় তবে x^2+y^2 = কত?",
+    "answer_options": [
+      "১২",
+      "১৪",
+      "১৬",
+      "১৮"
+    ],
+    "correct_answer": "১৮",
+    "solution_steps": [
+      "(x−y)^2=x^2+y^2−2xy।",
+      "14=x^2+y^2−4, তাই x^2+y^2=18।"
+    ],
+    "source_page": 9,
+    "source_exam": "27th BCS"
+  },
+  {
+    "family_id": "prime_range_difference_bcs27_q050_f01",
+    "item_id": "BCS27_Q050",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "prime_range_difference",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "৬০ থেকে ৮০-এর মধ্যবর্তী বৃহত্তম ও ক্ষুদ্রতম মৌলিক সংখ্যার অন্তর কত?",
+    "answer_options": [
+      "৮",
+      "১২",
+      "১৮",
+      "১৪০"
+    ],
+    "correct_answer": "১৮",
+    "solution_steps": [
+      "৬০-৮০-এর মধ্যে ক্ষুদ্রতম মৌলিক 61 এবং বৃহত্তম 79।",
+      "79−61=18।"
+    ],
+    "source_page": 9,
+    "source_exam": "27th BCS"
+  }
+]

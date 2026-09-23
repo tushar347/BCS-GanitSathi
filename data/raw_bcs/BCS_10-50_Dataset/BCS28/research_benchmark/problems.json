@@ -1,0 +1,155 @@
+[
+  {
+    "item_id": "BCS28_Q093",
+    "family_id": "typing_work_rate_f01",
+    "exam": "28th BCS",
+    "question_number": 93,
+    "source_page": 9,
+    "topic_group": "work_time",
+    "subskill": "typing_work_rate",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "en",
+    "question_original": "If two typist can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes?",
+    "question_normalized": "If two typist can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes?",
+    "normalization_notes": [],
+    "units": [
+      "page",
+      "minute"
+    ],
+    "answer_options": [
+      "3",
+      "6",
+      "9",
+      "18"
+    ],
+    "printed_answer": "6",
+    "accepted_answer_forms": [
+      "6"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS28_Q096",
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "exam": "28th BCS",
+    "question_number": 96,
+    "source_page": 9,
+    "topic_group": "speed_distance",
+    "subskill": "opposite_direction_displacement",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "en",
+    "question_original": "Two men, starting at the same point, walk in opposite directions for 4 meters, turn left and walk another 3 meters. What is the distance between them?",
+    "question_normalized": "Two men, starting at the same point, walk in opposite directions for 4 meters, turn left and walk another 3 meters. What is the distance between them?",
+    "normalization_notes": [],
+    "units": [
+      "meter"
+    ],
+    "answer_options": [
+      "7 meters",
+      "14 meters",
+      "10 meters",
+      "6 meters"
+    ],
+    "printed_answer": "10 meters",
+    "accepted_answer_forms": [
+      "10 meters"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS28_Q097",
+    "family_id": "percentage_equivalence_f01",
+    "exam": "28th BCS",
+    "question_number": 97,
+    "source_page": 9,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "equivalent_percentage",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "en",
+    "question_original": "30% of 10 is 10% of which?",
+    "question_normalized": "30% of 10 is 10% of which?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "30",
+      "60",
+      "40",
+      "600"
+    ],
+    "printed_answer": "30",
+    "accepted_answer_forms": [
+      "30"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS28_Q099",
+    "family_id": "divide_by_fraction_then_add_f01",
+    "exam": "28th BCS",
+    "question_number": 99,
+    "source_page": 9,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_operation_interpretation",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "en",
+    "question_original": "Divide 30 by half and add 10. What do you get?",
+    "question_normalized": "Divide 30 by half and add 10. What do you get?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "25",
+      "45",
+      "55",
+      "70"
+    ],
+    "printed_answer": "70",
+    "accepted_answer_forms": [
+      "70"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS28_Q100",
+    "family_id": "equal_distance_average_speed_f01",
+    "exam": "28th BCS",
+    "question_number": 100,
+    "source_page": 9,
+    "topic_group": "speed_distance",
+    "subskill": "average_speed_equal_distance",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "en",
+    "question_original": "If a man swims 4 meters upstream at 1 mph and back downstream to the same point at 4 mph, what is his average speed?",
+    "question_normalized": "If a man swims 4 meters upstream at 1 mph and back downstream to the same point at 4 mph, what is his average speed?",
+    "normalization_notes": [],
+    "units": [
+      "mph",
+      "meter"
+    ],
+    "answer_options": [
+      "0.8 mph",
+      "1.6 mph",
+      "2.4 mph",
+      "3.2 mph"
+    ],
+    "printed_answer": "1.6 mph",
+    "accepted_answer_forms": [
+      "1.6 mph"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

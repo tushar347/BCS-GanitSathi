@@ -1,0 +1,72 @@
+[
+  {
+    "family_id": "constant_expenditure_price_increase_f01",
+    "item_id": "BCS12_Q084",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "৩০%",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ৩০% পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "২৫%",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ২৫% লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "১৫%",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ১৫% বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  },
+  {
+    "family_id": "percentage_total_questions_f01",
+    "item_id": "BCS12_Q085",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "C1",
+        "wrong_answer": "১৫টি",
+        "reasoning_steps": [
+          "প্রযোজ্য নিয়ম/সম্পর্কটি ভুলভাবে নির্বাচন করেছে।",
+          "ফলে ১৫টি পেয়েছে।"
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "A1",
+        "wrong_answer": "২৫টি",
+        "reasoning_steps": [
+          "সঠিক পদ্ধতি শুরু করলেও মাঝের হিসাব বা চিহ্নে ভুল করেছে।",
+          "ফলে ২৫টি লিখেছে।"
+        ],
+        "diverges_at_step": 2
+      },
+      {
+        "type": "interpretation",
+        "code": "I1",
+        "wrong_answer": "১৮টি",
+        "reasoning_steps": [
+          "প্রশ্নের একটি শর্ত, একক বা তুলনার ভিত্তি ভুলভাবে পড়েছে।",
+          "ফলে ১৮টি বেছে নিয়েছে।"
+        ]
+      }
+    ],
+    "annotation_origin": "model-authored hypothetical mistakes; not observed student data"
+  }
+]

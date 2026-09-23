@@ -1,0 +1,142 @@
+[
+  {
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

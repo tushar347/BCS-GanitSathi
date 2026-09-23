@@ -1,0 +1,359 @@
+[
+  {
+    "probe_id": "BCS31_Q081_P1",
+    "item_id": "BCS31_Q081",
+    "family_id": "fraction_comparison_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q082_P1",
+    "item_id": "BCS31_Q082",
+    "family_id": "ratio_expression_transform_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "অনুপাতের প্রতিটি অংশকে কি একই গুণক দিয়ে স্কেল করতে হবে? মোট বা নির্দিষ্ট অংশটি ধরে এক লাইন সম্পর্ক লিখো।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q083_P1",
+    "item_id": "BCS31_Q083",
+    "family_id": "combined_work_three_people_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "সময়গুলো সরাসরি যোগ করবে, নাকি প্রতিদিনের কাজের হার যোগ করবে? শুধু হারগুলোর সম্পর্কটি লিখো।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q084_P1",
+    "item_id": "BCS31_Q084",
+    "family_id": "percentage_equation_add_constant_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "শতকরা পরিবর্তনটি কোন মূল পরিমাণের উপর হিসাব করতে হবে, এবং 100 ধরে নিলে নতুন মানটি কীভাবে লিখবে?",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q085_P1",
+    "item_id": "BCS31_Q085",
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "শতকরা পরিবর্তনটি কোন মূল পরিমাণের উপর হিসাব করতে হবে, এবং 100 ধরে নিলে নতুন মানটি কীভাবে লিখবে?",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q086_P1",
+    "item_id": "BCS31_Q086",
+    "family_id": "log_power_reciprocal_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q088_P1",
+    "item_id": "BCS31_Q088",
+    "family_id": "polynomial_gcd_factorization_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q089_P1",
+    "item_id": "BCS31_Q089",
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q090_P1",
+    "item_id": "BCS31_Q090",
+    "family_id": "reciprocal_square_difference_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q091_P1",
+    "item_id": "BCS31_Q091",
+    "family_id": "linear_system_substitution_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q092_P1",
+    "item_id": "BCS31_Q092",
+    "family_id": "numbers_from_sum_product_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q093_P1",
+    "item_id": "BCS31_Q093",
+    "family_id": "sum_first_n_squares_identity_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q094_P1",
+    "item_id": "BCS31_Q094",
+    "family_id": "function_evaluation_zero_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q096_P1",
+    "item_id": "BCS31_Q096",
+    "family_id": "larger_number_from_sum_product_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q098_P1",
+    "item_id": "BCS31_Q098",
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q099_P1",
+    "item_id": "BCS31_Q099",
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  },
+  {
+    "probe_id": "BCS31_Q100_P1",
+    "item_id": "BCS31_Q100",
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "target_ambiguity": "conceptual_error_vs_transient_slip",
+    "allowed_state": [
+      "provisional",
+      "unresolved"
+    ],
+    "probe_bn": "পরের ধাপে কোন বীজগাণিতিক নিয়ম বা সংখ্যার সম্পর্ক ব্যবহার করবে? এক ধাপ লিখো, চূড়ান্ত উত্তর দিও না।",
+    "response_categories": [
+      "correct_relation",
+      "incorrect_relation",
+      "ambiguous",
+      "skipped",
+      "timeout"
+    ],
+    "expected_burden": "one short response, about 15-40 seconds",
+    "disclosure_review": "Designed not to reveal the final answer; requires human review before primary evaluation.",
+    "branch_records_status": "seed_only_not_yet_empirically_calibrated"
+  }
+]

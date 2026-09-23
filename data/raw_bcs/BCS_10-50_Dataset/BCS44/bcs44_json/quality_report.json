@@ -1,0 +1,129 @@
+{
+  "collection": "44th BCS",
+  "counts": {
+    "selected": 30,
+    "annotated": 24,
+    "review_required": 6
+  },
+  "issues": [
+    {
+      "family_id": "Q093",
+      "severity": "documented_interpretation",
+      "reason": "The source prints a lowercase r in the domain and a baseline −1 after f. Those forms are retained; inverse-function interpretation is explicitly stated in the generated explanation.",
+      "source_page": 10,
+      "source_evidence": "audit_assets/Q093_source_excerpt.png"
+    },
+    {
+      "family_id": "Q095",
+      "severity": "documented_interpretation",
+      "reason": "The base 10 is printed on the baseline. The interpretation is explicit. Options খ and ঘ are identical in the source and remain duplicated.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q095_source_excerpt.png"
+    },
+    {
+      "family_id": "Q096",
+      "severity": "review_required",
+      "reason": "The source prints i followed by a baseline −49, rather than an unambiguous exponent. The key −i would match i^(−49), but does not match the literal expression i−49. No exponent has been silently inserted.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q096_source_excerpt.png"
+    },
+    {
+      "family_id": "Q097",
+      "severity": "review_required",
+      "reason": "The printed sequence contains 1 rather than q, although q is requested. The sequence as printed is not the progression giving the key p=2, q=9. The missing or incorrect term and the malformed third option are retained.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q097_source_excerpt.png"
+    },
+    {
+      "family_id": "Q099",
+      "severity": "documented_interpretation",
+      "reason": "The source uses +n সংখ্যক পদের; the generated solution declares the interpretation of n as a term count.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q099_source_excerpt.png"
+    },
+    {
+      "family_id": "Q100",
+      "severity": "review_required",
+      "reason": "The angle is printed as ১৬৮০ with the last zero on the baseline. The source key ৩০ is consistent with 168 degrees, not with a literal 1680-degree interior angle. The degree-symbol correction is not made silently.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q100_source_excerpt.png"
+    },
+    {
+      "family_id": "Q102",
+      "severity": "review_required",
+      "reason": "The printed radical bar spans x3=2, the 3 after x is on the baseline, and uppercase X is used in the requested expression. The source is preserved as an image; replacing it with fourth-root(x³)=2 would be an editorial repair.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q102_source_excerpt.png"
+    },
+    {
+      "family_id": "Q104",
+      "severity": "documented_interpretation",
+      "reason": "The identical and impossible bounds in options খ and ঘ are retained from the source.",
+      "source_page": 12,
+      "source_evidence": "audit_assets/Q104_source_excerpt.png"
+    },
+    {
+      "family_id": "Q105",
+      "severity": "documented_interpretation",
+      "reason": "Baseline digits in the printed monomials are retained. Their exponents are immaterial to the requested numerical-coefficient GCD; no polynomial correction is needed.",
+      "source_page": 12,
+      "source_evidence": "audit_assets/Q105_source_excerpt.png"
+    },
+    {
+      "family_id": "Q138",
+      "severity": "documented_interpretation",
+      "reason": "The source spelling Ocatal and the invalid octal distractor ৮৭ are retained.",
+      "source_page": 15,
+      "source_evidence": "audit_assets/Q138_source_excerpt.png"
+    },
+    {
+      "family_id": "Q187",
+      "severity": "documented_interpretation",
+      "reason": "The family inference assumes full/shared-parent siblings, as in the printed key; half-sibling alternatives are not specified.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q187_source_excerpt.png"
+    },
+    {
+      "family_id": "Q189",
+      "severity": "documented_interpretation",
+      "reason": "Undelimited alphabet-position strings can have more than one segmentation. The supplied options and example identify the intended decoding.",
+      "source_page": 20,
+      "source_evidence": "audit_assets/Q189_source_excerpt.png"
+    },
+    {
+      "family_id": "Q190",
+      "severity": "documented_interpretation",
+      "reason": "The figure is interpreted as three straight concurrent vertex-to-opposite-side segments, as drawn.",
+      "source_page": 20,
+      "source_evidence": "audit_assets/Q190_source_excerpt.png"
+    },
+    {
+      "family_id": "Q192",
+      "severity": "documented_interpretation",
+      "reason": "The weekday is derived from the supplied Friday premise, not from an external historical lookup.",
+      "source_page": 20,
+      "source_evidence": "audit_assets/Q192_source_excerpt.png"
+    },
+    {
+      "family_id": "Q197",
+      "severity": "review_required",
+      "reason": "RHYME has five letters, but its supplied code has only four digits, ৪৯৩৯. The code for M and E cannot be recovered consistently from this source. No missing digit is supplied.",
+      "source_page": 21,
+      "source_evidence": "audit_assets/Q197_source_excerpt.png"
+    },
+    {
+      "family_id": "Q198",
+      "severity": "review_required",
+      "reason": "The printed fourth term is ১২. The key ৩৪ resembles the Fibonacci continuation of ৩,৫,৮,১৩,২১, but changing ১২ to ১৩ would alter the source. No rule consistent with every printed term has been established.",
+      "source_page": 21,
+      "source_evidence": "audit_assets/Q198_source_excerpt.png"
+    }
+  ],
+  "duplicate_groups": [],
+  "limitations": [
+    "Printed keys are transcribed, not certified as an official or fully correct answer key.",
+    "Generated explanations and synthetic mistakes are annotations, not printed solutions or observed student responses.",
+    "Some main-file items require the conventional interpretations documented in source_index.json.",
+    "No external web corrections or invented missing instructions/dimensions are included."
+  ]
+}

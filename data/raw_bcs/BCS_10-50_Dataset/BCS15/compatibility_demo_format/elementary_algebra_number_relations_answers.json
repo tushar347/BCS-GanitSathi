@@ -1,0 +1,130 @@
+[
+  {
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "item_id": "BCS15_Q028",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "৪৮৫০",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "৪৮৫০",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "৪৮৫০",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "item_id": "BCS15_Q029",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "1",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "1",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "1",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "item_id": "BCS15_Q076",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "1/2",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "1/2",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "1/2",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "item_id": "BCS15_Q077",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "conceptual_rule_error",
+        "wrong_answer": "0.3",
+        "reasoning_steps": [
+          "Applies an unsuitable rule or relation.",
+          "This is a hypothetical controlled error path, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "0.3",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a relevant approach but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "0.3",
+        "reasoning_steps": [
+          "Misreads the requested quantity or relationship in the prompt."
+        ]
+      }
+    ]
+  }
+]

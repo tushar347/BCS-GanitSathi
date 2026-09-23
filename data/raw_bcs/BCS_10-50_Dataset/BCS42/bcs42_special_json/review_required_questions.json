@@ -1,0 +1,21 @@
+[
+  {
+    "family_id": "Q100",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "visual assembly of polygon pieces",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "matching assembled figure",
+    "english_glossary": {},
+    "question_bn": "অংশগুলি জোড়া দিলে কোন চিত্র হবে?\n\n![প্রশ্নের চিত্র](assets/Q100_stem.png)",
+    "answer_options": [
+      "![ক](assets/Q100_option_a.png)",
+      "![খ](assets/Q100_option_b.png)",
+      "![গ](assets/Q100_option_c.png)",
+      "![ঘ](assets/Q100_option_d.png)"
+    ],
+    "correct_answer": "![খ](assets/Q100_option_b.png)",
+    "solution_steps": []
+  }
+]

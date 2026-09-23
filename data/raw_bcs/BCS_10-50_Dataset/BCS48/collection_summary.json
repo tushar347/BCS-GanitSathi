@@ -1,0 +1,17 @@
+{
+  "exam": "48th BCS (Special)",
+  "source_pdf": "48th BCS.pdf",
+  "main_in_scope_questions": 12,
+  "review_required": 0,
+  "excluded_out_of_scope": 7,
+  "authored_histories": 48,
+  "topic_counts": {
+    "percentages_profit_loss": 0,
+    "ratios_proportions": 2,
+    "work_time": 0,
+    "speed_distance": 0,
+    "averages_mixtures": 0,
+    "elementary_algebra_number_relations": 10
+  },
+  "research_note": "Questions, choices and printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "probe_id": "BCS21_Q041_P1",
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS21_Q042_P1",
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS21_Q043_P1",
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS21_Q044_P1",
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS21_Q046_P1",
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS21_Q049_P1",
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS21_Q050_P1",
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  }
+]

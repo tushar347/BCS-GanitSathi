@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "boat_stream_round_trip_f01",
+    "item_id": "BCS12_Q087",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "boat_stream_round_trip",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time",
+      "ঘণ্টা": "hour"
+    },
+    "question_bn": "নৌকা ও স্রোতের বেগ যথাক্রমে ঘণ্টায় ১০ ও ৫ কিলোমিটার। নদীপথে ৪৫ কিলোমিটার দীর্ঘ পথ একবার অতিক্রম করে ফিরে আসতে কত সময় লাগবে?",
+    "answer_options": [
+      "১২ ঘণ্টা",
+      "১০ ঘণ্টা",
+      "১৫ ঘণ্টা",
+      "২০ ঘণ্টা"
+    ],
+    "correct_answer": "১২ ঘণ্টা",
+    "solution_steps": [
+      "অনুকূলে বেগ=10+5=15 কিমি/ঘণ্টা, সময়=45/15=3 ঘণ্টা।",
+      "প্রতিকূলে বেগ=10-5=5 কিমি/ঘণ্টা, সময়=45/5=9 ঘণ্টা।",
+      "মোট সময়=12 ঘণ্টা।"
+    ],
+    "source_page": 7,
+    "source_exam": "12th BCS (Police)"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "two_dimension_percentage_area_change_f01",
+    "item_id": "BCS14_Q052",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "rectangle_percentage_area_change",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য ২০% বৃদ্ধি ও প্রস্থ ১০% হ্রাস করা হলে, ক্ষেত্রফলের শতকরা কত পরিবর্তন হবে?",
+    "answer_options": [
+      "৮% (বৃদ্ধি)",
+      "৮% (হ্রাস)",
+      "১০৮% (বৃদ্ধি)",
+      "১০৮% (হ্রাস)"
+    ],
+    "correct_answer": "৮% (বৃদ্ধি)",
+    "solution_steps": [
+      "নতুন ক্ষেত্রফল গুণক =1.20×0.90=1.08।",
+      "অতএব ক্ষেত্রফল 8% বৃদ্ধি পাবে।"
+    ],
+    "source_page": 4,
+    "source_exam": "14th BCS"
+  }
+]

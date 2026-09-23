@@ -1,0 +1,60 @@
+[
+  {
+    "family_id": "arithmetic_progression_next_term_bcs23_q076_f01",
+    "item_id": "BCS23_Q076",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "arithmetic_progression_next_term",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "কোন সমান্তর প্রগতিতে প্রথম দুটি সংখ্যা ৫ ও ১৭ হলে, তৃতীয় সংখ্যাটি কত?",
+    "answer_options": [
+      "২২",
+      "২৫",
+      "২৯",
+      "৮৫"
+    ],
+    "correct_answer": "২৯",
+    "solution_steps": [
+      "সাধারণ অন্তর = 17−5=12।",
+      "তৃতীয় পদ = 17+12=29।"
+    ],
+    "source_page": 13,
+    "source_exam": "23rd BCS"
+  },
+  {
+    "family_id": "fibonacci_next_term_bcs23_q077_f01",
+    "item_id": "BCS23_Q077",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "fibonacci_next_term",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "১, ২, ৩, ৫, ৮, ১৩, ২১, ৩৪ ... ধারাটির পরবর্তী সংখ্যা কত?",
+    "answer_options": [
+      "৫৫",
+      "৪০",
+      "৬৮",
+      "৮৯"
+    ],
+    "correct_answer": "৫৫",
+    "solution_steps": [
+      "প্রতি পদ আগের দুই পদের যোগফল।",
+      "21+34=55।"
+    ],
+    "source_page": 13,
+    "source_exam": "23rd BCS"
+  }
+]

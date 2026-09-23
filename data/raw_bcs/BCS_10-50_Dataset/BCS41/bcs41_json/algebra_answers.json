@@ -1,0 +1,140 @@
+[
+  {
+    "family_id": "Q090",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "2/15",
+        "reasoning_steps": [
+          "Read the common ratio as 0.1 instead of 0.01.",
+          "Calculate 0.12/(1−0.1)=2/15."
+        ],
+        "code": "BCS41-090-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "0.1212",
+        "reasoning_steps": [
+          "Add only the first two terms.",
+          "Stop at 0.12+0.0012=0.1212 instead of the infinite sum."
+        ],
+        "code": "BCS41-090-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q091",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "4",
+        "reasoning_steps": [
+          "Apply √a√b=√(ab) without its real nonnegative restrictions.",
+          "Compute √16=4 and lose the factor i²=−1."
+        ],
+        "code": "BCS41-091-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "4i",
+        "reasoning_steps": [
+          "Combine the magnitudes as 4 but keep only one factor i.",
+          "Return 4i rather than 4i²."
+        ],
+        "code": "BCS41-091-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q098",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "0",
+        "reasoning_steps": [
+          "Cube a+b but omit the cross terms, obtaining (a+b)³=6.",
+          "Conclude x³=−6 and x³+6=0."
+        ],
+        "code": "BCS41-098-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "−6x",
+        "reasoning_steps": [
+          "Use a+b=x rather than −x in the cube identity.",
+          "Reverse the sign of the final linear term."
+        ],
+        "code": "BCS41-098-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q099",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "−1",
+        "reasoning_steps": [
+          "Factor out 5^x but replace the coefficient 25 by 5.",
+          "Solve 5×5^x=1 to obtain x=−1."
+        ],
+        "code": "BCS41-099-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "2",
+        "reasoning_steps": [
+          "Find 25=5² but ignore the reciprocal in 5^x=1/25.",
+          "Report x=2."
+        ],
+        "code": "BCS41-099-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q101",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "37/144",
+        "reasoning_steps": [
+          "Use a²+b²=(a+b)²−ab instead of subtracting 2ab.",
+          "Calculate (49−12)/144=37/144."
+        ],
+        "code": "BCS41-101-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "25/12",
+        "reasoning_steps": [
+          "Find the numerator 25 but divide by ab instead of (ab)².",
+          "Return 25/12."
+        ],
+        "code": "BCS41-101-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q103",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "1",
+        "reasoning_steps": [
+          "Replace the inner base √e by e.",
+          "Compute log_e(e²)=2, then log₂2=1."
+        ],
+        "code": "BCS41-103-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "4",
+        "reasoning_steps": [
+          "Compute the inner logarithm as 4 and stop.",
+          "Do not apply the outer logarithm."
+        ],
+        "code": "BCS41-103-INTERPRETATION-02"
+      }
+    ]
+  }
+]

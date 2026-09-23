@@ -1,0 +1,71 @@
+[
+  {
+    "family_id": "Q172",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "0",
+        "reasoning_steps": [
+          "Use n=3 as though the sequence were indexed starting at zero.",
+          "Calculate cos(3π/2)=0."
+        ],
+        "code": "BCS40-172-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "−1",
+        "reasoning_steps": [
+          "Replace 4π/2 by π instead of 2π.",
+          "Evaluate cosπ=−1."
+        ],
+        "code": "BCS40-172-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q183",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "২৮",
+        "reasoning_steps": [
+          "Add all segment lengths: 4+12+12=28.",
+          "Return the travelled path length rather than distance from the start."
+        ],
+        "code": "BCS40-183-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "৪",
+        "reasoning_steps": [
+          "Subtract the perpendicular components rather than using the Pythagorean theorem.",
+          "Return 16−12=4."
+        ],
+        "code": "BCS40-183-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q195",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "55°",
+        "reasoning_steps": [
+          "Find the base angle at R and return it directly.",
+          "Ignore the requested angle between RN and RP."
+        ],
+        "code": "BCS40-195-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "90°",
+        "reasoning_steps": [
+          "Use the given right angle LRN without subtracting the triangle’s base angle.",
+          "Return 90°."
+        ],
+        "code": "BCS40-195-CONCEPTUAL-02"
+      }
+    ]
+  }
+]

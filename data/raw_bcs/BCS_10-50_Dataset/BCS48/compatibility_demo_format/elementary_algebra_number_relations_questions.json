@@ -1,0 +1,254 @@
+[
+  {
+    "family_id": "reciprocal_power_identity_bcs48_q042_f01",
+    "item_id": "BCS48_Q042",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "reciprocal_power_identity",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "x + 1/x = 2 হলে, x⁴ + 1/x⁴ এর মান-",
+    "answer_options": [
+      "1",
+      "0",
+      "2",
+      "1/2"
+    ],
+    "correct_answer": "2",
+    "solution_steps": [
+      "x+1/x=2 implies (x-1)^2=0, so x=1.",
+      "Then x^4+1/x^4=1+1=2."
+    ],
+    "source_page": 4,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "absolute_value_inequality_bcs48_q046_f01",
+    "item_id": "BCS48_Q046",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "absolute_value_inequality",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "|3x - 4| ≤ 2 এর সমাধান",
+    "answer_options": [
+      "2/3 ≤ x ≤ 2",
+      "2/3 ≤ x < 2",
+      "2/3 < x ≤ 2",
+      "2/3 < x < 2"
+    ],
+    "correct_answer": "2/3 ≤ x ≤ 2",
+    "solution_steps": [
+      "Write -2≤3x-4≤2.",
+      "Add 4 and divide by 3 to get 2/3≤x≤2."
+    ],
+    "source_page": 5,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "square_number_sequence_bcs48_q047_f01",
+    "item_id": "BCS48_Q047",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "square_number_sequence",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "১, ৪, ৯, ১৬, ২৫, ... অনুক্রমটির পরবর্তী সংখ্যাটি কত?",
+    "answer_options": [
+      "৬৬",
+      "৪৯",
+      "৩৬",
+      "৩৪"
+    ],
+    "correct_answer": "৩৬",
+    "solution_steps": [
+      "The terms are 1²,2²,3²,4²,5².",
+      "The next term is 6²=36."
+    ],
+    "source_page": 5,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "rational_number_classification_bcs48_q048_f01",
+    "item_id": "BCS48_Q048",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "rational_number_classification",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "√(9/4) সংখ্যাটি",
+    "answer_options": [
+      "স্বাভাবিক সংখ্যা",
+      "মূলদ সংখ্যা",
+      "অমূলদ সংখ্যা",
+      "জটিল সংখ্যা"
+    ],
+    "correct_answer": "মূলদ সংখ্যা",
+    "solution_steps": [
+      "√(9/4)=3/2.",
+      "3/2 is a ratio of integers, so it is rational."
+    ],
+    "source_page": 5,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "collinearity_coordinate_parameter_bcs48_q050_f01",
+    "item_id": "BCS48_Q050",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "collinearity_coordinate_parameter",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "A(1, -1), B(2, 2) এবং C(4, t) বিন্দুত্রয় সমরেখ হলে t এর মান কত?",
+    "answer_options": [
+      "8",
+      "6",
+      "4",
+      "7"
+    ],
+    "correct_answer": "8",
+    "solution_steps": [
+      "Slope AB=(2+1)/(2-1)=3.",
+      "For collinearity, slope BC=(t-2)/(4-2)=3.",
+      "So t-2=6 and t=8."
+    ],
+    "source_page": 5,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "product_of_slopes_bcs48_q051_f01",
+    "item_id": "BCS48_Q051",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "product_of_slopes",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "x - 2y - 10 = 0 এবং 2x + y - 3 = 0 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?",
+    "answer_options": [
+      "-2",
+      "2",
+      "-3",
+      "-1"
+    ],
+    "correct_answer": "-1",
+    "solution_steps": [
+      "First line has slope 1/2.",
+      "Second line has slope -2.",
+      "Their product is -1."
+    ],
+    "source_page": 5,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "perfect_square_quadratic_parameter_bcs48_q054_f01",
+    "item_id": "BCS48_Q054",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "perfect_square_quadratic_parameter",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "k এর মান কত হলে kx² + 3x + 4 রাশিটি পূর্ণবর্গ হবে?",
+    "answer_options": [
+      "-16/9",
+      "-9/16",
+      "9/16",
+      "16/9"
+    ],
+    "correct_answer": "9/16",
+    "solution_steps": [
+      "For a quadratic to be a perfect square, its discriminant must be zero.",
+      "9-16k=0, so k=9/16."
+    ],
+    "source_page": 5,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "common_log_equation_bcs48_q055_f01",
+    "item_id": "BCS48_Q055",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "common_log_equation",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি log₁₀x = -3 হয়, তবে x এর মান কত?",
+    "answer_options": [
+      "0.1",
+      "0.01",
+      "0.001",
+      "0.0001"
+    ],
+    "correct_answer": "0.001",
+    "solution_steps": [
+      "Convert to exponential form: x=10^-3.",
+      "Thus x=0.001."
+    ],
+    "source_page": 6,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "rational_equation_bcs48_q057_f01",
+    "item_id": "BCS48_Q057",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "rational_equation",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "1/(x-1) + 2/(x-2) = 3/(x-3) এর সমাধান",
+    "answer_options": [
+      "3/2",
+      "2/3",
+      "5/2",
+      "2/5"
+    ],
+    "correct_answer": "3/2",
+    "solution_steps": [
+      "Multiply by (x-1)(x-2)(x-3) and simplify.",
+      "The resulting equation gives x=3/2, which is not an excluded denominator value."
+    ],
+    "source_page": 6,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "logarithmic_sequence_nth_term_bcs48_q059_f01",
+    "item_id": "BCS48_Q059",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithmic_sequence_nth_term",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "log2 + log4 + log8 + ..... ধারাটির অষ্টম পদ কোনটি?",
+    "answer_options": [
+      "log256",
+      "log128",
+      "log64",
+      "log32"
+    ],
+    "correct_answer": "log256",
+    "solution_steps": [
+      "The arguments are 2^1,2^2,2^3,...",
+      "The eighth term is log(2^8)=log256."
+    ],
+    "source_page": 6,
+    "source_exam": "48th BCS (Special)"
+  }
+]

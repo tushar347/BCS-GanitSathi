@@ -1,0 +1,162 @@
+[
+  {
+    "item_id": "BCS47_Q016",
+    "family_id": "factor_theorem_parameter_bcs47_q016_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q017",
+    "family_id": "geometric_sequence_missing_term_bcs47_q017_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q019",
+    "family_id": "geometric_progression_nth_term_bcs47_q019_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q022",
+    "family_id": "equation_of_line_through_points_bcs47_q022_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q026",
+    "family_id": "recurring_decimal_division_bcs47_q026_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q027",
+    "family_id": "percentage_area_increase_bcs47_q027_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q028",
+    "family_id": "simple_vs_compound_interest_difference_bcs47_q028_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q029",
+    "family_id": "radical_expression_identity_bcs47_q029_f01",
+    "authorized_answer_state": "source_answer_available",
+    "permitted_actions": [
+      "ask a diagnostic probe",
+      "give a hint consistent with observed evidence",
+      "confirm a correct answer"
+    ],
+    "permitted_facts": [
+      "problem statement",
+      "learner-visible prior work",
+      "non-decisive hints"
+    ],
+    "prohibited_decisive_disclosures": [
+      "do not reveal hidden evaluator labels",
+      "do not claim a misconception when evidence is insufficient"
+    ],
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

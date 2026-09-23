@@ -1,0 +1,82 @@
+[
+  {
+    "q": 161,
+    "page": 17,
+    "reason": "set/power-set theory - outside initial scope"
+  },
+  {
+    "q": 162,
+    "page": 17,
+    "reason": "combinatorics - outside initial scope"
+  },
+  {
+    "q": 163,
+    "page": 17,
+    "reason": "probability - outside initial scope"
+  },
+  {
+    "q": 173,
+    "page": 18,
+    "reason": "geometry - outside initial scope"
+  },
+  {
+    "q": 174,
+    "page": 18,
+    "reason": "geometry - outside initial scope"
+  },
+  {
+    "q": 175,
+    "page": 18,
+    "reason": "geometry - outside initial scope"
+  },
+  {
+    "q": 176,
+    "page": 18,
+    "reason": "anagram/mental ability - outside initial math scope"
+  },
+  {
+    "q": 177,
+    "page": 18,
+    "reason": "analogy/mental ability - outside initial math scope"
+  },
+  {
+    "q": 179,
+    "page": 19,
+    "reason": "calendar reasoning - outside initial scope"
+  },
+  {
+    "q": 180,
+    "page": 19,
+    "reason": "calendar reasoning - outside initial scope"
+  },
+  {
+    "q": 181,
+    "page": 19,
+    "reason": "visual number puzzle - outside initial benchmark"
+  },
+  {
+    "q": 182,
+    "page": 19,
+    "reason": "mirror-word reasoning - outside initial benchmark"
+  },
+  {
+    "q": 185,
+    "page": 19,
+    "reason": "odd-one-out reasoning - outside initial scope"
+  },
+  {
+    "q": 186,
+    "page": 19,
+    "reason": "letter coding - outside initial scope"
+  },
+  {
+    "q": 188,
+    "page": 20,
+    "reason": "mirror-clock visual reasoning - outside initial scope"
+  },
+  {
+    "q": 191,
+    "page": 20,
+    "reason": "philosophical concept, not a target math problem"
+  }
+]

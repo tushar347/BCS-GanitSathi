@@ -1,0 +1,329 @@
+[
+  {
+    "item_id": "BCS26_Q181",
+    "family_id": "triangular_number_sequence_bcs26_q181_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "এটি triangular number ধারা: n(n+1)/2।",
+          "10তম পদ = 10×11/2 = 55।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q182",
+    "family_id": "average_age_group_bcs26_q182_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "পিতা+মাতা = 90।",
+          "তিনজনের মোট = 108।",
+          "পুত্র = 18 বছর।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q183",
+    "family_id": "mixture_ratio_difference_bcs26_q183_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অনুপাতের পার্থক্য = 4 অংশ = 8 লিটার।",
+          "1 অংশ = 2 লিটার; পানি = 2 লিটার।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q184",
+    "family_id": "buy_sell_units_profit_percentage_bcs26_q184_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "৩টি লেবুর ক্রয়মূল্য = 1 টাকা।",
+          "৩টি বিক্রি করলে আয় = 3/2 টাকা।",
+          "লাভ = 1/2 টাকা = 50%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q185",
+    "family_id": "workers_days_proportion_bcs26_q185_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "কাজ/আয় শ্রমিক×দিন-এর সমানুপাতিক।",
+          "12×3 = 9×d, তাই d=4।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q186",
+    "family_id": "boat_stream_round_trip_time_bcs26_q186_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অনুকূলে গতি = 24 কিমি/ঘণ্টা, সময় = 48/24=2 ঘণ্টা।",
+          "প্রতিকূলে গতি = 12, সময় = 48/12=4 ঘণ্টা।",
+          "মোট 6 ঘণ্টা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q187",
+    "family_id": "fraction_of_number_equation_bcs26_q187_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x/2+6=2x/3।",
+          "৬ দিয়ে গুণ: 3x+36=4x।",
+          "x=36।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q188",
+    "family_id": "count_primes_interval_bcs26_q188_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মৌলিক সংখ্যা: 43, 47, 53, 59।",
+          "মোট 4।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q189",
+    "family_id": "sqrt_prime_irrational_bcs26_q189_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মৌলিক P পূর্ণবর্গ নয়।",
+          "পূর্ণবর্গ নয় এমন ধনাত্মক পূর্ণসংখ্যার বর্গমূল অমূলদ।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q190",
+    "family_id": "radical_power_bcs26_q190_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "√3×√5=√15।",
+          "(√15)^4=15^2=225।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q191",
+    "family_id": "combined_work_rate_bcs26_q191_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "খ-এর হার = 1/12−1/20 = (5−3)/60=1/30।",
+          "তাই খ একা 30 দিন।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q192",
+    "family_id": "count_divisors_bcs26_q192_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "72=2^3×3^2।",
+          "ভাজক সংখ্যা=(3+1)(2+1)=12।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q193",
+    "family_id": "consecutive_square_difference_bcs26_q193_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(n+1)^2−n^2=2n+1=47।",
+          "n=23, তাই সংখ্যা 23 ও 24।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q194",
+    "family_id": "sum_difference_square_sum_bcs26_q194_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x=7, y=1।",
+          "x^2+y^2=49+1=50।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q195",
+    "family_id": "reciprocal_square_identity_bcs26_q195_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(a+1/a)^2=a^2+2+1/a^2=3।",
+          "তাই a^2+1/a^2=1।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q198",
+    "family_id": "complete_square_cross_term_bcs26_q198_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "বর্তমান রাশি = (x−4)^2 + y^2−8y।",
+          "2xy যোগ করলে x^2+2xy+y^2−8x−8y+16 = (x+y−4)^2।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS26_Q199",
+    "family_id": "factor_difference_square_shift_bcs26_q199_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x^2−(y−1)^2।",
+          "= (x−y+1)(x+y−1)।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

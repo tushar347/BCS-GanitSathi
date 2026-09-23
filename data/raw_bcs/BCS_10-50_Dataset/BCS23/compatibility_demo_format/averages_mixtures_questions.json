@@ -1,0 +1,59 @@
+[
+  {
+    "family_id": "mixture_part_by_ratio_bcs23_q071_f01",
+    "item_id": "BCS23_Q071",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "mixture_part_by_ratio",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture"
+    },
+    "question_bn": "৭২ কেজি ওজনবিশিষ্ট একটি মিশ্রণ A-এর ১৭ ভাগ, B-এর ৩ ভাগ এবং C-এর ৪ ভাগ দ্বারা গঠিত। মিশ্রণে B কতটুকু রয়েছে?",
+    "answer_options": [
+      "৯ কেজি",
+      "১২ কেজি",
+      "১৭ কেজি",
+      "৫১ কেজি"
+    ],
+    "correct_answer": "৯ কেজি",
+    "solution_steps": [
+      "মোট ভাগ = 17+3+4=24।",
+      "B = 72×3/24 = 9 কেজি।"
+    ],
+    "source_page": 12,
+    "source_exam": "23rd BCS"
+  },
+  {
+    "family_id": "combined_weighted_average_bcs23_q073_f01",
+    "item_id": "BCS23_Q073",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "combined_weighted_average",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture"
+    },
+    "question_bn": "M সংখ্যক সংখ্যার গড় A এবং N সংখ্যক সংখ্যার গড় B হলে সবগুলোর গড় কত?",
+    "answer_options": [
+      "(A+B)/2",
+      "(AM+BN)/2",
+      "(AM+BN)/(M+N)",
+      "(AM+BN)/(A+B)"
+    ],
+    "correct_answer": "(AM+BN)/(M+N)",
+    "solution_steps": [
+      "প্রথম দলের যোগফল = AM, দ্বিতীয় দলের = BN।",
+      "মোট সংখ্যা = M+N।",
+      "গড় = (AM+BN)/(M+N)।"
+    ],
+    "source_page": 13,
+    "source_exam": "23rd BCS"
+  }
+]

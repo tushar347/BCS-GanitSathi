@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "mixture_ratio_add_component_f01",
+    "item_id": "BCS35_Q173",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "mixture_ratio_adjustment",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "গ.সা.গু": "GCD"
+    },
+    "question_bn": "৬০ লিটার ফলের রসে আম ও কমলার অনুপাত ২ : ১। কমলার রসের পরিমাণ কত লিটার বৃদ্ধি করলে অনুপাতটি ১ : ২ হবে?",
+    "answer_options": [
+      "৪০",
+      "৫০",
+      "৬০",
+      "৭০"
+    ],
+    "correct_answer": "৬০",
+    "solution_steps": [
+      "Initially mango=40 L and orange=20 L.",
+      "After adding x litres of orange, 40:(20+x)=1:2.",
+      "80=20+x, so x=60 L."
+    ],
+    "source_page": 17,
+    "source_exam": "35th BCS"
+  }
+]

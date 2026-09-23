@@ -1,0 +1,402 @@
+[
+  {
+    "history_id": "BCS28_Q093_H_CORRECT",
+    "item_id": "BCS28_Q093",
+    "family_id": "typing_work_rate_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS28_Q093_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 6",
+        "normalized_text": "final_answer = 6",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS28_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q093_H_CONCEPT",
+    "item_id": "BCS28_Q093",
+    "family_id": "typing_work_rate_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q093_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 3.",
+        "normalized_text": "candidate_rule_application -> final_answer = 3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q093_H_SLIP",
+    "item_id": "BCS28_Q093",
+    "family_id": "typing_work_rate_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q093_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 3.",
+        "normalized_text": "final_answer = 3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q093_H_AMBIG",
+    "item_id": "BCS28_Q093",
+    "family_id": "typing_work_rate_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS28_Q093_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "3",
+        "normalized_text": "final_answer = 3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q096_H_CORRECT",
+    "item_id": "BCS28_Q096",
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS28_Q096_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 10 meters",
+        "normalized_text": "final_answer = 10 meters",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS28_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q096_H_CONCEPT",
+    "item_id": "BCS28_Q096",
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q096_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 7 meters.",
+        "normalized_text": "candidate_rule_application -> final_answer = 7 meters",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q096_H_SLIP",
+    "item_id": "BCS28_Q096",
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q096_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 7 meters.",
+        "normalized_text": "final_answer = 7 meters",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q096_H_AMBIG",
+    "item_id": "BCS28_Q096",
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS28_Q096_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "7 meters",
+        "normalized_text": "final_answer = 7 meters",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q097_H_CORRECT",
+    "item_id": "BCS28_Q097",
+    "family_id": "percentage_equivalence_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS28_Q097_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 30",
+        "normalized_text": "final_answer = 30",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS28_Q097_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q097_H_CONCEPT",
+    "item_id": "BCS28_Q097",
+    "family_id": "percentage_equivalence_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q097_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 60.",
+        "normalized_text": "candidate_rule_application -> final_answer = 60",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q097_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q097_H_SLIP",
+    "item_id": "BCS28_Q097",
+    "family_id": "percentage_equivalence_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q097_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 60.",
+        "normalized_text": "final_answer = 60",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q097_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q097_H_AMBIG",
+    "item_id": "BCS28_Q097",
+    "family_id": "percentage_equivalence_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS28_Q097_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "60",
+        "normalized_text": "final_answer = 60",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q097_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q099_H_CORRECT",
+    "item_id": "BCS28_Q099",
+    "family_id": "divide_by_fraction_then_add_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS28_Q099_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 70",
+        "normalized_text": "final_answer = 70",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS28_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q099_H_CONCEPT",
+    "item_id": "BCS28_Q099",
+    "family_id": "divide_by_fraction_then_add_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q099_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 25.",
+        "normalized_text": "candidate_rule_application -> final_answer = 25",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q099_H_SLIP",
+    "item_id": "BCS28_Q099",
+    "family_id": "divide_by_fraction_then_add_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q099_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 25.",
+        "normalized_text": "final_answer = 25",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q099_H_AMBIG",
+    "item_id": "BCS28_Q099",
+    "family_id": "divide_by_fraction_then_add_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS28_Q099_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "25",
+        "normalized_text": "final_answer = 25",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q100_H_CORRECT",
+    "item_id": "BCS28_Q100",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS28_Q100_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 1.6 mph",
+        "normalized_text": "final_answer = 1.6 mph",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS28_Q100_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q100_H_CONCEPT",
+    "item_id": "BCS28_Q100",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q100_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 0.8 mph.",
+        "normalized_text": "candidate_rule_application -> final_answer = 0.8 mph",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q100_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q100_H_SLIP",
+    "item_id": "BCS28_Q100",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS28_Q100_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 0.8 mph.",
+        "normalized_text": "final_answer = 0.8 mph",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q100_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS28_Q100_H_AMBIG",
+    "item_id": "BCS28_Q100",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS28_Q100_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "0.8 mph",
+        "normalized_text": "final_answer = 0.8 mph",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS28_Q100_g1"
+      }
+    ]
+  }
+]

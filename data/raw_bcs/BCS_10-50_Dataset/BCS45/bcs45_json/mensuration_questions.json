@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "Q171",
+    "topic": "mensuration",
+    "in_scope": true,
+    "assigned_subskill": "arc length from central angle and diameter",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "arc length in centimetres",
+    "english_glossary": {
+      "বৃত্তচাপ": "circular arc",
+      "কেন্দ্রে": "at the centre",
+      "ব্যাস": "diameter",
+      "দৈর্ঘ্য": "length"
+    },
+    "question_bn": "একটি বৃত্তচাপ কেন্দ্রে 60° কোণ উৎপন্ন করে। বৃত্তের ব্যাস 12cm হলে বৃত্তচাপের দৈর্ঘ্য কত?",
+    "answer_options": [
+      "৪π",
+      "৩π",
+      "২π",
+      "π"
+    ],
+    "correct_answer": "২π",
+    "solution_steps": [
+      "The central angle is 60 degrees, so the arc is 60/360 = 1/6 of the full circumference.",
+      "Use the stated diameter 12 cm to obtain circumference πd = 12π cm.",
+      "The arc length is (1/6) × 12π = 2π cm.",
+      "Select the printed option ২π."
+    ]
+  }
+]

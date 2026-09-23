@@ -1,0 +1,123 @@
+[
+  {
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "exam": "15th BCS",
+    "question_number": 28,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_first_n_natural_numbers",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১ থেকে ৯৯ পর্যন্ত সংখ্যার যোগফল-",
+    "question_normalized": "১ থেকে ৯৯ পর্যন্ত সংখ্যার যোগফল-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৮৫০",
+      "৪৯৫০",
+      "৫৭৫০",
+      "৫৯৫০"
+    ],
+    "printed_answer": "৪৯৫০",
+    "accepted_answer_forms": [
+      "৪৯৫০",
+      "4950"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 15th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "exam": "15th BCS",
+    "question_number": 29,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "signed_arithmetic_parentheses",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "a = 1, b = -1, c = 2, d = -2 হলে, a - (-b) - (-c) - (-d) এর মান কত?",
+    "question_normalized": "a = 1, b = -1, c = 2, d = -2 হলে, a - (-b) - (-c) - (-d) এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "printed_answer": "0",
+    "accepted_answer_forms": [
+      "0",
+      "০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 15th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "exam": "15th BCS",
+    "question_number": 76,
+    "source_page": 13,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "linear_equation_one_variable",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "(2 + x) + 3 = 3(x + 2) হলে x এর মান কত?",
+    "question_normalized": "(2 + x) + 3 = 3(x + 2) হলে x এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-1/2",
+      "1/2",
+      "1/3",
+      "2/3"
+    ],
+    "printed_answer": "-1/2",
+    "accepted_answer_forms": [
+      "-1/2",
+      "−1/2",
+      "-০.৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 15th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "exam": "15th BCS",
+    "question_number": 77,
+    "source_page": 13,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "compare_decimal_and_radical_values",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন সংখ্যাটি বৃহত্তম?",
+    "question_normalized": "কোন সংখ্যাটি বৃহত্তম?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "0.3",
+      "√0.3",
+      "0.25",
+      "0.13"
+    ],
+    "printed_answer": "√0.3",
+    "accepted_answer_forms": [
+      "√0.3",
+      "sqrt(0.3)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 15th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

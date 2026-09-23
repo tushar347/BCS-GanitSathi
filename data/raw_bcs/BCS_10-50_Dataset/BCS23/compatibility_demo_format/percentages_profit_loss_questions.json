@@ -1,0 +1,92 @@
+[
+  {
+    "family_id": "percentage_of_number_bcs23_q078_f01",
+    "item_id": "BCS23_Q078",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_of_number",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "১/২-এর শতকরা কত ৩/৪ হবে?",
+    "answer_options": [
+      "১২০%",
+      "১২৫%",
+      "১৪০%",
+      "১৫০%"
+    ],
+    "correct_answer": "১৫০%",
+    "solution_steps": [
+      "(3/4)/(1/2)×100 = 3/2×100 = 150%。"
+    ],
+    "source_page": 14,
+    "source_exam": "23rd BCS"
+  },
+  {
+    "family_id": "constant_expenditure_price_increase_bcs23_q079_f01",
+    "item_id": "BCS23_Q079",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "constant_expenditure_price_increase",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "যদি তেলের মূল্য ২৫% বৃদ্ধি পায়, তবে তেলের ব্যবহার শতকরা কত কমালে তেল বাবদ খরচ বৃদ্ধি পাবে না?",
+    "answer_options": [
+      "২০%",
+      "১৬%",
+      "১৫%",
+      "২০%"
+    ],
+    "correct_answer": "২০%",
+    "solution_steps": [
+      "মূল্য 1.25 গুণ হলে পরিমাণ 1/1.25=0.8 গুণ করতে হবে।",
+      "ব্যবহার কমবে 20%。"
+    ],
+    "source_page": 14,
+    "source_exam": "23rd BCS"
+  },
+  {
+    "family_id": "pass_fail_inclusion_exclusion_bcs23_q080_f01",
+    "item_id": "BCS23_Q080",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "pass_fail_inclusion_exclusion",
+    "difficulty_rating": 3,
+    "target_completion_time": "90-180 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "কোনো স্কুলে ৭০% শিক্ষার্থী ইংরেজিতে এবং ৮০% শিক্ষার্থী বাংলায় পাশ করেছে; ১০% উভয় বিষয়ে ফেল করেছে। যদি উভয় বিষয়ে ৩০০ জন শিক্ষার্থী পাশ করে, তবে মোট কতজন পরীক্ষা দিয়েছে?",
+    "answer_options": [
+      "৪০০ জন",
+      "৫০০ জন",
+      "৫৬০ জন",
+      "৭৬০ জন"
+    ],
+    "correct_answer": "৫০০ জন",
+    "solution_steps": [
+      "অন্তত এক বিষয়ে পাশ = 90%。",
+      "উভয় বিষয়ে পাশ = 70+80−90 = 60%。",
+      "60% = 300, তাই মোট = 500।"
+    ],
+    "source_page": 14,
+    "source_exam": "23rd BCS"
+  }
+]

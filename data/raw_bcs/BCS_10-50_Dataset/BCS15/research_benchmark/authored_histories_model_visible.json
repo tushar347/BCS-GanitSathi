@@ -1,0 +1,322 @@
+[
+  {
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q028_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS15_Q028_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি ৪৯৫০ পেয়েছি।",
+        "normalized_text": "final_answer = ৪৯৫০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS15_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q028_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q028_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ৪৮৫০ পেয়েছি।",
+        "normalized_text": "final_answer = ৪৮৫০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q028_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q028_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ৪৮৫০ লিখেছি।",
+        "normalized_text": "final_answer = ৪৮৫০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q028_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS15_Q028_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৪৮৫০",
+        "normalized_text": "final_answer = ৪৮৫০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q029_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS15_Q029_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি 0 পেয়েছি।",
+        "normalized_text": "final_answer = 0",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS15_Q029_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q029_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q029_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে 1 পেয়েছি।",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q029_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q029_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q029_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে 1 লিখেছি।",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q029_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q029_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS15_Q029_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q029_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q076_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS15_Q076_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি -1/2 পেয়েছি।",
+        "normalized_text": "final_answer = -1/2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS15_Q076_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q076_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q076_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে 1/2 পেয়েছি।",
+        "normalized_text": "final_answer = 1/2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q076_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q076_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q076_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে 1/2 লিখেছি।",
+        "normalized_text": "final_answer = 1/2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q076_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q076_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS15_Q076_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1/2",
+        "normalized_text": "final_answer = 1/2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q076_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q077_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS15_Q077_E1C",
+        "event_type": "student_step",
+        "original_text": "হিসাব করে আমি √0.3 পেয়েছি।",
+        "normalized_text": "final_answer = √0.3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS15_Q077_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q077_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q077_E1C",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে 0.3 পেয়েছি।",
+        "normalized_text": "final_answer = 0.3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q077_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q077_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS15_Q077_E1S",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে 0.3 লিখেছি।",
+        "normalized_text": "final_answer = 0.3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q077_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS15_Q077_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS15_Q077_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "0.3",
+        "normalized_text": "final_answer = 0.3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS15_Q077_g1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "history_id": "BCS31_Q081_H_CORRECT",
+    "item_id": "BCS31_Q081",
+    "family_id": "fraction_comparison_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q081_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 2/13",
+        "normalized_text": "final_answer = 2/13",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q081_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q081_H_CONCEPT",
+    "item_id": "BCS31_Q081",
+    "family_id": "fraction_comparison_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q081_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 2/11.",
+        "normalized_text": "candidate_rule_application -> final_answer = 2/11",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q081_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q081_H_SLIP",
+    "item_id": "BCS31_Q081",
+    "family_id": "fraction_comparison_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q081_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 2/11.",
+        "normalized_text": "final_answer = 2/11",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q081_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q081_H_AMBIG",
+    "item_id": "BCS31_Q081",
+    "family_id": "fraction_comparison_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q081_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "2/11",
+        "normalized_text": "final_answer = 2/11",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q081_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q082_H_CORRECT",
+    "item_id": "BCS31_Q082",
+    "family_id": "ratio_expression_transform_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q082_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 5/3",
+        "normalized_text": "final_answer = 5/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q082_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q082_H_CONCEPT",
+    "item_id": "BCS31_Q082",
+    "family_id": "ratio_expression_transform_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q082_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 2/3.",
+        "normalized_text": "candidate_rule_application -> final_answer = 2/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q082_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q082_H_SLIP",
+    "item_id": "BCS31_Q082",
+    "family_id": "ratio_expression_transform_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q082_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 2/3.",
+        "normalized_text": "final_answer = 2/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q082_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q082_H_AMBIG",
+    "item_id": "BCS31_Q082",
+    "family_id": "ratio_expression_transform_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q082_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "2/3",
+        "normalized_text": "final_answer = 2/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q082_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q083_H_CORRECT",
+    "item_id": "BCS31_Q083",
+    "family_id": "combined_work_three_people_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q083_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 3 দিন",
+        "normalized_text": "final_answer = 3 দিন",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q083_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q083_H_CONCEPT",
+    "item_id": "BCS31_Q083",
+    "family_id": "combined_work_three_people_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q083_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 18 দিন.",
+        "normalized_text": "candidate_rule_application -> final_answer = 18 দিন",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q083_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q083_H_SLIP",
+    "item_id": "BCS31_Q083",
+    "family_id": "combined_work_three_people_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q083_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 18 দিন.",
+        "normalized_text": "final_answer = 18 দিন",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q083_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q083_H_AMBIG",
+    "item_id": "BCS31_Q083",
+    "family_id": "combined_work_three_people_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q083_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "18 দিন",
+        "normalized_text": "final_answer = 18 দিন",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q083_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q084_H_CORRECT",
+    "item_id": "BCS31_Q084",
+    "family_id": "percentage_equation_add_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q084_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 70",
+        "normalized_text": "final_answer = 70",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q084_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q084_H_CONCEPT",
+    "item_id": "BCS31_Q084",
+    "family_id": "percentage_equation_add_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q084_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 80.",
+        "normalized_text": "candidate_rule_application -> final_answer = 80",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q084_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q084_H_SLIP",
+    "item_id": "BCS31_Q084",
+    "family_id": "percentage_equation_add_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q084_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 80.",
+        "normalized_text": "final_answer = 80",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q084_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q084_H_AMBIG",
+    "item_id": "BCS31_Q084",
+    "family_id": "percentage_equation_add_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q084_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "80",
+        "normalized_text": "final_answer = 80",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q084_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q085_H_CORRECT",
+    "item_id": "BCS31_Q085",
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q085_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 200",
+        "normalized_text": "final_answer = 200",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q085_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q085_H_CONCEPT",
+    "item_id": "BCS31_Q085",
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q085_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 250.",
+        "normalized_text": "candidate_rule_application -> final_answer = 250",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q085_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q085_H_SLIP",
+    "item_id": "BCS31_Q085",
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q085_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 250.",
+        "normalized_text": "final_answer = 250",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q085_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q085_H_AMBIG",
+    "item_id": "BCS31_Q085",
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q085_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "250",
+        "normalized_text": "final_answer = 250",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q085_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q086_H_CORRECT",
+    "item_id": "BCS31_Q086",
+    "family_id": "log_power_reciprocal_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q086_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: −5",
+        "normalized_text": "final_answer = −5",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q086_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q086_H_CONCEPT",
+    "item_id": "BCS31_Q086",
+    "family_id": "log_power_reciprocal_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q086_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 1/25.",
+        "normalized_text": "candidate_rule_application -> final_answer = 1/25",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q086_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q086_H_SLIP",
+    "item_id": "BCS31_Q086",
+    "family_id": "log_power_reciprocal_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q086_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 1/25.",
+        "normalized_text": "final_answer = 1/25",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q086_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q086_H_AMBIG",
+    "item_id": "BCS31_Q086",
+    "family_id": "log_power_reciprocal_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q086_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1/25",
+        "normalized_text": "final_answer = 1/25",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q086_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q088_H_CORRECT",
+    "item_id": "BCS31_Q088",
+    "family_id": "polynomial_gcd_factorization_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q088_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 2(x + 2)",
+        "normalized_text": "final_answer = 2(x + 2)",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q088_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q088_H_CONCEPT",
+    "item_id": "BCS31_Q088",
+    "family_id": "polynomial_gcd_factorization_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q088_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got x + 2.",
+        "normalized_text": "candidate_rule_application -> final_answer = x + 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q088_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q088_H_SLIP",
+    "item_id": "BCS31_Q088",
+    "family_id": "polynomial_gcd_factorization_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q088_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote x + 2.",
+        "normalized_text": "final_answer = x + 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q088_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q088_H_AMBIG",
+    "item_id": "BCS31_Q088",
+    "family_id": "polynomial_gcd_factorization_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q088_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "x + 2",
+        "normalized_text": "final_answer = x + 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q088_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q089_H_CORRECT",
+    "item_id": "BCS31_Q089",
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q089_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 4",
+        "normalized_text": "final_answer = 4",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q089_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q089_H_CONCEPT",
+    "item_id": "BCS31_Q089",
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q089_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 2.",
+        "normalized_text": "candidate_rule_application -> final_answer = 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q089_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q089_H_SLIP",
+    "item_id": "BCS31_Q089",
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q089_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 2.",
+        "normalized_text": "final_answer = 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q089_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q089_H_AMBIG",
+    "item_id": "BCS31_Q089",
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q089_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "2",
+        "normalized_text": "final_answer = 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q089_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q090_H_CORRECT",
+    "item_id": "BCS31_Q090",
+    "family_id": "reciprocal_square_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q090_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: ±7",
+        "normalized_text": "final_answer = ±7",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q090_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q090_H_CONCEPT",
+    "item_id": "BCS31_Q090",
+    "family_id": "reciprocal_square_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q090_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got ±9.",
+        "normalized_text": "candidate_rule_application -> final_answer = ±9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q090_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q090_H_SLIP",
+    "item_id": "BCS31_Q090",
+    "family_id": "reciprocal_square_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q090_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote ±9.",
+        "normalized_text": "final_answer = ±9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q090_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q090_H_AMBIG",
+    "item_id": "BCS31_Q090",
+    "family_id": "reciprocal_square_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q090_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "±9",
+        "normalized_text": "final_answer = ±9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q090_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q091_H_CORRECT",
+    "item_id": "BCS31_Q091",
+    "family_id": "linear_system_substitution_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q091_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: x = −1, y = 1",
+        "normalized_text": "final_answer = x = −1, y = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q091_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q091_H_CONCEPT",
+    "item_id": "BCS31_Q091",
+    "family_id": "linear_system_substitution_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q091_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got x = 1, y = −1.",
+        "normalized_text": "candidate_rule_application -> final_answer = x = 1, y = −1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q091_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q091_H_SLIP",
+    "item_id": "BCS31_Q091",
+    "family_id": "linear_system_substitution_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q091_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote x = 1, y = −1.",
+        "normalized_text": "final_answer = x = 1, y = −1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q091_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q091_H_AMBIG",
+    "item_id": "BCS31_Q091",
+    "family_id": "linear_system_substitution_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q091_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "x = 1, y = −1",
+        "normalized_text": "final_answer = x = 1, y = −1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q091_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q092_H_CORRECT",
+    "item_id": "BCS31_Q092",
+    "family_id": "numbers_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q092_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 1, 1",
+        "normalized_text": "final_answer = 1, 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q092_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q092_H_CONCEPT",
+    "item_id": "BCS31_Q092",
+    "family_id": "numbers_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q092_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 0, 2.",
+        "normalized_text": "candidate_rule_application -> final_answer = 0, 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q092_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q092_H_SLIP",
+    "item_id": "BCS31_Q092",
+    "family_id": "numbers_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q092_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 0, 2.",
+        "normalized_text": "final_answer = 0, 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q092_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q092_H_AMBIG",
+    "item_id": "BCS31_Q092",
+    "family_id": "numbers_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q092_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "0, 2",
+        "normalized_text": "final_answer = 0, 2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q092_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q093_H_CORRECT",
+    "item_id": "BCS31_Q093",
+    "family_id": "sum_first_n_squares_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q093_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: x(x + 1)(2x + 1)/6",
+        "normalized_text": "final_answer = x(x + 1)(2x + 1)/6",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q093_H_CONCEPT",
+    "item_id": "BCS31_Q093",
+    "family_id": "sum_first_n_squares_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q093_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got x(x + 1)/2.",
+        "normalized_text": "candidate_rule_application -> final_answer = x(x + 1)/2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q093_H_SLIP",
+    "item_id": "BCS31_Q093",
+    "family_id": "sum_first_n_squares_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q093_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote x(x + 1)/2.",
+        "normalized_text": "final_answer = x(x + 1)/2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q093_H_AMBIG",
+    "item_id": "BCS31_Q093",
+    "family_id": "sum_first_n_squares_identity_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q093_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "x(x + 1)/2",
+        "normalized_text": "final_answer = x(x + 1)/2",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q093_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q094_H_CORRECT",
+    "item_id": "BCS31_Q094",
+    "family_id": "function_evaluation_zero_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q094_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 10",
+        "normalized_text": "final_answer = 10",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q094_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q094_H_CONCEPT",
+    "item_id": "BCS31_Q094",
+    "family_id": "function_evaluation_zero_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q094_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 1.",
+        "normalized_text": "candidate_rule_application -> final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q094_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q094_H_SLIP",
+    "item_id": "BCS31_Q094",
+    "family_id": "function_evaluation_zero_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q094_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 1.",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q094_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q094_H_AMBIG",
+    "item_id": "BCS31_Q094",
+    "family_id": "function_evaluation_zero_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q094_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1",
+        "normalized_text": "final_answer = 1",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q094_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q096_H_CORRECT",
+    "item_id": "BCS31_Q096",
+    "family_id": "larger_number_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q096_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 36",
+        "normalized_text": "final_answer = 36",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q096_H_CONCEPT",
+    "item_id": "BCS31_Q096",
+    "family_id": "larger_number_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q096_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 37.",
+        "normalized_text": "candidate_rule_application -> final_answer = 37",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q096_H_SLIP",
+    "item_id": "BCS31_Q096",
+    "family_id": "larger_number_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q096_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 37.",
+        "normalized_text": "final_answer = 37",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q096_H_AMBIG",
+    "item_id": "BCS31_Q096",
+    "family_id": "larger_number_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q096_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "37",
+        "normalized_text": "final_answer = 37",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q096_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q098_H_CORRECT",
+    "item_id": "BCS31_Q098",
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q098_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 13 2/3",
+        "normalized_text": "final_answer = 13 2/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q098_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q098_H_CONCEPT",
+    "item_id": "BCS31_Q098",
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q098_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 9 2/3.",
+        "normalized_text": "candidate_rule_application -> final_answer = 9 2/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q098_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q098_H_SLIP",
+    "item_id": "BCS31_Q098",
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q098_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 9 2/3.",
+        "normalized_text": "final_answer = 9 2/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q098_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q098_H_AMBIG",
+    "item_id": "BCS31_Q098",
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q098_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "9 2/3",
+        "normalized_text": "final_answer = 9 2/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q098_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q099_H_CORRECT",
+    "item_id": "BCS31_Q099",
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q099_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 5/24",
+        "normalized_text": "final_answer = 5/24",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q099_H_CONCEPT",
+    "item_id": "BCS31_Q099",
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q099_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 1/8.",
+        "normalized_text": "candidate_rule_application -> final_answer = 1/8",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q099_H_SLIP",
+    "item_id": "BCS31_Q099",
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q099_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 1/8.",
+        "normalized_text": "final_answer = 1/8",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q099_H_AMBIG",
+    "item_id": "BCS31_Q099",
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q099_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1/8",
+        "normalized_text": "final_answer = 1/8",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q099_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q100_H_CORRECT",
+    "item_id": "BCS31_Q100",
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS31_Q100_E1C",
+        "event_type": "student_step",
+        "original_text": "Final answer: 2187",
+        "normalized_text": "final_answer = 2187",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS31_Q100_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q100_H_CONCEPT",
+    "item_id": "BCS31_Q100",
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q100_E1K",
+        "event_type": "student_step",
+        "original_text": "Used a rule and got 3147.",
+        "normalized_text": "candidate_rule_application -> final_answer = 3147",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q100_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q100_H_SLIP",
+    "item_id": "BCS31_Q100",
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS31_Q100_E1S",
+        "event_type": "student_step",
+        "original_text": "After the last calculation I wrote 3147.",
+        "normalized_text": "final_answer = 3147",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q100_g1"
+      }
+    ]
+  },
+  {
+    "history_id": "BCS31_Q100_H_AMBIG",
+    "item_id": "BCS31_Q100",
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS31_Q100_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "3147",
+        "normalized_text": "final_answer = 3147",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS31_Q100_g1"
+      }
+    ]
+  }
+]

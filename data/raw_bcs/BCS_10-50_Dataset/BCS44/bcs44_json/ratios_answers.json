@@ -1,0 +1,25 @@
+[
+  {
+    "family_id": "Q191",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৮ কেজি",
+        "reasoning_steps": [
+          "Assume balance requires equal masses even when lever arms differ.",
+          "Copy the right-hand load of 8 kg."
+        ],
+        "code": "BCS44-191-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১০⅔ কেজি",
+        "reasoning_steps": [
+          "Reverse the ratio of the lever arms.",
+          "Calculate 8×4/3=32/3 kg."
+        ],
+        "code": "BCS44-191-INTERPRETATION-02"
+      }
+    ]
+  }
+]

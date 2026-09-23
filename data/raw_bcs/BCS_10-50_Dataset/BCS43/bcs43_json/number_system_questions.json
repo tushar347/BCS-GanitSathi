@@ -1,0 +1,24 @@
+[
+  {
+    "family_id": "Q146",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "binary-to-decimal conversion",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "decimal value",
+    "english_glossary": {},
+    "question_bn": "১০১১১০ বাইনারি নাম্বারের সমতুল্য ডেসিমাল নাম্বার কোনটি?",
+    "answer_options": [
+      "৪৬",
+      "১৬",
+      "২৪",
+      "৫৪"
+    ],
+    "correct_answer": "৪৬",
+    "solution_steps": [
+      "Use binary place values 32,16,8,4,2,1.",
+      "The nonzero bits contribute 32+8+4+2=46."
+    ]
+  }
+]

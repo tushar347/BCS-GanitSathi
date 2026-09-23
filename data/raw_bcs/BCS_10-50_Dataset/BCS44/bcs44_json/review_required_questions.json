@@ -1,0 +1,118 @@
+[
+  {
+    "family_id": "Q096",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "powers of the imaginary unit",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "complex value",
+    "english_glossary": {},
+    "question_bn": "i −49এর মান কত?\n\n![প্রশ্নের চিত্র](assets/Q096_stem.png)",
+    "answer_options": [
+      "−1",
+      "I",
+      "1",
+      "−i"
+    ],
+    "correct_answer": "−i",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q097",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "unknown terms in an arithmetic progression",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "p and q",
+    "english_glossary": {},
+    "question_bn": "যদি −5, p, 1,16 সামান্তর অনুক্রমে থাকে, তাহলে p ও q মান হবে যথাক্রমে −",
+    "answer_options": [
+      "−2,9",
+      "2,9",
+      "−2−9",
+      "2,−9"
+    ],
+    "correct_answer": "2,9",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q100",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "number of sides from a regular polygon angle",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "number of sides",
+    "english_glossary": {
+      "কোণ": "angle"
+    },
+    "question_bn": "একটি সুষম বহুভুজের প্রত্যেকটি কোণ ১৬৮০। এর বাহুসংখ্যা কতগুলো হবে?\n\n![প্রশ্নের চিত্র](assets/Q100_stem.png)",
+    "answer_options": [
+      "৩০",
+      "২০",
+      "১৮",
+      "১০"
+    ],
+    "correct_answer": "৩০",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q102",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "fractional powers and fourth roots",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "X to the power 3/2",
+    "english_glossary": {},
+    "question_bn": "যদি ⁴√(x3=2) হয় তাহলে তাহলে X^(3/2) =?\n\n![প্রশ্নের চিত্র](assets/Q102_stem.png)",
+    "answer_options": [
+      "8",
+      "16",
+      "4",
+      "64"
+    ],
+    "correct_answer": "4",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q197",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "letter-to-digit substitution",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "code for MALE",
+    "english_glossary": {},
+    "question_bn": "যদি PLAY-এর কোড ৮১২৩ এবং RHYME-এর কোড ৪৯৩৯ হয়, তাহলে MALE-এর কোড হবে−",
+    "answer_options": [
+      "৬৩২৩",
+      "৬১৯৮",
+      "৬২১৭",
+      "৬২৮৫"
+    ],
+    "correct_answer": "৬২১৭",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q198",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "number-series continuation",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "next number",
+    "english_glossary": {},
+    "question_bn": "এই সিরিজটিতে পরের সংখ্যাটি কত? ৩ ৫ ৮ ১২ ২১",
+    "answer_options": [
+      "২৪",
+      "২৬",
+      "২৯",
+      "৩৪"
+    ],
+    "correct_answer": "৩৪",
+    "solution_steps": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "combined_work_three_people_f01",
+    "item_id": "BCS31_Q083",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "combined_work_three_people",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "কাজের হার": "work rate"
+    },
+    "question_bn": "রহিম, করিম এবং গাজী তিন জনে একটি কাজ করতে পারে যথাক্রমে 15, 6 এবং 10 দিনে। তাহারা একত্রে তিন জনে কাজটি কত দিনে শেষ করতে পারবে?",
+    "answer_options": [
+      "3 দিন",
+      "18 দিন",
+      "7 দিন",
+      "15 দিন"
+    ],
+    "correct_answer": "3 দিন",
+    "solution_steps": [
+      "Their daily rates are 1/15, 1/6 and 1/10.",
+      "The combined rate is 2/30+5/30+3/30=10/30=1/3.",
+      "So the job takes 3 days."
+    ],
+    "source_page": 9,
+    "source_exam": "31th BCS"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "Q188",
+    "topic": "speed & distance",
+    "in_scope": true,
+    "assigned_subskill": "constant-speed distance with a fractional time interval",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "distance travelled in three seconds, in feet",
+    "english_glossary": {
+      "ট্রেন": "train",
+      "সেকেন্ড": "second",
+      "দ্রুততা": "speed",
+      "ফুট": "feet"
+    },
+    "question_bn": "একটি ট্রেন ১/৫ সেকেন্ডে চলে ২০ ফুট একই দ্রুততায় ট্রেনটি ৩ সেকেন্ডে কত ফুট চলবে?",
+    "answer_options": [
+      "১০০ ফুট",
+      "১১০ ফুট",
+      "৩০০ ফুট",
+      "কোনোটিই নয়"
+    ],
+    "correct_answer": "৩০০ ফুট",
+    "solution_steps": [
+      "The train covers 20 feet in 1/5 second at constant speed.",
+      "Its speed is distance divided by time: 20/(1/5) = 20 × 5 = 100 feet per second.",
+      "In 3 seconds it travels 100 × 3 = 300 feet.",
+      "Select the printed option ৩০০ ফুট."
+    ]
+  }
+]

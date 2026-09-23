@@ -1,0 +1,39 @@
+[
+  {
+    "family_id": "Q162",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "RATIO162-CONCEPT-01",
+        "wrong_answer": "2 : 5 : 7",
+        "reasoning_steps": [
+          "Take x = 2 directly from the first ratio and y = 5, z = 7 directly from the second.",
+          "Ignore that the two ratios use different scales for y.",
+          "Report 2 : 5 : 7 without equalising the shared term."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "RATIO162-ARITH-01",
+        "wrong_answer": "10 : 15 : 14",
+        "diverges_at_step": 3,
+        "reasoning_steps": [
+          "Choose 15 as the common ratio value for y.",
+          "Scale the first ratio correctly to x : y = 10 : 15.",
+          "While multiplying the second ratio by 3, mistakenly calculate 7 × 3 as 14.",
+          "Report 10 : 15 : 14."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "RATIO162-INTERP-01",
+        "wrong_answer": "3 : 5 : 7",
+        "reasoning_steps": [
+          "Misread the 3 in x : y = 2 : 3 as the value to use for x.",
+          "Append 5 and 7 from the second ratio without reconciling y.",
+          "Select 3 : 5 : 7."
+        ]
+      }
+    ]
+  }
+]

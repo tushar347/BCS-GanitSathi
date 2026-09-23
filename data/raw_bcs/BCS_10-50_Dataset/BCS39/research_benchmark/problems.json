@@ -1,0 +1,316 @@
+[
+  {
+    "item_id": "BCS39_Q045",
+    "family_id": "exponential_equation_surd_base_bcs39_q045_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 45,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "exponential_equation_surd_base",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "125 (√5)^(2x) = 1 হলে x এর মান কত?",
+    "question_normalized": "125 (√5)^(2x) = 1 হলে x এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "3",
+      "-3",
+      "7",
+      "9"
+    ],
+    "printed_answer": "-3",
+    "accepted_answer_forms": [
+      "-3",
+      "−3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q048",
+    "family_id": "simple_vs_compound_interest_difference_two_years_bcs39_q048_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 48,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "simple_vs_compound_interest_difference_two_years",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "বার্ষিক শতকরা 10% হারে 1000 টাকার 2 বছর পর সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য কত?",
+    "question_normalized": "বার্ষিক শতকরা 10% হারে 1000 টাকার 2 বছর পর সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য কত?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "বছর",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "11 টাকা",
+      "11.5 টাকা",
+      "12 টাকা",
+      "10 টাকা"
+    ],
+    "printed_answer": "10 টাকা",
+    "accepted_answer_forms": [
+      "10 টাকা",
+      "10",
+      "১০ টাকা",
+      "১০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q049",
+    "family_id": "ratio_lcm_find_gcd_bcs39_q049_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 49,
+    "source_page": 7,
+    "topic_group": "ratios_proportions",
+    "subskill": "ratio_lcm_find_gcd",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুইটি সংখ্যার অনুপাত 7 : 5 এবং তাদের ল.সা.গু 140 হলে সংখ্যা দুইটির গ.সা.গু কত?",
+    "question_normalized": "দুইটি সংখ্যার অনুপাত 7 : 5 এবং তাদের ল.সা.গু 140 হলে সংখ্যা দুইটির গ.সা.গু কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4",
+      "12",
+      "6",
+      "9"
+    ],
+    "printed_answer": "4",
+    "accepted_answer_forms": [
+      "4",
+      "৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q050",
+    "family_id": "quadratic_inequality_bcs39_q050_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 50,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_inequality",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "2x² + 5x + 3 < 0 এর সমাধান কোনটি?",
+    "question_normalized": "2x² + 5x + 3 < 0 এর সমাধান কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-(3/2) < x < -1",
+      "-(3/2) < x < 1",
+      "-(3/2) ≤ x ≤ 1",
+      "-(3/2) < x ≤ 1"
+    ],
+    "printed_answer": "-(3/2) < x < -1",
+    "accepted_answer_forms": [
+      "-(3/2) < x < -1",
+      "-3/2 < x < -1",
+      "−3/2 < x < −1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q055",
+    "family_id": "absolute_value_inequality_bcs39_q055_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 55,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "absolute_value_inequality",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "|1-2x| < 1 এর সমাধান-",
+    "question_normalized": "|1-2x| < 1 এর সমাধান-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-2 < x < 1",
+      "-1 < x < 0",
+      "0 < x < 1",
+      "-1 < x < 1"
+    ],
+    "printed_answer": "0 < x < 1",
+    "accepted_answer_forms": [
+      "0 < x < 1",
+      "০ < x < ১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q056",
+    "family_id": "decimal_multiplication_bcs39_q056_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 56,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "decimal_multiplication",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "০.৪ × ০.০২ × ০.০৮ = ?",
+    "question_normalized": "০.৪ × ০.০২ × ০.০৮ = ?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "০.০০০৬৪",
+      "৬.৪০০০০",
+      "০.৬৪০০০",
+      "০.০৬৪০০"
+    ],
+    "printed_answer": "০.০০০৬৪",
+    "accepted_answer_forms": [
+      "০.০০০৬৪",
+      "0.00064"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q057",
+    "family_id": "compare_fractions_bcs39_q057_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 57,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "compare_fractions",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোন ভগ্নাংশটি বৃহত্তম?",
+    "question_normalized": "নিচের কোন ভগ্নাংশটি বৃহত্তম?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩/৫",
+      "৫/৮",
+      "৬/১১",
+      "৮/১৪"
+    ],
+    "printed_answer": "৫/৮",
+    "accepted_answer_forms": [
+      "৫/৮",
+      "5/8"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q058",
+    "family_id": "geometric_sequence_nth_term_bcs39_q058_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 58,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "geometric_sequence_nth_term",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "1/√2, 1, √2 ... ধারাটির কোন পদ 8√2 হবে?",
+    "question_normalized": "1/√2, 1, √2 ... ধারাটির কোন পদ 8√2 হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৯তম পদ",
+      "১০তম পদ",
+      "১১তম পদ",
+      "১২তম পদ"
+    ],
+    "printed_answer": "৯তম পদ",
+    "accepted_answer_forms": [
+      "৯তম পদ",
+      "9তম পদ",
+      "9th term",
+      "9"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q059",
+    "family_id": "loss_percentage_find_cost_price_bcs39_q059_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 59,
+    "source_page": 8,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "loss_percentage_find_cost_price",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি দ্রব্য ১৮০ টাকায় বিক্রয় করায় ১০% ক্ষতি হলো। দ্রব্যটির ক্রয়মূল্য _",
+    "question_normalized": "একটি দ্রব্য ১৮০ টাকায় বিক্রয় করায় ১০% ক্ষতি হলো। দ্রব্যটির ক্রয়মূল্য _",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "২০০ টাকা",
+      "২১০ টাকা",
+      "১৬২ টাকা",
+      "১৯৮ টাকা"
+    ],
+    "printed_answer": "২০০ টাকা",
+    "accepted_answer_forms": [
+      "২০০ টাকা",
+      "200 টাকা",
+      "200",
+      "২০০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS39_Q061",
+    "family_id": "identify_prime_number_bcs39_q061_f01",
+    "exam": "39th BCS (Special)",
+    "question_number": 61,
+    "source_page": 9,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "identify_prime_number",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোনটি মৌলিক সংখ্যা?",
+    "question_normalized": "নিচের কোনটি মৌলিক সংখ্যা?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৭",
+      "৮৭",
+      "৯১",
+      "১৪৩"
+    ],
+    "printed_answer": "৪৭",
+    "accepted_answer_forms": [
+      "৪৭",
+      "47"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 39th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

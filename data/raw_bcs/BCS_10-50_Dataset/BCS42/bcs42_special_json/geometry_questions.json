@@ -1,0 +1,53 @@
+[
+  {
+    "family_id": "Q050",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "trigonometric conjugate identity",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "sec A minus tan A",
+    "english_glossary": {},
+    "question_bn": "SecA + tanA = 5/2 হলে secA−tanA = ?",
+    "answer_options": [
+      "1/2",
+      "1/5",
+      "2/5",
+      "5/2"
+    ],
+    "correct_answer": "2/5",
+    "solution_steps": [
+      "Use sec²A−tan²A=1.",
+      "Hence (secA+tanA)(secA−tanA)=1.",
+      "Divide by 5/2 to obtain secA−tanA=2/5."
+    ]
+  },
+  {
+    "family_id": "Q053",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "diagonal ratio of similar squares",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "ratio of first to second diagonal",
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "পরিসীমা": "perimeter",
+      "কর্ণ": "diagonal",
+      "বর্গক্ষেত্র": "square"
+    },
+    "question_bn": "এক বর্গক্ষেত্রের এক বাহু অপর একটি বর্গক্ষেত্রের পরিসীমার সমান হলে বর্গক্ষেত্র দুটির কর্ণের অনুপাত কত হবে?",
+    "answer_options": [
+      "১ : ২",
+      "৫ : ২",
+      "২ : ১",
+      "৪ : ১"
+    ],
+    "correct_answer": "৪ : ১",
+    "solution_steps": [
+      "Let the second square have side s; its perimeter is 4s.",
+      "The first square therefore has side 4s.",
+      "Their diagonals are 4s√2 and s√2, giving the ratio 4:1."
+    ]
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "family_id": "Q176",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "ordered nasal consonants",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "next letter",
+    "english_glossary": {
+      "ধারা": "sequence or series"
+    },
+    "question_bn": "‘ঙ, ঞ, ণ, ........’ ধারার পরবর্তী অক্ষর কী হবে?",
+    "answer_options": [
+      "ঠ",
+      "ম",
+      "ন",
+      "র"
+    ],
+    "correct_answer": "ন",
+    "solution_steps": [
+      "These are the nasal consonants at the ends of successive Bengali consonant groups: ঙ, ঞ, ণ, ন, ম.",
+      "The next entry after ণ is ন."
+    ]
+  },
+  {
+    "family_id": "Q177",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "semantic odd-one-out",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "word outside the intended group",
+    "english_glossary": {},
+    "question_bn": "নিচের শব্দগুলোর মধ্যে ৩টি সমগোত্রীয়। কোন শব্দটি আলাদা?",
+    "answer_options": [
+      "Conventional",
+      "Peculiar",
+      "Conservative",
+      "Traditional"
+    ],
+    "correct_answer": "Peculiar",
+    "solution_steps": [
+      "Conventional, conservative and traditional relate to established or customary ways.",
+      "Peculiar means unusual or distinctive, so it differs from that intended group."
+    ]
+  },
+  {
+    "family_id": "Q178",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "interleaved letter-pair sequence",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "missing pair",
+    "english_glossary": {
+      "প্রশ্নবোধক": "question mark"
+    },
+    "question_bn": "DC DE FE ?? HG HI সিরিজের প্রশ্নবোধক চিহ্নের স্থানে কোন বিকল্পটি বসবে?",
+    "answer_options": [
+      "DE",
+      "ED",
+      "FG",
+      "GF"
+    ],
+    "correct_answer": "FG",
+    "solution_steps": [
+      "Separate odd-position pairs DC, FE, HG: both letters advance by two.",
+      "The even-position pairs are DE, ?, HI and follow the same two-letter advance.",
+      "DE advances to FG, then HI."
+    ]
+  },
+  {
+    "family_id": "Q179",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "necessary feature of a concept",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "essential participant role",
+    "english_glossary": {},
+    "question_bn": "‘প্রতিযোগিতা’য় সবসময় কী থাকে?",
+    "answer_options": [
+      "topic",
+      "examination",
+      "party",
+      "participant"
+    ],
+    "correct_answer": "participant",
+    "solution_steps": [
+      "A competition requires someone or something participating.",
+      "It need not be an examination or a party.",
+      "The intended necessary feature among the choices is participant."
+    ]
+  },
+  {
+    "family_id": "Q181",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "prerequisite analogy",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "analogous requirement",
+    "english_glossary": {},
+    "question_bn": "‘DRIVE is to LICENCE as BREATHE is to _____.’ এই বক্তব্যের শূন্যস্থানে কোন বিকল্পটি বসবে?",
+    "answer_options": [
+      "OXYGEN",
+      "ATMOSPHERE",
+      "WINDPIPE",
+      "INHALE"
+    ],
+    "correct_answer": "OXYGEN",
+    "solution_steps": [
+      "Interpret the first pair as an activity and its required enabling condition.",
+      "Apply that intended relationship to breathing.",
+      "The supplied key selects OXYGEN."
+    ]
+  },
+  {
+    "family_id": "Q183",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "consistent letter-digit substitution",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "encoded SEARCH",
+    "english_glossary": {},
+    "question_bn": "যদি ROSE কে লেখা হয় 6821, CHAIR কে লেখা হয় 73456 এবং PREACH কে লেখা হয় 961473, তাহলে SEARCH-এর কোড কত?",
+    "answer_options": [
+      "246173",
+      "214673",
+      "214763",
+      "216373"
+    ],
+    "correct_answer": "214673",
+    "solution_steps": [
+      "Combine the examples to obtain S=2,E=1,A=4,R=6,C=7,H=3.",
+      "Write the digits in SEARCH order: 2,1,4,6,7,3.",
+      "The code is 214673."
+    ]
+  },
+  {
+    "family_id": "Q184",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "sum-of-squares number pattern",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "missing number",
+    "english_glossary": {
+      "প্রশ্নবোধক": "question mark"
+    },
+    "question_bn": "প্রশ্নবোধক চিহ্নিত স্থানে কোন সংখ্যা বসবে?\n\n![প্রশ্নের চিত্র](assets/Q184_stem.png)",
+    "answer_options": [
+      "20",
+      "26",
+      "30",
+      "25"
+    ],
+    "correct_answer": "26",
+    "solution_steps": [
+      "The first pair gives 3²+2²=13 and the second gives 4²+8²=80.",
+      "Apply the same rule to 1 and 5: 1²+5²=1+25=26."
+    ]
+  },
+  {
+    "family_id": "Q185",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "family relationship through a paternal grandfather",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "relationship of the boy to Tinni",
+    "english_glossary": {},
+    "question_bn": "একটি ছবি দেখিয়ে তিন্নী বললো, ‘সে আমার দাদার একমাত্র ছেলের ছেলে’। ছবির ছেলেটির সাথে তিন্নীর সম্পর্ক কী?",
+    "answer_options": [
+      "ভাই",
+      "চাচা",
+      "ছেলে",
+      "কোন সম্পর্ক নেই"
+    ],
+    "correct_answer": "ভাই",
+    "solution_steps": [
+      "Tinni’s paternal grandfather’s only son is Tinni’s father.",
+      "That son’s son is Tinni’s brother under the intended family interpretation.",
+      "The printed option is ভাই."
+    ]
+  },
+  {
+    "family_id": "Q186",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "celestial-body classification",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "odd item",
+    "english_glossary": {},
+    "question_bn": "নিচের কোন শব্দটি ভিন্ন ধরনের?",
+    "answer_options": [
+      "চাঁদ",
+      "প্লুটো",
+      "মঙ্গল",
+      "পৃথিবী"
+    ],
+    "correct_answer": "চাঁদ",
+    "solution_steps": [
+      "The intended distinction is Earth’s satellite versus worlds that orbit the Sun directly.",
+      "Pluto, Mars and Earth fall in the latter group; Pluto is a dwarf planet, not a major planet.",
+      "The supplied key selects the Moon, চাঁদ."
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "doubling a visual shape in an analogy",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "matching diagram",
+    "english_glossary": {
+      "প্রশ্নবোধক": "question mark"
+    },
+    "question_bn": "নিচের ক, খ, গ ও ঘ বিকল্প নকশা ৪টির মধ্যে কোনটি প্রশ্নবোধক চিহ্নের স্থানে বসবে?\n\n![প্রশ্নের চিত্র](assets/Q200_stem.png)",
+    "answer_options": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "correct_answer": "ক",
+    "solution_steps": [
+      "The first relation places two V shapes side by side to form W.",
+      "Apply the same side-by-side duplication to the inverted V.",
+      "The result is an M-shaped figure, which is option ক."
+    ]
+  }
+]

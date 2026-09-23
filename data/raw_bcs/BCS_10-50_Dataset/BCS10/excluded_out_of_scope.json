@@ -1,0 +1,32 @@
+[
+  {
+    "item_id": "BCS10_Q096",
+    "exam": "10th BCS",
+    "question_number": 96,
+    "source_page": 12,
+    "category": "geometry_mensuration",
+    "question_summary": "ত্রিভুজ ABC-এর ক্ষেত্রফল সম্পর্কিত প্রশ্ন।",
+    "exclusion_reason": "Triangle area question is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS10_Q097",
+    "exam": "10th BCS",
+    "question_number": 97,
+    "source_page": 12,
+    "category": "geometry",
+    "question_summary": "",
+    "exclusion_reason": "Triangle angle-classification question is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS10_Q098",
+    "exam": "10th BCS",
+    "question_number": 98,
+    "source_page": 12,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Equilateral-triangle area formula is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  }
+]

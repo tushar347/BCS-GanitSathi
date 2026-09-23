@@ -1,0 +1,199 @@
+[
+  {
+    "item_id": "BCS39_Q045",
+    "family_id": "exponential_equation_surd_base_bcs39_q045_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "125 = 5^3 এবং (√5)^(2x) = (5^(1/2))^(2x) = 5^x।",
+          "তাই 5^(x+3) = 1 = 5^0।",
+          "অতএব x+3=0, তাই x=-3।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q048",
+    "family_id": "simple_vs_compound_interest_difference_two_years_bcs39_q048_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "২ বছরের জন্য সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য = P(r/100)^2।",
+          "= 1000×(10/100)^2 = 1000×0.01 = 10 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q049",
+    "family_id": "ratio_lcm_find_gcd_bcs39_q049_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সংখ্যা দুটি 7k ও 5k ধরা যায়; 7 ও 5 পরস্পর সহমৌলিক।",
+          "তাই গ.সা.গু = k এবং ল.সা.গু = 35k।",
+          "35k=140 হলে k=4। তাই গ.সা.গু 4।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q050",
+    "family_id": "quadratic_inequality_bcs39_q050_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "2x²+5x+3 = (2x+3)(x+1)।",
+          "মূল দুটি x=-3/2 এবং x=-1।",
+          "সহগ ধনাত্মক, তাই রাশিটি দুই মূলের মাঝখানে ঋণাত্মক: -3/2 < x < -1।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q055",
+    "family_id": "absolute_value_inequality_bcs39_q055_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "|1-2x|<1 হলে -1<1-2x<1।",
+          "উভয় পাশে 1 বিয়োগ করলে -2<-2x<0।",
+          "-2 দিয়ে ভাগ করলে অসমতার দিক উল্টে 1>x>0, অর্থাৎ 0<x<1।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q056",
+    "family_id": "decimal_multiplication_bcs39_q056_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "0.4×0.02=0.008।",
+          "0.008×0.08=0.00064।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q057",
+    "family_id": "compare_fractions_bcs39_q057_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ভগ্নাংশগুলো দশমিকে তুলনা করা যায়: 3/5=0.6, 5/8=0.625, 6/11≈0.545, 8/14≈0.571।",
+          "সবচেয়ে বড় 0.625, অর্থাৎ 5/8।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q058",
+    "family_id": "geometric_sequence_nth_term_bcs39_q058_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ধারাটি গুণোত্তর; প্রথম পদ a=1/√2 এবং অনুপাত r=√2।",
+          "n-তম পদ = (1/√2)(√2)^(n-1) = (√2)^(n-2)।",
+          "8√2=(√2)^7, তাই n-2=7 এবং n=9।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q059",
+    "family_id": "loss_percentage_find_cost_price_bcs39_q059_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১০% ক্ষতিতে বিক্রয়মূল্য ক্রয়মূল্যের 90%।",
+          "0.9×ক্রয়মূল্য=180।",
+          "ক্রয়মূল্য=180/0.9=200 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS39_Q061",
+    "family_id": "identify_prime_number_bcs39_q061_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "47-এর 1 ও 47 ছাড়া কোনো ধনাত্মক ভাজক নেই।",
+          "87=3×29, 91=7×13 এবং 143=11×13।",
+          "তাই 47 মৌলিক।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

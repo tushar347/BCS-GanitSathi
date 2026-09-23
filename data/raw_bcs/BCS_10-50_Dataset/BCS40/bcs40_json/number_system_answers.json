@@ -1,0 +1,71 @@
+[
+  {
+    "family_id": "Q148",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "101",
+        "reasoning_steps": [
+          "Assume an octal numeral may contain at most two digits.",
+          "Reject 101 because of its length rather than its digit values."
+        ],
+        "code": "BCS40-148-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "77",
+        "reasoning_steps": [
+          "Mistakenly limit octal digits to 0 through 6.",
+          "Reject the valid digit 7."
+        ],
+        "code": "BCS40-148-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q153",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "00110100₂",
+        "reasoning_steps": [
+          "Treat 52 as decimal instead of hexadecimal.",
+          "Convert decimal 52 to binary 00110100."
+        ],
+        "code": "BCS40-153-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "00000111₂",
+        "reasoning_steps": [
+          "Add the hexadecimal digit values 5+2=7 rather than preserving place value.",
+          "Convert 7 to 00000111."
+        ],
+        "code": "BCS40-153-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q161",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৬০",
+        "reasoning_steps": [
+          "Find the common multiple 60 but forget to subtract 2.",
+          "Return 60, whose remainders are all zero."
+        ],
+        "code": "BCS40-161-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৬২",
+        "reasoning_steps": [
+          "Add 2 instead of subtracting 2 from the common multiple.",
+          "Return 62."
+        ],
+        "code": "BCS40-161-INTERPRETATION-02"
+      }
+    ]
+  }
+]

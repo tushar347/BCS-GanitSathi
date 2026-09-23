@@ -1,0 +1,29 @@
+[
+  {
+    "family_id": "opposite_direction_walkers_delayed_start_bcs18_q034_f01",
+    "item_id": "BCS18_Q034",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "opposite_direction_walkers_delayed_start",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "ঢাকা থেকে টাঙ্গাইলের দূরত্ব ৪৫ মাইল। করিম ঘণ্টায় ৩ মাইল বেগে হাঁটে এবং রহিম ঘণ্টায় ৪ মাইল বেগে হাঁটে। করিম ঢাকা থেকে রওয়ানার এক ঘণ্টা পর রহিম টাঙ্গাইল থেকে ঢাকা রওয়ানা হয়েছে। রহিম কত মাইল হাঁটার পর করিমের সাথে দেখা হবে?",
+    "answer_options": [
+      "২৪",
+      "২৩",
+      "২২",
+      "১১"
+    ],
+    "correct_answer": "২৪",
+    "solution_steps": [
+      "রহিম রওয়ানা হওয়ার আগে করিম 3 মাইল এগোয়, তাই তখন তাদের দূরত্ব 45-3=42 মাইল।",
+      "দুইজন বিপরীত দিকে আসায় আপেক্ষিক বেগ =3+4=7 মাইল/ঘণ্টা।",
+      "দেখা হতে সময় =42/7=6 ঘণ্টা।",
+      "রহিম হাঁটে 4×6=24 মাইল।"
+    ],
+    "source_page": 5,
+    "source_exam": "18th Special BCS"
+  }
+]

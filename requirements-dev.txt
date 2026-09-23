@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# Repository verification and contract parsing
+PyYAML>=6.0
+ruff>=0.8.0
+

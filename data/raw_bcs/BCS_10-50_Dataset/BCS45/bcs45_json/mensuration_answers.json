@@ -1,0 +1,38 @@
+[
+  {
+    "family_id": "Q171",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "MENS171-CONCEPT-01",
+        "wrong_answer": "6π",
+        "reasoning_steps": [
+          "Correctly find the radius as 12/2 = 6 cm.",
+          "Use the sector-area formula (60/360) × π × 6^2 instead of the arc-length formula.",
+          "Obtain 6π and report an area as though it were the requested length."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "MENS171-ARITH-01",
+        "wrong_answer": "π",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly use the full circumference 12π cm.",
+          "Simplify 60/360 incorrectly as 1/12 instead of 1/6.",
+          "Calculate the arc length as 12π/12 = π."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "MENS171-INTERP-01",
+        "wrong_answer": "৪π",
+        "reasoning_steps": [
+          "Read the stated diameter 12 cm as a radius of 12 cm.",
+          "Calculate the circumference as 2π × 12 = 24π.",
+          "Take one sixth of that circumference and select 4π."
+        ]
+      }
+    ]
+  }
+]

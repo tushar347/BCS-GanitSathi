@@ -1,0 +1,65 @@
+[
+  {
+    "family_id": "simple_vs_compound_interest_difference_two_years_bcs39_q048_f01",
+    "item_id": "BCS39_Q048",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_vs_compound_interest_difference_two_years",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "সুদ": "interest"
+    },
+    "question_bn": "বার্ষিক শতকরা 10% হারে 1000 টাকার 2 বছর পর সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য কত?",
+    "answer_options": [
+      "11 টাকা",
+      "11.5 টাকা",
+      "12 টাকা",
+      "10 টাকা"
+    ],
+    "correct_answer": "10 টাকা",
+    "solution_steps": [
+      "২ বছরের জন্য সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য = P(r/100)^2।",
+      "= 1000×(10/100)^2 = 1000×0.01 = 10 টাকা।"
+    ],
+    "source_page": 7,
+    "source_exam": "39th BCS (Special)"
+  },
+  {
+    "family_id": "loss_percentage_find_cost_price_bcs39_q059_f01",
+    "item_id": "BCS39_Q059",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "loss_percentage_find_cost_price",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "সুদ": "interest"
+    },
+    "question_bn": "একটি দ্রব্য ১৮০ টাকায় বিক্রয় করায় ১০% ক্ষতি হলো। দ্রব্যটির ক্রয়মূল্য _",
+    "answer_options": [
+      "২০০ টাকা",
+      "২১০ টাকা",
+      "১৬২ টাকা",
+      "১৯৮ টাকা"
+    ],
+    "correct_answer": "২০০ টাকা",
+    "solution_steps": [
+      "১০% ক্ষতিতে বিক্রয়মূল্য ক্রয়মূল্যের 90%।",
+      "0.9×ক্রয়মূল্য=180।",
+      "ক্রয়মূল্য=180/0.9=200 টাকা।"
+    ],
+    "source_page": 8,
+    "source_exam": "39th BCS (Special)"
+  }
+]

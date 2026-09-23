@@ -1,0 +1,14 @@
+[
+  {
+    "question_number": 35,
+    "source_page": 5,
+    "reason": "circle-to-square equal-area mensuration - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 36,
+    "source_page": 5,
+    "reason": "right-triangle ladder geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  }
+]

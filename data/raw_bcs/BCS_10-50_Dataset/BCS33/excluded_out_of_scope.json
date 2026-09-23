@@ -1,0 +1,37 @@
+[
+  {
+    "q": 43,
+    "page": 5,
+    "reason": "right-triangle geometry - outside initial scope"
+  },
+  {
+    "q": 47,
+    "page": 6,
+    "reason": "3D packing/mensuration - outside initial scope"
+  },
+  {
+    "q": 48,
+    "page": 6,
+    "reason": "set theory - outside initial scope"
+  },
+  {
+    "q": 55,
+    "page": 7,
+    "reason": "triangle geometry - outside initial scope"
+  },
+  {
+    "q": 58,
+    "page": 7,
+    "reason": "rectangle geometry/mensuration - outside initial scope"
+  },
+  {
+    "q": 59,
+    "page": 8,
+    "reason": "cube volume/mensuration - outside initial scope"
+  },
+  {
+    "q": 60,
+    "page": 8,
+    "reason": "rhombus and square mensuration - outside initial scope"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "successive_discount_f01",
+    "item_id": "BCS29_Q089",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "successive_discount",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "Successive discount of 20% and 15% are equal to a single discount of—",
+    "answer_options": [
+      "30%",
+      "32%",
+      "34%",
+      "35%"
+    ],
+    "correct_answer": "32%",
+    "solution_steps": [
+      "After 20% discount, the multiplier is 0.80.",
+      "After another 15% discount, the multiplier is 0.80*0.85 = 0.68.",
+      "The single discount is 1 - 0.68 = 0.32 = 32%."
+    ],
+    "source_page": 9,
+    "source_exam": "29th BCS"
+  }
+]

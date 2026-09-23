@@ -1,0 +1,197 @@
+[
+  {
+    "item_id": "BCS29_Q081",
+    "family_id": "prime_numbers_ending_digit_sum_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The primes from 10 to 60 ending in 9 are 19, 29 and 59.",
+          "Their sum is 19 + 29 + 59 = 107."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q082",
+    "family_id": "verbal_less_than_equation_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "If 40 is 11 less than a, then a - 11 = 40.",
+          "Equivalently, a = 40 + 11."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q083",
+    "family_id": "digit_length_boundary_difference_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The smallest five-digit number is 10000.",
+          "The largest four-digit number is 9999.",
+          "10000 - 9999 = 1."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q084",
+    "family_id": "decimal_addition_place_value_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Align decimal places: 1.1000 + 0.0100 + 0.0011.",
+          "The sum is 1.1111."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q085",
+    "family_id": "terminating_decimal_to_mixed_fraction_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "1.16 = 116/100 = 29/25.",
+          "29/25 = 1 4/25."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q086",
+    "family_id": "money_value_fraction_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The first group is worth 4*1 + 8*2 = 20 taka.",
+          "Eight 5-taka notes are worth 40 taka.",
+          "20/40 = 1/2."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q087",
+    "family_id": "consecutive_three_product_120_sum_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The consecutive positive integers with product 120 are 4, 5 and 6.",
+          "Their sum is 15."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q088",
+    "family_id": "compare_divisor_counts_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "88 = 2^3*11, so it has (3+1)(1+1)=8 divisors.",
+          "91 and 95 each have 4 divisors, while 99=3^2*11 has 6.",
+          "Therefore 88 has the most divisors."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q089",
+    "family_id": "successive_discount_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "After 20% discount, the multiplier is 0.80.",
+          "After another 15% discount, the multiplier is 0.80*0.85 = 0.68.",
+          "The single discount is 1 - 0.68 = 0.32 = 32%."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS29_Q090",
+    "family_id": "directional_displacement_southeast_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Take A=(0,0) and B=(5,0).",
+          "A 10-mile southeast move has east and south components 10/sqrt(2).",
+          "AC is about sqrt((5+10/sqrt(2))^2 + (10/sqrt(2))^2) = 13.99 miles, closest to 14."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

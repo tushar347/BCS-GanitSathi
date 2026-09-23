@@ -1,0 +1,53 @@
+[
+  {
+    "probe_id": "BCS25_Q091_P1",
+    "item_id": "BCS25_Q091",
+    "family_id": "sum_product_square_difference_bcs25_q091_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS25_Q092_P1",
+    "item_id": "BCS25_Q092",
+    "family_id": "simple_interest_bcs25_q092_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  },
+  {
+    "probe_id": "BCS25_Q093_P1",
+    "item_id": "BCS25_Q093",
+    "family_id": "complement_percentage_count_bcs25_q093_f01",
+    "target_ambiguity": "distinguish conceptual misunderstanding from a transient calculation/interpretation error",
+    "allowed_state": "after an incorrect or ambiguous learner response",
+    "probe_text": "Show the first step you would use and explain why that operation or relation applies.",
+    "response_categories": [
+      "correct_rule",
+      "incorrect_rule",
+      "calculation_slip",
+      "insufficient_evidence"
+    ],
+    "expected_burden": "one short step",
+    "disclosure_review": "does not reveal the final answer",
+    "annotation_origin": "model-authored draft"
+  }
+]

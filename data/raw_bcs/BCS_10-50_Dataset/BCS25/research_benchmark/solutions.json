@@ -1,0 +1,58 @@
+[
+  {
+    "item_id": "BCS25_Q091",
+    "family_id": "sum_product_square_difference_bcs25_q091_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(x−y)^2=(x+y)^2−4xy=36−32=4।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS25_Q092",
+    "family_id": "simple_interest_bcs25_q092_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সরল সুদ = PRT।",
+          "=10000×0.06×9/12 = 450 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS25_Q093",
+    "family_id": "complement_percentage_count_bcs25_q093_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "শার্ট = 15×40%=6।",
+          "শার্ট নয় = 15−6=9।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

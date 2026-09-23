@@ -1,0 +1,176 @@
+[
+  {
+    "item_id": "BCS49_Q001",
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "For an AP, a4+a12 = (a+3d)+(a+11d)=2a+14d = a1+a15.",
+          "So a1+a15=20.",
+          "S15=15/2×20=150."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q004",
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Read the pattern as 1, 3², 5, 7², ...",
+          "The next odd number is 9."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q010",
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Factor x²+6x-27=(x+9)(x-3).",
+          "The product is negative between the two roots.",
+          "Thus -9<x<3."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q022",
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Use product of two expressions = LCM × GCD.",
+          "Factor the known number as 4(x+2)(x+3), the GCD as 2(x+2), and the LCM as 4(x+2)(x+3)(x-2).",
+          "The other number is 2(x+2)(x-2)=2(x²-4)."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q027",
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "a8/a5 = r^3 = 256/32=8.",
+          "Therefore r=2."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q037",
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Test (a,0): ax+by=a² and bx-ay=ab both hold.",
+          "Thus the printed solution (a,0) satisfies the system."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q061",
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Current selling price=0.90C and hypothetical price=1.05C.",
+          "The difference 0.15C=60, so C=400."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q080",
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x^-2=4.",
+          "For a valid positive logarithm base, x=1/2."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS49_Q087",
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Each person eats one banana in one minute.",
+          "Five people can therefore eat five bananas simultaneously in one minute."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

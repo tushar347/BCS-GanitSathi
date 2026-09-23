@@ -1,0 +1,128 @@
+[
+  {
+    "family_id": "constant_expenditure_price_increase_f01",
+    "item_id": "BCS10_Q089",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "price_increase_constant_expenditure",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+    "answer_options": [
+      "৩০%",
+      "২৫%",
+      "১৫%",
+      "২০%"
+    ],
+    "correct_answer": "২০%",
+    "solution_steps": [
+      "মূল্য ২৫% বাড়লে নতুন মূল্য পুরনোর 125%।",
+      "ব্যয় অপরিবর্তিত রাখতে নতুন পরিমাণ = 100/125 = 80%।",
+      "অতএব ব্যবহার কমাতে হবে 20%।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "item_id": "BCS10_Q090",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "unit_rate_profit_percentage",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "টাকায় ৩টি করে আম কিনে টাকায় ২টি আম বিক্রয় করলে শতকরা কত লাভ হবে?",
+    "answer_options": [
+      "৫০%",
+      "৩০%",
+      "৩৩%",
+      "৩১%"
+    ],
+    "correct_answer": "৫০%",
+    "solution_steps": [
+      "৬টি আমের ক্রয়মূল্য = ২ টাকা।",
+      "৬টি আমের বিক্রয়মূল্য = ৩ টাকা।",
+      "লাভ = ১ টাকা; লাভের হার = ১/২×100% = 50%।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "simple_interest_amount_multiple_f01",
+    "item_id": "BCS10_Q091",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_interest_find_rate",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "সরল সুদের হার শতকরা কত টাকা হলে যে কোনো মূলধন ৮ বছরের সুদে-আসলে তিনগুণ হবে?",
+    "answer_options": [
+      "১২.৫০ টাকা",
+      "২০ টাকা",
+      "২৫ টাকা",
+      "১৫ টাকা"
+    ],
+    "correct_answer": "২৫ টাকা",
+    "solution_steps": [
+      "৮ বছরে আসলসহ তিনগুণ হলে সুদ = মূলধনের 200%।",
+      "সরল সুদে 8r = 200, তাই r = 25%।"
+    ],
+    "source_page": 11,
+    "source_exam": "10th BCS"
+  },
+  {
+    "family_id": "successive_markup_two_stage_f01",
+    "item_id": "BCS10_Q099",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "successive_markup",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "কোনো একটি জিনিস নির্মাতা ২০% লাভে ও খুচরা বিক্রেতা ২০% লাভে বিক্রয় করে। যদি ঐ জিনিসের নির্মাণ খরচ ১০০ টাকা হয় তবে খুচরা মূল্য কত?",
+    "answer_options": [
+      "১৪০ টাকা",
+      "১২০ টাকা",
+      "১৪৪ টাকা",
+      "১২৪ টাকা"
+    ],
+    "correct_answer": "১৪৪ টাকা",
+    "solution_steps": [
+      "নির্মাতা 20% লাভে বিক্রি করলে মূল্য =100×1.2=120 টাকা।",
+      "খুচরা বিক্রেতা আরও 20% লাভে বিক্রি করলে =120×1.2=144 টাকা।"
+    ],
+    "source_page": 12,
+    "source_exam": "10th BCS"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "family_id": "equal_arithmetic_means_find_unknown_bcs18_q027_f01",
+    "item_id": "BCS18_Q027",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "equal_arithmetic_means_find_unknown",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "৬, ৮, ১০ এর গাণিতিক গড় ৭, ৯ এবং কোন সংখ্যার গাণিতিক গড়ের সমান?",
+    "answer_options": [
+      "৫",
+      "৮",
+      "৬",
+      "১০"
+    ],
+    "correct_answer": "৮",
+    "solution_steps": [
+      "6,8,10-এর গড় =24/3=8।",
+      "তাই (7+9+x)/3=8।",
+      "16+x=24, তাই x=8।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  }
+]

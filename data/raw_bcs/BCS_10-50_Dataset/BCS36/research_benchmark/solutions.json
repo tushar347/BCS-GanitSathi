@@ -1,0 +1,215 @@
+[
+  {
+    "item_id": "BCS36_Q174",
+    "family_id": "vat_percent_total_cost_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Cost = 350×3 = 1050 taka.",
+          "VAT at 4% = 1050×0.04 = 42 taka."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q175",
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "If price becomes 125% of old price, quantity must become 100/125=80% of old quantity.",
+          "Required reduction =20%."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q176",
+    "family_id": "gcd_lcm_from_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Product = GCD×LCM for two positive integers.",
+          "LCM=3380/13=260."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q177",
+    "family_id": "sum_odd_numbers_identity_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The sum of the first x odd positive integers equals x²."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q178",
+    "family_id": "log_radical_base_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "√3=3^(1/2) and 81=3^4.",
+          "If (3^(1/2))^k=3^4, then k/2=4, so k=8."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q179",
+    "family_id": "exponential_same_base_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "25=5², so left side is 5^(4x+6).",
+          "Equate exponents: 4x+6=3x+6.",
+          "x=0."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q183",
+    "family_id": "system_candidate_pair_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Check x-y=3 for each candidate.",
+          "For (11,8), 11²+8²=121+64=185.",
+          "Thus (11,8) satisfies both equations."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q185",
+    "family_id": "reciprocal_cube_identity_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Use a³-b³=(a-b)³+3ab(a-b) with a=x and b=1/x.",
+          "ab=1 and a-b=1.",
+          "Value=1³+3×1×1=4."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q186",
+    "family_id": "ap_sum_given_last_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "This is an AP with a=1, d=4, last term 81.",
+          "81=1+(n-1)4 gives n=21.",
+          "Sum=21/2×(1+81)=861."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q190",
+    "family_id": "decimal_square_root_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "3.95²=(4-0.05)²=16-0.4+0.0025=15.6025.",
+          "Therefore √15.6025=3.95."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS36_Q191",
+    "family_id": "interleaved_sequence_multiples7_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Read the terms as pairs: (3,7), (4,14), (5,21), (6,?).",
+          "The second member is 7 times (first member−2): 7,14,21,28; equivalently it increases by 7.",
+          "So the eighth term is 28."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

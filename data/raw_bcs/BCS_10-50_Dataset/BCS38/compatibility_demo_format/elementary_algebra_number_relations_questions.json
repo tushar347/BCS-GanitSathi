@@ -1,0 +1,230 @@
+[
+  {
+    "family_id": "surd_reciprocal_cube_sum_f01",
+    "item_id": "BCS38_Q168",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "surd_reciprocal_identity",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "x = √3 + √2 হলে, x³ + 1/x³ এর মান কত?",
+    "answer_options": [
+      "3√2",
+      "18√3",
+      "12√3",
+      "8"
+    ],
+    "correct_answer": "18√3",
+    "solution_steps": [
+      "1/x=√3-√2 because (√3+√2)(√3-√2)=1.",
+      "x+1/x=2√3.",
+      "x³+1/x³=(x+1/x)³-3(x+1/x)=24√3-6√3=18√3."
+    ],
+    "source_page": 18,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "log_unknown_base_reciprocal_f01",
+    "item_id": "BCS38_Q169",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithm_unknown_base",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "logₓ(1/8) = −2 হলে, x = কত?",
+    "answer_options": [
+      "2",
+      "√2",
+      "2√2",
+      "4"
+    ],
+    "correct_answer": "2√2",
+    "solution_steps": [
+      "x⁻²=1/8.",
+      "Therefore x²=8. A logarithm base must be positive and not 1.",
+      "So x=√8=2√2."
+    ],
+    "source_page": 18,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "exponential_substitution_two_solutions_f01",
+    "item_id": "BCS38_Q170",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "exponential_quadratic_substitution",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "2^x + 2^(1−x) = 3 হলে, x = কত?",
+    "answer_options": [
+      "(1,2)",
+      "(0,2)",
+      "(1,3)",
+      "(0,1)"
+    ],
+    "correct_answer": "(0,1)",
+    "solution_steps": [
+      "Let t=2^x>0. Then 2^(1-x)=2/t.",
+      "t+2/t=3 gives t²-3t+2=0.",
+      "t=1 or 2, hence x=0 or 1."
+    ],
+    "source_page": 18,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "ap_first_term_from_term_sum_f01",
+    "item_id": "BCS38_Q172",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "arithmetic_progression_first_term",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "নিচের সমান্তর অনুক্রমে 5ম পদটি 18 এবং প্রথম 5টি পদের যোগফল 75 হলে প্রথম পদটি কত?",
+    "answer_options": [
+      "2",
+      "10",
+      "4",
+      "12"
+    ],
+    "correct_answer": "12",
+    "solution_steps": [
+      "a+4d=18.",
+      "S5=5/2(2a+4d)=75, so a+2d=15.",
+      "Subtract to get 2d=3, hence d=1.5 and a=12."
+    ],
+    "source_page": 18,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "sum_first_n_f01",
+    "item_id": "BCS38_Q178",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_first_n_integers",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "১ থেকে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+    "answer_options": [
+      "৪৯৯৯",
+      "৫৫০১",
+      "৫০৫০",
+      "৫০০১"
+    ],
+    "correct_answer": "৫০৫০",
+    "solution_steps": [
+      "Use n(n+1)/2 with n=100.",
+      "100×101/2=5050."
+    ],
+    "source_page": 19,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "alternating_times2_plus3_f01",
+    "item_id": "BCS38_Q184",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "alternating_number_sequence",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "কোন সংখ্যাটি নিম্নোক্ত ধারায় অন্তর্ভুক্ত নয়? ১ - ২ - ৫ - ১০ - ১৩ - ২৬ - ২৯ - ৪৮",
+    "answer_options": [
+      "১",
+      "১০",
+      "২৯",
+      "৪৮"
+    ],
+    "correct_answer": "৪৮",
+    "solution_steps": [
+      "The intended pattern alternates ×2 and +3: 1→2→5→10→13→26→29→58.",
+      "Therefore 48 breaks the pattern."
+    ],
+    "source_page": 19,
+    "source_exam": "38th BCS"
+  },
+  {
+    "family_id": "prime_composite_identification_f01",
+    "item_id": "BCS38_Q189",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "prime_number_identification",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "নিচের কোনটি মৌলিক সংখ্যা নয়?",
+    "answer_options": [
+      "২৬৩",
+      "২৩৩",
+      "২৫৩",
+      "২৪১"
+    ],
+    "correct_answer": "২৫৩",
+    "solution_steps": [
+      "253=11×23, so it is composite.",
+      "The other listed values are prime."
+    ],
+    "source_page": 20,
+    "source_exam": "38th BCS"
+  }
+]

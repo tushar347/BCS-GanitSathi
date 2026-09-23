@@ -1,0 +1,180 @@
+[
+  {
+    "family_id": "linear_equation_from_verbal_relation_bcs18_q023_f01",
+    "item_id": "BCS18_Q023",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "linear_equation_from_verbal_relation",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি সংখ্যার তিনগুণের সাথে দ্বিগুণ যোগ করলে ৯০ হয়। সংখ্যাটি কত?",
+    "answer_options": [
+      "১৬",
+      "১৮",
+      "২০",
+      "২৪"
+    ],
+    "correct_answer": "১৮",
+    "solution_steps": [
+      "সংখ্যাটি x হলে 3x+2x=90।",
+      "5x=90, তাই x=18।"
+    ],
+    "source_page": 3,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "consecutive_integers_partial_sums_bcs18_q024_f01",
+    "item_id": "BCS18_Q024",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "consecutive_integers_partial_sums",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "পরপর দশটি সংখ্যার প্রথম ৫টির যোগফল ৫৬০ হলে শেষ ৫টির যোগফল কত?",
+    "answer_options": [
+      "৫৮৫",
+      "৫৮০",
+      "৫৭৫",
+      "৫৭০"
+    ],
+    "correct_answer": "৫৮৫",
+    "solution_steps": [
+      "প্রথম সংখ্যা a হলে প্রথম পাঁচটির যোগফল 5a+10=560।",
+      "তাই a=110।",
+      "শেষ পাঁচটি হলো a+5 থেকে a+9; যোগফল =5a+35=585।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "compare_fraction_to_two_thirds_bcs18_q025_f01",
+    "item_id": "BCS18_Q025",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "compare_fraction_to_two_thirds",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "কোন ভগ্নাংশটি ২/৩ থেকে বড়?",
+    "answer_options": [
+      "৩৩/৫০",
+      "৮/১১",
+      "৩/৫",
+      "১৩/২৭"
+    ],
+    "correct_answer": "৮/১১",
+    "solution_steps": [
+      "2/3 ≈ 0.6667।",
+      "33/50=0.66, 8/11≈0.7273, 3/5=0.6, 13/27≈0.4815।",
+      "শুধু 8/11 হলো 2/3-এর চেয়ে বড়।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "count_multiples_in_interval_bcs18_q026_f01",
+    "item_id": "BCS18_Q026",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "count_multiples_in_interval",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "১২ ও ৯৬ এর মধ্যে (এ দুটি সংখ্যাসহ) কয়টি সংখ্যা ৪ দ্বারা বিভাজ্য?",
+    "answer_options": [
+      "২১",
+      "২৩",
+      "২৪",
+      "২২"
+    ],
+    "correct_answer": "২২",
+    "solution_steps": [
+      "১২=4×3 এবং ৯৬=4×24।",
+      "তাই 3 থেকে 24 পর্যন্ত মোট পূর্ণসংখ্যা = 24-3+1 = 22।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "linear_equation_substitution_bcs18_q028_f01",
+    "item_id": "BCS18_Q028",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "linear_equation_substitution",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি x + 5y = 16 এবং x = 3y হয়, তাহলে y = কত?",
+    "answer_options": [
+      "-24",
+      "-2",
+      "4",
+      "2"
+    ],
+    "correct_answer": "2",
+    "solution_steps": [
+      "x=3y সমীকরণে বসালে 3y+5y=16।",
+      "8y=16, তাই y=2।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "simultaneous_fractional_linear_equations_bcs18_q029_f01",
+    "item_id": "BCS18_Q029",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "simultaneous_fractional_linear_equations",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "‘ক’ ও ‘খ’ দুটি সংখ্যা। ‘ক’ এর ১/২ এবং ‘খ’ এর ১/৩ যোগ করলে ৪৫ হয়। ‘খ’ এর ১/২ এবং ‘ক’ এর ২/৫ যোগ করলে ৫০ হয়। ‘ক’ ও ‘খ’ এর মান কত?",
+    "answer_options": [
+      "ক = ৫০, খ = ৬০",
+      "ক = ৬০, খ = ৫০",
+      "ক = ৪০, খ = ৪৮",
+      "ক = ৬০, খ = ৪৮"
+    ],
+    "correct_answer": "ক = ৫০, খ = ৬০",
+    "solution_steps": [
+      "ধরি ক=a এবং খ=b। প্রথম সমীকরণ a/2+b/3=45; 6 দিয়ে গুণে 3a+2b=270।",
+      "দ্বিতীয় সমীকরণ b/2+2a/5=50; 10 দিয়ে গুণে 4a+5b=500।",
+      "সমীকরণ দুটি সমাধান করলে a=50 এবং b=60।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "sum_first_hundred_natural_numbers_bcs18_q037_f01",
+    "item_id": "BCS18_Q037",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_first_hundred_natural_numbers",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "১ হতে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+    "answer_options": [
+      "৪৯৯৯",
+      "৫৫০১",
+      "৫০৫০",
+      "৫০০১"
+    ],
+    "correct_answer": "৫০৫০",
+    "solution_steps": [
+      "১ থেকে n পর্যন্ত যোগফল = n(n+1)/2।",
+      "n=100 হলে যোগফল =100×101/2=5050।"
+    ],
+    "source_page": 5,
+    "source_exam": "18th Special BCS"
+  }
+]

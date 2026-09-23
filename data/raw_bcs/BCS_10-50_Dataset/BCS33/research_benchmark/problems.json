@@ -1,0 +1,390 @@
+[
+  {
+    "item_id": "BCS33_Q041",
+    "family_id": "max_value_from_average_minimum_f01",
+    "exam": "33th BCS",
+    "question_number": 41,
+    "source_page": 5,
+    "topic_group": "averages_mixtures",
+    "subskill": "maximum_value_from_average_and_minimum",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "তিন সদস্যের একটি বিতর্ক দলের সদস্যদের গড় বয়স ২৪ বছর। যদি কোনো সদস্যের বয়সই ২১ বছরের নিচে না হয় তবে তাদের কোনো একজনের সর্বোচ্চ বয়স কত হতে পারে?",
+    "question_normalized": "তিন সদস্যের একটি বিতর্ক দলের সদস্যদের গড় বয়স ২৪ বছর। যদি কোনো সদস্যের বয়সই ২১ বছরের নিচে না হয় তবে তাদের কোনো একজনের সর্বোচ্চ বয়স কত হতে পারে?",
+    "normalization_notes": [],
+    "units": [
+      "year"
+    ],
+    "answer_options": [
+      "২৫ বছর",
+      "৩০ বছর",
+      "২৮ বছর",
+      "৩২ বছর"
+    ],
+    "printed_answer": "৩০ বছর",
+    "accepted_answer_forms": [
+      "৩০ বছর",
+      "30 years",
+      "30"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q042",
+    "family_id": "cube_root_product_power_f01",
+    "exam": "33th BCS",
+    "question_number": 42,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "radical_exponent_simplification",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "(∛3 × ∛4)^6 = কত?",
+    "question_normalized": "(∛3 × ∛4)^6 = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "12",
+      "48",
+      "36",
+      "144"
+    ],
+    "printed_answer": "144",
+    "accepted_answer_forms": [
+      "144"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q044",
+    "family_id": "combined_average_formula_f01",
+    "exam": "33th BCS",
+    "question_number": 44,
+    "source_page": 6,
+    "topic_group": "averages_mixtures",
+    "subskill": "combined_average_formula",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "m সংখ্যক সংখ্যার গড় x এবং n সংখ্যক সংখ্যার গড় y হলে সব সংখ্যার গড় কত?",
+    "question_normalized": "m সংখ্যক সংখ্যার গড় x এবং n সংখ্যক সংখ্যার গড় y হলে সব সংখ্যার গড় কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(x + y)/(mn)",
+      "(x + y)/(m + n)",
+      "(mx + ny)/(m + n)",
+      "(mx + ny)/(mn)"
+    ],
+    "printed_answer": "(mx + ny)/(m + n)",
+    "accepted_answer_forms": [
+      "(mx + ny)/(m + n)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q045",
+    "family_id": "exponential_reciprocal_bases_f01",
+    "exam": "33th BCS",
+    "question_number": 45,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "exponential_equation_reciprocal_bases",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "যদি (a/b)^(x−3) = (b/a)^(x−5) হয় তবে x এর মান কত?",
+    "question_normalized": "যদি (a/b)^(x−3) = (b/a)^(x−5) হয় তবে x এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "8",
+      "3",
+      "5",
+      "4"
+    ],
+    "printed_answer": "4",
+    "accepted_answer_forms": [
+      "4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q046",
+    "family_id": "nested_cube_root_f01",
+    "exam": "33th BCS",
+    "question_number": 46,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "nested_cube_roots",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "∛(∛(a³)) = কত?",
+    "question_normalized": "∛(∛(a³)) = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "a",
+      "1",
+      "a^(1/3)",
+      "a³"
+    ],
+    "printed_answer": "a^(1/3)",
+    "accepted_answer_forms": [
+      "a^(1/3)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q049",
+    "family_id": "fibonacci_tenth_term_f01",
+    "exam": "33th BCS",
+    "question_number": 49,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fibonacci_sequence",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১, ১, ২, ৩, ৫, ৮, ১৩, ২১ ........ ধারার ১০ম পদটি কত?",
+    "question_normalized": "১, ১, ২, ৩, ৫, ৮, ১৩, ২১ ........ ধারার ১০ম পদটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৪",
+      "৫৫",
+      "৪৮",
+      "৬৪"
+    ],
+    "printed_answer": "৫৫",
+    "accepted_answer_forms": [
+      "৫৫",
+      "55"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q050",
+    "family_id": "sum_equal_exponential_terms_f01",
+    "exam": "33th BCS",
+    "question_number": 50,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "repeated_equal_exponential_terms",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "4^x + 4^x + 4^x + 4^x এর মান নিচের কোনটি?",
+    "question_normalized": "4^x + 4^x + 4^x + 4^x এর মান নিচের কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "16^x",
+      "4^(4x)",
+      "2^(2x + 2)",
+      "2^(8x)"
+    ],
+    "printed_answer": "2^(2x + 2)",
+    "accepted_answer_forms": [
+      "2^(2x + 2)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q051",
+    "family_id": "simple_interest_fraction_principal_f01",
+    "exam": "33th BCS",
+    "question_number": 51,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "simple_interest_rate_from_fraction_of_principal",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "রকীব সাহেব ৩,৭৩,৮৩৩ টাকা ব্যাংকে রাখলেন। ৭(১/২) বছর পর তিনি আসল টাকার ১(১/৪) অংশ সুদ পেলেন। ব্যাংকের সুদের হার কত?",
+    "question_normalized": "রকীব সাহেব ৩,৭৩,৮৩৩ টাকা ব্যাংকে রাখলেন। ৭(১/২) বছর পর তিনি আসল টাকার ১(১/৪) অংশ সুদ পেলেন। ব্যাংকের সুদের হার কত?",
+    "normalization_notes": [],
+    "units": [
+      "taka",
+      "year"
+    ],
+    "answer_options": [
+      "১২(১/২)%",
+      "১৬(২/৩)%",
+      "৮(১/৩)%",
+      "১১(১/৯)%"
+    ],
+    "printed_answer": "১৬(২/৩)%",
+    "accepted_answer_forms": [
+      "১৬(২/৩)%",
+      "16 2/3%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q052",
+    "family_id": "surd_conjugate_equivalence_f01",
+    "exam": "33th BCS",
+    "question_number": 52,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "surd_rationalization",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোনটি (√5 − √3) এর সমান?",
+    "question_normalized": "নিচের কোনটি (√5 − √3) এর সমান?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2/(√3+√5)",
+      "1/(2√5+√3)",
+      "(1/√5)+(1/√3)",
+      "√2"
+    ],
+    "printed_answer": "2/(√3+√5)",
+    "accepted_answer_forms": [
+      "2/(√3+√5)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q053",
+    "family_id": "workers_output_direct_proportion_f01",
+    "exam": "33th BCS",
+    "question_number": 53,
+    "source_page": 7,
+    "topic_group": "work_time",
+    "subskill": "workers_output_time_proportion",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৫ জন তাঁত-শ্রমিক ৫ দিনে ৫টি কাপড় বুনতে পারে। একই ধরনের ৭টি কাপড় বুনতে ৭ জন শ্রমিকের কত দিন লাগবে?",
+    "question_normalized": "৫ জন তাঁত-শ্রমিক ৫ দিনে ৫টি কাপড় বুনতে পারে। একই ধরনের ৭টি কাপড় বুনতে ৭ জন শ্রমিকের কত দিন লাগবে?",
+    "normalization_notes": [],
+    "units": [
+      "day"
+    ],
+    "answer_options": [
+      "৫ দিন",
+      "২৫/৪৯ দিন",
+      "৪৯/২৫ দিন",
+      "৭ দিন"
+    ],
+    "printed_answer": "৫ দিন",
+    "accepted_answer_forms": [
+      "৫ দিন"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q054",
+    "family_id": "exponential_equation_power_two_f01",
+    "exam": "33th BCS",
+    "question_number": 54,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "exponential_equation_power_of_two",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "36 × 2^(3x−8) = 3² হলে x এর মান কত?",
+    "question_normalized": "36 × 2^(3x−8) = 3² হলে x এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "7/3",
+      "3",
+      "8/3",
+      "2"
+    ],
+    "printed_answer": "2",
+    "accepted_answer_forms": [
+      "2"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q056",
+    "family_id": "ordered_pair_component_equations_f01",
+    "exam": "33th BCS",
+    "question_number": 56,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "ordered_pair_equation_system",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "(x − y, 3) = (0, x + 2y) হলে (x, y) = কত?",
+    "question_normalized": "(x − y, 3) = (0, x + 2y) হলে (x, y) = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(1, 1)",
+      "(1, 3)",
+      "(−1, −1)",
+      "(−3, 1)"
+    ],
+    "printed_answer": "(1, 1)",
+    "accepted_answer_forms": [
+      "(1, 1)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS33_Q057",
+    "family_id": "rational_expression_target_difference_f01",
+    "exam": "33th BCS",
+    "question_number": 57,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "rational_expression_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x/y এর সাথে কত যোগ করলে যোগফল y/x হবে?",
+    "question_normalized": "x/y এর সাথে কত যোগ করলে যোগফল y/x হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(x²−y²)/(xy)",
+      "(2x²−y²)/(xy)",
+      "(y²−x²)/(xy)",
+      "(x²−2y²)/(xy)"
+    ],
+    "printed_answer": "(y²−x²)/(xy)",
+    "accepted_answer_forms": [
+      "(y²−x²)/(xy)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

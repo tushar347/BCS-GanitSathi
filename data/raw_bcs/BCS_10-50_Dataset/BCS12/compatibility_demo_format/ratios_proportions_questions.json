@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "compound_ratio_multiple_pairs_f01",
+    "item_id": "BCS12_Q086",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "compound_ratio",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "অংশ": "part",
+      "পরিমাণ": "quantity"
+    },
+    "question_bn": "৫ : ১৮, ৭ : ২ এবং ৩ : ৬ এর মিশ্র অনুপাত কত?",
+    "answer_options": [
+      "৭২ : ১০৫",
+      "৭২ : ৩৫",
+      "৩৫ : ৭২",
+      "১০৫ : ৭২"
+    ],
+    "correct_answer": "৩৫ : ৭২",
+    "solution_steps": [
+      "মিশ্র অনুপাত = (5×7×3):(18×2×6)।",
+      "=105:216 =35:72।"
+    ],
+    "source_page": 7,
+    "source_exam": "12th BCS (Police)"
+  }
+]

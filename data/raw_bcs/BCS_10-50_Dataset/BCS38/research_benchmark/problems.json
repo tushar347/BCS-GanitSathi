@@ -1,0 +1,407 @@
+[
+  {
+    "item_id": "BCS38_Q164",
+    "family_id": "profit_loss_items_per_money_f01",
+    "exam": "38th BCS",
+    "question_number": 164,
+    "source_page": 17,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "profit_loss_fixed_revenue_quantity",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "টাকায় 5টি মার্বেল বিক্রয় করায় 12% ক্ষতি হয়। 10% লাভ করতে হলে টাকায় কয়টি বিক্রয় করতে হবে?",
+    "question_normalized": "টাকায় 5টি মার্বেল বিক্রয় করায় 12% ক্ষতি হয়। 10% লাভ করতে হলে টাকায় কয়টি বিক্রয় করতে হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4টি",
+      "3টি",
+      "2টি",
+      "কোনোটিই নয়"
+    ],
+    "printed_answer": "4টি",
+    "accepted_answer_forms": [
+      "4টি",
+      "4",
+      "৪টি",
+      "৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q165",
+    "family_id": "ratio_gcd_numbers_f01",
+    "exam": "38th BCS",
+    "question_number": 165,
+    "source_page": 17,
+    "topic_group": "ratios_proportions",
+    "subskill": "ratio_with_gcd",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "দুটি সংখ্যার অনুপাত 2 : 3 এবং গ.সা.গু 4 হলে বৃহত্তর সংখ্যাটি কত?",
+    "question_normalized": "দুটি সংখ্যার অনুপাত 2 : 3 এবং গ.সা.গু 4 হলে বৃহত্তর সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "6",
+      "12",
+      "8",
+      "16"
+    ],
+    "printed_answer": "12",
+    "accepted_answer_forms": [
+      "12",
+      "১২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q166",
+    "family_id": "simple_interest_from_amount_fraction_f01",
+    "exam": "38th BCS",
+    "question_number": 166,
+    "source_page": 17,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "simple_interest_rate",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোন আসল 3 বছরে মুনাফা-আসলে 5500 টাকা হয়। মুনাফা আসলের 3/8 অংশ হলে মুনাফার হার কত?",
+    "question_normalized": "কোন আসল 3 বছরে মুনাফা-আসলে 5500 টাকা হয়। মুনাফা আসলের 3/8 অংশ হলে মুনাফার হার কত?",
+    "normalization_notes": [],
+    "units": [
+      "taka",
+      "year"
+    ],
+    "answer_options": [
+      "10%",
+      "12.5%",
+      "15%",
+      "12%"
+    ],
+    "printed_answer": "12.5%",
+    "accepted_answer_forms": [
+      "12.5%",
+      "১২.৫%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q167",
+    "family_id": "percentage_remainder_total_f01",
+    "exam": "38th BCS",
+    "question_number": 167,
+    "source_page": 17,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_remainder_total",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "মি. রেজা তাঁর সম্পদের ১২% স্ত্রীকে, ৫৮% ছেলেকে এবং অবশিষ্ট ৭২০০০০/- টাকা মেয়েকে দিলেন। তাঁর সম্পদের মোট মূল্য কত?",
+    "question_normalized": "মি. রেজা তাঁর সম্পদের ১২% স্ত্রীকে, ৫৮% ছেলেকে এবং অবশিষ্ট ৭২০০০০/- টাকা মেয়েকে দিলেন। তাঁর সম্পদের মোট মূল্য কত?",
+    "normalization_notes": [],
+    "units": [
+      "taka"
+    ],
+    "answer_options": [
+      "২৪০০০০০ টাকা",
+      "২০০০০০০ টাকা",
+      "১৬০০০০০ টাকা",
+      "১২০০০০০ টাকা"
+    ],
+    "printed_answer": "২৪০০০০০ টাকা",
+    "accepted_answer_forms": [
+      "২৪০০০০০ টাকা",
+      "2400000",
+      "2,400,000"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q168",
+    "family_id": "surd_reciprocal_cube_sum_f01",
+    "exam": "38th BCS",
+    "question_number": 168,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "surd_reciprocal_identity",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "x = √3 + √2 হলে, x³ + 1/x³ এর মান কত?",
+    "question_normalized": "x = √3 + √2 হলে, x³ + 1/x³ এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "3√2",
+      "18√3",
+      "12√3",
+      "8"
+    ],
+    "printed_answer": "18√3",
+    "accepted_answer_forms": [
+      "18√3",
+      "১৮√৩"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q169",
+    "family_id": "log_unknown_base_reciprocal_f01",
+    "exam": "38th BCS",
+    "question_number": 169,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithm_unknown_base",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "logₓ(1/8) = −2 হলে, x = কত?",
+    "question_normalized": "logₓ(1/8) = −2 হলে, x = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2",
+      "√2",
+      "2√2",
+      "4"
+    ],
+    "printed_answer": "2√2",
+    "accepted_answer_forms": [
+      "2√2",
+      "২√২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q170",
+    "family_id": "exponential_substitution_two_solutions_f01",
+    "exam": "38th BCS",
+    "question_number": 170,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "exponential_quadratic_substitution",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "2^x + 2^(1−x) = 3 হলে, x = কত?",
+    "question_normalized": "2^x + 2^(1−x) = 3 হলে, x = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(1,2)",
+      "(0,2)",
+      "(1,3)",
+      "(0,1)"
+    ],
+    "printed_answer": "(0,1)",
+    "accepted_answer_forms": [
+      "(0,1)",
+      "x=0 or x=1",
+      "০, ১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q172",
+    "family_id": "ap_first_term_from_term_sum_f01",
+    "exam": "38th BCS",
+    "question_number": 172,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "arithmetic_progression_first_term",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "নিচের সমান্তর অনুক্রমে 5ম পদটি 18 এবং প্রথম 5টি পদের যোগফল 75 হলে প্রথম পদটি কত?",
+    "question_normalized": "নিচের সমান্তর অনুক্রমে 5ম পদটি 18 এবং প্রথম 5টি পদের যোগফল 75 হলে প্রথম পদটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2",
+      "10",
+      "4",
+      "12"
+    ],
+    "printed_answer": "12",
+    "accepted_answer_forms": [
+      "12",
+      "১২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q178",
+    "family_id": "sum_first_n_f01",
+    "exam": "38th BCS",
+    "question_number": 178,
+    "source_page": 19,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_first_n_integers",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১ থেকে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+    "question_normalized": "১ থেকে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৯৯৯",
+      "৫৫০১",
+      "৫০৫০",
+      "৫০০১"
+    ],
+    "printed_answer": "৫০৫০",
+    "accepted_answer_forms": [
+      "৫০৫০",
+      "5050"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q184",
+    "family_id": "alternating_times2_plus3_f01",
+    "exam": "38th BCS",
+    "question_number": 184,
+    "source_page": 19,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "alternating_number_sequence",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন সংখ্যাটি নিম্নোক্ত ধারায় অন্তর্ভুক্ত নয়? ১ - ২ - ৫ - ১০ - ১৩ - ২৬ - ২৯ - ৪৮",
+    "question_normalized": "কোন সংখ্যাটি নিম্নোক্ত ধারায় অন্তর্ভুক্ত নয়? ১ - ২ - ৫ - ১০ - ১৩ - ২৬ - ২৯ - ৪৮",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১",
+      "১০",
+      "২৯",
+      "৪৮"
+    ],
+    "printed_answer": "৪৮",
+    "accepted_answer_forms": [
+      "৪৮",
+      "48"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q187",
+    "family_id": "combined_work_two_people_f01",
+    "exam": "38th BCS",
+    "question_number": 187,
+    "source_page": 20,
+    "topic_group": "work_time",
+    "subskill": "combined_work_rate",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "দুই ব্যক্তি একটি কাজ একত্রে ৮ দিনে করতে পারে। প্রথম ব্যক্তি একা কাজটি ১২ দিনে করতে পারে। দ্বিতীয় ব্যক্তি একা ঐ কাজটি কত দিনে করতে পারবে?",
+    "question_normalized": "দুই ব্যক্তি একটি কাজ একত্রে ৮ দিনে করতে পারে। প্রথম ব্যক্তি একা কাজটি ১২ দিনে করতে পারে। দ্বিতীয় ব্যক্তি একা ঐ কাজটি কত দিনে করতে পারবে?",
+    "normalization_notes": [],
+    "units": [
+      "day"
+    ],
+    "answer_options": [
+      "২০ দিনে",
+      "২৫ দিনে",
+      "২৪ দিনে",
+      "৩০ দিনে"
+    ],
+    "printed_answer": "২৪ দিনে",
+    "accepted_answer_forms": [
+      "২৪ দিনে",
+      "24 days",
+      "24"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q189",
+    "family_id": "prime_composite_identification_f01",
+    "exam": "38th BCS",
+    "question_number": 189,
+    "source_page": 20,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "prime_number_identification",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "নিচের কোনটি মৌলিক সংখ্যা নয়?",
+    "question_normalized": "নিচের কোনটি মৌলিক সংখ্যা নয়?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২৬৩",
+      "২৩৩",
+      "২৫৩",
+      "২৪১"
+    ],
+    "printed_answer": "২৫৩",
+    "accepted_answer_forms": [
+      "২৫৩",
+      "253"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS38_Q190",
+    "family_id": "perpendicular_displacement_5_12_13_f01",
+    "exam": "38th BCS",
+    "question_number": 190,
+    "source_page": 20,
+    "topic_group": "speed_distance",
+    "subskill": "perpendicular_displacement",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একজন লোক একটি নির্দিষ্ট স্থান A থেকে যাত্রা শুরু করে ১২ কিলোমিটার উত্তর দিকে গেল এবং সেখান থেকে ৫ কিলোমিটার পূর্ব দিকে গেল। যাত্রা শেষে সে A অবস্থান থেকে কত দূরে থাকবে?",
+    "question_normalized": "একজন লোক একটি নির্দিষ্ট স্থান A থেকে যাত্রা শুরু করে ১২ কিলোমিটার উত্তর দিকে গেল এবং সেখান থেকে ৫ কিলোমিটার পূর্ব দিকে গেল। যাত্রা শেষে সে A অবস্থান থেকে কত দূরে থাকবে?",
+    "normalization_notes": [],
+    "units": [
+      "km"
+    ],
+    "answer_options": [
+      "১৭ কি.মি.",
+      "১৫ কি.মি.",
+      "১৪ কি.মি.",
+      "১৩ কি.মি."
+    ],
+    "printed_answer": "১৩ কি.মি.",
+    "accepted_answer_forms": [
+      "১৩ কি.মি.",
+      "13 km",
+      "13"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

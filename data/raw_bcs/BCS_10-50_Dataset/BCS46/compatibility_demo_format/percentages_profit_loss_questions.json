@@ -1,0 +1,28 @@
+[
+  {
+    "family_id": "compound_amount_bcs46_q037_f01",
+    "item_id": "BCS46_Q037",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "compound_amount",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "বার্ষিক ৫% হার মুনাফায় ৪০০ টাকার ২ বছরের চক্রবৃদ্ধি মূলধন কত?",
+    "answer_options": [
+      "৪৪০ টাকা",
+      "৪৪১ টাকা",
+      "৪৪৫ টাকা",
+      "৪৫০ টাকা"
+    ],
+    "correct_answer": "৪৪১ টাকা",
+    "solution_steps": [
+      "Use A = P(1+r)^n.",
+      "A = 400(1.05)^2 = 441.",
+      "So the amount is 441 taka."
+    ],
+    "source_page": 6,
+    "source_exam": "46th BCS"
+  }
+]

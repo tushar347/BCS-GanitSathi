@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "item_id": "BCS21_Q050",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "mixture_profit_quantity",
+    "difficulty_rating": 3,
+    "target_completion_time": "90-180 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture"
+    },
+    "question_bn": "এক দোকানদার ১১০ টাকা কেজি দামের কিছু চায়ের সঙ্গে ১০০ টাকা কেজি দামের দ্বিগুণ পরিমাণ চা মিশিয়ে ১২০ টাকা কেজি দামে বিক্রি করে মোট ২,০০০ টাকা লাভ করল। দোকানদার দ্বিতীয় প্রকারের কত কেজি চা ক্রয় করেছিল?",
+    "answer_options": [
+      "১০০ কেজি",
+      "৮০ কেজি",
+      "৫০ কেজি",
+      "৬০ কেজি"
+    ],
+    "correct_answer": "৮০ কেজি",
+    "solution_steps": [
+      "প্রথম চায়ের পরিমাণ x কেজি হলে দ্বিতীয়টি 2x কেজি।",
+      "মোট খরচ = ১১০x+২০০x=৩১০x; বিক্রি = ১২০×৩x=৩৬০x।",
+      "লাভ = ৫০x=২০০০, তাই x=৪০ এবং দ্বিতীয় চা = ৮০ কেজি।"
+    ],
+    "source_page": 5,
+    "source_exam": "21st BCS"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "description": "Output contract for LLM response generation (Appendix B.2).",
+  "properties": {
+    "bengali_response_text": {
+      "description": "Generated tutor response in polite, clear Bengali",
+      "title": "Bengali Response Text",
+      "type": "string"
+    },
+    "cited_fact_ids": {
+      "description": "IDs of permitted facts actually referenced",
+      "items": {
+        "type": "string"
+      },
+      "title": "Cited Fact Ids",
+      "type": "array"
+    },
+    "questions_asked_count": {
+      "description": "Number of questions asked (must be <= 1)",
+      "maximum": 1,
+      "minimum": 0,
+      "title": "Questions Asked Count",
+      "type": "integer"
+    },
+    "fallback_signal_triggered": {
+      "default": false,
+      "description": "True if LLM determined facts were insufficient to formulate response",
+      "title": "Fallback Signal Triggered",
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "bengali_response_text",
+    "questions_asked_count"
+  ],
+  "title": "RealizerOutputContract",
+  "type": "object"
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "equal_distance_average_speed_f01",
+    "item_id": "BCS13_Q083",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "equal_distance_average_speed",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time",
+      "ঘণ্টা": "hour"
+    },
+    "question_bn": "একটি লোক গাড়ায় উত্তর দিকে m মাইল অতিক্রম করে প্রতি মাইল ২ মিনিটে এবং গাড়ায় দক্ষিণ দিকে পূর্ব স্থানে ফিরে আসে প্রতি মিনিটে ২ মাইল হিসেবে। লোকটির গড় গতিবেগ ঘণ্টায় কত মাইল?",
+    "answer_options": [
+      "৪৫",
+      "৪৮",
+      "৭৫",
+      "২৪"
+    ],
+    "correct_answer": "৪৮",
+    "solution_steps": [
+      "যাওয়ার বেগ: ১ মাইল/২ মিনিট =30 মাইল/ঘণ্টা।",
+      "ফেরার বেগ: 2 মাইল/মিনিট =120 মাইল/ঘণ্টা।",
+      "সমান দূরত্বে গড় বেগ =2uv/(u+v)=2×30×120/150=48।"
+    ],
+    "source_page": 7,
+    "source_exam": "13th BCS"
+  }
+]

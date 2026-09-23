@@ -1,0 +1,65 @@
+[
+  {
+    "family_id": "Q026",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "sea",
+        "reasoning_steps": [
+          "Replace the property relationship with something found on Earth.",
+          "Select sea rather than the property named in the key."
+        ],
+        "code": "BCS42-026-INTERPRETATION-01"
+      }
+    ]
+  },
+  {
+    "family_id": "Q048",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১৩৫",
+        "reasoning_steps": [
+          "Treat the most recent difference 81−27=54 as a constant additive step.",
+          "Calculate 81+54=135."
+        ],
+        "code": "BCS42-048-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "২৪১",
+        "reasoning_steps": [
+          "Identify the multiplier as 3.",
+          "Miscompute 81×3 as 241."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS42-048-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q055",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "U/35",
+        "reasoning_steps": [
+          "Repeat the last increment 7 instead of increasing it to 8.",
+          "Obtain letter position 21=U and number 35.",
+          "Write U/35."
+        ],
+        "code": "BCS42-055-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "36/V",
+        "reasoning_steps": [
+          "Correctly calculate the next letter V and number 36.",
+          "Ignore the alternating numerator and denominator positions.",
+          "Write 36/V instead of V/36."
+        ],
+        "code": "BCS42-055-INTERPRETATION-02"
+      }
+    ]
+  }
+]

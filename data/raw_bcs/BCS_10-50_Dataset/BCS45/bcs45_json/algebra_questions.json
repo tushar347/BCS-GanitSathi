@@ -1,0 +1,165 @@
+[
+  {
+    "family_id": "Q161",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "product of polynomial LCM and HCF",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "60 seconds",
+    "target_quantity": "product of the LCM and HCF",
+    "english_glossary": {
+      "রাশিদ্বয়": "the two expressions",
+      "ল.সা.গু": "least common multiple",
+      "গ.সা.গু": "highest common factor",
+      "গুণফল": "product"
+    },
+    "question_bn": "$x^{2}y + xy^{2}$ এবং $x^{2} + xy$ রাশিদ্বয়ের ল.সা.গু এবং গ.সা.গু. এর গুণফল কত?",
+    "answer_options": [
+      "$x^{2}y^{2}(x+y)$",
+      "$xy(x^{2}+y^{2})$",
+      "$x^{2}y(x+y)^{2}$",
+      "$xy^{2}(x^{2}+y)$"
+    ],
+    "correct_answer": "$x^{2}y(x+y)^{2}$",
+    "solution_steps": [
+      "Factor the two expressions: x^2y + xy^2 = xy(x+y), and x^2 + xy = x(x+y).",
+      "The common factor of highest degree is x(x+y), and the least common multiple is xy(x+y).",
+      "Multiply the HCF and LCM: x(x+y) × xy(x+y).",
+      "Collect repeated factors to obtain x^2y(x+y)^2, matching the printed key."
+    ]
+  },
+  {
+    "family_id": "Q166",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "sum of squares from the sum and difference of two variables",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "p^2 + q^2",
+    "english_glossary": {
+      "এবং": "and",
+      "মান": "value"
+    },
+    "question_bn": "p + q = 5 এবং p − q = 3 হলে p2 + q2 এর মান কত?",
+    "answer_options": [
+      "8",
+      "17",
+      "19",
+      "34"
+    ],
+    "correct_answer": "17",
+    "solution_steps": [
+      "Interpret the source's baseline text p2 + q2 as p^2 + q^2; this interpretation is consistent with its printed key.",
+      "Add p+q = 5 and p−q = 3 to obtain 2p = 8, so p = 4.",
+      "Substitute into p+q = 5 to get q = 1.",
+      "Calculate p^2+q^2 = 4^2+1^2 = 16+1 = 17."
+    ]
+  },
+  {
+    "family_id": "Q167",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "logarithm product rule and log of unity",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "relationship between a and b",
+    "english_glossary": {
+      "যদি": "if",
+      "তবে": "then"
+    },
+    "question_bn": "যদি $\\log(\\frac{a}{b}) + \\log(\\frac{b}{a}) = \\log(a+b)$ হয়, তবে—",
+    "answer_options": [
+      "a + b = 1",
+      "a − b = 1",
+      "a = b",
+      "$a^{2} − b^{2} = 1$"
+    ],
+    "correct_answer": "a + b = 1",
+    "solution_steps": [
+      "Work on the domain where the displayed real logarithms exist, using their common valid base.",
+      "Apply the product rule: log(a/b)+log(b/a) = log((a/b)(b/a)) = log 1 = 0.",
+      "Thus log(a+b) = 0.",
+      "A logarithm is zero when its argument is 1, so a+b = 1."
+    ]
+  },
+  {
+    "family_id": "Q168",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "solving an exponential equation with a common base",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "value of x",
+    "english_glossary": {
+      "মান": "value",
+      "হলে": "if"
+    },
+    "question_bn": "$2^{x+7}=4^{x+2}$ হলে x এর মান কত?",
+    "answer_options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_answer": "3",
+    "solution_steps": [
+      "Rewrite 4 as 2^2.",
+      "Then 4^(x+2) = (2^2)^(x+2) = 2^(2x+4).",
+      "Equal powers with base 2 give x+7 = 2x+4.",
+      "Solve 7−4 = x to obtain x = 3."
+    ]
+  },
+  {
+    "family_id": "Q169",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "fifth term of a geometric progression with an irrational ratio",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "fifth term of the progression",
+    "english_glossary": {
+      "ধারাটির": "of the sequence",
+      "পঞ্চম পদ": "fifth term"
+    },
+    "question_bn": "$\\frac{1}{\\sqrt{3}}, -1, \\sqrt{3}$ ........ ধারাটির পঞ্চম পদ কত?",
+    "answer_options": [
+      "$-\\sqrt{3}$",
+      "9",
+      "$-9\\sqrt{3}$",
+      "$3\\sqrt{3}$"
+    ],
+    "correct_answer": "$3\\sqrt{3}$",
+    "solution_steps": [
+      "Use the geometric-progression pattern suggested by the three terms.",
+      "The common ratio is (−1)/(1/√3) = −√3; also √3/(−1) = −√3.",
+      "The fourth term is √3 × (−√3) = −3.",
+      "The fifth term is (−3) × (−√3) = 3√3."
+    ]
+  },
+  {
+    "family_id": "Q175",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "quadratic roots restricted to natural numbers",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "elements of set A",
+    "english_glossary": {
+      "হলে": "if"
+    },
+    "question_bn": "A = {x ∈ N : x2 − 5x − 14 = 0} হলে, A = ?",
+    "answer_options": [
+      "{6, 1}",
+      "{−2, 7}",
+      "{2, 7}",
+      "{7}"
+    ],
+    "correct_answer": "{7}",
+    "solution_steps": [
+      "Interpret the source's baseline x2 as x^2, consistent with the polynomial and its printed key.",
+      "Factor x^2−5x−14 as (x−7)(x+2).",
+      "The algebraic roots are x = 7 and x = −2.",
+      "Retain only roots in N, the natural numbers. Therefore A = {7}."
+    ]
+  }
+]

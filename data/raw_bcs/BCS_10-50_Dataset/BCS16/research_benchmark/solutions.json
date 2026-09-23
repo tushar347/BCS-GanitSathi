@@ -1,0 +1,105 @@
+[
+  {
+    "item_id": "BCS16_Q030",
+    "family_id": "profit_loss_changed_cost_and_selling_price_bcs16_q030_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মূল ক্রয়মূল্য C হলে ৭.৫% ক্ষতিতে বিক্রয়মূল্য = 0.925C।",
+          "নতুন ক্রয়মূল্য 0.9C এবং নতুন বিক্রয়মূল্য 0.925C+31।",
+          "২০% লাভ হলে 0.925C+31 = 1.2×0.9C = 1.08C।",
+          "তাই 31=0.155C, ফলে C=200 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS16_Q031",
+    "family_id": "combined_work_find_individual_time_bcs16_q031_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দুইজনের সম্মিলিত কাজের হার = 1/8 কাজ/দিন।",
+          "প্রথম ব্যক্তির হার = 1/12 কাজ/দিন।",
+          "দ্বিতীয় ব্যক্তির হার = 1/8-1/12 = 1/24।",
+          "তাই দ্বিতীয় ব্যক্তি একা কাজটি ২৪ দিনে করবে।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS16_Q032",
+    "family_id": "simple_interest_common_rate_bcs16_q032_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সাধারণ সুদের সূত্র I=Prt/100।",
+          "মোট সুদ = (500×4×r/100)+(600×5×r/100)=500।",
+          "অর্থাৎ 20r+30r=500, তাই 50r=500।",
+          "সুতরাং r=10%।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS16_Q033",
+    "family_id": "lcm_divisibility_offset_bcs16_q033_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "24, 36 ও 48-এর ল.সা.গু = 144।",
+          "চাওয়া সংখ্যা n হলে n+3=144।",
+          "তাই n=141।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS16_Q034",
+    "family_id": "odd_number_of_divisors_perfect_square_bcs16_q034_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "কেবল পূর্ণবর্গ সংখ্যার ধনাত্মক ভাজকের সংখ্যা বিজোড় হয়।",
+          "1024=32², তাই এটি পূর্ণবর্গ।",
+          "অন্য প্রদত্ত সংখ্যাগুলো পূর্ণবর্গ নয়।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "item_id": "BCS31_Q081",
+    "family_id": "fraction_comparison_f01",
+    "exam": "31th BCS",
+    "question_number": 81,
+    "source_page": 9,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_comparison",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোনটি সবচেয়ে ছোট?",
+    "question_normalized": "কোনটি সবচেয়ে ছোট?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2/11",
+      "3/11",
+      "2/13",
+      "4/15"
+    ],
+    "printed_answer": "2/13",
+    "accepted_answer_forms": [
+      "2/13"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q082",
+    "family_id": "ratio_expression_transform_f01",
+    "exam": "31th BCS",
+    "question_number": 82,
+    "source_page": 9,
+    "topic_group": "ratios_proportions",
+    "subskill": "ratio_expression_transform",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি Q/P = 1/4 হয় তবে (P + Q)/(P − Q) এর মান—",
+    "question_normalized": "যদি Q/P = 1/4 হয় তবে (P + Q)/(P − Q) এর মান—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "5/3",
+      "2/3",
+      "3/5",
+      "5/7"
+    ],
+    "printed_answer": "5/3",
+    "accepted_answer_forms": [
+      "5/3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q083",
+    "family_id": "combined_work_three_people_f01",
+    "exam": "31th BCS",
+    "question_number": 83,
+    "source_page": 9,
+    "topic_group": "work_time",
+    "subskill": "combined_work_three_people",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "রহিম, করিম এবং গাজী তিন জনে একটি কাজ করতে পারে যথাক্রমে 15, 6 এবং 10 দিনে। তাহারা একত্রে তিন জনে কাজটি কত দিনে শেষ করতে পারবে?",
+    "question_normalized": "রহিম, করিম এবং গাজী তিন জনে একটি কাজ করতে পারে যথাক্রমে 15, 6 এবং 10 দিনে। তাহারা একত্রে তিন জনে কাজটি কত দিনে শেষ করতে পারবে?",
+    "normalization_notes": [],
+    "units": [
+      "day"
+    ],
+    "answer_options": [
+      "3 দিন",
+      "18 দিন",
+      "7 দিন",
+      "15 দিন"
+    ],
+    "printed_answer": "3 দিন",
+    "accepted_answer_forms": [
+      "3 দিন"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q084",
+    "family_id": "percentage_equation_add_constant_f01",
+    "exam": "31th BCS",
+    "question_number": 84,
+    "source_page": 9,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_equation_addition",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোনো সংখ্যার 40% এর সাথে 42 যোগ করলে যোগফল হবে ঐ সংখ্যাটি। উহা কত?",
+    "question_normalized": "কোনো সংখ্যার 40% এর সাথে 42 যোগ করলে যোগফল হবে ঐ সংখ্যাটি। উহা কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "70",
+      "80",
+      "90",
+      "75"
+    ],
+    "printed_answer": "70",
+    "accepted_answer_forms": [
+      "70"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q085",
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "exam": "31th BCS",
+    "question_number": 85,
+    "source_page": 9,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_equation_subtraction",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন সংখ্যার 60% থেকে 60 বিয়োগ করলে ফলাফল হবে 60। তবে সংখ্যাটি কত?",
+    "question_normalized": "কোন সংখ্যার 60% থেকে 60 বিয়োগ করলে ফলাফল হবে 60। তবে সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "250",
+      "100",
+      "200",
+      "300"
+    ],
+    "printed_answer": "200",
+    "accepted_answer_forms": [
+      "200"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q086",
+    "family_id": "log_power_reciprocal_f01",
+    "exam": "31th BCS",
+    "question_number": 86,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithm_power",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "log₂(1/32) = কত?",
+    "question_normalized": "log₂(1/32) = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1/25",
+      "−5",
+      "1/5",
+      "−1/5"
+    ],
+    "printed_answer": "−5",
+    "accepted_answer_forms": [
+      "−5"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q088",
+    "family_id": "polynomial_gcd_factorization_f01",
+    "exam": "31th BCS",
+    "question_number": 88,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_gcd",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "(4x² − 16) এবং 6x² + 24x + 24 এর গ.সা.গু—",
+    "question_normalized": "(4x² − 16) এবং 6x² + 24x + 24 এর গ.সা.গু—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x + 2",
+      "x + 4",
+      "x + 5",
+      "2(x + 2)"
+    ],
+    "printed_answer": "2(x + 2)",
+    "accepted_answer_forms": [
+      "2(x + 2)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q089",
+    "family_id": "remainder_theorem_linear_divisor_f01",
+    "exam": "31th BCS",
+    "question_number": 89,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "remainder_theorem",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x³ − x² কে x − 2 দ্বারা ভাগ করলে অবশেষ থাকবে—",
+    "question_normalized": "x³ − x² কে x − 2 দ্বারা ভাগ করলে অবশেষ থাকবে—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2",
+      "4",
+      "−6",
+      "−8"
+    ],
+    "printed_answer": "4",
+    "accepted_answer_forms": [
+      "4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q090",
+    "family_id": "reciprocal_square_difference_f01",
+    "exam": "31th BCS",
+    "question_number": 90,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "reciprocal_square_identity",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি a² + 1/a² = 51 হয় তবে a − 1/a এর মান কত?",
+    "question_normalized": "যদি a² + 1/a² = 51 হয় তবে a − 1/a এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "±9",
+      "±7",
+      "±5",
+      "±3"
+    ],
+    "printed_answer": "±7",
+    "accepted_answer_forms": [
+      "±7"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q091",
+    "family_id": "linear_system_substitution_f01",
+    "exam": "31th BCS",
+    "question_number": 91,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "linear_system_two_variables",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "3x − 7y + 10 = 0 এবং y − 2x − 3 = 0 এর সমাধান—",
+    "question_normalized": "3x − 7y + 10 = 0 এবং y − 2x − 3 = 0 এর সমাধান—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x = 1, y = −1",
+      "x = 1, y = 1",
+      "x = −1, y = −1",
+      "x = −1, y = 1"
+    ],
+    "printed_answer": "x = −1, y = 1",
+    "accepted_answer_forms": [
+      "x = −1, y = 1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q092",
+    "family_id": "numbers_from_sum_product_f01",
+    "exam": "31th BCS",
+    "question_number": 92,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "numbers_from_sum_product",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি a + b = 2, ab = 1 হয় তবে a এবং b এর মান যথাক্রমে—",
+    "question_normalized": "যদি a + b = 2, ab = 1 হয় তবে a এবং b এর মান যথাক্রমে—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "0, 2",
+      "1, 1",
+      "−1, 3",
+      "−3, −4"
+    ],
+    "printed_answer": "1, 1",
+    "accepted_answer_forms": [
+      "1, 1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q093",
+    "family_id": "sum_first_n_squares_identity_f01",
+    "exam": "31th BCS",
+    "question_number": 93,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_of_squares_formula",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "1² + 2² + 3² + ........... + x² এর মান কত?",
+    "question_normalized": "1² + 2² + 3² + ........... + x² এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x(x + 1)(2x + 1)/6",
+      "x(x + 1)/2",
+      "x",
+      "{x(x + 1)/2}²"
+    ],
+    "printed_answer": "x(x + 1)(2x + 1)/6",
+    "accepted_answer_forms": [
+      "x(x + 1)(2x + 1)/6"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q094",
+    "family_id": "function_evaluation_zero_f01",
+    "exam": "31th BCS",
+    "question_number": 94,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "function_evaluation",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "f(x) = x³ − 2x + 10 হলে f(0) = কত?",
+    "question_normalized": "f(x) = x³ − 2x + 10 হলে f(0) = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1",
+      "5",
+      "8",
+      "10"
+    ],
+    "printed_answer": "10",
+    "accepted_answer_forms": [
+      "10"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q096",
+    "family_id": "larger_number_from_sum_product_f01",
+    "exam": "31th BCS",
+    "question_number": 96,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "larger_number_from_sum_product",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুটি সংখ্যার যোগফল 48 এবং তাদের গুণফল 432 তবে বড় সংখ্যাটি কত?",
+    "question_normalized": "দুটি সংখ্যার যোগফল 48 এবং তাদের গুণফল 432 তবে বড় সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "36",
+      "37",
+      "38",
+      "40"
+    ],
+    "printed_answer": "36",
+    "accepted_answer_forms": [
+      "36"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q098",
+    "family_id": "fractional_exponents_linear_parameter_f01",
+    "exam": "31th BCS",
+    "question_number": 98,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fractional_exponents",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "যদি (64)^(2/3) + (625)^(1/2) = 3k হয় তবে k এর মান—",
+    "question_normalized": "যদি (64)^(2/3) + (625)^(1/2) = 3k হয় তবে k এর মান—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "9 2/3",
+      "11 1/3",
+      "12 2/5",
+      "13 2/3"
+    ],
+    "printed_answer": "13 2/3",
+    "accepted_answer_forms": [
+      "13 2/3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q099",
+    "family_id": "reciprocal_sum_from_sum_product_f01",
+    "exam": "31th BCS",
+    "question_number": 99,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "reciprocal_sum_from_sum_product",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি দুটি সংখ্যার যোগফল এবং গুণফল যথাক্রমে 20 এবং 96 হয়, তবে সংখ্যা দুটির ব্যস্তানুপাতিক যোগফল কত হবে?",
+    "question_normalized": "যদি দুটি সংখ্যার যোগফল এবং গুণফল যথাক্রমে 20 এবং 96 হয়, তবে সংখ্যা দুটির ব্যস্তানুপাতিক যোগফল কত হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1/8",
+      "1/6",
+      "13/4",
+      "5/24"
+    ],
+    "printed_answer": "5/24",
+    "accepted_answer_forms": [
+      "5/24"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS31_Q100",
+    "family_id": "digit_arrangement_max_min_difference_f01",
+    "exam": "31th BCS",
+    "question_number": 100,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "largest_smallest_digit_arrangement",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "0, 1, 2 এবং 3 দ্বারা গঠিত চার অঙ্কের বৃহত্তম এবং ক্ষুদ্রতম সংখ্যার বিয়োগফল—",
+    "question_normalized": "0, 1, 2 এবং 3 দ্বারা গঠিত চার অঙ্কের বৃহত্তম এবং ক্ষুদ্রতম সংখ্যার বিয়োগফল—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "3147",
+      "2287",
+      "2987",
+      "2187"
+    ],
+    "printed_answer": "2187",
+    "accepted_answer_forms": [
+      "2187"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

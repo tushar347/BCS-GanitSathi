@@ -1,0 +1,552 @@
+[
+  {
+    "history_id": "BCS22_Q071_H_CORRECT",
+    "item_id": "BCS22_Q071",
+    "family_id": "consecutive_integer_square_difference_bcs22_q071_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q071_H_CONCEPT",
+    "item_id": "BCS22_Q071",
+    "family_id": "consecutive_integer_square_difference_bcs22_q071_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q071_H_SLIP",
+    "item_id": "BCS22_Q071",
+    "family_id": "consecutive_integer_square_difference_bcs22_q071_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q071_H_AMBIG",
+    "item_id": "BCS22_Q071",
+    "family_id": "consecutive_integer_square_difference_bcs22_q071_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q072_H_CORRECT",
+    "item_id": "BCS22_Q072",
+    "family_id": "divisors_with_remainder_bcs22_q072_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q072_H_CONCEPT",
+    "item_id": "BCS22_Q072",
+    "family_id": "divisors_with_remainder_bcs22_q072_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q072_H_SLIP",
+    "item_id": "BCS22_Q072",
+    "family_id": "divisors_with_remainder_bcs22_q072_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q072_H_AMBIG",
+    "item_id": "BCS22_Q072",
+    "family_id": "divisors_with_remainder_bcs22_q072_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q073_H_CORRECT",
+    "item_id": "BCS22_Q073",
+    "family_id": "two_subject_pass_fail_percentage_bcs22_q073_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q073_H_CONCEPT",
+    "item_id": "BCS22_Q073",
+    "family_id": "two_subject_pass_fail_percentage_bcs22_q073_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q073_H_SLIP",
+    "item_id": "BCS22_Q073",
+    "family_id": "two_subject_pass_fail_percentage_bcs22_q073_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q073_H_AMBIG",
+    "item_id": "BCS22_Q073",
+    "family_id": "two_subject_pass_fail_percentage_bcs22_q073_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q074_H_CORRECT",
+    "item_id": "BCS22_Q074",
+    "family_id": "loss_percentage_from_sp_cp_bcs22_q074_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q074_H_CONCEPT",
+    "item_id": "BCS22_Q074",
+    "family_id": "loss_percentage_from_sp_cp_bcs22_q074_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q074_H_SLIP",
+    "item_id": "BCS22_Q074",
+    "family_id": "loss_percentage_from_sp_cp_bcs22_q074_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q074_H_AMBIG",
+    "item_id": "BCS22_Q074",
+    "family_id": "loss_percentage_from_sp_cp_bcs22_q074_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q075_H_CORRECT",
+    "item_id": "BCS22_Q075",
+    "family_id": "divide_length_by_ratio_bcs22_q075_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q075_H_CONCEPT",
+    "item_id": "BCS22_Q075",
+    "family_id": "divide_length_by_ratio_bcs22_q075_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q075_H_SLIP",
+    "item_id": "BCS22_Q075",
+    "family_id": "divide_length_by_ratio_bcs22_q075_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q075_H_AMBIG",
+    "item_id": "BCS22_Q075",
+    "family_id": "divide_length_by_ratio_bcs22_q075_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q076_H_CORRECT",
+    "item_id": "BCS22_Q076",
+    "family_id": "midpoint_between_numbers_bcs22_q076_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q076_H_CONCEPT",
+    "item_id": "BCS22_Q076",
+    "family_id": "midpoint_between_numbers_bcs22_q076_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q076_H_SLIP",
+    "item_id": "BCS22_Q076",
+    "family_id": "midpoint_between_numbers_bcs22_q076_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q076_H_AMBIG",
+    "item_id": "BCS22_Q076",
+    "family_id": "midpoint_between_numbers_bcs22_q076_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q077_H_CORRECT",
+    "item_id": "BCS22_Q077",
+    "family_id": "fraction_equation_bcs22_q077_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q077_H_CONCEPT",
+    "item_id": "BCS22_Q077",
+    "family_id": "fraction_equation_bcs22_q077_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q077_H_SLIP",
+    "item_id": "BCS22_Q077",
+    "family_id": "fraction_equation_bcs22_q077_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q077_H_AMBIG",
+    "item_id": "BCS22_Q077",
+    "family_id": "fraction_equation_bcs22_q077_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q078_H_CORRECT",
+    "item_id": "BCS22_Q078",
+    "family_id": "compare_numeric_forms_bcs22_q078_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q078_H_CONCEPT",
+    "item_id": "BCS22_Q078",
+    "family_id": "compare_numeric_forms_bcs22_q078_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q078_H_SLIP",
+    "item_id": "BCS22_Q078",
+    "family_id": "compare_numeric_forms_bcs22_q078_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q078_H_AMBIG",
+    "item_id": "BCS22_Q078",
+    "family_id": "compare_numeric_forms_bcs22_q078_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q079_H_CORRECT",
+    "item_id": "BCS22_Q079",
+    "family_id": "sum_difference_product_bcs22_q079_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q079_H_CONCEPT",
+    "item_id": "BCS22_Q079",
+    "family_id": "sum_difference_product_bcs22_q079_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q079_H_SLIP",
+    "item_id": "BCS22_Q079",
+    "family_id": "sum_difference_product_bcs22_q079_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q079_H_AMBIG",
+    "item_id": "BCS22_Q079",
+    "family_id": "sum_difference_product_bcs22_q079_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS22_Q080_H_CORRECT",
+    "item_id": "BCS22_Q080",
+    "family_id": "age_relation_equation_bcs22_q080_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q080_H_CONCEPT",
+    "item_id": "BCS22_Q080",
+    "family_id": "age_relation_equation_bcs22_q080_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q080_H_SLIP",
+    "item_id": "BCS22_Q080",
+    "family_id": "age_relation_equation_bcs22_q080_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS22_Q080_H_AMBIG",
+    "item_id": "BCS22_Q080",
+    "family_id": "age_relation_equation_bcs22_q080_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  }
+]

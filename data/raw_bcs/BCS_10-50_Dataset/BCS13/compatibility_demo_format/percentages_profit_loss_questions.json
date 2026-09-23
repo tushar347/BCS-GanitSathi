@@ -1,0 +1,66 @@
+[
+  {
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "item_id": "BCS13_Q081",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "successive_discounts_difference",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "একটি ১০,০০০ টাকার বিলের উপর এককালীন ৪০% কমতি এবং পরপর ৩৬% ও ৪% কমতির পার্থক্য কত টাকা?",
+    "answer_options": [
+      "শূন্য",
+      "১৪৪",
+      "২৫৬",
+      "৪০০"
+    ],
+    "correct_answer": "১৪৪",
+    "solution_steps": [
+      "এককালীন 40% ছাড়ে মূল্য =10000×0.60=6000।",
+      "ক্রমিক 36% ও 4% ছাড়ে মূল্য =10000×0.64×0.96=6144।",
+      "পার্থক্য =6144-6000=144 টাকা।"
+    ],
+    "source_page": 7,
+    "source_exam": "13th BCS"
+  },
+  {
+    "family_id": "percentage_total_questions_f01",
+    "item_id": "BCS13_Q082",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_equation_total_count",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "কোন পরীক্ষায় একজন ছাত্র n সংখ্যক প্রশ্নের প্রথম ২০টি প্রশ্ন হতে ১৫টি প্রশ্নের শুদ্ধ উত্তর দেয় এবং বাকি প্রশ্নগুলোর এক তৃতীয়াংশের শুদ্ধ উত্তর দিতে পারে। এভাবে সে যদি ৫০% প্রশ্নের শুদ্ধ উত্তর দিয়ে থাকে তবে ঐ পরীক্ষায় প্রশ্নের সংখ্যা কত ছিল?",
+    "answer_options": [
+      "২০টি",
+      "৩০টি",
+      "৪০টি",
+      "৫০টি"
+    ],
+    "correct_answer": "৫০টি",
+    "solution_steps": [
+      "সঠিক উত্তর =15+(n-20)/3।",
+      "এটি মোটের 50%: 15+(n-20)/3=n/2।",
+      "6 দিয়ে গুণ: 90+2n-40=3n, তাই n=50।"
+    ],
+    "source_page": 7,
+    "source_exam": "13th BCS"
+  }
+]

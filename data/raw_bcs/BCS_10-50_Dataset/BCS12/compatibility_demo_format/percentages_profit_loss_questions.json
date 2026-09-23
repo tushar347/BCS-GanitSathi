@@ -1,0 +1,66 @@
+[
+  {
+    "family_id": "constant_expenditure_price_increase_f01",
+    "item_id": "BCS12_Q084",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "price_increase_constant_expenditure",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+    "answer_options": [
+      "৩০%",
+      "২৫%",
+      "১৫%",
+      "২০%"
+    ],
+    "correct_answer": "২০%",
+    "solution_steps": [
+      "মূল্য ২৫% বাড়লে নতুন মূল্য পুরনোর 125%।",
+      "ব্যয় অপরিবর্তিত রাখতে নতুন পরিমাণ =100/125=80%।",
+      "ব্যবহার কমেছে 20%।"
+    ],
+    "source_page": 7,
+    "source_exam": "12th BCS (Police)"
+  },
+  {
+    "family_id": "percentage_total_questions_f01",
+    "item_id": "BCS12_Q085",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_equation_total_count",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "বার্ষিক পরীক্ষায় একটি ছাত্র মোট n সংখ্যক প্রশ্নের প্রথম ২০টির মধ্যে ১৫টির নির্ভুল উত্তর দিল। বাকি প্রশ্নের ১/৩ অংশ সে নির্ভুল উত্তর দিল। সব প্রশ্নের মান সমান। যদি ছাত্র শতকরা ৭৫ ভাগ নম্বর পায় তবে প্রশ্নের সংখ্যা কত ছিল?",
+    "answer_options": [
+      "১৫টি",
+      "২০টি",
+      "২৫টি",
+      "১৮টি"
+    ],
+    "correct_answer": "২০টি",
+    "solution_steps": [
+      "সঠিক উত্তর =15+(n-20)/3।",
+      "75% নম্বর হলে 15+(n-20)/3=3n/4।",
+      "সমাধান করলে n=20।"
+    ],
+    "source_page": 7,
+    "source_exam": "12th BCS (Police)"
+  }
+]

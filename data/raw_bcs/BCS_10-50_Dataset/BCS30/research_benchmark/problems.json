@@ -1,0 +1,360 @@
+[
+  {
+    "item_id": "BCS30_Q081",
+    "family_id": "lcm_with_additive_offset_f01",
+    "exam": "30th BCS",
+    "question_number": 81,
+    "source_page": 9,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "lcm_with_offset",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোন লঘিষ্ঠ সংখ্যার সাথে ২ যোগ করলে যোগফল ১২, ১৮ এবং ২৪ দ্বারা বিভাজ্য হবে?",
+    "question_normalized": "কোন লঘিষ্ঠ সংখ্যার সাথে ২ যোগ করলে যোগফল ১২, ১৮ এবং ২৪ দ্বারা বিভাজ্য হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৮৯",
+      "৭০",
+      "১৭০",
+      "১৪২"
+    ],
+    "printed_answer": "৭০",
+    "accepted_answer_forms": [
+      "৭০",
+      "70"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q082",
+    "family_id": "prime_identification_small_integers_f01",
+    "exam": "30th BCS",
+    "question_number": 82,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "prime_number_identification",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোনটি মৌলিক সংখ্যা?",
+    "question_normalized": "নিচের কোনটি মৌলিক সংখ্যা?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৯১",
+      "৮৭",
+      "৬৩",
+      "৫৯"
+    ],
+    "printed_answer": "৫৯",
+    "accepted_answer_forms": [
+      "৫৯",
+      "59"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q083",
+    "family_id": "compare_decimal_fraction_radical_f01",
+    "exam": "30th BCS",
+    "question_number": 83,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "number_comparison",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোনটি ক্ষুদ্রতম সংখ্যা?",
+    "question_normalized": "নিচের কোনটি ক্ষুদ্রতম সংখ্যা?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "০.৩",
+      "√০.৩",
+      "১/৩",
+      "২/৫"
+    ],
+    "printed_answer": "০.৩",
+    "accepted_answer_forms": [
+      "০.৩",
+      "0.3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q084",
+    "family_id": "midpoint_between_two_numbers_f01",
+    "exam": "30th BCS",
+    "question_number": 84,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "equidistant_midpoint_number",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি সংখ্যা ৩০১ হতে যত বড় ৩৮১ হতে তত ছোট। সংখ্যাটি কত?",
+    "question_normalized": "একটি সংখ্যা ৩০১ হতে যত বড় ৩৮১ হতে তত ছোট। সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৪০",
+      "৩৪১",
+      "৩৪২",
+      "৩৪৪"
+    ],
+    "printed_answer": "৩৪১",
+    "accepted_answer_forms": [
+      "৩৪১",
+      "341"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q085",
+    "family_id": "combined_work_two_people_f02",
+    "exam": "30th BCS",
+    "question_number": 85,
+    "source_page": 10,
+    "topic_group": "work_time",
+    "subskill": "combined_work_two_people",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "ক ও খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে। খ একা কাজটি কত দিনে করতে পারবে?",
+    "question_normalized": "ক ও খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে। খ একা কাজটি কত দিনে করতে পারবে?",
+    "normalization_notes": [],
+    "units": [
+      "day"
+    ],
+    "answer_options": [
+      "২৫ দিনে",
+      "৩০ দিনে",
+      "৩৫ দিনে",
+      "৪০ দিনে"
+    ],
+    "printed_answer": "৩০ দিনে",
+    "accepted_answer_forms": [
+      "৩০ দিনে",
+      "30 days",
+      "30"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q086",
+    "family_id": "polynomial_parameter_from_function_value_f01",
+    "exam": "30th BCS",
+    "question_number": 86,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "function_parameter_from_value",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "f(x) = x³ + kx² − 6x − 9; k এর মান কত হলে f(3) = 0 হবে?",
+    "question_normalized": "f(x) = x³ + kx² − 6x − 9; k এর মান কত হলে f(3) = 0 হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1",
+      "−1",
+      "2",
+      "0"
+    ],
+    "printed_answer": "0",
+    "accepted_answer_forms": [
+      "0"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q087",
+    "family_id": "inequality_multiply_negative_f01",
+    "exam": "30th BCS",
+    "question_number": 87,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "inequality_multiplication_negative",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x > y এবং z < 0 হলে নিচের কোনটি সঠিক?",
+    "question_normalized": "x > y এবং z < 0 হলে নিচের কোনটি সঠিক?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "xz > yz",
+      "x/z > y/z",
+      "z/x < z/y",
+      "xz < yz"
+    ],
+    "printed_answer": "xz < yz",
+    "accepted_answer_forms": [
+      "xz < yz"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q091",
+    "family_id": "logarithm_quotient_rule_f01",
+    "exam": "30th BCS",
+    "question_number": 91,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithm_quotient_rule",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "logₐ(m/n) = কত?",
+    "question_normalized": "logₐ(m/n) = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "logₐm − logₐn",
+      "logₐm + logₐn",
+      "logₐm × logₐn",
+      "কোনোটিই নয়"
+    ],
+    "printed_answer": "logₐm − logₐn",
+    "accepted_answer_forms": [
+      "logₐm − logₐn"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q092",
+    "family_id": "product_from_sum_and_squares_f01",
+    "exam": "30th BCS",
+    "question_number": 92,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "product_from_sum_and_sum_squares",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "a + b = 7 এবং a² + b² = 25 হলে ab এর মান কত?",
+    "question_normalized": "a + b = 7 এবং a² + b² = 25 হলে ab এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "12",
+      "10",
+      "6",
+      "কোনোটিই নয়"
+    ],
+    "printed_answer": "12",
+    "accepted_answer_forms": [
+      "12"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q098",
+    "family_id": "mixed_percent_to_fraction_f01",
+    "exam": "30th BCS",
+    "question_number": 98,
+    "source_page": 11,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_to_fraction",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১৩(৩/৪)% এর সমান—",
+    "question_normalized": "১৩(৩/৪)% এর সমান—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১১/৮০",
+      "১১/২০",
+      "৯/১",
+      "১/৮"
+    ],
+    "printed_answer": "১১/৮০",
+    "accepted_answer_forms": [
+      "১১/৮০",
+      "11/80"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q099",
+    "family_id": "fourth_proportional_f01",
+    "exam": "30th BCS",
+    "question_number": 99,
+    "source_page": 11,
+    "topic_group": "ratios_proportions",
+    "subskill": "fourth_proportional",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক কত?",
+    "question_normalized": "৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪",
+      "১৪",
+      "১৬",
+      "১২"
+    ],
+    "printed_answer": "১২",
+    "accepted_answer_forms": [
+      "১২",
+      "12"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS30_Q100",
+    "family_id": "factor_theorem_option_check_f01",
+    "exam": "30th BCS",
+    "question_number": 100,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_factor_identification",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "3x³ + 2x² − 21x − 20 রাশিটির একটি উৎপাদক হচ্ছে—",
+    "question_normalized": "3x³ + 2x² − 21x − 20 রাশিটির একটি উৎপাদক হচ্ছে—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x + 2",
+      "x − 2",
+      "x + 1",
+      "x − 1"
+    ],
+    "printed_answer": "x + 1",
+    "accepted_answer_forms": [
+      "x + 1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "item_id": "BCS37_Q177",
+    "family_id": "weighted_profit_rate_f01",
+    "exam": "37th BCS",
+    "question_number": 177,
+    "source_page": 19,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "weighted_profit_rate",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "10% মুনাফায় 3000 টাকা এবং 8% মুনাফায় 2000 টাকা বিনিয়োগ করলে মোট মূলধনের উপর গড়ে শতকরা কত হারে মুনাফা পাওয়া যাবে?",
+    "question_normalized": "10% মুনাফায় 3000 টাকা এবং 8% মুনাফায় 2000 টাকা বিনিয়োগ করলে মোট মূলধনের উপর গড়ে শতকরা কত হারে মুনাফা পাওয়া যাবে?",
+    "normalization_notes": [],
+    "units": [
+      "taka"
+    ],
+    "answer_options": [
+      "9%",
+      "9.2%",
+      "8%",
+      "8.2%"
+    ],
+    "printed_answer": "9.2%",
+    "accepted_answer_forms": [
+      "9.2%",
+      "৯.২%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q178",
+    "family_id": "unit_buy_sell_profit_f01",
+    "exam": "37th BCS",
+    "question_number": 178,
+    "source_page": 19,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "profit_from_unit_buy_sell",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "100 টাকায় 10 টি ডিম কিনে 100 টাকায় 8 টি ডিম বিক্রয় করলে শতকরা লাভ কত হবে?",
+    "question_normalized": "100 টাকায় 10 টি ডিম কিনে 100 টাকায় 8 টি ডিম বিক্রয় করলে শতকরা লাভ কত হবে?",
+    "normalization_notes": [],
+    "units": [
+      "taka"
+    ],
+    "answer_options": [
+      "16%",
+      "20%",
+      "25%",
+      "28%"
+    ],
+    "printed_answer": "25%",
+    "accepted_answer_forms": [
+      "25%",
+      "২৫%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q179",
+    "family_id": "two_digit_reverse_difference_f01",
+    "exam": "37th BCS",
+    "question_number": 179,
+    "source_page": 19,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "two_digit_reversal",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুই অংক বিশিষ্ট একটি সংখ্যা, অংকদ্বয়ের স্থান বিনিময়ের ফলে 54 বৃদ্ধি পায়। অংক দুটির যোগফল 12 হলে সংখ্যাটি কত?",
+    "question_normalized": "দুই অংক বিশিষ্ট একটি সংখ্যা, অংকদ্বয়ের স্থান বিনিময়ের ফলে 54 বৃদ্ধি পায়। অংক দুটির যোগফল 12 হলে সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "57",
+      "75",
+      "39",
+      "93"
+    ],
+    "printed_answer": "39",
+    "accepted_answer_forms": [
+      "39",
+      "৩৯"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q180",
+    "family_id": "ap_nth_term_from_term_f01",
+    "exam": "37th BCS",
+    "question_number": 180,
+    "source_page": 19,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "arithmetic_progression_nth_term",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি সমান্তর অনুক্রমের সাধারণ অন্তর 10 এবং 6-তম পদটি 52 হলে 15-তম পদটি-",
+    "question_normalized": "একটি সমান্তর অনুক্রমের সাধারণ অন্তর 10 এবং 6-তম পদটি 52 হলে 15-তম পদটি-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "140",
+      "142",
+      "148",
+      "150"
+    ],
+    "printed_answer": "142",
+    "accepted_answer_forms": [
+      "142",
+      "১৪২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q181",
+    "family_id": "gp_first_term_from_terms_f01",
+    "exam": "37th BCS",
+    "question_number": 181,
+    "source_page": 19,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "geometric_progression_first_term",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি গুণোত্তর অনুক্রমে তৃতীয় পদটি 20 এবং ষষ্ঠ (6-তম) পদটি 160 হলে প্রথম পদটি-",
+    "question_normalized": "একটি গুণোত্তর অনুক্রমে তৃতীয় পদটি 20 এবং ষষ্ঠ (6-তম) পদটি 160 হলে প্রথম পদটি-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "5",
+      "10",
+      "12",
+      "8"
+    ],
+    "printed_answer": "5",
+    "accepted_answer_forms": [
+      "5",
+      "৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q187",
+    "family_id": "percent_of_base_f01",
+    "exam": "37th BCS",
+    "question_number": 187,
+    "source_page": 20,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percent_of_number",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৫-এর কত শতাংশ ৭ হবে?",
+    "question_normalized": "৫-এর কত শতাংশ ৭ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪০",
+      "১২৫",
+      "৯০",
+      "১৪০"
+    ],
+    "printed_answer": "১৪০",
+    "accepted_answer_forms": [
+      "১৪০",
+      "140",
+      "১৪০%",
+      "140%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q188",
+    "family_id": "decimal_multiplication_f01",
+    "exam": "37th BCS",
+    "question_number": 188,
+    "source_page": 20,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "decimal_multiplication",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "০.৪ × ০.০২ × ০.০৮ = ?",
+    "question_normalized": "০.৪ × ০.০২ × ০.০৮ = ?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "০.৬৪",
+      "০.০৬৪",
+      "০.০০০৬৪",
+      "৬.৪০"
+    ],
+    "printed_answer": "০.০০০৬৪",
+    "accepted_answer_forms": [
+      "০.০০০৬৪",
+      "0.00064"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q193",
+    "family_id": "fractional_ratio_partition_f01",
+    "exam": "37th BCS",
+    "question_number": 193,
+    "source_page": 20,
+    "topic_group": "ratios_proportions",
+    "subskill": "fractional_ratio_partition",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "261 টি আম তিন ভাইয়ের মধ্যে 1/3 : 1/5 : 1/9 অনুপাতে ভাগ করে দিলে প্রথম ভাই কতটি আম পাবে?",
+    "question_normalized": "261 টি আম তিন ভাইয়ের মধ্যে 1/3 : 1/5 : 1/9 অনুপাতে ভাগ করে দিলে প্রথম ভাই কতটি আম পাবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "45",
+      "81",
+      "90",
+      "135"
+    ],
+    "printed_answer": "135",
+    "accepted_answer_forms": [
+      "135",
+      "১৩৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q195",
+    "family_id": "quadratic_inequality_between_roots_f01",
+    "exam": "37th BCS",
+    "question_number": 195,
+    "source_page": 20,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_inequality",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x² − 5x + 6 < 0 হলে-",
+    "question_normalized": "x² − 5x + 6 < 0 হলে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2 < x < 3",
+      "−3 < x < −2",
+      "x < 2",
+      "x < 3"
+    ],
+    "printed_answer": "2 < x < 3",
+    "accepted_answer_forms": [
+      "2 < x < 3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS37_Q196",
+    "family_id": "log_unknown_base_f01",
+    "exam": "37th BCS",
+    "question_number": 196,
+    "source_page": 20,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithm_equation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "logₓ(3/2) = −1/2 হলে, x এর মান-",
+    "question_normalized": "logₓ(3/2) = −1/2 হলে, x এর মান-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4/9",
+      "9/4",
+      "√(3/2)",
+      "√(2/3)"
+    ],
+    "printed_answer": "4/9",
+    "accepted_answer_forms": [
+      "4/9",
+      "৪/৯"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "family_id": "Q186",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "৩",
+        "reasoning_steps": [
+          "Notice the horizontal hatching but ignore the outline shape.",
+          "Select the hatched hexagon rather than the rectangle."
+        ],
+        "code": "BCS44-186-INTERPRETATION-01"
+      }
+    ]
+  },
+  {
+    "family_id": "Q187",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "পিতা",
+        "reasoning_steps": [
+          "Correctly identify P as R’s father.",
+          "Substitute Q for P and report father."
+        ],
+        "code": "BCS44-187-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "ভাই",
+        "reasoning_steps": [
+          "Ignore the parent-child link through P’s son.",
+          "Treat all named siblings as belonging to a single sibling group."
+        ],
+        "code": "BCS44-187-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q188",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "কাপড়",
+        "reasoning_steps": [
+          "Change the relationship from tool and consumable to tool and material worked on.",
+          "Select cloth."
+        ],
+        "code": "BCS44-188-INTERPRETATION-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "সেলাই",
+        "reasoning_steps": [
+          "Answer with the action performed by the tool instead of what it uses.",
+          "Select sewing."
+        ],
+        "code": "BCS44-188-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q189",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "Lead",
+        "reasoning_steps": [
+          "Recognize the initial 12 as L.",
+          "Guess Lead from its first letter without checking that its full code would be 12514."
+        ],
+        "code": "BCS44-189-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "ABAEBBE",
+        "reasoning_steps": [
+          "Split every decimal digit separately rather than allowing two-digit alphabet positions.",
+          "Map 1,2,1,5,2,2,5 to A,B,A,E,B,B,E."
+        ],
+        "code": "BCS44-189-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q190",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৬টি",
+        "reasoning_steps": [
+          "Count only the six smallest triangular regions.",
+          "Ignore every triangle made from multiple regions."
+        ],
+        "code": "BCS44-190-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১৫টি",
+        "reasoning_steps": [
+          "Count all 15 proper subtriangles.",
+          "Forget to include the outer triangle itself."
+        ],
+        "code": "BCS44-190-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q192",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "শুক্রবার",
+        "reasoning_steps": [
+          "Treat the interval as exactly nine weeks and discard the extra day.",
+          "Keep Friday."
+        ],
+        "code": "BCS44-192-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "রবিবার",
+        "reasoning_steps": [
+          "Set the elapsed-day count to (31−12)+28+17.",
+          "Incorrectly include the starting day as an additional day, obtaining 65.",
+          "Move forward two weekdays and report Sunday."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS44-192-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q193",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১৮",
+        "reasoning_steps": [
+          "Repeat the latest difference 4 rather than increasing it.",
+          "Compute 14+4=18."
+        ],
+        "code": "BCS44-193-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "২১",
+        "reasoning_steps": [
+          "Skip directly to a difference of 7.",
+          "Compute 14+7=21 without checking the final term 25."
+        ],
+        "code": "BCS44-193-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q194",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০৮",
+        "reasoning_steps": [
+          "Group the lower values together before multiplication.",
+          "Calculate 9×(7+5)=108, which does not follow the examples."
+        ],
+        "code": "BCS44-194-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৬৬",
+        "reasoning_steps": [
+          "Identify the rule as 9×7+5.",
+          "Miscompute 9×7 as 61.",
+          "Add 5 to report 66."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS44-194-ARITHMETIC-02"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৫২",
+        "reasoning_steps": [
+          "Interchange the two lower positions.",
+          "Calculate 9×5+7=52 rather than 9×7+5."
+        ],
+        "code": "BCS44-194-INTERPRETATION-03"
+      }
+    ]
+  },
+  {
+    "family_id": "Q196",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "নিম্নোক্ত, নিদর্শন, নিরাসক্ত, নিরাময়, নিষ্ক্রিয়, নিসর্গ",
+        "reasoning_steps": [
+          "Compare only the common prefix নি and assume the first list is already sorted.",
+          "Do not compare the following consonants."
+        ],
+        "code": "BCS44-196-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "নিষ্ক্রিয়, নিসর্গ, নিম্নোক্ত, নিদর্শন, নিরাসক্ত, নিরাময়",
+        "reasoning_steps": [
+          "Begin with the words containing ষ and স instead of progressing forward from দ.",
+          "Select the third group."
+        ],
+        "code": "BCS44-196-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q199",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "দক্ষিণ",
+        "reasoning_steps": [
+          "Rotate clockwise from the east-pointing hour hand rather than anticlockwise toward 12.",
+          "Report south."
+        ],
+        "code": "BCS44-199-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "পূর্ব",
+        "reasoning_steps": [
+          "Assume both hands point in the direction specified for the hour hand.",
+          "Report east."
+        ],
+        "code": "BCS44-199-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "BCS44-200-CONCEPTUAL-01",
+        "wrong_answer": "YROMEM",
+        "reasoning_steps": [
+          "Reverse the character order but keep each letter in its ordinary, unmirrored orientation.",
+          "Return YROMEM instead of reflecting the asymmetric letter shapes as well."
+        ]
+      }
+    ]
+  }
+]

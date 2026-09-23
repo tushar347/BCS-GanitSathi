@@ -1,0 +1,66 @@
+[
+  {
+    "family_id": "vat_percent_total_cost_f01",
+    "item_id": "BCS36_Q174",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "percentage_base_or_multiplier_error",
+        "wrong_answer": "১৪ টাকা",
+        "reasoning_steps": [
+          "Uses the stated percentage directly without converting the base/multiplier correctly.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "১৪ টাকা",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "১৪ টাকা",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "item_id": "BCS36_Q175",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "percentage_base_or_multiplier_error",
+        "wrong_answer": "১৬%",
+        "reasoning_steps": [
+          "Uses the stated percentage directly without converting the base/multiplier correctly.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "১৬%",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "১৬%",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  }
+]

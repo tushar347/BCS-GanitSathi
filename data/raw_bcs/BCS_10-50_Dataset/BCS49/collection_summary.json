@@ -1,0 +1,17 @@
+{
+  "exam": "49th BCS (Special)",
+  "source_pdf": "49th BCS.pdf",
+  "main_in_scope_questions": 9,
+  "review_required": 1,
+  "excluded_out_of_scope": 10,
+  "authored_histories": 36,
+  "topic_counts": {
+    "percentages_profit_loss": 1,
+    "ratios_proportions": 1,
+    "work_time": 0,
+    "speed_distance": 0,
+    "averages_mixtures": 0,
+    "elementary_algebra_number_relations": 7
+  },
+  "research_note": "Questions, choices and printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

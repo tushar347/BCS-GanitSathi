@@ -1,0 +1,170 @@
+[
+  {
+    "item_id": "BCS20_Q091",
+    "family_id": "simple_interest_find_principal_f01",
+    "policy_id": "BCS20_Q091_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS20_Q092",
+    "family_id": "age_ratio_past_condition_f01",
+    "policy_id": "BCS20_Q092_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS20_Q093",
+    "family_id": "two_workers_partial_then_one_f01",
+    "policy_id": "BCS20_Q093_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS20_Q094",
+    "family_id": "fraction_equation_find_missing_addend_f01",
+    "policy_id": "BCS20_Q094_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS20_Q095",
+    "family_id": "square_sum_from_sum_squares_product_f01",
+    "policy_id": "BCS20_Q095_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS20_Q096",
+    "family_id": "average_speed_distance_over_time_f01",
+    "policy_id": "BCS20_Q096_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS20_Q098",
+    "family_id": "ratio_equal_addition_f01",
+    "policy_id": "BCS20_Q098_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS20_Q100",
+    "family_id": "combine_pair_average_single_value_f01",
+    "policy_id": "BCS20_Q100_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  }
+]

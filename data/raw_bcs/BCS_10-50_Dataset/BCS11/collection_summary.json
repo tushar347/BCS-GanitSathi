@@ -1,0 +1,17 @@
+{
+  "exam": "11th BCS",
+  "source_pdf": "11th BCS.pdf",
+  "main_in_scope_questions": 10,
+  "review_required": 2,
+  "excluded_out_of_scope": 4,
+  "authored_histories": 40,
+  "topic_counts": {
+    "percentages_profit_loss": 2,
+    "ratios_proportions": 2,
+    "work_time": 0,
+    "speed_distance": 2,
+    "averages_mixtures": 1,
+    "elementary_algebra_number_relations": 3
+  },
+  "research_note": "Questions, choices and printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

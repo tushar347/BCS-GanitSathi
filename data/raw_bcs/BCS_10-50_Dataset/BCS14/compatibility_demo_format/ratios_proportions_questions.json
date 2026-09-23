@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "fractional_distribution_remainder_f01",
+    "item_id": "BCS14_Q027",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "fractional_distribution_remaining_amount",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "অংশ": "part",
+      "পরিমাণ": "quantity"
+    },
+    "question_bn": "এক গোয়ালা তার n সংখ্যক গাভীকে চার পুত্রের মধ্যে বণ্টন করে দিল: প্রথম পুত্রকে ১/২ অংশ, দ্বিতীয় পুত্রকে ১/৪ অংশ, তৃতীয় পুত্রকে ১/৫ অংশ এবং বাকি ৭টি গাভী চতুর্থ পুত্রকে দিল। ঐ গোয়ালার গাভীর সংখ্যা কত ছিল?",
+    "answer_options": [
+      "১০০টি",
+      "১৪০টি",
+      "১৮০টি",
+      "২০০টি"
+    ],
+    "correct_answer": "১৪০টি",
+    "solution_steps": [
+      "প্রথম তিন পুত্র পেয়েছে 1/2+1/4+1/5 =19/20 অংশ।",
+      "বাকি 1/20 অংশ =7টি।",
+      "মোট =7×20=140টি।"
+    ],
+    "source_page": 2,
+    "source_exam": "14th BCS"
+  }
+]

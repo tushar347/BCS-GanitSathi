@@ -1,0 +1,71 @@
+[
+  {
+    "family_id": "Q094",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০%",
+        "reasoning_steps": [
+          "Assume a 10% price fall is offset by a 10% quantity rise.",
+          "Ignore that 0.9×1.1=0.99 rather than 1."
+        ],
+        "code": "BCS41-094-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১১১ ১/৯%",
+        "reasoning_steps": [
+          "Calculate the new quantity as 111 1/9% of the original.",
+          "Report the total instead of subtracting the original 100%."
+        ],
+        "code": "BCS41-094-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q102",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৯৬০ টাকা",
+        "reasoning_steps": [
+          "Use simple interest: 800+800×0.10×2.",
+          "Return 960 instead of compounding."
+        ],
+        "code": "BCS41-102-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১৬৮ টাকা",
+        "reasoning_steps": [
+          "Calculate the total 968 correctly.",
+          "Subtract 800 and report only the interest."
+        ],
+        "code": "BCS41-102-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q112",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "০%",
+        "reasoning_steps": [
+          "Cancel the equal stated rates +5% and −5%.",
+          "Ignore that they apply to different salary bases."
+        ],
+        "code": "BCS41-112-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "০.২৫% বেড়েছে",
+        "reasoning_steps": [
+          "Compute the change magnitude 0.25 correctly.",
+          "Reverse the direction and label it an increase."
+        ],
+        "code": "BCS41-112-INTERPRETATION-02"
+      }
+    ]
+  }
+]

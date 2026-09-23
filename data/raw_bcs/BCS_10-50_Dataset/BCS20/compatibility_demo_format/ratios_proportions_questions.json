@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "ratio_equal_addition_f01",
+    "item_id": "BCS20_Q098",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "ratio_after_equal_addition",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "অংশ": "part",
+      "পরিমাণ": "quantity"
+    },
+    "question_bn": "দুটি সংখ্যার অনুপাত ৫ : ৮। উভয়ের সাথে ২ যোগ করলে অনুপাতটি ২ : ৩ হয়। সংখ্যা দুটি কী কী?",
+    "answer_options": [
+      "৭ ও ১১",
+      "১২ ও ১৮",
+      "১০ ও ২৪",
+      "১০ ও ১৬"
+    ],
+    "correct_answer": "১০ ও ১৬",
+    "solution_steps": [
+      "সংখ্যা 5k ও 8k।",
+      "(5k+2)/(8k+2)=2/3।",
+      "15k+6=16k+4, তাই k=2। সংখ্যা 10 ও16।"
+    ],
+    "source_page": 26,
+    "source_exam": "20th BCS"
+  }
+]

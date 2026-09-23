@@ -1,0 +1,453 @@
+[
+  {
+    "item_id": "BCS50_Q062",
+    "family_id": "lcm_of_fractions_bcs50_q062_f01",
+    "exam": "50th BCS",
+    "question_number": 62,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "lcm_of_fractions",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "২/৫, ৩/৫ ও ৬/১৫ ভগ্নাংশগুলোর লঘিষ্ঠ সাধারণ গুণিতক (ল.সা.গু) হবে-",
+    "question_normalized": "২/৫, ৩/৫ ও ৬/১৫ ভগ্নাংশগুলোর লঘিষ্ঠ সাধারণ গুণিতক (ল.সা.গু) হবে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭/৫",
+      "৬/৫",
+      "১/১৫",
+      "৬/১৫"
+    ],
+    "printed_answer": "৬/৫",
+    "accepted_answer_forms": [
+      "৬/৫",
+      "6/5"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q063",
+    "family_id": "continued_proportion_bcs50_q063_f01",
+    "exam": "50th BCS",
+    "question_number": 63,
+    "source_page": 4,
+    "topic_group": "ratios_proportions",
+    "subskill": "continued_proportion",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি a/b = b/c = 2/3 হয়, তবে a : c এর মান কত হবে?",
+    "question_normalized": "যদি a/b = b/c = 2/3 হয়, তবে a : c এর মান কত হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2 : 3",
+      "3 : 4",
+      "4 : 9",
+      "9 : 4"
+    ],
+    "printed_answer": "4 : 9",
+    "accepted_answer_forms": [
+      "4 : 9",
+      "4:9",
+      "৪:৯"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q066",
+    "family_id": "compare_expressions_unit_interval_bcs50_q066_f01",
+    "exam": "50th BCS",
+    "question_number": 66,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "compare_expressions_unit_interval",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "যদি 0 < x < 1 হয়, তবে নিচের কোনটি সবচেয়ে বড় হবে?",
+    "question_normalized": "যদি 0 < x < 1 হয়, তবে নিচের কোনটি সবচেয়ে বড় হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x",
+      "2x",
+      "x²",
+      "x + 1"
+    ],
+    "printed_answer": "x + 1",
+    "accepted_answer_forms": [
+      "x + 1",
+      "x+1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q067",
+    "family_id": "polynomial_remainder_theorem_bcs50_q067_f01",
+    "exam": "50th BCS",
+    "question_number": 67,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_remainder_theorem",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x⁴ - 2x + 1 কে x - 3 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+    "question_normalized": "x⁴ - 2x + 1 কে x - 3 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2",
+      "81",
+      "0",
+      "76"
+    ],
+    "printed_answer": "76",
+    "accepted_answer_forms": [
+      "76",
+      "৭৬"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q068",
+    "family_id": "compound_interest_doubling_rate_bcs50_q068_f01",
+    "exam": "50th BCS",
+    "question_number": 68,
+    "source_page": 4,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "compound_interest_doubling_rate",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "মুনাফার হার কত হলে কিছু পরিমাণ টাকা চক্রবৃদ্ধি হারে 10 বছরে দ্বিগুণ হবে-",
+    "question_normalized": "মুনাফার হার কত হলে কিছু পরিমাণ টাকা চক্রবৃদ্ধি হারে 10 বছরে দ্বিগুণ হবে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "5.17%",
+      "6.17%",
+      "7.17%",
+      "8.17%"
+    ],
+    "printed_answer": "7.17%",
+    "accepted_answer_forms": [
+      "7.17%",
+      "৭.১৭%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q069",
+    "family_id": "absolute_value_inequality_bcs50_q069_f01",
+    "exam": "50th BCS",
+    "question_number": 69,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "absolute_value_inequality",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "|3x - 1| < 2 এর সমাধান সেট হবে-",
+    "question_normalized": "|3x - 1| < 2 এর সমাধান সেট হবে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(-1/3, 0)",
+      "(-1/3, ∞)",
+      "(-1/3, 1)",
+      "(∞, 1/3)"
+    ],
+    "printed_answer": "(-1/3, 1)",
+    "accepted_answer_forms": [
+      "(-1/3, 1)",
+      "(-১/৩, ১)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q070",
+    "family_id": "infinite_geometric_series_bcs50_q070_f01",
+    "exam": "50th BCS",
+    "question_number": 70,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "infinite_geometric_series",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "-1 + 1/2 - 1/4 + 1/8 - 1/16 + ... অসীম ধারাটির যোগফল হবে-",
+    "question_normalized": "-1 + 1/2 - 1/4 + 1/8 - 1/16 + ... অসীম ধারাটির যোগফল হবে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-2/3",
+      "-3/2",
+      "2/3",
+      "3/2"
+    ],
+    "printed_answer": "-2/3",
+    "accepted_answer_forms": [
+      "-2/3",
+      "-২/৩"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q074",
+    "family_id": "quadratic_roots_from_factors_bcs50_q074_f01",
+    "exam": "50th BCS",
+    "question_number": 74,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_roots_from_factors",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x² - (p + q)x + pq = 0 এর সমাধান সেট হবে-",
+    "question_normalized": "x² - (p + q)x + pq = 0 এর সমাধান সেট হবে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "{p, q}",
+      "{p, -q}",
+      "{-p, q}",
+      "{-p, -q}"
+    ],
+    "printed_answer": "{p, q}",
+    "accepted_answer_forms": [
+      "{p, q}",
+      "{p,q}"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q075",
+    "family_id": "finite_geometric_sequence_term_count_bcs50_q075_f01",
+    "exam": "50th BCS",
+    "question_number": 75,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "finite_geometric_sequence_term_count",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "3 + 3/2 + 3/4 + ....... + 3/64 ধারাটিতে মোট কতটি পদ আছে?",
+    "question_normalized": "3 + 3/2 + 3/4 + ....... + 3/64 ধারাটিতে মোট কতটি পদ আছে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "printed_answer": "7",
+    "accepted_answer_forms": [
+      "7",
+      "৭"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q076",
+    "family_id": "binomial_middle_term_position_bcs50_q076_f01",
+    "exam": "50th BCS",
+    "question_number": 76,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "binomial_middle_term_position",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "(x² - 2 + 1/x²)⁷ এর বিস্তৃতিতে মধ্যপদ কততম পদটি?",
+    "question_normalized": "(x² - 2 + 1/x²)⁷ এর বিস্তৃতিতে মধ্যপদ কততম পদটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "পঞ্চম",
+      "সপ্তম",
+      "অষ্টম",
+      "নবম"
+    ],
+    "printed_answer": "অষ্টম",
+    "accepted_answer_forms": [
+      "অষ্টম",
+      "8th",
+      "৮ম"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q078",
+    "family_id": "quadratic_minimum_value_bcs50_q078_f01",
+    "exam": "50th BCS",
+    "question_number": 78,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_minimum_value",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "2x² + 3x + 1 এর ক্ষুদ্রতম মান হবে-",
+    "question_normalized": "2x² + 3x + 1 এর ক্ষুদ্রতম মান হবে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-3/4",
+      "-1/8",
+      "1/8",
+      "3/4"
+    ],
+    "printed_answer": "-1/8",
+    "accepted_answer_forms": [
+      "-1/8",
+      "-১/৮"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q080",
+    "family_id": "parallel_lines_parameter_bcs50_q080_f01",
+    "exam": "50th BCS",
+    "question_number": 80,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "parallel_lines_parameter",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "K এর কোন মানের জন্য 5x + 4y - 1 = 0 এবং 2x + Ky - 7 = 0 সরলরেখা দুটি সমান্তরাল?",
+    "question_normalized": "K এর কোন মানের জন্য 5x + 4y - 1 = 0 এবং 2x + Ky - 7 = 0 সরলরেখা দুটি সমান্তরাল?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "5/8",
+      "8/5",
+      "5/2",
+      "-8/5"
+    ],
+    "printed_answer": "8/5",
+    "accepted_answer_forms": [
+      "8/5",
+      "৮/৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q081",
+    "family_id": "mean_deviation_bcs50_q081_f01",
+    "exam": "50th BCS",
+    "question_number": 81,
+    "source_page": 5,
+    "topic_group": "averages_mixtures",
+    "subskill": "mean_deviation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "2, 3, 4 এবং 7 সংখ্যাগুলির গড় বিচ্যুতি কত?",
+    "question_normalized": "2, 3, 4 এবং 7 সংখ্যাগুলির গড় বিচ্যুতি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "0",
+      "2/3",
+      "3/2",
+      "4"
+    ],
+    "printed_answer": "3/2",
+    "accepted_answer_forms": [
+      "3/2",
+      "৩/২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q082",
+    "family_id": "logarithmic_equation_bcs50_q082_f01",
+    "exam": "50th BCS",
+    "question_number": 82,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithmic_equation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "যদি log_x 324 = 4 হয়, তবে x এর মান হবে-",
+    "question_normalized": "যদি log_x 324 = 4 হয়, তবে x এর মান হবে-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4",
+      "2√3",
+      "3√3",
+      "3√2"
+    ],
+    "printed_answer": "3√2",
+    "accepted_answer_forms": [
+      "3√2",
+      "৩√২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS50_Q084",
+    "family_id": "decimal_multiplication_bcs50_q084_f01",
+    "exam": "50th BCS",
+    "question_number": 84,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "decimal_multiplication",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "0.5 × 0.05 × 0.005 = ?",
+    "question_normalized": "0.5 × 0.05 × 0.005 = ?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "0.125",
+      "0.0125",
+      "0.00125",
+      "0.000125"
+    ],
+    "printed_answer": "0.000125",
+    "accepted_answer_forms": [
+      "0.000125"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 50th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

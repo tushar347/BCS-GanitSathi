@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "part_whole_ratio_2_to_3_f01",
+    "item_id": "BCS34_Q042",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "part_whole_ratio",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "গ.সা.গু": "GCD"
+    },
+    "question_bn": "২০ ফুট লম্বা একটি বাঁশ এমনভাবে কেটে দু’ভাগ করা হলো যেন ছোট অংশ বড় অংশের দুই তৃতীয়াংশ হয়, ছোট অংশের দৈর্ঘ্য কত ফুট?",
+    "answer_options": [
+      "৬",
+      "৭",
+      "৮",
+      "১০"
+    ],
+    "correct_answer": "৮",
+    "solution_steps": [
+      "Let the larger part be 3k and the smaller part be 2k.",
+      "5k=20, so k=4.",
+      "The smaller part is 2k=8 feet."
+    ],
+    "source_page": 5,
+    "source_exam": "34th BCS"
+  }
+]

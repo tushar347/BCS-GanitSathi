@@ -1,0 +1,34 @@
+[
+  {
+    "family_id": "simple_interest_find_principal_f01",
+    "item_id": "BCS20_Q091",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_interest_find_principal",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "বার্ষিক ৪ ১/২% সরল সুদে কত টাকা বিনিয়োগ করলে, ৪ বছরে তা ৮২৬ টাকা হবে?",
+    "answer_options": [
+      "৪৫৮ টাকা",
+      "৬৫০ টাকা",
+      "৭০০ টাকা",
+      "৭২৫ টাকা"
+    ],
+    "correct_answer": "৭০০ টাকা",
+    "solution_steps": [
+      "সরল সুদে A=P(1+rt)।",
+      "r=0.045, t=4, তাই 826=P(1+0.18)=1.18P।",
+      "P=826/1.18=700 টাকা।"
+    ],
+    "source_page": 24,
+    "source_exam": "20th BCS"
+  }
+]

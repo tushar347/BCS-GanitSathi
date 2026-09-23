@@ -1,0 +1,201 @@
+[
+  {
+    "item_id": "BCS11_Q069",
+    "family_id": "price_decrease_fixed_budget_extra_quantity_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "আগের প্রতি কুইন্টালের মূল্য P হলে নতুন মূল্য 0.88P।",
+          "6000/(0.88P) - 6000/P = 1।",
+          "সমাধান করে P≈818.18, তাই নতুন মূল্য 0.88P=720 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q071",
+    "family_id": "same_distance_speed_arrival_time_gap_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দুইজনের পৌঁছানোর সময়ের পার্থক্য 30 মিনিট = 0.5 ঘণ্টা।",
+          "একই দূরত্ব d হলে d/10 - d/15 = 0.5।",
+          "d/30=0.5, তাই d=15 কি.মি.।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q072",
+    "family_id": "sequence_second_difference_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "পার্থক্যগুলো 14,18,22; প্রতিবার 4 করে বাড়ছে।",
+          "পরের পার্থক্য 26।",
+          "73+26=99।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q073",
+    "family_id": "cricket_wicket_ratio_counts_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "স্ট্যাম্প আউট = s, ক্যাচ আউট = 1.5s।",
+          "বোল্ড আউট মোটের অর্ধেক, তাই স্ট্যাম্প+ক্যাচ = মোটের অর্ধেক; সুতরাং বোল্ড = s+1.5s।",
+          "মোট উইকেট 10 ধরলে s+1.5s=5, তাই s=2 এবং ক্যাচ=3।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q074",
+    "family_id": "outbound_projectile_return_sound_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দূরত্ব d হলে গুলির যেতে সময় d/1540 এবং শব্দ ফিরে আসতে সময় d/1100।",
+          "d/1540+d/1100=3।",
+          "সমাধানে d=1925 ফুট।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q077",
+    "family_id": "ratio_difference_find_quantity_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অনুপাতের পার্থক্য 5-2=3 অংশ = 6 লিটার।",
+          "১ অংশ =2 লিটার।",
+          "পানি =2 অংশ =4 লিটার।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q079",
+    "family_id": "reverse_percentage_increase_to_decrease_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "খ-এর বেতন 100 ধরলে ক-এর বেতন 135।",
+          "ক-এর তুলনায় কমার হার =35/135×100% ≈25.93%।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q080",
+    "family_id": "missing_value_group_averages_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম ৪টির যোগফল =4×52=208।",
+          "শেষ ৫টির যোগফল =5×38=190।",
+          "পঞ্চম সংখ্যা =462-208-190=64।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q082",
+    "family_id": "difference_cubes_difference_find_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "a³-b³=(a-b)(a²+ab+b²), তাই a²+ab+b²=513/3=171।",
+          "(a-b)²=a²-2ab+b²=9।",
+          "দুটি সমীকরণ বিয়োগ করলে 3ab=162, তাই ab=54।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS11_Q083",
+    "family_id": "polynomial_division_same_degree_remainder_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(x+3)(x-3)=x²-9।",
+          "x²-9 = (x²-6)-3।",
+          "তাই ভাগশেষ -3।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

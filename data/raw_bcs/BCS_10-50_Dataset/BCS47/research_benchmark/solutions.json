@@ -1,0 +1,159 @@
+[
+  {
+    "item_id": "BCS47_Q016",
+    "family_id": "factor_theorem_parameter_bcs47_q016_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "By the factor theorem, substitute x=3.",
+          "5(27)-2(9)+3+k=120+k=0.",
+          "So k=-120."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q017",
+    "family_id": "geometric_sequence_missing_term_bcs47_q017_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Each term is one-third of the previous term.",
+          "81/3=27 and 27/3=9.",
+          "So the missing term is 27."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q019",
+    "family_id": "geometric_progression_nth_term_bcs47_q019_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The common ratio is 9/27=1/3.",
+          "a10=27(1/3)^9 = 1/729."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q022",
+    "family_id": "equation_of_line_through_points_bcs47_q022_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Slope=(3-0)/(3-0)=1.",
+          "A line of slope 1 through the origin is y=x."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q026",
+    "family_id": "recurring_decimal_division_bcs47_q026_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "0.6̅ = 2/3 and 0.9̅ = 1.",
+          "(2/3)/1 = 2/3 = 0.6̅."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q027",
+    "family_id": "percentage_area_increase_bcs47_q027_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "A 10% side increase multiplies each side by 1.1.",
+          "Area changes by 1.1²=1.21.",
+          "Therefore area increases by 21%."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q028",
+    "family_id": "simple_vs_compound_interest_difference_bcs47_q028_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Simple interest =100×0.10×5=50.",
+          "Compound interest =100(1.1)^5-100=61.051.",
+          "Difference ≈11.05 taka."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS47_Q029",
+    "family_id": "radical_expression_identity_bcs47_q029_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Since (√5+√3)(√5-√3)=2, we have 2/x = √5-√3.",
+          "Thus x + 2/x = 2√5.",
+          "Use a³+b³=(a+b)³-3ab(a+b) with a=x,b=2/x and ab=2 to get 28√5."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

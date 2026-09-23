@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "parsed_json_files": 24,
+  "selected_questions": 17,
+  "annotated_questions": 16,
+  "review_questions": 1,
+  "mistake_examples": 35,
+  "indexed_images": 22,
+  "errors": [],
+  "warnings": [
+    "mental_ability/Q026: key/option differs in capitalization or spacing; source spelling retained"
+  ],
+  "checks": [
+    "UTF-8 JSON parsing",
+    "exact question and answer schema keys",
+    "four options and source-key membership",
+    "matching and unique IDs within source",
+    "review isolation and withheld generated answers",
+    "mistake structure and divergence index",
+    "referenced asset existence and input/audit separation",
+    "manifest and source-index counts"
+  ],
+  "limitations": "Structural validation is not a certification of every source answer or generated pedagogical explanation."
+}

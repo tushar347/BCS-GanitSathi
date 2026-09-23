@@ -1,0 +1,218 @@
+[
+  {
+    "item_id": "BCS12_Q084",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মূল্য ২৫% বাড়লে নতুন মূল্য পুরনোর 125%।",
+          "ব্যয় অপরিবর্তিত রাখতে নতুন পরিমাণ =100/125=80%।",
+          "ব্যবহার কমেছে 20%।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q085",
+    "family_id": "percentage_total_questions_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সঠিক উত্তর =15+(n-20)/3।",
+          "75% নম্বর হলে 15+(n-20)/3=3n/4।",
+          "সমাধান করলে n=20।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q086",
+    "family_id": "compound_ratio_multiple_pairs_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মিশ্র অনুপাত = (5×7×3):(18×2×6)।",
+          "=105:216 =35:72।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q087",
+    "family_id": "boat_stream_round_trip_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অনুকূলে বেগ=10+5=15 কিমি/ঘণ্টা, সময়=45/15=3 ঘণ্টা।",
+          "প্রতিকূলে বেগ=10-5=5 কিমি/ঘণ্টা, সময়=45/5=9 ঘণ্টা।",
+          "মোট সময়=12 ঘণ্টা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q088",
+    "family_id": "metric_mass_conversion_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১ কিলোগ্রাম = ১,০০০,০০০ মিলিগ্রাম।",
+          "20573.4÷1,000,000=0.0205734 কিলোগ্রাম।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q089",
+    "family_id": "complete_square_two_variables_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x²+y²+2xy=(x+y)²।",
+          "প্রদত্ত রাশিতে 2xy যোগ করলে x²+y²+2xy-8x-8y+16 = (x+y-4)²।",
+          "তাই প্রয়োজন 2xy।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q091",
+    "family_id": "sophie_germain_identity_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Sophie Germain পরিচিতি: a⁴+4 = a⁴+4a²+4-4a²।",
+          "= (a²+2)²-(2a)²।",
+          "= (a²+2a+2)(a²-2a+2)।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q092",
+    "family_id": "perfect_square_quadratic_parameter_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "পূর্ণবর্গ রাশি হবে (2x-3)²=4x²-12x+9।",
+          "তাই p=12।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q093",
+    "family_id": "sequence_doubling_differences_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "পার্থক্য 3,6,12,24; প্রতিবার দ্বিগুণ হচ্ছে।",
+          "পরের পার্থক্য 48।",
+          "53+48=101।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q098",
+    "family_id": "rational_between_irrationals_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "√2≈1.414 এবং √3≈1.732।",
+          "1.5 এই দুই মানের মধ্যে এবং এটি মূলদ সংখ্যা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS12_Q099",
+    "family_id": "lcm_make_perfect_square_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "LCM(8,10,12)=120।",
+          "প্রয়োজন এমন ক্ষুদ্রতম পূর্ণবর্গ যা 120 দ্বারা বিভাজ্য। 120=2³×3×5।",
+          "সূচক জোড় করতে গুণ করতে হবে 2×3×5=30; ফলে 120×30=3600=60²।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

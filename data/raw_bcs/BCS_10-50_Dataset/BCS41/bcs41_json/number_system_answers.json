@@ -1,0 +1,48 @@
+[
+  {
+    "family_id": "Q086",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০০",
+        "reasoning_steps": [
+          "Leave the bits unchanged rather than complementing them.",
+          "Report 100."
+        ],
+        "code": "BCS41-086-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "০০১",
+        "reasoning_steps": [
+          "Reverse the order of the bits instead of flipping each bit.",
+          "Report 001."
+        ],
+        "code": "BCS41-086-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q115",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৩২",
+        "reasoning_steps": [
+          "Subtract the endpoint multipliers but omit the inclusive +1.",
+          "Return 66−34=32."
+        ],
+        "code": "BCS41-115-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৩৪",
+        "reasoning_steps": [
+          "Include 99 as the first multiple even though it is below 100.",
+          "Count 33 through 66 and return 34."
+        ],
+        "code": "BCS41-115-INTERPRETATION-02"
+      }
+    ]
+  }
+]

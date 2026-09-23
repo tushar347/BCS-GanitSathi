@@ -1,0 +1,26 @@
+[
+  {
+    "family_id": "Q146",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "২৩",
+        "reasoning_steps": [
+          "Shift every bit one position to the right by treating the final zero as absent.",
+          "Convert 10111₂ as 16+4+2+1=23."
+        ],
+        "code": "BCS43-146-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৫৪",
+        "reasoning_steps": [
+          "Use the nonzero place values 32,8,4,2.",
+          "Add these incorrectly as 54 rather than 46."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS43-146-ARITHMETIC-02"
+      }
+    ]
+  }
+]

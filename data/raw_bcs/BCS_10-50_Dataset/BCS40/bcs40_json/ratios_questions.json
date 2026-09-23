@@ -1,0 +1,51 @@
+[
+  {
+    "family_id": "Q162",
+    "topic": "ratios",
+    "in_scope": true,
+    "assigned_subskill": "linking two ratios through a common quantity",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "Robin’s income",
+    "english_glossary": {
+      "অনুপাত": "ratio"
+    },
+    "question_bn": "পনির ও তপনের আয়ের অনুপাত 4 : 3। তপন ও রবিনের আয়ের অনুপাত 5 : 4। পনিরের আয় 120 টাকা হলে, রবিনের আয় কত?",
+    "answer_options": [
+      "36 টাকা",
+      "12 টাকা",
+      "72 টাকা",
+      "84 টাকা"
+    ],
+    "correct_answer": "72 টাকা",
+    "solution_steps": [
+      "Tapan’s income is 120×3/4=90 taka.",
+      "Robin’s income is 90×4/5=72 taka."
+    ]
+  },
+  {
+    "family_id": "Q182",
+    "topic": "ratios",
+    "in_scope": true,
+    "assigned_subskill": "inverse proportion of load and lever arm",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "balancing mass in kilograms",
+    "english_glossary": {
+      "ভারসাম্য": "balance"
+    },
+    "question_bn": "ভারসাম্য রক্ষা করতে নির্দেশিত স্থানে কত কেজি রাখতে হবে?\n\n![প্রশ্নের চিত্র](assets/Q182_stem.png)",
+    "answer_options": [
+      "১২০",
+      "১৪০",
+      "১৬০",
+      "৮০"
+    ],
+    "correct_answer": "১৪০",
+    "solution_steps": [
+      "The diagram places 100 kg at a 7-metre arm and the unknown mass at a 5-metre arm.",
+      "For balance, 100×7=W×5.",
+      "Therefore W=700/5=140 kg."
+    ]
+  }
+]

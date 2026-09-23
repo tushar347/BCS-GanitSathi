@@ -1,0 +1,110 @@
+[
+  {
+    "family_id": "Q149",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "NUMSYS149-CONCEPT-01",
+        "wrong_answer": "১০",
+        "reasoning_steps": [
+          "Think of the memory as two banks of 1024 bytes.",
+          "Count only the 10 lines needed within one bank and omit the bank-selection bit.",
+          "Report 10 address lines instead of 11."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "NUMSYS149-ARITH-01",
+        "wrong_answer": "১২",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly calculate the capacity as 2048 bytes.",
+          "Make an exponent-counting error and write 2048 = 2^12 rather than 2^11.",
+          "Report 12 address lines."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "NUMSYS149-INTERP-01",
+        "wrong_answer": "১৪",
+        "reasoning_steps": [
+          "Convert 2048 bytes into 2048 × 8 = 16384 bits.",
+          "Answer for individually addressable bits rather than the byte-addressable interpretation used by the source key.",
+          "Since 16384 = 2^14, report 14 address lines."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q150",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "NUMSYS150-CONCEPT-01",
+        "wrong_answer": "$(৭৬২)_{৮}$",
+        "reasoning_steps": [
+          "Correctly obtain the intermediate decimal value 762.",
+          "Assume changing the base label to 8 converts the number without changing its digits.",
+          "Select the printed distractor (৭৬২)₈."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "NUMSYS150-ARITH-01",
+        "wrong_answer": "$(1373)_{8}$",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly obtain decimal 762.",
+          "In the first division by 8, mistakenly write remainder 3 instead of 2 while retaining quotient 95.",
+          "Continue with remainders 7, 3, and 1, then reverse them to report octal 1373."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "NUMSYS150-INTERP-01",
+        "wrong_answer": "762",
+        "reasoning_steps": [
+          "Read the task as asking for a decimal conversion rather than an octal conversion.",
+          "Calculate 2 × 256 + 15 × 16 + 10 = 762.",
+          "Stop at the decimal result 762 instead of converting it to octal."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q179",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "NUMSYS179-CONCEPT-01",
+        "wrong_answer": "৭",
+        "reasoning_steps": [
+          "Ignore decimal place value and remove the decimal points from .33 and .31.",
+          "Compare the altered integers 7, 8, 33, and 31.",
+          "Select 7 as the smallest of those altered values."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "NUMSYS179-ARITH-01",
+        "wrong_answer": ".৩৩",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly restrict attention to .31 and .33 as the two values below 1.",
+          "Reverse the numerical comparison and incorrectly judge 33 hundredths to be smaller than 31 hundredths.",
+          "Select .৩৩."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "NUMSYS179-INTERP-01",
+        "wrong_answer": "৮",
+        "reasoning_steps": [
+          "Misread the request for the smallest amount as a request for the largest amount.",
+          "Compare all four values and identify 8 as the largest.",
+          "Select ৮."
+        ]
+      }
+    ]
+  }
+]

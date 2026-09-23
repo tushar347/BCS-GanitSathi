@@ -1,0 +1,96 @@
+[
+  {
+    "family_id": "age_ratio_past_condition_f01",
+    "item_id": "BCS20_Q092",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "age_equations",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "পিতার বর্তমান বয়স পুত্রের বয়সের চারগুণ। ৬ বছর পূর্বে পিতার বয়স পুত্রের বয়সের দশগুণ ছিল। পিতা ও পুত্রের বর্তমান বয়স কত?",
+    "answer_options": [
+      "৫৬ বছর এবং ১৪ বছর",
+      "৩২ বছর এবং ৭ বছর",
+      "৩৬ বছর এবং ৯ বছর",
+      "৪০ বছর এবং ১০ বছর"
+    ],
+    "correct_answer": "৩৬ বছর এবং ৯ বছর",
+    "solution_steps": [
+      "পুত্রের বর্তমান বয়স s হলে পিতার বয়স 4s।",
+      "6 বছর আগে: 4s-6 =10(s-6)।",
+      "4s-6=10s-60, তাই 6s=54, s=9; পিতা=36।"
+    ],
+    "source_page": 24,
+    "source_exam": "20th BCS"
+  },
+  {
+    "family_id": "fraction_equation_find_missing_addend_f01",
+    "item_id": "BCS20_Q094",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "fraction_equation_find_addend",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "x/y এর সঙ্গে কত যোগ করলে যোগফল 2y/x হবে?",
+    "answer_options": [
+      "(2y² - x²)/(xy)",
+      "(x² - 2y²)/(xy)",
+      "(x² + 2y²)/(xy)",
+      "(x² - y²)/(xy)"
+    ],
+    "correct_answer": "(2y² - x²)/(xy)",
+    "solution_steps": [
+      "প্রয়োজনীয় রাশি =2y/x - x/y।",
+      "সাধারণ হর xy নিলে = (2y²-x²)/(xy)।"
+    ],
+    "source_page": 25,
+    "source_exam": "20th BCS"
+  },
+  {
+    "family_id": "square_sum_from_sum_squares_product_f01",
+    "item_id": "BCS20_Q095",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "square_of_sum_from_squares_product",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "x² + y² = 8 এবং xy = 7 হলে (x + y)² এর মান কত?",
+    "answer_options": [
+      "১৪",
+      "১৬",
+      "২২",
+      "৩০"
+    ],
+    "correct_answer": "২২",
+    "solution_steps": [
+      "(x+y)²=x²+y²+2xy।",
+      "=8+14=22।"
+    ],
+    "source_page": 25,
+    "source_exam": "20th BCS"
+  }
+]

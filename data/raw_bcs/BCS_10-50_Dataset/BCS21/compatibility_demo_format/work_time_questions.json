@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "item_id": "BCS21_Q042",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "inverse_workers_time",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "শ্রমিক": "worker"
+    },
+    "question_bn": "৮ জন লোক একটি কাজ ১২ দিনে করতে পারে। দুজন লোক কমিয়ে দিলে কাজটি শেষ করতে শতকরা কতদিন বেশি লাগবে?",
+    "answer_options": [
+      "২৫%",
+      "৩৩ ১/৩%",
+      "৫০%",
+      "৬৬ ২/৩%"
+    ],
+    "correct_answer": "৩৩ ১/৩%",
+    "solution_steps": [
+      "মোট কাজ = ৮×১২ = ৯৬ জন-দিন।",
+      "৬ জনে সময় = ৯৬/৬ = ১৬ দিন।",
+      "বাড়তি সময় ৪ দিন; ৪/১২×১০০ = ৩৩ ১/৩%。"
+    ],
+    "source_page": 4,
+    "source_exam": "21st BCS"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "simple_interest_fraction_principal_f01",
+    "item_id": "BCS33_Q051",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_interest_rate_from_fraction_of_principal",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "রকীব সাহেব ৩,৭৩,৮৩৩ টাকা ব্যাংকে রাখলেন। ৭(১/২) বছর পর তিনি আসল টাকার ১(১/৪) অংশ সুদ পেলেন। ব্যাংকের সুদের হার কত?",
+    "answer_options": [
+      "১২(১/২)%",
+      "১৬(২/৩)%",
+      "৮(১/৩)%",
+      "১১(১/৯)%"
+    ],
+    "correct_answer": "১৬(২/৩)%",
+    "solution_steps": [
+      "The interest is 1 1/4 = 5/4 of the principal over 7.5 = 15/2 years.",
+      "Simple-interest rate = (I/P)/t *100 = (5/4)/(15/2)*100.",
+      "This is 1/6*100 = 16 2/3%."
+    ],
+    "source_page": 7,
+    "source_exam": "33th BCS"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "family_id": "mixed_percent_to_fraction_f01",
+    "item_id": "BCS30_Q098",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "percentage_base_or_multiplier_error",
+        "wrong_answer": "১১/২০",
+        "reasoning_steps": [
+          "Uses the stated percentage directly without converting the base/multiplier correctly.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "১১/২০",
+        "diverges_at_step": 1,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "১১/২০",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  }
+]

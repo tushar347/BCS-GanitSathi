@@ -1,0 +1,62 @@
+[
+  {
+    "family_id": "simple_interest_bcs25_q092_f01",
+    "item_id": "BCS25_Q092",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_interest",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "৬% হারে নয় মাসে ১০,০০০ টাকার উপর সুদ কত হবে?",
+    "answer_options": [
+      "৫০০ টাকা",
+      "৬০০ টাকা",
+      "৪৫০ টাকা",
+      "৬৫০ টাকা"
+    ],
+    "correct_answer": "৪৫০ টাকা",
+    "solution_steps": [
+      "সরল সুদ = PRT।",
+      "=10000×0.06×9/12 = 450 টাকা।"
+    ],
+    "source_page": 16,
+    "source_exam": "25th BCS"
+  },
+  {
+    "family_id": "complement_percentage_count_bcs25_q093_f01",
+    "item_id": "BCS25_Q093",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "complement_percentage_count",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "১৫টি পোশাকের মধ্যে ৪০% পোশাক শার্ট হলে, কতটি শার্ট নয়?",
+    "answer_options": [
+      "৬",
+      "৯",
+      "১২",
+      "১০"
+    ],
+    "correct_answer": "৯",
+    "solution_steps": [
+      "শার্ট = 15×40%=6।",
+      "শার্ট নয় = 15−6=9।"
+    ],
+    "source_page": 16,
+    "source_exam": "25th BCS"
+  }
+]

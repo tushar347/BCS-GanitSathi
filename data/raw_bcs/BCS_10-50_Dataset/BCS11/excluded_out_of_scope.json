@@ -1,0 +1,42 @@
+[
+  {
+    "item_id": "BCS11_Q070",
+    "exam": "11th BCS",
+    "question_number": 70,
+    "source_page": 5,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Rectangle perimeter question is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS11_Q075",
+    "exam": "11th BCS",
+    "question_number": 75,
+    "source_page": 6,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Circle radius/area relation is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS11_Q081",
+    "exam": "11th BCS",
+    "question_number": 81,
+    "source_page": 6,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Two-square diagram question is outside scope; the source also marks it defective.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS11_Q084",
+    "exam": "11th BCS",
+    "question_number": 84,
+    "source_page": 6,
+    "category": "geometry_mental_reasoning",
+    "question_summary": "",
+    "exclusion_reason": "Clock-hand angle question is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  }
+]

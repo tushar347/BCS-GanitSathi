@@ -1,0 +1,64 @@
+[
+  {
+    "family_id": "vat_percent_total_cost_f01",
+    "item_id": "BCS36_Q174",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "vat_percentage",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "৩৫০ টাকা দরে ৩ কেজি মিষ্টি কিনে ৪ টাকা হারে ভ্যাট দিলে মোট কত টাকা ভ্যাট দিতে হবে?",
+    "answer_options": [
+      "১৪ টাকা",
+      "৪২ টাকা",
+      "১২ টাকা",
+      "১০৫ টাকা"
+    ],
+    "correct_answer": "৪২ টাকা",
+    "solution_steps": [
+      "Cost = 350×3 = 1050 taka.",
+      "VAT at 4% = 1050×0.04 = 42 taka."
+    ],
+    "source_page": 17,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "item_id": "BCS36_Q175",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "inverse_percentage_fixed_expenditure",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "যদি তেলের মূল্য ২৫% বৃদ্ধি পায় তবে তেলের ব্যবহার শতকরা কত কমালে তেল বাবদ ব্যয় বৃদ্ধি পাবে না?",
+    "answer_options": [
+      "১৬%",
+      "২০%",
+      "২৫%",
+      "২৪%"
+    ],
+    "correct_answer": "২০%",
+    "solution_steps": [
+      "If price becomes 125% of old price, quantity must become 100/125=80% of old quantity.",
+      "Required reduction =20%."
+    ],
+    "source_page": 17,
+    "source_exam": "36th BCS"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "item_id": "BCS24_Q092",
+    "family_id": "successive_profit_loss_bcs24_q092_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম বিক্রয় = 1200×1.15 = 1380।",
+          "দ্বিতীয় বিক্রয় = 1380×0.95 = 1311।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS24_Q093",
+    "family_id": "constant_budget_consumption_reduction_bcs24_q093_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "নতুন দাম = 1.25 গুণ।",
+          "পরিমাণ = 1/1.25 = 0.8 গুণ।",
+          "হ্রাস = 20%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS24_Q094",
+    "family_id": "fraction_in_lowest_terms_bcs24_q094_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "৭৭/১৪৩-এ ১১ সাধারণ গুণনীয়ক আছে; ১০২/২৮৯-এ ১৭ সাধারণ গুণনীয়ক আছে; ৩৪৩/১০০১-এ ৭ সাধারণ গুণনীয়ক আছে।",
+          "১১৩ ও ৩৫৫-এর গ.সা.গু ১, তাই ১১৩/৩৫৫ লঘিষ্ঠ আকারে আছে।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS24_Q095",
+    "family_id": "successive_fraction_spending_bcs24_q095_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথমে অবশিষ্ট = 4/7।",
+          "এর 7/12 অংশ থাকে, অর্থাৎ মোটের (4/7)(7/12)=1/3।",
+          "1/3 = 1000, তাই মোট = 3000 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS24_Q097",
+    "family_id": "square_number_sequence_bcs24_q097_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ধারা = 3^2, 6^2, 9^2, 12^2।",
+          "পরবর্তী = 15^2 = 225।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS24_Q099",
+    "family_id": "sum_product_square_difference_bcs24_q099_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(x−y)^2=(x+y)^2−4xy。",
+          "=49−40=9।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS24_Q100",
+    "family_id": "factor_quadratic_bcs24_q100_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "2x^2+x−15 = 2x^2+6x−5x−15।",
+          "গ্রুপ করে = (x+3)(2x−5)।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

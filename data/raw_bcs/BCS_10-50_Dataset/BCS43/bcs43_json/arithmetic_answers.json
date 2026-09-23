@@ -1,0 +1,94 @@
+[
+  {
+    "family_id": "Q162",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "২২৬৮",
+        "reasoning_steps": [
+          "Multiply all group sizes without removing common factors: 3×7×9×12=2268.",
+          "Report the product rather than checking the listed choices."
+        ],
+        "code": "BCS43-162-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৫২২",
+        "reasoning_steps": [
+          "Check only divisibility by 3 and 9.",
+          "Select 522 without checking 7 and 12."
+        ],
+        "code": "BCS43-162-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q174",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৬০০",
+        "reasoning_steps": [
+          "Count two participant-incidences per handshake: 2×300=600.",
+          "Mistake that total for the number of different people."
+        ],
+        "code": "BCS43-174-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "২৪",
+        "reasoning_steps": [
+          "Solve n(n−1)=600 as 25×24.",
+          "Report n−1 rather than n."
+        ],
+        "code": "BCS43-174-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q175",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "5/16",
+        "reasoning_steps": [
+          "Assume independence without being told so.",
+          "Multiply P(Aᶜ)P(Bᶜ)=(1/2)(5/8)=5/16."
+        ],
+        "code": "BCS43-175-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "1/8",
+        "reasoning_steps": [
+          "Calculate the intersection of A and B instead: P(B)=3/8 and P(A∩B)=1/2+3/8−3/4=1/8.",
+          "Return this different event’s probability."
+        ],
+        "code": "BCS43-175-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q180",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৭ দিনে",
+        "reasoning_steps": [
+          "Halve the combined time because A is twice as efficient as B.",
+          "Report 14/2=7 without separating their rates."
+        ],
+        "code": "BCS43-180-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৪২ দিনে",
+        "reasoning_steps": [
+          "Find B’s rate as 1/42.",
+          "Return B’s solo time instead of A’s."
+        ],
+        "code": "BCS43-180-INTERPRETATION-02"
+      }
+    ]
+  }
+]

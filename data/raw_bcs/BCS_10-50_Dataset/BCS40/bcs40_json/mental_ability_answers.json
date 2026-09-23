@@ -1,0 +1,99 @@
+[
+  {
+    "family_id": "Q176",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "প",
+        "reasoning_steps": [
+          "Count ম itself as position one when going backwards.",
+          "The fifth counted entry then becomes প rather than the fifth preceding entry."
+        ],
+        "code": "BCS40-176-INTERPRETATION-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "ধ",
+        "reasoning_steps": [
+          "Move back six positions instead of five.",
+          "Stop at ধ."
+        ],
+        "code": "BCS40-176-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q177",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "TEER",
+        "reasoning_steps": [
+          "Find T,R,E,E but transpose the positions of R and E.",
+          "Report TEER."
+        ],
+        "code": "BCS40-177-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "FREE",
+        "reasoning_steps": [
+          "Treat G as mapping to the preceding letter F while using reverse-alphabet mapping for the others.",
+          "Return FREE, mixing incompatible rules."
+        ],
+        "code": "BCS40-177-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q178",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "BCS40-178-CONCEPTUAL-01",
+        "wrong_answer": "FECINU",
+        "reasoning_steps": [
+          "Reverse the character order but keep each letter in its ordinary, unmirrored orientation.",
+          "Return FECINU instead of reflecting the asymmetric letter shapes as well."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q197",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "BCS40-197-CONCEPTUAL-01",
+        "wrong_answer": "FECINU",
+        "reasoning_steps": [
+          "Reverse the character order but keep each letter in its ordinary, unmirrored orientation.",
+          "Return FECINU instead of reflecting the asymmetric letter shapes as well."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "![ক](assets/Q200_option_a.png)",
+        "reasoning_steps": [
+          "Advance the number incorrectly to 9 and fail to preserve the matching G.",
+          "Choose the first card rather than the 7/G card."
+        ],
+        "code": "BCS40-200-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "![গ](assets/Q200_option_c.png)",
+        "reasoning_steps": [
+          "Skip two positions in the card sequence and choose 11/K.",
+          "Do not supply the immediate successor of 5/E."
+        ],
+        "code": "BCS40-200-CONCEPTUAL-02"
+      }
+    ]
+  }
+]

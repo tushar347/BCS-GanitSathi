@@ -1,0 +1,160 @@
+[
+  {
+    "family_id": "Q176",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "halving pattern in a number sequence",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "20 seconds",
+    "target_quantity": "next number in the sequence",
+    "english_glossary": {
+      "পরে আসবে": "comes next",
+      "সংখ্যাটি": "the number"
+    },
+    "question_bn": "কোন সংখ্যাটি পরে আসবে?\n৮ ৪ ২ ১ ১/২ ১/৪",
+    "answer_options": [
+      "১/৮",
+      "১/৪",
+      "১/৫",
+      "১/৬"
+    ],
+    "correct_answer": "১/৮",
+    "solution_steps": [
+      "Read the sequence as 8, 4, 2, 1, 1/2, 1/4.",
+      "Each term is one half of the preceding term.",
+      "The next term is (1/4) ÷ 2 = 1/8.",
+      "Select the printed option ১/৮."
+    ]
+  },
+  {
+    "family_id": "Q181",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "balance in a signed three-node diagram",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "balanced signed-triad option",
+    "english_glossary": {
+      "ভারসাম্যপূর্ণ অবস্থা": "balanced state"
+    },
+    "question_bn": "কোনটি ভারসাম্যপূর্ণ অবস্থা?",
+    "answer_options": [
+      "![ক](assets/Q181_option_a.png)",
+      "![খ](assets/Q181_option_b.png)",
+      "![গ](assets/Q181_option_c.png)",
+      "![ঘ](assets/Q181_option_d.png)"
+    ],
+    "correct_answer": "![ক](assets/Q181_option_a.png)",
+    "solution_steps": [
+      "For this annotation, use the signed-triad convention that a positive product of the three relationship signs represents balance; the source does not explicitly explain the rule.",
+      "Option ক has P→O positive, P→X negative, and O→X negative.",
+      "Its sign product is (+1) × (−1) × (−1) = +1; each other option has one negative edge and a negative product.",
+      "Select the diagram in option ক, which also matches the diagram printed as the source answer."
+    ]
+  },
+  {
+    "family_id": "Q182",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "number series with successively increasing differences",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "next number in the sequence",
+    "english_glossary": {
+      "সংখ্যা শ্রেণি": "number series",
+      "পরের সংখ্যাটি": "the next number"
+    },
+    "question_bn": "নিম্নলিখিত সংখ্যা শ্রেণির সর্বশেষ সংখ্যার পরের সংখ্যাটি কত হবে?\n১ ২ ৪ ৭ ১১ ?",
+    "answer_options": [
+      "১৪",
+      "১৫",
+      "১৬",
+      "১৮"
+    ],
+    "correct_answer": "১৬",
+    "solution_steps": [
+      "Read the sequence as 1, 2, 4, 7, 11.",
+      "The successive differences are 1, 2, 3, and 4.",
+      "Continue the increasing-difference pattern with a difference of 5.",
+      "The next term is 11+5 = 16, matching ১৬."
+    ]
+  },
+  {
+    "family_id": "Q183",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "visual odd-one-out by polygon properties",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "number of the distinct figure",
+    "english_glossary": {
+      "প্রতিকৃতি": "figure",
+      "সম্পূর্ণ আলাদা": "entirely different"
+    },
+    "question_bn": "নিচের চিত্রে একটি নম্বরযুক্ত প্রতিকৃতি অন্যদের চাইতে সম্পূর্ণ আলাদা। সেই প্রতিকৃতিতে নম্বরটি কত?\n\n![চিত্র](assets/Q183_stem.png)",
+    "answer_options": [
+      "১",
+      "৩",
+      "৩",
+      "৪"
+    ],
+    "correct_answer": "৪",
+    "solution_steps": [
+      "Inspect all five numbered figures in the source image, not just their labels.",
+      "Figures 1 and 3 are rectangles; figure 2 has right angles on its right edge, and figure 5 has right angles at its bottom corners.",
+      "Figure 4 is the hexagon with no right angle, distinguishing it under this geometric rule.",
+      "Select the printed answer ৪. This geometric explanation is an annotation; the PDF supplies only the answer, not a worked explanation."
+    ]
+  },
+  {
+    "family_id": "Q185",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "mixed Bangla-consonant and English-letter ordinal coding",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "coded product J × ট",
+    "english_glossary": {
+      "যদি": "if",
+      "তবে": "then"
+    },
+    "question_bn": "যদি চ × G = ৪২ হয় তবে J × ট = ?",
+    "answer_options": [
+      "১২০",
+      "৯২",
+      "১১৫",
+      "১১০"
+    ],
+    "correct_answer": "১১০",
+    "solution_steps": [
+      "Infer an ordinal code from the example: চ is sixth in the Bangla consonant sequence, and G is seventh in the English alphabet, giving 6 × 7 = 42.",
+      "Using the same interpretation, J has English-alphabet position 10.",
+      "ট has Bangla-consonant position 11, after ক, খ, গ, ঘ, ঙ, চ, ছ, জ, ঝ, ঞ.",
+      "Multiply 10 × 11 = 110, matching ১১০. The coding rule is inferred, not explicitly stated in the PDF."
+    ]
+  },
+  {
+    "family_id": "Q187",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "paired odd-number and alphabet-position sequence",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "next number-letter figure",
+    "english_glossary": {},
+    "question_bn": "![প্রশ্নের চিত্র](assets/Q187_stem.png)",
+    "answer_options": [
+      "![ক](assets/Q187_option_a.png)",
+      "![খ](assets/Q187_option_b.png)",
+      "![গ](assets/Q187_option_c.png)",
+      "![ঘ](assets/Q187_option_d.png)"
+    ],
+    "correct_answer": "![খ](assets/Q187_option_b.png)",
+    "solution_steps": [
+      "Read the diagram as paired entries 1/A, 3/C, and 5/E, followed by a question mark.",
+      "The top entries increase by 2, so the next top entry is 7.",
+      "Each bottom letter occupies the English-alphabet position shown above it; the seventh letter is G.",
+      "Select the image with 7 above G, option খ, matching the printed answer image."
+    ]
+  }
+]

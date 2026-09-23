@@ -1,0 +1,235 @@
+[
+  {
+    "item_id": "BCS30_Q081",
+    "family_id": "lcm_with_additive_offset_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "LCM(12,18,24)=72.",
+          "If n+2 must be divisible by all three and n is the least positive choice, n+2=72.",
+          "So n=70."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q082",
+    "family_id": "prime_identification_small_integers_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "91=7*13, 87=3*29 and 63=3*21 are composite.",
+          "59 has no divisor among primes up to sqrt(59), so it is prime."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q083",
+    "family_id": "compare_decimal_fraction_radical_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Convert or estimate: 0.3=0.30, 1/3≈0.333, 2/5=0.4 and sqrt(0.3)≈0.548.",
+          "Therefore 0.3 is the smallest."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q084",
+    "family_id": "midpoint_between_two_numbers_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "The number is equally distant from 301 and 381.",
+          "It is their midpoint: (301+381)/2 = 341."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q085",
+    "family_id": "combined_work_two_people_f02",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Combined rate = 1/12 job per day and A's rate = 1/20.",
+          "B's rate = 1/12 - 1/20 = 1/30.",
+          "So B alone needs 30 days."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q086",
+    "family_id": "polynomial_parameter_from_function_value_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Substitute x=3: 27 + 9k - 18 - 9 = 0.",
+          "The constant terms cancel, leaving 9k=0.",
+          "So k=0."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q087",
+    "family_id": "inequality_multiply_negative_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Multiplying an inequality by a negative quantity reverses its direction.",
+          "Since z<0, x>y implies xz<yz."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q091",
+    "family_id": "logarithm_quotient_rule_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Use the logarithm quotient rule.",
+          "log_a(m/n)=log_a(m)-log_a(n)."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q092",
+    "family_id": "product_from_sum_and_squares_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(a+b)^2=a^2+b^2+2ab.",
+          "49=25+2ab, so 2ab=24.",
+          "ab=12."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q098",
+    "family_id": "mixed_percent_to_fraction_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "13 3/4% = 13.75/100.",
+          "13.75/100 = 0.1375 = 11/80."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q099",
+    "family_id": "fourth_proportional_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "For fourth proportional d, 3:9 = 4:d.",
+          "3d=36, so d=12."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS30_Q100",
+    "family_id": "factor_theorem_option_check_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Test x=-1 for the factor x+1.",
+          "3(-1)^3 + 2(-1)^2 - 21(-1) - 20 = -3+2+21-20=0.",
+          "Therefore x+1 is a factor."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

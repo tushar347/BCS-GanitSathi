@@ -1,0 +1,71 @@
+[
+  {
+    "family_id": "Q165",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৯ ফুট",
+        "reasoning_steps": [
+          "Solve the quadratic to get h=5 or h=−9.",
+          "Remove the minus sign from the negative root and select 9."
+        ],
+        "code": "BCS43-165-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৪.৫ ফুট",
+        "reasoning_steps": [
+          "Treat the horizontal distance 12 as the rope length.",
+          "Set 2h+3=12 and obtain h=4.5."
+        ],
+        "code": "BCS43-165-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q171",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৩০°",
+        "reasoning_steps": [
+          "Use a complementary total of 90° instead of a supplementary total of 180°.",
+          "Solve θ=(90−θ)/2 to get 30°."
+        ],
+        "code": "BCS43-171-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১২০°",
+        "reasoning_steps": [
+          "Correctly find the requested angle as 60°.",
+          "Return its supplement, 120°, instead."
+        ],
+        "code": "BCS43-171-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q187",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "১২ মাইল",
+        "reasoning_steps": [
+          "Add all distances travelled: 5+2+5=12.",
+          "Report path length rather than straight-line displacement."
+        ],
+        "code": "BCS43-187-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "৮ মাইল",
+        "reasoning_steps": [
+          "Subtract the southward distance from the westward distance.",
+          "Return 10−2=8 instead of using perpendicular components."
+        ],
+        "code": "BCS43-187-CONCEPTUAL-02"
+      }
+    ]
+  }
+]

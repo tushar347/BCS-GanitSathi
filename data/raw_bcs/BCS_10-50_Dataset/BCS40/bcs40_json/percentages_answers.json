@@ -1,0 +1,49 @@
+[
+  {
+    "family_id": "Q163",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "20 2/3 বছরে",
+        "reasoning_steps": [
+          "Use the entire amount 558 as interest.",
+          "Divide 558 by the annual interest 27 and report 20 2/3 years."
+        ],
+        "code": "BCS40-163-INTERPRETATION-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৩ বছরে",
+        "reasoning_steps": [
+          "Correctly find interest as 108 and annual interest as 27.",
+          "Incorrectly calculate 108/27 as 3."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS40-163-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q164",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৩০০০০ টাকা",
+        "reasoning_steps": [
+          "Subtract the two stated rates as 12−8=4% instead of spanning from −12% to +8%.",
+          "Set 0.04C=1200 and obtain C=30000."
+        ],
+        "code": "BCS40-164-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৫২৮০ টাকা",
+        "reasoning_steps": [
+          "Find the cost 6000 correctly.",
+          "Return the actual selling price 0.88×6000=5280 instead."
+        ],
+        "code": "BCS40-164-INTERPRETATION-02"
+      }
+    ]
+  }
+]

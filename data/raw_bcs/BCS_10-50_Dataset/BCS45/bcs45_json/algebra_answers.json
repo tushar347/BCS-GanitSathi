@@ -1,0 +1,218 @@
+[
+  {
+    "family_id": "Q161",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ALG161-CONCEPT-01",
+        "wrong_answer": "$xy(x+y)$",
+        "reasoning_steps": [
+          "Factor both expressions and correctly identify their LCM as xy(x+y).",
+          "Treat finding the LCM alone as the requested task, omitting multiplication by the HCF.",
+          "Report xy(x+y)."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ALG161-ARITH-01",
+        "wrong_answer": "$xy(x+y)^{2}$",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Set up the correct product x(x+y) × xy(x+y).",
+          "Mistakenly combine x × x as x rather than x^2.",
+          "Retain the remaining factors and report xy(x+y)^2."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ALG161-INTERP-01",
+        "wrong_answer": "$x(x+y)(y+1)$",
+        "reasoning_steps": [
+          "Correctly identify the LCM as xy(x+y) and the HCF as x(x+y).",
+          "Misread গুণফল, meaning product, as a request for the sum.",
+          "Add the expressions to obtain x(x+y)(y+1)."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q166",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ALG166-CONCEPT-01",
+        "wrong_answer": "25",
+        "reasoning_steps": [
+          "Use p+q = 5.",
+          "Incorrectly assume p^2+q^2 = (p+q)^2, omitting the 2pq cross term.",
+          "Report 5^2 = 25."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ALG166-ARITH-01",
+        "wrong_answer": "19",
+        "diverges_at_step": 3,
+        "reasoning_steps": [
+          "Correctly find p = 4 and q = 1.",
+          "Set up p^2+q^2 = 16+1.",
+          "Make an addition error and report 19 instead of 17."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ALG166-INTERP-01",
+        "wrong_answer": "34",
+        "reasoning_steps": [
+          "Square the two given values to obtain (p+q)^2 = 25 and (p−q)^2 = 9.",
+          "Report their sum 25+9 = 34 as the requested quantity.",
+          "Fail to account for the fact that this sum equals twice p^2+q^2."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q167",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ALG167-CONCEPT-01",
+        "wrong_answer": "a = b",
+        "reasoning_steps": [
+          "Mistakenly assume the two logarithm terms must have equal arguments in order for the equation to hold.",
+          "Set a/b = b/a and hence a^2 = b^2.",
+          "On the positive domain, report a = b instead of evaluating the sum of the logarithms."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ALG167-ARITH-01",
+        "wrong_answer": "ab = a + b",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Attempt to combine the two logarithms by multiplying their arguments.",
+          "Drop both denominators and calculate (a/b)(b/a) as ab rather than 1.",
+          "Equate log(ab) with log(a+b) and report ab = a+b."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ALG167-INTERP-01",
+        "wrong_answer": "a = b",
+        "reasoning_steps": [
+          "Correctly notice that the product (a/b)(b/a) equals 1.",
+          "Misinterpret this as a requirement that each individual ratio must equal 1.",
+          "Set a/b = 1 and report a = b."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q168",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ALG168-CONCEPT-01",
+        "wrong_answer": "কোনো সমাধান নেই",
+        "reasoning_steps": [
+          "Equate x+7 and x+2 directly without first reconciling the different bases 2 and 4.",
+          "Cancel x and obtain the false equality 7 = 2.",
+          "Conclude incorrectly that there is no solution."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ALG168-ARITH-01",
+        "wrong_answer": "4",
+        "diverges_at_step": 3,
+        "reasoning_steps": [
+          "Correctly convert the right-hand side to 2^(2x+4).",
+          "Correctly obtain x = 7−4.",
+          "Make a subtraction error and report x = 4."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ALG168-INTERP-01",
+        "wrong_answer": "2",
+        "reasoning_steps": [
+          "Misread the exponent x+7 as x+6.",
+          "Solve the altered equation x+6 = 2x+4.",
+          "Report x = 2, which solves the misread question rather than the original."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q169",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ALG169-CONCEPT-01",
+        "wrong_answer": "$27\\sqrt{3}$",
+        "reasoning_steps": [
+          "Incorrectly simplify (−1)/(1/√3) as −3 rather than −√3.",
+          "Use that incorrect common ratio in a5 = a1 × r^4.",
+          "Calculate (1/√3) × (−3)^4 = 81/√3 = 27√3."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ALG169-ARITH-01",
+        "wrong_answer": "9",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly obtain a5 = (1/√3) × 9 = 9/√3.",
+          "Drop the denominator when reporting the numerical expression.",
+          "Choose 9 instead of simplifying 9/√3 to 3√3."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ALG169-INTERP-01",
+        "wrong_answer": "$-\\sqrt{3}$",
+        "reasoning_steps": [
+          "Correctly calculate the common ratio as −√3.",
+          "Misread the request for the fifth term as a request for the common ratio.",
+          "Select −√3."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q175",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ALG175-CONCEPT-01",
+        "wrong_answer": "{2, 7}",
+        "reasoning_steps": [
+          "Use the absolute factors 2 and 7 of 14 but ignore the signs required by the coefficients.",
+          "Incorrectly factor the polynomial as (x−7)(x−2).",
+          "Report the two positive values {2, 7} without checking that the factors expand to the original polynomial."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ALG175-ARITH-01",
+        "wrong_answer": "{6}",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly obtain the root formula x = (5 ± 9)/2.",
+          "Calculate the positive root (5+9)/2 = 14/2 incorrectly as 6.",
+          "Reject the correctly computed negative root −2 and report A = {6}."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ALG175-INTERP-01",
+        "wrong_answer": "{−2, 7}",
+        "reasoning_steps": [
+          "Correctly find the two roots −2 and 7.",
+          "Misread the restriction x ∈ N as allowing all integers.",
+          "Keep the negative root and select {−2, 7}."
+        ]
+      }
+    ]
+  }
+]

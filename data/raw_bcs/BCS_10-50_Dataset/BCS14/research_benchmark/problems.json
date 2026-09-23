@@ -1,0 +1,191 @@
+[
+  {
+    "item_id": "BCS14_Q025",
+    "family_id": "two_digit_digit_relation_f01",
+    "exam": "14th BCS",
+    "question_number": 25,
+    "source_page": 2,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "two_digit_number_digit_equations",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুই অঙ্কবিশিষ্ট একটি সংখ্যার এককের অঙ্ক দশকের অঙ্ক অপেক্ষা ৩ বেশি। সংখ্যাটি এর অঙ্কদ্বয়ের সমষ্টির তিনগুণ অপেক্ষা ৪ বেশি। সংখ্যাটি কত?",
+    "question_normalized": "দুই অঙ্কবিশিষ্ট একটি সংখ্যার এককের অঙ্ক দশকের অঙ্ক অপেক্ষা ৩ বেশি। সংখ্যাটি এর অঙ্কদ্বয়ের সমষ্টির তিনগুণ অপেক্ষা ৪ বেশি। সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৭",
+      "৩৬",
+      "২৫",
+      "১৪"
+    ],
+    "printed_answer": "২৫",
+    "accepted_answer_forms": [
+      "২৫",
+      "25"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 14th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS14_Q026",
+    "family_id": "clock_chime_interval_count_f01",
+    "exam": "14th BCS",
+    "question_number": 26,
+    "source_page": 2,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "clock_chime_intervals",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি ঘড়িতে ৬টার ঘণ্টাধ্বনি ঠিক ৬টায় শুরু করে বাজতে ৫ সেকেন্ড সময় লাগে। ঐ ঘড়িতে ১২টার ঘণ্টাধ্বনি বাজতে কত সেকেন্ড সময় লাগবে? ঘণ্টাধ্বনি সমান সময় ব্যবধানে বাজে।",
+    "question_normalized": "একটি ঘড়িতে ৬টার ঘণ্টাধ্বনি ঠিক ৬টায় শুরু করে বাজতে ৫ সেকেন্ড সময় লাগে। ঐ ঘড়িতে ১২টার ঘণ্টাধ্বনি বাজতে কত সেকেন্ড সময় লাগবে? ঘণ্টাধ্বনি সমান সময় ব্যবধানে বাজে।",
+    "normalization_notes": [],
+    "units": [
+      "সেকেন্ড"
+    ],
+    "answer_options": [
+      "১১ সেকেন্ড",
+      "১০ সেকেন্ড",
+      "১২ সেকেন্ড",
+      "১০১৫ সেকেন্ড"
+    ],
+    "printed_answer": "১১ সেকেন্ড",
+    "accepted_answer_forms": [
+      "১১ সেকেন্ড",
+      "11 seconds",
+      "11"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 14th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS14_Q027",
+    "family_id": "fractional_distribution_remainder_f01",
+    "exam": "14th BCS",
+    "question_number": 27,
+    "source_page": 2,
+    "topic_group": "ratios_proportions",
+    "subskill": "fractional_distribution_remaining_amount",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "এক গোয়ালা তার n সংখ্যক গাভীকে চার পুত্রের মধ্যে বণ্টন করে দিল: প্রথম পুত্রকে ১/২ অংশ, দ্বিতীয় পুত্রকে ১/৪ অংশ, তৃতীয় পুত্রকে ১/৫ অংশ এবং বাকি ৭টি গাভী চতুর্থ পুত্রকে দিল। ঐ গোয়ালার গাভীর সংখ্যা কত ছিল?",
+    "question_normalized": "এক গোয়ালা তার n সংখ্যক গাভীকে চার পুত্রের মধ্যে বণ্টন করে দিল: প্রথম পুত্রকে ১/২ অংশ, দ্বিতীয় পুত্রকে ১/৪ অংশ, তৃতীয় পুত্রকে ১/৫ অংশ এবং বাকি ৭টি গাভী চতুর্থ পুত্রকে দিল। ঐ গোয়ালার গাভীর সংখ্যা কত ছিল?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১০০টি",
+      "১৪০টি",
+      "১৮০টি",
+      "২০০টি"
+    ],
+    "printed_answer": "১৪০টি",
+    "accepted_answer_forms": [
+      "১৪০টি",
+      "140"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 14th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS14_Q048",
+    "family_id": "metric_mass_conversion_quintal_f01",
+    "exam": "14th BCS",
+    "question_number": 48,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "metric_unit_conversion",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "এক কুইন্টাল ওজনে কত কিলোগ্রাম হয়?",
+    "question_normalized": "এক কুইন্টাল ওজনে কত কিলোগ্রাম হয়?",
+    "normalization_notes": [],
+    "units": [
+      "কুইন্টাল",
+      "কিলোগ্রাম"
+    ],
+    "answer_options": [
+      "১ কিলোগ্রাম",
+      "১০ কিলোগ্রাম",
+      "১০০ কিলোগ্রাম",
+      "১০০০ কিলোগ্রাম"
+    ],
+    "printed_answer": "১০০ কিলোগ্রাম",
+    "accepted_answer_forms": [
+      "১০০ কিলোগ্রাম",
+      "100 kg",
+      "100"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 14th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS14_Q052",
+    "family_id": "two_dimension_percentage_area_change_f01",
+    "exam": "14th BCS",
+    "question_number": 52,
+    "source_page": 4,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "rectangle_percentage_area_change",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য ২০% বৃদ্ধি ও প্রস্থ ১০% হ্রাস করা হলে, ক্ষেত্রফলের শতকরা কত পরিবর্তন হবে?",
+    "question_normalized": "একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য ২০% বৃদ্ধি ও প্রস্থ ১০% হ্রাস করা হলে, ক্ষেত্রফলের শতকরা কত পরিবর্তন হবে?",
+    "normalization_notes": [],
+    "units": [
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "৮% (বৃদ্ধি)",
+      "৮% (হ্রাস)",
+      "১০৮% (বৃদ্ধি)",
+      "১০৮% (হ্রাস)"
+    ],
+    "printed_answer": "৮% (বৃদ্ধি)",
+    "accepted_answer_forms": [
+      "৮% (বৃদ্ধি)",
+      "8% increase",
+      "৮% বৃদ্ধি"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 14th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS14_Q054",
+    "family_id": "sum_square_conjugate_identity_f01",
+    "exam": "14th BCS",
+    "question_number": 54,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "algebraic_identity_sum_squares",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১/২{(a + b)² + (a - b)²} = কত?",
+    "question_normalized": "১/২{(a + b)² + (a - b)²} = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "a² + b²",
+      "a² - b²",
+      "(a + b)²/2 - (a - b)²/2",
+      "(a + b)² + (a - b)²"
+    ],
+    "printed_answer": "a² + b²",
+    "accepted_answer_forms": [
+      "a² + b²"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 14th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

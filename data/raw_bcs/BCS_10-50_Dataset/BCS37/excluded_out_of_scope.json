@@ -1,0 +1,67 @@
+[
+  {
+    "q": 182,
+    "page": 19,
+    "reason": "geometry - outside initial scope"
+  },
+  {
+    "q": 183,
+    "page": 19,
+    "reason": "geometry - outside initial scope"
+  },
+  {
+    "q": 184,
+    "page": 19,
+    "reason": "combinatorics - outside initial scope"
+  },
+  {
+    "q": 185,
+    "page": 19,
+    "reason": "direction reasoning - outside initial scope"
+  },
+  {
+    "q": 186,
+    "page": 20,
+    "reason": "mechanical reasoning - outside six-topic math scope"
+  },
+  {
+    "q": 189,
+    "page": 20,
+    "reason": "physical reasoning - outside initial math scope"
+  },
+  {
+    "q": 190,
+    "page": 20,
+    "reason": "calendar reasoning - outside initial scope"
+  },
+  {
+    "q": 191,
+    "page": 20,
+    "reason": "geometry/mensuration despite percentage wording - main skill is geometry, outside initial scope"
+  },
+  {
+    "q": 192,
+    "page": 20,
+    "reason": "logical/mental reasoning - outside initial scope"
+  },
+  {
+    "q": 197,
+    "page": 21,
+    "reason": "geometry/mensuration - outside initial scope"
+  },
+  {
+    "q": 198,
+    "page": 21,
+    "reason": "set theory - outside initial scope"
+  },
+  {
+    "q": 199,
+    "page": 21,
+    "reason": "probability - outside initial scope"
+  },
+  {
+    "q": 200,
+    "page": 21,
+    "reason": "visual number pattern - outside initial scope"
+  }
+]

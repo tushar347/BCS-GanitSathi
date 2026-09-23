@@ -1,0 +1,196 @@
+[
+  {
+    "item_id": "BCS22_Q071",
+    "family_id": "consecutive_integer_square_difference_bcs22_q071_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ছোট সংখ্যা n হলে বড়টি n+1।",
+          "(n+1)^2−n^2=2n+1=199।",
+          "n=99, তাই বড় সংখ্যা 100।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q072",
+    "family_id": "divisors_with_remainder_bcs22_q072_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ভাজক d হলে 346−31=315 সংখ্যা d দ্বারা বিভাজ্য হতে হবে।",
+          "315-এর 31-এর চেয়ে বড় ভাজকগুলো হলো 35,45,63,105,315।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q073",
+    "family_id": "two_subject_pass_fail_percentage_bcs22_q073_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অন্তত এক বিষয়ে পাশ = ৮০+৭০−৬০ = ৯০%。",
+          "উভয় বিষয়ে ফেল = ১০০−৯০ = ১০%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q074",
+    "family_id": "loss_percentage_from_sp_cp_bcs22_q074_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ক্রয়মূল্য = ৩৮০+২০ = ৪০০ টাকা।",
+          "ক্ষতির হার = ২০/৪০০×১০০ = ৫%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q075",
+    "family_id": "divide_length_by_ratio_bcs22_q075_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অনুপাতের যোগ = ২০।",
+          "প্রতি অংশ = ৬০/২০ = ৩ মিটার।",
+          "দৈর্ঘ্য = ৯, ২১, ৩০ মিটার।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q076",
+    "family_id": "midpoint_between_numbers_bcs22_q076_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সংখ্যাটি 650 ও 820-এর মধ্যবিন্দু।",
+          "(650+820)/2 = 735।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q077",
+    "family_id": "fraction_equation_bcs22_q077_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "লব n হলে হর n+2।",
+          "(n−3)/(n−1)+1/4=1।",
+          "সমাধানে n=9, তাই ভগ্নাংশ 9/11।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q078",
+    "family_id": "compare_numeric_forms_bcs22_q078_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সব বিকল্প দশমিকে তুলনা করি: 0.3, 0.3333, 0.5477, 0.4।",
+          "সবচেয়ে বড় 0.5477।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q079",
+    "family_id": "sum_difference_product_bcs22_q079_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x=7 এবং y=5।",
+          "xy=35।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS22_Q080",
+    "family_id": "age_relation_equation_bcs22_q080_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "বর্তমানে ছেলের বয়স 12−5=7।",
+          "স্ত্রীর বয়স = 4×7=28।",
+          "ব্যক্তির বয়স = 28+5=33 বছর।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "collection": "41st BCS",
+  "counts": {
+    "selected": 29,
+    "annotated": 27,
+    "review_required": 2
+  },
+  "issues": [
+    {
+      "family_id": "Q088",
+      "severity": "review_required",
+      "reason": "The source key selects খ, but the fourth printed identity is also false in general. For example A=1,B=0,C=1 makes the left side of ঘ equal 1 and the right side 0. This is not a uniquely answerable single-choice item. Overbars are preserved in LaTeX and source images.",
+      "source_page": 8,
+      "source_evidence": "audit_assets/Q088_source_excerpt.png"
+    },
+    {
+      "family_id": "Q089",
+      "severity": "documented_interpretation",
+      "reason": "Uniform selection is the ordinary interpretation of the question’s random selection.",
+      "source_page": 9,
+      "source_evidence": "audit_assets/Q089_source_excerpt.png"
+    },
+    {
+      "family_id": "Q091",
+      "severity": "documented_interpretation",
+      "reason": "The explanation uses principal complex square roots. The radical signs are visible in the page image even though the parsed text loses them.",
+      "source_page": 9,
+      "source_evidence": "audit_assets/Q091_source_excerpt.png"
+    },
+    {
+      "family_id": "Q092",
+      "severity": "review_required",
+      "reason": "The source asks for both m and n but prints only m<3x; n does not occur in the target inequality. The premise gives −1<x<5 and hence −3<3x<15, which does not recover the supplied keyed pair. No missing expression is inserted.",
+      "source_page": 9,
+      "source_evidence": "audit_assets/Q092_source_excerpt.png"
+    },
+    {
+      "family_id": "Q093",
+      "severity": "documented_interpretation",
+      "reason": "Classified by the rectangle area-scaling skill. The unchanged-width assumption is stated explicitly in the generated solution.",
+      "source_page": 9,
+      "source_evidence": "audit_assets/Q093_source_excerpt.png"
+    },
+    {
+      "family_id": "Q095",
+      "severity": "documented_interpretation",
+      "reason": "The generated solution interprets অন্তঃস্থ as inscribed, matching the source’s keyed area.",
+      "source_page": 9,
+      "source_evidence": "audit_assets/Q095_source_excerpt.png"
+    },
+    {
+      "family_id": "Q099",
+      "severity": "documented_interpretation",
+      "reason": "The dots are typographically ambiguous. The literal source string is preserved; the multiplication interpretation is explicit, not a silent decimal/exponential rewrite. Reading 8.5 and 16.5 as decimal bases would give a different equation.",
+      "source_page": 10,
+      "source_evidence": "audit_assets/Q099_source_excerpt.png"
+    },
+    {
+      "family_id": "Q103",
+      "severity": "documented_interpretation",
+      "reason": "Subscript/base nesting is transcribed from the visible mathematical layout.",
+      "source_page": 10,
+      "source_evidence": "audit_assets/Q103_source_excerpt.png"
+    },
+    {
+      "family_id": "Q104",
+      "severity": "documented_interpretation",
+      "reason": "Clusters, rather than Unicode code points, are rearranged. The generated trace establishes the keyed anagram and does not claim an exhaustive lexical search of the other groups.",
+      "source_page": 10,
+      "source_evidence": "audit_assets/Q104_source_excerpt.png"
+    },
+    {
+      "family_id": "Q105",
+      "severity": "documented_interpretation",
+      "reason": "The intended family model assumes the mother’s husband is the child’s father. Alternative step-family relationships are not specified.",
+      "source_page": 10,
+      "source_evidence": "audit_assets/Q105_source_excerpt.png"
+    },
+    {
+      "family_id": "Q111",
+      "severity": "documented_interpretation",
+      "reason": "The source does not state a rounding instruction. Its answer ২.৩৬ is the exact product 2.3643 rounded to the common two-decimal precision of the options; it is not an exact equality.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q111_source_excerpt.png"
+    },
+    {
+      "family_id": "Q114",
+      "severity": "documented_interpretation",
+      "reason": "The source’s analogy assumes a mercury thermometer; the generated explanation does not imply that every thermometer contains mercury.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q114_source_excerpt.png"
+    }
+  ],
+  "duplicate_groups": [],
+  "limitations": [
+    "Printed keys are transcribed, not certified as an official or fully correct answer key.",
+    "Generated explanations and synthetic mistakes are annotations, not printed solutions or observed student responses.",
+    "Some main-file items require the conventional interpretations documented in source_index.json.",
+    "No external web corrections or invented missing instructions/dimensions are included."
+  ]
+}

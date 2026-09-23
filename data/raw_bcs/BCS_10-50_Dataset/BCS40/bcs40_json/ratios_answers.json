@@ -1,0 +1,48 @@
+[
+  {
+    "family_id": "Q162",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "90 টাকা",
+        "reasoning_steps": [
+          "Use the first ratio correctly but stop at Tapan’s income.",
+          "Report 90 rather than Robin’s income."
+        ],
+        "code": "BCS40-162-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "128 টাকা",
+        "reasoning_steps": [
+          "Reverse the first ratio and compute 120×4/3=160 for Tapan.",
+          "Apply the second ratio to obtain 160×4/5=128."
+        ],
+        "code": "BCS40-162-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q182",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০০",
+        "reasoning_steps": [
+          "Assume that equal masses are required regardless of lever-arm length.",
+          "Return 100."
+        ],
+        "code": "BCS40-182-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৫০০/৭ কেজি",
+        "reasoning_steps": [
+          "Reverse the arm ratio.",
+          "Calculate W=100×5/7=500/7 kg rather than 100×7/5."
+        ],
+        "code": "BCS40-182-INTERPRETATION-02"
+      }
+    ]
+  }
+]

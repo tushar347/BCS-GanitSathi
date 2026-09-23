@@ -1,0 +1,155 @@
+[
+  {
+    "family_id": "factor_theorem_parameter_bcs47_q016_f01",
+    "item_id": "BCS47_Q016",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "factor_theorem_parameter",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি 5x³ - 2x² + x + k = 0 এর একটি উৎপাদক (x - 3) হয়, তাহলে k এর মান কত?",
+    "answer_options": [
+      "৫০",
+      "৬০",
+      "-১২০",
+      "-৬০"
+    ],
+    "correct_answer": "-১২০",
+    "solution_steps": [
+      "By the factor theorem, substitute x=3.",
+      "5(27)-2(9)+3+k=120+k=0.",
+      "So k=-120."
+    ],
+    "source_page": 2,
+    "source_exam": "47th BCS"
+  },
+  {
+    "family_id": "geometric_sequence_missing_term_bcs47_q017_f01",
+    "item_id": "BCS47_Q017",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "geometric_sequence_missing_term",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "নিচের সিরিজের ফাঁকা জায়গায় কোন সংখ্যা হবে? 243, 81, ___, 9, 3, 1",
+    "answer_options": [
+      "9",
+      "27",
+      "12",
+      "6"
+    ],
+    "correct_answer": "27",
+    "solution_steps": [
+      "Each term is one-third of the previous term.",
+      "81/3=27 and 27/3=9.",
+      "So the missing term is 27."
+    ],
+    "source_page": 2,
+    "source_exam": "47th BCS"
+  },
+  {
+    "family_id": "geometric_progression_nth_term_bcs47_q019_f01",
+    "item_id": "BCS47_Q019",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "geometric_progression_nth_term",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি গুণোত্তর ধারার প্রথম ও দ্বিতীয় পদ যথাক্রমে 27 এবং 9, তাহলে ধারাটির দশম পদ কত?",
+    "answer_options": [
+      "1/3",
+      "1/525",
+      "1/729",
+      "1/615"
+    ],
+    "correct_answer": "1/729",
+    "solution_steps": [
+      "The common ratio is 9/27=1/3.",
+      "a10=27(1/3)^9 = 1/729."
+    ],
+    "source_page": 3,
+    "source_exam": "47th BCS"
+  },
+  {
+    "family_id": "equation_of_line_through_points_bcs47_q022_f01",
+    "item_id": "BCS47_Q022",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "equation_of_line_through_points",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "(0, 0) এবং (3, 3) বিন্দুগামী সরলরেখার সমীকরণ কোনটি?",
+    "answer_options": [
+      "y = x",
+      "y = 3x",
+      "y = x + 3",
+      "y = 3x + 3"
+    ],
+    "correct_answer": "y = x",
+    "solution_steps": [
+      "Slope=(3-0)/(3-0)=1.",
+      "A line of slope 1 through the origin is y=x."
+    ],
+    "source_page": 3,
+    "source_exam": "47th BCS"
+  },
+  {
+    "family_id": "recurring_decimal_division_bcs47_q026_f01",
+    "item_id": "BCS47_Q026",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "recurring_decimal_division",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "0.6̅ কে 0.9̅ দ্বারা ভাগ করলে, নিচের কোনটি সঠিক?",
+    "answer_options": [
+      "0.6̅",
+      "0.9̅",
+      "0.2̅3̅",
+      "0.3̅"
+    ],
+    "correct_answer": "0.6̅",
+    "solution_steps": [
+      "0.6̅ = 2/3 and 0.9̅ = 1.",
+      "(2/3)/1 = 2/3 = 0.6̅."
+    ],
+    "source_page": 3,
+    "source_exam": "47th BCS"
+  },
+  {
+    "family_id": "radical_expression_identity_bcs47_q029_f01",
+    "item_id": "BCS47_Q029",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "radical_expression_identity",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি x = √5 + √3 হয়, তবে x³ + 8/x³ এর মান কত?",
+    "answer_options": [
+      "18√5",
+      "22√5",
+      "28√5",
+      "32√5"
+    ],
+    "correct_answer": "28√5",
+    "solution_steps": [
+      "Since (√5+√3)(√5-√3)=2, we have 2/x = √5-√3.",
+      "Thus x + 2/x = 2√5.",
+      "Use a³+b³=(a+b)³-3ab(a+b) with a=x,b=2/x and ab=2 to get 28√5."
+    ],
+    "source_page": 4,
+    "source_exam": "47th BCS"
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "path": "audit_assets/Q148_source_excerpt.png",
+    "family_id": "Q148",
+    "source_page": 16,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      697.18,
+      547.0,
+      778.0
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q153_source_excerpt.png",
+    "family_id": "Q153",
+    "source_page": 17,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      388.01,
+      547.0,
+      469.31
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q160_source_excerpt.png",
+    "family_id": "Q160",
+    "source_page": 18,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      229.94,
+      547.0,
+      337.17
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q160_stem.png",
+    "family_id": "Q160",
+    "source_page": 18,
+    "role": "question_and_options_source_crop",
+    "pdf_bbox_points": [
+      53.0,
+      236.94,
+      547.0,
+      313.0
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q161_source_excerpt.png",
+    "family_id": "Q161",
+    "source_page": 18,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      327.17,
+      547.0,
+      412.29
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q162_source_excerpt.png",
+    "family_id": "Q162",
+    "source_page": 18,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      402.29,
+      547.0,
+      512.75
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q163_source_excerpt.png",
+    "family_id": "Q163",
+    "source_page": 18,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      502.75,
+      547.0,
+      587.63
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q164_source_excerpt.png",
+    "family_id": "Q164",
+    "source_page": 18,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      577.63,
+      547.0,
+      689.1
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q165_source_excerpt.png",
+    "family_id": "Q165",
+    "source_page": 18,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      689.02,
+      547.0,
+      778.0
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q166_source_excerpt.png",
+    "family_id": "Q166",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      59.0,
+      547.0,
+      149.46
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q167_source_excerpt.png",
+    "family_id": "Q167",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      139.46,
+      547.0,
+      221.86
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q168_source_excerpt.png",
+    "family_id": "Q168",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      216.86,
+      547.0,
+      308.41
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q168_stem.png",
+    "family_id": "Q168",
+    "source_page": 19,
+    "role": "question_and_options_source_crop",
+    "pdf_bbox_points": [
+      53.0,
+      223.86,
+      547.0,
+      283.41
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q169_source_excerpt.png",
+    "family_id": "Q169",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      301.0,
+      547.0,
+      424.33
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q169_stem.png",
+    "family_id": "Q169",
+    "source_page": 19,
+    "role": "question_and_options_source_crop",
+    "pdf_bbox_points": [
+      53.0,
+      301.0,
+      547.0,
+      390.0
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q170_source_excerpt.png",
+    "family_id": "Q170",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      430.49,
+      547.0,
+      514.91
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q171_source_excerpt.png",
+    "family_id": "Q171",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      504.91,
+      547.0,
+      607.83
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q172_source_excerpt.png",
+    "family_id": "Q172",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      604.87,
+      547.0,
+      710.3
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q173_source_excerpt.png",
+    "family_id": "Q173",
+    "source_page": 19,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      700.3,
+      547.0,
+      778.0
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q176_source_excerpt.png",
+    "family_id": "Q176",
+    "source_page": 20,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      184.1,
+      547.0,
+      259.14
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q177_source_excerpt.png",
+    "family_id": "Q177",
+    "source_page": 20,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      249.14,
+      547.0,
+      323.97
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q178_source_excerpt.png",
+    "family_id": "Q178",
+    "source_page": 20,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      313.97,
+      547.0,
+      386.85
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q178_option_a.png",
+    "family_id": "Q178",
+    "source_page": 20,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      84.398,
+      346.677,
+      169.959,
+      365.29
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q178_option_b.png",
+    "family_id": "Q178",
+    "source_page": 20,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      181.6,
+      346.677,
+      262.506,
+      365.29
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q178_option_c.png",
+    "family_id": "Q178",
+    "source_page": 20,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      324.785,
+      346.677,
+      407.437,
+      365.29
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q178_option_d.png",
+    "family_id": "Q178",
+    "source_page": 20,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      409.183,
+      346.677,
+      491.835,
+      365.29
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q180_source_excerpt.png",
+    "family_id": "Q180",
+    "source_page": 20,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      463.09,
+      547.0,
+      537.95
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q182_source_excerpt.png",
+    "family_id": "Q182",
+    "source_page": 20,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      614.23,
+      547.0,
+      778.0
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q182_stem.png",
+    "family_id": "Q182",
+    "source_page": 20,
+    "role": "question_and_options_source_crop",
+    "pdf_bbox_points": [
+      53.0,
+      621.23,
+      547.0,
+      757.456
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q183_source_excerpt.png",
+    "family_id": "Q183",
+    "source_page": 21,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      59.0,
+      547.0,
+      170.34
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q195_source_excerpt.png",
+    "family_id": "Q195",
+    "source_page": 22,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      588.07,
+      547.0,
+      778.0
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q195_stem.png",
+    "family_id": "Q195",
+    "source_page": 22,
+    "role": "question_and_options_source_crop",
+    "pdf_bbox_points": [
+      53.0,
+      595.07,
+      547.0,
+      754.096
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q196_source_excerpt.png",
+    "family_id": "Q196",
+    "source_page": 23,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      54.713,
+      61.657,
+      544.801,
+      389.139
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q196_stem.png",
+    "family_id": "Q196",
+    "source_page": 23,
+    "role": "question_figure",
+    "pdf_bbox_points": [
+      55.295,
+      62.821,
+      240.97,
+      180.318
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q196_option_a.png",
+    "family_id": "Q196",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      84.398,
+      191.952,
+      200.808,
+      262.334
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q196_option_b.png",
+    "family_id": "Q196",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      324.785,
+      194.86,
+      430.719,
+      262.334
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q196_option_c.png",
+    "family_id": "Q196",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      84.398,
+      262.334,
+      191.495,
+      324.573
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q196_option_d.png",
+    "family_id": "Q196",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      324.785,
+      262.334,
+      433.047,
+      324.573
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q197_source_excerpt.png",
+    "family_id": "Q197",
+    "source_page": 23,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      391.49,
+      547.0,
+      452.45
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q197_option_a.png",
+    "family_id": "Q197",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      83.234,
+      419.967,
+      164.721,
+      438.581
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q197_option_b.png",
+    "family_id": "Q197",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      182.183,
+      419.967,
+      263.67,
+      438.581
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q197_option_c.png",
+    "family_id": "Q197",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      324.785,
+      419.967,
+      406.273,
+      438.581
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q197_option_d.png",
+    "family_id": "Q197",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      409.183,
+      419.967,
+      491.253,
+      438.581
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q198_source_excerpt.png",
+    "family_id": "Q198",
+    "source_page": 23,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      53.0,
+      442.45,
+      547.0,
+      531.35
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "audit_assets/Q199_source_excerpt.png",
+    "family_id": "Q199",
+    "source_page": 23,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      54.713,
+      502.565,
+      545.966,
+      774.788
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q199_stem.png",
+    "family_id": "Q199",
+    "source_page": 23,
+    "role": "question_figure",
+    "pdf_bbox_points": [
+      54.713,
+      503.147,
+      298.011,
+      546.772
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q199_option_a.png",
+    "family_id": "Q199",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      84.398,
+      547.935,
+      185.675,
+      616.573
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q199_option_b.png",
+    "family_id": "Q199",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      323.039,
+      549.68,
+      423.152,
+      616.573
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q199_option_c.png",
+    "family_id": "Q199",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      84.398,
+      617.154,
+      187.421,
+      685.21
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q199_option_d.png",
+    "family_id": "Q199",
+    "source_page": 23,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      323.039,
+      617.154,
+      426.645,
+      685.21
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "audit_assets/Q200_source_excerpt.png",
+    "family_id": "Q200",
+    "source_page": 24,
+    "role": "audit_source_excerpt",
+    "pdf_bbox_points": [
+      54.713,
+      62.239,
+      545.966,
+      353.075
+    ],
+    "contains_printed_answer": true
+  },
+  {
+    "path": "assets/Q200_stem.png",
+    "family_id": "Q200",
+    "source_page": 24,
+    "role": "question_figure",
+    "pdf_bbox_points": [
+      54.713,
+      62.821,
+      319.547,
+      145.418
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q200_option_a.png",
+    "family_id": "Q200",
+    "source_page": 24,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      84.398,
+      173.92,
+      161.811,
+      244.302
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q200_option_b.png",
+    "family_id": "Q200",
+    "source_page": 24,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      181.6,
+      168.103,
+      262.506,
+      244.302
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q200_option_c.png",
+    "family_id": "Q200",
+    "source_page": 24,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      324.785,
+      157.052,
+      409.183,
+      244.302
+    ],
+    "contains_printed_answer": false
+  },
+  {
+    "path": "assets/Q200_option_d.png",
+    "family_id": "Q200",
+    "source_page": 24,
+    "role": "answer_option",
+    "pdf_bbox_points": [
+      409.765,
+      154.725,
+      495.909,
+      244.302
+    ],
+    "contains_printed_answer": false
+  }
+]

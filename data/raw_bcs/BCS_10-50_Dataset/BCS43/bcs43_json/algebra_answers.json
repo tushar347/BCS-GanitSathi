@@ -1,0 +1,73 @@
+[
+  {
+    "family_id": "Q164",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "64",
+        "reasoning_steps": [
+          "Find x+1/x=4.",
+          "Cube the sum as 64 and omit the cross term 3(x+1/x)."
+        ],
+        "code": "BCS43-164-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "54",
+        "reasoning_steps": [
+          "Use 4³−3×4.",
+          "Incorrectly calculate 3×4 as 10.",
+          "Return 64−10=54."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS43-164-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q167",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "1",
+        "reasoning_steps": [
+          "Ignore the exponential term and solve 4x=4.",
+          "Return x=1."
+        ],
+        "code": "BCS43-167-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "0",
+        "reasoning_steps": [
+          "Notice that x=0 also satisfies the literal equation.",
+          "Return 0 without checking that it is not one of the supplied options."
+        ],
+        "code": "BCS43-167-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q173",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "{1, 3, 5, 7, 9}",
+        "reasoning_steps": [
+          "Return B itself without intersecting with A.",
+          "Keep 1 and 9 although they are outside A."
+        ],
+        "code": "BCS43-173-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "{3, 5, 8}",
+        "reasoning_steps": [
+          "Include A’s upper endpoint 8 but overlook the odd-number restriction.",
+          "Select the first option."
+        ],
+        "code": "BCS43-173-INTERPRETATION-02"
+      }
+    ]
+  }
+]

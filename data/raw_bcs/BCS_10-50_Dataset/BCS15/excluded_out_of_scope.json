@@ -1,0 +1,26 @@
+[
+  {
+    "question_number": 17,
+    "source_page": 3,
+    "reason": "area unit conversion / mensuration - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 26,
+    "source_page": 5,
+    "reason": "circle tangency geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 27,
+    "source_page": 5,
+    "reason": "triangle classification from line equations - geometry outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 75,
+    "source_page": 12,
+    "reason": "right-triangle/ladder geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "item_id": "BCS46_Q036",
+    "family_id": "fraction_comparison_bcs46_q036_f01",
+    "exam": "46th BCS",
+    "question_number": 36,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_comparison",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোন ভগ্নাংশটি ২/৩ হতে বড়?",
+    "question_normalized": "নিচের কোন ভগ্নাংশটি ২/৩ হতে বড়?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৩/৫০",
+      "৮/১১",
+      "১৩/২৭",
+      "৮/১১"
+    ],
+    "printed_answer": "৮/১১",
+    "accepted_answer_forms": [
+      "৮/১১",
+      "8/11"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 46th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS46_Q037",
+    "family_id": "compound_amount_bcs46_q037_f01",
+    "exam": "46th BCS",
+    "question_number": 37,
+    "source_page": 6,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "compound_amount",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "বার্ষিক ৫% হার মুনাফায় ৪০০ টাকার ২ বছরের চক্রবৃদ্ধি মূলধন কত?",
+    "question_normalized": "বার্ষিক ৫% হার মুনাফায় ৪০০ টাকার ২ বছরের চক্রবৃদ্ধি মূলধন কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৪০ টাকা",
+      "৪৪১ টাকা",
+      "৪৪৫ টাকা",
+      "৪৫০ টাকা"
+    ],
+    "printed_answer": "৪৪১ টাকা",
+    "accepted_answer_forms": [
+      "৪৪১ টাকা",
+      "441 টাকা",
+      "441"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 46th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS46_Q039",
+    "family_id": "quadratic_inequality_bcs46_q039_f01",
+    "exam": "46th BCS",
+    "question_number": 39,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_inequality",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x² - 7x + 12 ≤ 0 এর সমাধান সেট-",
+    "question_normalized": "x² - 7x + 12 ≤ 0 এর সমাধান সেট-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(-∞, 3]",
+      "(4, 3)",
+      "[3, 4]",
+      "[4, ∞)"
+    ],
+    "printed_answer": "[3, 4]",
+    "accepted_answer_forms": [
+      "[3, 4]",
+      "[3,4]"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 46th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS46_Q040",
+    "family_id": "algebraic_identity_evaluation_bcs46_q040_f01",
+    "exam": "46th BCS",
+    "question_number": 40,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "algebraic_identity_evaluation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x² + y² + z² = 2, xy + yz + zx = 1 হলে, (x + 2y)² + (y + 2z)² + (z + 2x)² এর মান-",
+    "question_normalized": "x² + y² + z² = 2, xy + yz + zx = 1 হলে, (x + 2y)² + (y + 2z)² + (z + 2x)² এর মান-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "12",
+      "19",
+      "16",
+      "14"
+    ],
+    "printed_answer": "14",
+    "accepted_answer_forms": [
+      "14",
+      "১৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 46th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS46_Q041",
+    "family_id": "simultaneous_linear_equations_bcs46_q041_f01",
+    "exam": "46th BCS",
+    "question_number": 41,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "simultaneous_linear_equations",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "3x - y = 3, 5x + y = 21 হলে, (x, y) এর মান-",
+    "question_normalized": "3x - y = 3, 5x + y = 21 হলে, (x, y) এর মান-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(2, 5)",
+      "(2, 6)",
+      "(3, 5)",
+      "(3, 6)"
+    ],
+    "printed_answer": "(3, 6)",
+    "accepted_answer_forms": [
+      "(3, 6)",
+      "(3,6)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 46th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS46_Q043",
+    "family_id": "logarithmic_equation_bcs46_q043_f01",
+    "exam": "46th BCS",
+    "question_number": 43,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithmic_equation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "log_{√8} x = 3 1/3 হলে, x এর মান কত?",
+    "question_normalized": "log_{√8} x = 3 1/3 হলে, x এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "32",
+      "4",
+      "3",
+      "8"
+    ],
+    "printed_answer": "32",
+    "accepted_answer_forms": [
+      "32",
+      "৩২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 46th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS46_Q056",
+    "family_id": "reversed_digits_age_equation_bcs46_q056_f01",
+    "exam": "46th BCS",
+    "question_number": 56,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "reversed_digits_age_equation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একজন মহিলা বলছেন, “আপনি যদি আমার নিজের বয়সকে উল্টে দেন তাহলে তা আমার স্বামীর বয়সকে নির্দেশ করে। তিনি আমার থেকে বয়সে বড় এবং আমাদের বয়সের পার্থক্য আমাদের মোট বয়সের যোগফলের এগারো ভাগের এক ভাগ।” মহিলার বয়স কত?",
+    "question_normalized": "একজন মহিলা বলছেন, “আপনি যদি আমার নিজের বয়সকে উল্টে দেন তাহলে তা আমার স্বামীর বয়সকে নির্দেশ করে। তিনি আমার থেকে বয়সে বড় এবং আমাদের বয়সের পার্থক্য আমাদের মোট বয়সের যোগফলের এগারো ভাগের এক ভাগ।” মহিলার বয়স কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২৩ বছর",
+      "৩৪ বছর",
+      "৪৫ বছর",
+      "কোনোটিই নয়"
+    ],
+    "printed_answer": "৪৫ বছর",
+    "accepted_answer_forms": [
+      "৪৫ বছর",
+      "45 বছর",
+      "45"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 46th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

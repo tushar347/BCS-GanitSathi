@@ -1,0 +1,321 @@
+[
+  {
+    "item_id": "BCS11_Q069",
+    "family_id": "price_decrease_fixed_budget_extra_quantity_f01",
+    "exam": "11th BCS",
+    "question_number": 69,
+    "source_page": 5,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_price_drop_quantity_change",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "চালের মূল্য ১২% কমে যাওয়ায় ৬,০০০ টাকায় পূর্বাপেক্ষা ১ কুইন্টাল চাল বেশি পাওয়া যায়। ১ কুইন্টাল চালের বর্তমান মূল্য কত?",
+    "question_normalized": "চালের মূল্য ১২% কমে যাওয়ায় ৬,০০০ টাকায় পূর্বাপেক্ষা ১ কুইন্টাল চাল বেশি পাওয়া যায়। ১ কুইন্টাল চালের বর্তমান মূল্য কত?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "কুইন্টাল",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "৭৫০ টাকা",
+      "৭০০ টাকা",
+      "৭২০ টাকা",
+      "৭৫ টাকা"
+    ],
+    "printed_answer": "৭২০ টাকা",
+    "accepted_answer_forms": [
+      "৭২০ টাকা",
+      "720 টাকা",
+      "720"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q071",
+    "family_id": "same_distance_speed_arrival_time_gap_f01",
+    "exam": "11th BCS",
+    "question_number": 71,
+    "source_page": 5,
+    "topic_group": "speed_distance",
+    "subskill": "same_route_different_speeds_arrival_gap",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "ক ঘণ্টায় ১০ কি.মি. এবং খ ঘণ্টায় ১৫ কি.মি. বেগে একই স্থান থেকে রাজশাহীর পথে রওয়ানা হলো। ক ১০.১০ মিনিটের সময় এবং খ ৯.৪০ মিনিটের সময় রাজশাহী পৌঁছল। রওয়ানা হওয়ার স্থান থেকে রাজশাহীর দূরত্ব কত কি.মি.?",
+    "question_normalized": "ক ঘণ্টায় ১০ কি.মি. এবং খ ঘণ্টায় ১৫ কি.মি. বেগে একই স্থান থেকে রাজশাহীর পথে রওয়ানা হলো। ক ১০.১০ মিনিটের সময় এবং খ ৯.৪০ মিনিটের সময় রাজশাহী পৌঁছল। রওয়ানা হওয়ার স্থান থেকে রাজশাহীর দূরত্ব কত কি.মি.?",
+    "normalization_notes": [],
+    "units": [
+      "কিলোমিটার",
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "২০ কি.মি.",
+      "২৫ কি.মি.",
+      "১৫ কি.মি.",
+      "২৮ কি.মি."
+    ],
+    "printed_answer": "১৫ কি.মি.",
+    "accepted_answer_forms": [
+      "১৫ কি.মি.",
+      "15 km",
+      "১৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q072",
+    "family_id": "sequence_second_difference_f01",
+    "exam": "11th BCS",
+    "question_number": 72,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sequence_increasing_differences",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১৯, ৩৩, ৫১, ৭৩, .......... পরবর্তী সংখ্যাটি কত?",
+    "question_normalized": "১৯, ৩৩, ৫১, ৭৩, .......... পরবর্তী সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৮৫",
+      "১২১",
+      "৯৯",
+      "৯৮"
+    ],
+    "printed_answer": "৯৯",
+    "accepted_answer_forms": [
+      "৯৯",
+      "99"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q073",
+    "family_id": "cricket_wicket_ratio_counts_f01",
+    "exam": "11th BCS",
+    "question_number": 73,
+    "source_page": 6,
+    "topic_group": "ratios_proportions",
+    "subskill": "count_relation_word_problem",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি ক্রিকেট দলে যতজন স্ট্যাম্প আউট হলো তার দেড়গুণ ক্যাচ আউট হলো এবং মোট উইকেটের অর্ধেক বোল্ড আউট হলো। এই দলের কতজন ক্যাচ আউট হলো?",
+    "question_normalized": "একটি ক্রিকেট দলে যতজন স্ট্যাম্প আউট হলো তার দেড়গুণ ক্যাচ আউট হলো এবং মোট উইকেটের অর্ধেক বোল্ড আউট হলো। এই দলের কতজন ক্যাচ আউট হলো?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪ জন",
+      "৩ জন",
+      "২ জন",
+      "৫ জন"
+    ],
+    "printed_answer": "৩ জন",
+    "accepted_answer_forms": [
+      "৩ জন",
+      "3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q074",
+    "family_id": "outbound_projectile_return_sound_f01",
+    "exam": "11th BCS",
+    "question_number": 74,
+    "source_page": 6,
+    "topic_group": "speed_distance",
+    "subskill": "projectile_sound_return_timing",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "একটি বন্দুকের গুলি প্রতি সেকেন্ডে ১৫৪০ ফুট গতিবেগে লক্ষ্যভেদ করে। এক ব্যক্তি বন্দুক ছোঁড়ার ৩ সেকেন্ড পরে লক্ষ্যভেদের শব্দ শুনতে পায়। শব্দের গতি প্রতি সেকেন্ডে ১১০০ ফুট। লক্ষ্যবস্তুর দূরত্ব কত?",
+    "question_normalized": "একটি বন্দুকের গুলি প্রতি সেকেন্ডে ১৫৪০ ফুট গতিবেগে লক্ষ্যভেদ করে। এক ব্যক্তি বন্দুক ছোঁড়ার ৩ সেকেন্ড পরে লক্ষ্যভেদের শব্দ শুনতে পায়। শব্দের গতি প্রতি সেকেন্ডে ১১০০ ফুট। লক্ষ্যবস্তুর দূরত্ব কত?",
+    "normalization_notes": [],
+    "units": [
+      "ফুট",
+      "সেকেন্ড"
+    ],
+    "answer_options": [
+      "২০২৫ ফুট",
+      "১৯২৫ ফুট",
+      "১৯৯৫ ফুট",
+      "১৯৭৫ ফুট"
+    ],
+    "printed_answer": "১৯২৫ ফুট",
+    "accepted_answer_forms": [
+      "১৯২৫ ফুট",
+      "1925 ft",
+      "1925"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q077",
+    "family_id": "ratio_difference_find_quantity_f01",
+    "exam": "11th BCS",
+    "question_number": 77,
+    "source_page": 6,
+    "topic_group": "ratios_proportions",
+    "subskill": "ratio_difference_find_part",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি পাত্রে দুধ ও পানির অনুপাত ৫ : ২। যদি পানি অপেক্ষা দুধের পরিমাণ ৬ লিটার বেশি হয়, পানির পরিমাণ কত?",
+    "question_normalized": "একটি পাত্রে দুধ ও পানির অনুপাত ৫ : ২। যদি পানি অপেক্ষা দুধের পরিমাণ ৬ লিটার বেশি হয়, পানির পরিমাণ কত?",
+    "normalization_notes": [],
+    "units": [
+      "লিটার"
+    ],
+    "answer_options": [
+      "১৪ লিটার",
+      "৬ লিটার",
+      "১০ লিটার",
+      "৪ লিটার"
+    ],
+    "printed_answer": "৪ লিটার",
+    "accepted_answer_forms": [
+      "৪ লিটার",
+      "4 liters",
+      "4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q079",
+    "family_id": "reverse_percentage_increase_to_decrease_f01",
+    "exam": "11th BCS",
+    "question_number": 79,
+    "source_page": 6,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "reverse_percentage_comparison",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "ক-এর বেতন খ-এর বেতন অপেক্ষা শতকরা ৩৫ টাকা বেশি হলে খ-এর বেতন ক-এর বেতন অপেক্ষা কত টাকা কম?",
+    "question_normalized": "ক-এর বেতন খ-এর বেতন অপেক্ষা শতকরা ৩৫ টাকা বেশি হলে খ-এর বেতন ক-এর বেতন অপেক্ষা কত টাকা কম?",
+    "normalization_notes": [],
+    "units": [
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "২৭ টাকা",
+      "২৫.৯৩ টাকা",
+      "৪০ টাকা",
+      "২৫.৫০ টাকা"
+    ],
+    "printed_answer": "২৫.৯৩ টাকা",
+    "accepted_answer_forms": [
+      "২৫.৯৩",
+      "২৫.৯৩%",
+      "25.93%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q080",
+    "family_id": "missing_value_group_averages_f01",
+    "exam": "11th BCS",
+    "question_number": 80,
+    "source_page": 6,
+    "topic_group": "averages_mixtures",
+    "subskill": "missing_value_from_group_averages",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "১০টি সংখ্যার যোগফল ৪৬২। এদের প্রথম ৪টির গড় ৫২ এবং শেষের ৫টির গড় ৩৮। পঞ্চম সংখ্যাটি কত?",
+    "question_normalized": "১০টি সংখ্যার যোগফল ৪৬২। এদের প্রথম ৪টির গড় ৫২ এবং শেষের ৫টির গড় ৩৮। পঞ্চম সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৬০",
+      "৬৪",
+      "৬২",
+      "৫০"
+    ],
+    "printed_answer": "৬৪",
+    "accepted_answer_forms": [
+      "৬৪",
+      "64"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q082",
+    "family_id": "difference_cubes_difference_find_product_f01",
+    "exam": "11th BCS",
+    "question_number": 82,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "difference_of_cubes_find_product",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "যদি a³ - b³ = 513 এবং a - b = 3 হয় তবে, ab এর মান কত?",
+    "question_normalized": "যদি a³ - b³ = 513 এবং a - b = 3 হয় তবে, ab এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "54",
+      "35",
+      "45",
+      "55"
+    ],
+    "printed_answer": "54",
+    "accepted_answer_forms": [
+      "54",
+      "৫৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS11_Q083",
+    "family_id": "polynomial_division_same_degree_remainder_f01",
+    "exam": "11th BCS",
+    "question_number": 83,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_division_remainder",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "(x + 3)(x - 3) কে x² - 6 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+    "question_normalized": "(x + 3)(x - 3) কে x² - 6 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-6",
+      "3",
+      "6",
+      "-3"
+    ],
+    "printed_answer": "-3",
+    "accepted_answer_forms": [
+      "-3",
+      "−3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 11th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

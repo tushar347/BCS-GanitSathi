@@ -1,0 +1,73 @@
+{
+  "collection": "42nd BCS (Special)",
+  "counts": {
+    "selected": 17,
+    "annotated": 16,
+    "review_required": 1
+  },
+  "issues": [
+    {
+      "family_id": "Q026",
+      "severity": "documented_interpretation",
+      "reason": "The source key capitalizes Gravity while option ঘ is lowercase gravity. Both spellings are preserved; they are the same option. The analogy interpretation is an annotation, not a printed solution.",
+      "source_page": 3,
+      "source_evidence": "audit_assets/Q026_source_excerpt.png"
+    },
+    {
+      "family_id": "Q045",
+      "severity": "documented_interpretation",
+      "reason": "The source literally prints A I B and P(B/A). The generated explanation explicitly interprets these as independent events A and B and conditional probability, respectively; the source wording is not replaced.",
+      "source_page": 6,
+      "source_evidence": "audit_assets/Q045_source_excerpt.png"
+    },
+    {
+      "family_id": "Q046",
+      "severity": "documented_interpretation",
+      "reason": "The first occurrence জয়নুলে is retained from the printed wording.",
+      "source_page": 6,
+      "source_evidence": "audit_assets/Q046_source_excerpt.png"
+    },
+    {
+      "family_id": "Q048",
+      "severity": "documented_interpretation",
+      "reason": "A natural constant-ratio continuation is used; finite sequences do not determine a unique mathematical continuation without a rule.",
+      "source_page": 6,
+      "source_evidence": "audit_assets/Q048_source_excerpt.png"
+    },
+    {
+      "family_id": "Q055",
+      "severity": "documented_interpretation",
+      "reason": "Slashes preserve the stacked numerator/denominator layout; these are sequence labels, not numerical division operations.",
+      "source_page": 7,
+      "source_evidence": "audit_assets/Q055_source_excerpt.png"
+    },
+    {
+      "family_id": "Q056",
+      "severity": "documented_interpretation",
+      "reason": "The source uses বৃদ্ধি both for the diameter and for area. The key treats this as a new-to-old scaling factor, not an additive increase. That interpretation is explicit in the annotation.",
+      "source_page": 7,
+      "source_evidence": "audit_assets/Q056_source_excerpt.png"
+    },
+    {
+      "family_id": "Q099",
+      "severity": "documented_interpretation",
+      "reason": "The unusual interval directions in distractors গ and ঘ are printed that way and are retained.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q099_source_excerpt.png"
+    },
+    {
+      "family_id": "Q100",
+      "severity": "review_required",
+      "reason": "The source provides three pieces and a keyed concave polygon, but the allowed transformations and precise piece boundaries are not specified. Preserve the images and printed option খ; assembly has not been established sufficiently to supply a reliable worked solution.",
+      "source_page": 11,
+      "source_evidence": "audit_assets/Q100_source_excerpt.png"
+    }
+  ],
+  "duplicate_groups": [],
+  "limitations": [
+    "Printed keys are transcribed, not certified as an official or fully correct answer key.",
+    "Generated explanations and synthetic mistakes are annotations, not printed solutions or observed student responses.",
+    "Some main-file items require the conventional interpretations documented in source_index.json.",
+    "No external web corrections or invented missing instructions/dimensions are included."
+  ]
+}

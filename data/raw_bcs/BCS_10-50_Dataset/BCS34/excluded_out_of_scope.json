@@ -1,0 +1,52 @@
+[
+  {
+    "q": 29,
+    "page": 4,
+    "reason": "geometry/mensuration - outside initial six-topic benchmark"
+  },
+  {
+    "q": 31,
+    "page": 4,
+    "reason": "geometry - outside initial scope"
+  },
+  {
+    "q": 32,
+    "page": 4,
+    "reason": "set theory - outside initial scope"
+  },
+  {
+    "q": 35,
+    "page": 5,
+    "reason": "geometry/mensuration - outside initial scope"
+  },
+  {
+    "q": 38,
+    "page": 5,
+    "reason": "geometry - outside initial scope"
+  },
+  {
+    "q": 39,
+    "page": 5,
+    "reason": "clock-angle geometry - outside initial scope"
+  },
+  {
+    "q": 40,
+    "page": 5,
+    "reason": "calendar/mental ability - outside initial scope"
+  },
+  {
+    "q": 44,
+    "page": 6,
+    "reason": "counting/mental ability - outside initial six-topic benchmark"
+  },
+  {
+    "q": 45,
+    "page": 6,
+    "reason": "family-relation reasoning - outside math scope"
+  },
+  {
+    "q": 47,
+    "page": 6,
+    "reason": "visual pattern question and source itself marks it defective; outside initial scope"
+  }
+]

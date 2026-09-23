@@ -1,0 +1,138 @@
+{
+  "collection": "40th BCS",
+  "counts": {
+    "selected": 28,
+    "annotated": 21,
+    "review_required": 7
+  },
+  "issues": [
+    {
+      "family_id": "Q160",
+      "severity": "review_required",
+      "reason": "The source itself states that all the given numbers are rational and supplies no correct option. The repeating decimals are rational, √9=3 and √(27/48)=3/4. No irrational distractor is invented.",
+      "source_page": 18,
+      "source_evidence": "audit_assets/Q160_source_excerpt.png"
+    },
+    {
+      "family_id": "Q163",
+      "severity": "documented_interpretation",
+      "reason": "Simple interest, rather than compound interest, is the explicit interpretation matching the source key.",
+      "source_page": 18,
+      "source_evidence": "audit_assets/Q163_source_excerpt.png"
+    },
+    {
+      "family_id": "Q168",
+      "severity": "review_required",
+      "reason": "The first requested term is visibly 3 with superscript x, not x with superscript 3. The keyed identity would work for x³+1/x³, but replacing 3^x by x³ changes the source. The displayed target and source key are preserved.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q168_source_excerpt.png"
+    },
+    {
+      "family_id": "Q169",
+      "severity": "documented_interpretation",
+      "reason": "The nested exponent and radical placement are preserved in the source image. The explanation verifies the offered key by substitution rather than claiming a unique solution over every domain; x=1 also satisfies the equation.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q169_source_excerpt.png"
+    },
+    {
+      "family_id": "Q170",
+      "severity": "documented_interpretation",
+      "reason": "The second option is also a sufficient restriction, but is not the complete admissible range. The keyed option is interpreted as the necessary-and-sufficient domain condition; this interpretation is explicitly documented.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q170_source_excerpt.png"
+    },
+    {
+      "family_id": "Q171",
+      "severity": "documented_interpretation",
+      "reason": "The source’s unmatched parenthesis is preserved. Positive divisors and positive multiples are the explicit school-set convention used for the supplied key.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q171_source_excerpt.png"
+    },
+    {
+      "family_id": "Q172",
+      "severity": "documented_interpretation",
+      "reason": "The ordinary sequence indexing n=1,2,... is assumed explicitly; no starting index is printed.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q172_source_excerpt.png"
+    },
+    {
+      "family_id": "Q173",
+      "severity": "review_required",
+      "reason": "The key 20 equals C(6,3) when the two teams are distinguished or labeled. For two unlabeled teams, each division is counted twice and the answer is 10. Both values are offered, and the source does not specify whether teams are labeled. Neither interpretation is silently imposed.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q173_source_excerpt.png"
+    },
+    {
+      "family_id": "Q178",
+      "severity": "documented_interpretation",
+      "reason": "The same source question appears again as Q197 with a different graphical rendering. Both source occurrences are retained and linked as duplicates in the quality report.",
+      "source_page": 20,
+      "source_evidence": "audit_assets/Q178_source_excerpt.png"
+    },
+    {
+      "family_id": "Q180",
+      "severity": "review_required",
+      "reason": "The given example visibly reads চ×G=82. Under the usual consonant-position and English-position product, চ is 6 and G is 7, giving 42, not 82. Although J×ট would then give the key 110, doing so would require disregarding the printed premise. The premise is not corrected.",
+      "source_page": 20,
+      "source_evidence": "audit_assets/Q180_source_excerpt.png"
+    },
+    {
+      "family_id": "Q195",
+      "severity": "documented_interpretation",
+      "reason": "Collinearity and the side of RN on which RP lies are read from the source diagram; the printed PQ∥MR condition is retained even though this solution does not need it.",
+      "source_page": 22,
+      "source_evidence": "audit_assets/Q195_source_excerpt.png"
+    },
+    {
+      "family_id": "Q196",
+      "severity": "review_required",
+      "reason": "This source item has only a diagram and options, with no textual instruction explaining the transformation or completion rule. The answer drawing matches ঘ, but a reliable solving rule has not been established from the supplied image alone. No question wording or solution is invented.",
+      "source_page": 23,
+      "source_evidence": "audit_assets/Q196_source_excerpt.png"
+    },
+    {
+      "family_id": "Q197",
+      "severity": "documented_interpretation",
+      "reason": "Duplicate wording of Q178 is retained because both question numbers occur in the source. The two renderings have separate image assets.",
+      "source_page": 23,
+      "source_evidence": "audit_assets/Q197_source_excerpt.png"
+    },
+    {
+      "family_id": "Q198",
+      "severity": "review_required",
+      "reason": "The third factor is printed ০০১ without a decimal point. Interpreting it literally as 1 gives 0.001, whereas the supplied key 0.000001 would require the third factor to be .001. The missing point is not inserted.",
+      "source_page": 23,
+      "source_evidence": "audit_assets/Q198_source_excerpt.png"
+    },
+    {
+      "family_id": "Q199",
+      "severity": "review_required",
+      "reason": "The source supplies diagrams and an answer drawing but no textual instruction or sufficiently clear transformation rule. The printed answer matches ক and is retained as a source key, not a verified model solution.",
+      "source_page": 23,
+      "source_evidence": "audit_assets/Q199_source_excerpt.png"
+    },
+    {
+      "family_id": "Q200",
+      "severity": "documented_interpretation",
+      "reason": "There is no printed textual question stem. question_bn contains the original figure rather than invented Bangla wording. Crossed-out marks on the first two source cards are preserved in the image; the explanation explicitly uses the uncrossed-out entries.",
+      "source_page": 24,
+      "source_evidence": "audit_assets/Q200_source_excerpt.png"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "family_ids": [
+        "Q178",
+        "Q197"
+      ],
+      "type": "Repeated mirror-word question in the same PDF",
+      "handling": "Retained with separate source numbers and assets; group in data splitting."
+    }
+  ],
+  "limitations": [
+    "Printed keys are transcribed, not certified as an official or fully correct answer key.",
+    "Generated explanations and synthetic mistakes are annotations, not printed solutions or observed student responses.",
+    "Some main-file items require the conventional interpretations documented in source_index.json.",
+    "No external web corrections or invented missing instructions/dimensions are included."
+  ]
+}

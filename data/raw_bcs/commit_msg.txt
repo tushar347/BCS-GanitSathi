@@ -1,0 +1,48 @@
+[Update-2][RA2] Replace flat BCS raw files with BCS(10-50) per-exam benchmark structure (Refs: §7.1)
+
+REMOVED
+- data/raw_bcs/BCS_answers.json
+- data/raw_bcs/bcs_math_catalog.json
+- data/raw_bcs/BCS_questiions.json
+These only covered the "Problem structure" layer of the §7.1 schema
+(stem, options, answer, topic, difficulty) — no solution graph,
+pedagogy, misconceptions, or provenance metadata.
+
+ADDED
+data/raw_bcs/BCS_10-50_Dataset/BCS10 .. BCS50/, one folder per source
+exam, each containing:
+
+  compatibility_demo_format/
+    Flat per-topic Q&A files (elementary_algebra, percentages_profit_loss,
+    ratios_proportions, speed_distance, work_time, averages_mixtures).
+    Kept so any code still built against the old flat schema keeps working.
+
+  research_benchmark/
+    problems.json + solutions.json
+      -> Problem structure + Solution graph layers (§7.1)
+    authored_histories_evaluation.json + authored_histories_model.json
+      -> Pedagogy + Misconceptions layers. Implements the 4-history
+         schema from Task 2.7 (no assistance / hint / erroneous step /
+         ambiguous step) with misconception codes in the M-XXX-NN
+         format from Table 13 (e.g. M-PCT-01, M-RATIO-02).
+    diagnostic_probes.json
+      -> supports the bounded-probing invariant (N_probe <= 1) at the
+         Diagnose/Plan stages of the verification pipeline (§4.3)
+    output_policies.json
+      -> fail-safe / disclosure policy layer; prevents premature
+         answer leakage per the Socratic explanation mode (§5.1)
+
+  collection_summary.json, excluded_out_of_scope.json
+    -> Provenance + Quality layers (§7.1): source/license status,
+       scope exclusions, audit trail for the claim ledger (RA1)
+
+WHY
+The old files covered 1 of the 6 required schema layers in §7.1
+(GonitSathi-Bench schema). This structure covers all 6, split per
+source exam so families from the same exam can be tracked for
+disjointness across train/dev/test splits later.
+
+NOT YET VERIFIED
+Misconception codes inside authored_histories_evaluation.json have
+not been independently checked against the Table 13 taxonomy format
+by a second reviewer.

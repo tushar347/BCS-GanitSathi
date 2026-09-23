@@ -1,0 +1,52 @@
+[
+  {
+    "family_id": "Q049",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "percentage loss for equal quantities bought at different rates",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "75 seconds",
+    "target_quantity": "percentage profit or loss",
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "ক্ষতি": "loss",
+      "লাভ": "profit"
+    },
+    "question_bn": "টাকায় ৩টি এবং টাকায় ৫টি দরে সমান সংখ্যক আমলকি ক্রয় করে এক ব্যক্তি টাকায় ৪টি করে আমলকি বিক্রয় করলেন। ঐ ব্যক্তির শতকরা কত লাভ বা ক্ষতি হলো তা নির্ণয় করুন।",
+    "answer_options": [
+      "৪.২৫% লাভ",
+      "৫.২৫% ক্ষতি",
+      "৬.২৫% ক্ষতি",
+      "৭.২৫% লাভ"
+    ],
+    "correct_answer": "৬.২৫% ক্ষতি",
+    "solution_steps": [
+      "Use 15 fruits bought at each rate, for 30 fruits altogether.",
+      "Cost=15/3+15/5=5+3=8 taka; sale proceeds=30/4=7.5 taka.",
+      "Loss=0.5 taka, so percentage loss=(0.5/8)×100=6.25%."
+    ]
+  },
+  {
+    "family_id": "Q052",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "successive percentage increases",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "monthly bill after 18 months",
+    "english_glossary": {},
+    "question_bn": "আপনার মোবাইল ফোনের মাসিক বিল এসেছে ৪২০ টাকা। যদি ১ বছর পর ১০% বৃদ্ধি পায় এবং আরো ৬ মাস পর ২০% বৃদ্ধি পায়, তাহলে ১৮ মাস পর আপনার বিল কত হবে?",
+    "answer_options": [
+      "৪৬০.২০ টাকা",
+      "৫৫৪.৪০ টাকা",
+      "৬২০.৬০ টাকা",
+      "৭৩০.৮০ টাকা"
+    ],
+    "correct_answer": "৫৫৪.৪০ টাকা",
+    "solution_steps": [
+      "After the first increase the bill is 420×1.10=462 taka.",
+      "Apply the second increase to 462: 462×1.20=554.40 taka.",
+      "This is the monthly bill after the changes, not the total expenditure over 18 months."
+    ]
+  }
+]

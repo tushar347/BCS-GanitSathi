@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "average_speed_distance_over_time_f01",
+    "item_id": "BCS20_Q096",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "average_speed_distance_time",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time",
+      "ঘণ্টা": "hour"
+    },
+    "question_bn": "ঢাকা ও চট্টগ্রামের দূরত্ব 300 কি.মি.। ঢাকা হতে একটি ট্রেন সকাল 7 টায় ছেড়ে গিয়ে বিকেল 3 টায় চট্টগ্রাম পৌঁছে। ট্রেনটির গড় গতিবেগ ঘণ্টায় কত ছিল?",
+    "answer_options": [
+      "24.5 কি.মি.",
+      "37.5 কি.মি.",
+      "42.0 কি.মি.",
+      "45.0 কি.মি."
+    ],
+    "correct_answer": "37.5 কি.মি.",
+    "solution_steps": [
+      "সময় = সকাল 7টা থেকে বিকেল 3টা =8 ঘণ্টা।",
+      "গড় গতি =300/8=37.5 কিমি/ঘণ্টা।"
+    ],
+    "source_page": 25,
+    "source_exam": "20th BCS"
+  }
+]

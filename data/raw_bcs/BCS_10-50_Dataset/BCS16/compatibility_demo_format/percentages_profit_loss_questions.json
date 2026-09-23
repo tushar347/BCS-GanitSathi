@@ -1,0 +1,56 @@
+[
+  {
+    "family_id": "profit_loss_changed_cost_and_selling_price_bcs16_q030_f01",
+    "item_id": "BCS16_Q030",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "profit_loss_changed_cost_and_selling_price",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একজন দোকানদার ৭ ১/২% ক্ষতিতে একটি দ্রব্য বিক্রয় করল। যদি দ্রব্যটির ক্রয়মূল্য ১০% কম হতো এবং বিক্রয়মূল্য ৩১ টাকা বেশি হতো, তাহলে তার ২০% লাভ হতো। দ্রব্যটির ক্রয়মূল্য কত?",
+    "answer_options": [
+      "১০০ টাকা",
+      "২০০ টাকা",
+      "৩০০ টাকা",
+      "৪০০ টাকা"
+    ],
+    "correct_answer": "২০০ টাকা",
+    "solution_steps": [
+      "মূল ক্রয়মূল্য C হলে ৭.৫% ক্ষতিতে বিক্রয়মূল্য = 0.925C।",
+      "নতুন ক্রয়মূল্য 0.9C এবং নতুন বিক্রয়মূল্য 0.925C+31।",
+      "২০% লাভ হলে 0.925C+31 = 1.2×0.9C = 1.08C।",
+      "তাই 31=0.155C, ফলে C=200 টাকা।"
+    ],
+    "source_page": 3,
+    "source_exam": "16th BCS"
+  },
+  {
+    "family_id": "simple_interest_common_rate_bcs16_q032_f01",
+    "item_id": "BCS16_Q032",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_interest_common_rate",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "৫০০ টাকার ৪ বছরের সুদ এবং ৬০০ টাকার ৫ বছরের সুদ একত্রে ৫০০ টাকা হলে সুদের হার কত?",
+    "answer_options": [
+      "৫%",
+      "৬%",
+      "১০%",
+      "১২%"
+    ],
+    "correct_answer": "১০%",
+    "solution_steps": [
+      "সাধারণ সুদের সূত্র I=Prt/100।",
+      "মোট সুদ = (500×4×r/100)+(600×5×r/100)=500।",
+      "অর্থাৎ 20r+30r=500, তাই 50r=500।",
+      "সুতরাং r=10%।"
+    ],
+    "source_page": 3,
+    "source_exam": "16th BCS"
+  }
+]

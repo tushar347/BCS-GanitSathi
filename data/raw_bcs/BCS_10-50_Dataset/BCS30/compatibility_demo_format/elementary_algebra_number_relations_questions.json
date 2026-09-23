@@ -1,0 +1,276 @@
+[
+  {
+    "family_id": "lcm_with_additive_offset_f01",
+    "item_id": "BCS30_Q081",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "lcm_with_offset",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "কোন লঘিষ্ঠ সংখ্যার সাথে ২ যোগ করলে যোগফল ১২, ১৮ এবং ২৪ দ্বারা বিভাজ্য হবে?",
+    "answer_options": [
+      "৮৯",
+      "৭০",
+      "১৭০",
+      "১৪২"
+    ],
+    "correct_answer": "৭০",
+    "solution_steps": [
+      "LCM(12,18,24)=72.",
+      "If n+2 must be divisible by all three and n is the least positive choice, n+2=72.",
+      "So n=70."
+    ],
+    "source_page": 9,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "prime_identification_small_integers_f01",
+    "item_id": "BCS30_Q082",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "prime_number_identification",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "নিচের কোনটি মৌলিক সংখ্যা?",
+    "answer_options": [
+      "৯১",
+      "৮৭",
+      "৬৩",
+      "৫৯"
+    ],
+    "correct_answer": "৫৯",
+    "solution_steps": [
+      "91=7*13, 87=3*29 and 63=3*21 are composite.",
+      "59 has no divisor among primes up to sqrt(59), so it is prime."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "compare_decimal_fraction_radical_f01",
+    "item_id": "BCS30_Q083",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "number_comparison",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "নিচের কোনটি ক্ষুদ্রতম সংখ্যা?",
+    "answer_options": [
+      "০.৩",
+      "√০.৩",
+      "১/৩",
+      "২/৫"
+    ],
+    "correct_answer": "০.৩",
+    "solution_steps": [
+      "Convert or estimate: 0.3=0.30, 1/3≈0.333, 2/5=0.4 and sqrt(0.3)≈0.548.",
+      "Therefore 0.3 is the smallest."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "midpoint_between_two_numbers_f01",
+    "item_id": "BCS30_Q084",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "equidistant_midpoint_number",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "একটি সংখ্যা ৩০১ হতে যত বড় ৩৮১ হতে তত ছোট। সংখ্যাটি কত?",
+    "answer_options": [
+      "৩৪০",
+      "৩৪১",
+      "৩৪২",
+      "৩৪৪"
+    ],
+    "correct_answer": "৩৪১",
+    "solution_steps": [
+      "The number is equally distant from 301 and 381.",
+      "It is their midpoint: (301+381)/2 = 341."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "polynomial_parameter_from_function_value_f01",
+    "item_id": "BCS30_Q086",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "function_parameter_from_value",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "f(x) = x³ + kx² − 6x − 9; k এর মান কত হলে f(3) = 0 হবে?",
+    "answer_options": [
+      "1",
+      "−1",
+      "2",
+      "0"
+    ],
+    "correct_answer": "0",
+    "solution_steps": [
+      "Substitute x=3: 27 + 9k - 18 - 9 = 0.",
+      "The constant terms cancel, leaving 9k=0.",
+      "So k=0."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "inequality_multiply_negative_f01",
+    "item_id": "BCS30_Q087",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "inequality_multiplication_negative",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "x > y এবং z < 0 হলে নিচের কোনটি সঠিক?",
+    "answer_options": [
+      "xz > yz",
+      "x/z > y/z",
+      "z/x < z/y",
+      "xz < yz"
+    ],
+    "correct_answer": "xz < yz",
+    "solution_steps": [
+      "Multiplying an inequality by a negative quantity reverses its direction.",
+      "Since z<0, x>y implies xz<yz."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "logarithm_quotient_rule_f01",
+    "item_id": "BCS30_Q091",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithm_quotient_rule",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "logₐ(m/n) = কত?",
+    "answer_options": [
+      "logₐm − logₐn",
+      "logₐm + logₐn",
+      "logₐm × logₐn",
+      "কোনোটিই নয়"
+    ],
+    "correct_answer": "logₐm − logₐn",
+    "solution_steps": [
+      "Use the logarithm quotient rule.",
+      "log_a(m/n)=log_a(m)-log_a(n)."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "product_from_sum_and_squares_f01",
+    "item_id": "BCS30_Q092",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "product_from_sum_and_sum_squares",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "a + b = 7 এবং a² + b² = 25 হলে ab এর মান কত?",
+    "answer_options": [
+      "12",
+      "10",
+      "6",
+      "কোনোটিই নয়"
+    ],
+    "correct_answer": "12",
+    "solution_steps": [
+      "(a+b)^2=a^2+b^2+2ab.",
+      "49=25+2ab, so 2ab=24.",
+      "ab=12."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  },
+  {
+    "family_id": "factor_theorem_option_check_f01",
+    "item_id": "BCS30_Q100",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_factor_identification",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "3x³ + 2x² − 21x − 20 রাশিটির একটি উৎপাদক হচ্ছে—",
+    "answer_options": [
+      "x + 2",
+      "x − 2",
+      "x + 1",
+      "x − 1"
+    ],
+    "correct_answer": "x + 1",
+    "solution_steps": [
+      "Test x=-1 for the factor x+1.",
+      "3(-1)^3 + 2(-1)^2 - 21(-1) - 20 = -3+2+21-20=0.",
+      "Therefore x+1 is a factor."
+    ],
+    "source_page": 11,
+    "source_exam": "30th BCS"
+  }
+]

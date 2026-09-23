@@ -1,0 +1,294 @@
+[
+  {
+    "family_id": "gcd_lcm_from_product_f01",
+    "item_id": "BCS36_Q176",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "gcd_lcm_from_product",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "দুটি সংখ্যার গুণফল ৩৩৮০ এবং গ.সা.গু ১৩। সংখ্যা দুটির ল.সা.গু কত?",
+    "answer_options": [
+      "২৬০",
+      "৭৮০",
+      "১৩০",
+      "৪৯০"
+    ],
+    "correct_answer": "২৬০",
+    "solution_steps": [
+      "Product = GCD×LCM for two positive integers.",
+      "LCM=3380/13=260."
+    ],
+    "source_page": 17,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "sum_odd_numbers_identity_f01",
+    "item_id": "BCS36_Q177",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_first_n_odd_numbers",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "1+3+5+ ...... + (2x−1) = কত?",
+    "answer_options": [
+      "x(x−1)",
+      "x(x−1)/2",
+      "x(x+1)",
+      "x²"
+    ],
+    "correct_answer": "x²",
+    "solution_steps": [
+      "The sum of the first x odd positive integers equals x²."
+    ],
+    "source_page": 17,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "log_radical_base_f01",
+    "item_id": "BCS36_Q178",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithm_radical_base",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "log_(√3) 81 = কত?",
+    "answer_options": [
+      "4",
+      "27√3",
+      "8",
+      "1/8"
+    ],
+    "correct_answer": "8",
+    "solution_steps": [
+      "√3=3^(1/2) and 81=3^4.",
+      "If (3^(1/2))^k=3^4, then k/2=4, so k=8."
+    ],
+    "source_page": 18,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "exponential_same_base_f01",
+    "item_id": "BCS36_Q179",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "exponential_equation_same_base",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "যদি (25)^(2x+3) = 5^(3x+6) হয়, তবে x = কত?",
+    "answer_options": [
+      "0",
+      "1",
+      "−1",
+      "4"
+    ],
+    "correct_answer": "0",
+    "solution_steps": [
+      "25=5², so left side is 5^(4x+6).",
+      "Equate exponents: 4x+6=3x+6.",
+      "x=0."
+    ],
+    "source_page": 18,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "system_candidate_pair_f01",
+    "item_id": "BCS36_Q183",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "system_quadratic_difference",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "x²+y² = 185, x−y = 3 এর একটি সমাধান হল-",
+    "answer_options": [
+      "(7, 4)",
+      "(9, 6)",
+      "(10, 7)",
+      "(11, 8)"
+    ],
+    "correct_answer": "(11, 8)",
+    "solution_steps": [
+      "Check x-y=3 for each candidate.",
+      "For (11,8), 11²+8²=121+64=185.",
+      "Thus (11,8) satisfies both equations."
+    ],
+    "source_page": 18,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "reciprocal_cube_identity_f01",
+    "item_id": "BCS36_Q185",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "reciprocal_cube_identity",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "x − 1/x = 1 হলে, x³ − 1/x³ এর মান কত?",
+    "answer_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "4",
+    "solution_steps": [
+      "Use a³-b³=(a-b)³+3ab(a-b) with a=x and b=1/x.",
+      "ab=1 and a-b=1.",
+      "Value=1³+3×1×1=4."
+    ],
+    "source_page": 18,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "ap_sum_given_last_f01",
+    "item_id": "BCS36_Q186",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "arithmetic_progression_sum",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "1+5+9+ ..... + 81 = ?",
+    "answer_options": [
+      "961",
+      "861",
+      "761",
+      "661"
+    ],
+    "correct_answer": "861",
+    "solution_steps": [
+      "This is an AP with a=1, d=4, last term 81.",
+      "81=1+(n-1)4 gives n=21.",
+      "Sum=21/2×(1+81)=861."
+    ],
+    "source_page": 18,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "decimal_square_root_f01",
+    "item_id": "BCS36_Q190",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "decimal_square_root",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "√15.6025 = ?",
+    "answer_options": [
+      "৩.৮৫",
+      "৩.৭৫",
+      "৩.৯৫",
+      "৩.৬৫"
+    ],
+    "correct_answer": "৩.৯৫",
+    "solution_steps": [
+      "3.95²=(4-0.05)²=16-0.4+0.0025=15.6025.",
+      "Therefore √15.6025=3.95."
+    ],
+    "source_page": 19,
+    "source_exam": "36th BCS"
+  },
+  {
+    "family_id": "interleaved_sequence_multiples7_f01",
+    "item_id": "BCS36_Q191",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "interleaved_number_sequence",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "৩, ৭, ৪, ১৪, ৫, ২১, ৬ ধারার অষ্টম সংখ্যাটি কত হবে?",
+    "answer_options": [
+      "৬",
+      "৭",
+      "২৮",
+      "২৯"
+    ],
+    "correct_answer": "২৮",
+    "solution_steps": [
+      "Read the terms as pairs: (3,7), (4,14), (5,21), (6,?).",
+      "The second member is 7 times (first member−2): 7,14,21,28; equivalently it increases by 7.",
+      "So the eighth term is 28."
+    ],
+    "source_page": 19,
+    "source_exam": "36th BCS"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "family_id": "unit_buy_sell_profit_bcs27_q042_f01",
+    "item_id": "BCS27_Q042",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "unit_buy_sell_profit",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "৪ টাকায় ৫টি দরে কিনে ৫ টাকায় ৪টি দরে বিক্রি করলে শতকরা কত লাভ হবে?",
+    "answer_options": [
+      "৪৫%",
+      "৪৮.৫০%",
+      "৫২.৭৫%",
+      "৫৬.২৫%"
+    ],
+    "correct_answer": "৫৬.২৫%",
+    "solution_steps": [
+      "প্রতি পণ্যের ক্রয়মূল্য = 4/5 টাকা।",
+      "বিক্রয়মূল্য = 5/4 টাকা।",
+      "লাভ% = ((5/4−4/5)/(4/5))×100 = 56.25%。"
+    ],
+    "source_page": 8,
+    "source_exam": "27th BCS"
+  },
+  {
+    "family_id": "successive_equal_percentage_change_bcs27_q043_f01",
+    "item_id": "BCS27_Q043",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "successive_equal_percentage_change",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "এক ব্যবসায়ী একটি পণ্যের মূল্য ২৫% বাড়াল, অতঃপর বর্ধিত মূল্য থেকে ২৫% কমাল। সর্বশেষ মূল্য সর্বপ্রথম মূল্যের তুলনায় কী হলো?",
+    "answer_options": [
+      "৪৫% কমেছে",
+      "৬.২৫% কমেছে",
+      "৬.২৫% বেড়েছে",
+      "৫% বেড়েছে"
+    ],
+    "correct_answer": "৬.২৫% কমেছে",
+    "solution_steps": [
+      "গুণক = 1.25×0.75 = 0.9375।",
+      "অর্থাৎ 6.25% কম।"
+    ],
+    "source_page": 8,
+    "source_exam": "27th BCS"
+  }
+]

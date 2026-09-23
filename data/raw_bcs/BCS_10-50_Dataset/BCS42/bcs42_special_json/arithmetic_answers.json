@@ -1,0 +1,81 @@
+[
+  {
+    "family_id": "Q045",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "2/9",
+        "reasoning_steps": [
+          "Calculate the intersection P(A)P(B) = (1/3)(2/3).",
+          "Return 2/9 without dividing by P(A)."
+        ],
+        "code": "BCS42-045-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "1/3",
+        "reasoning_steps": [
+          "Reverse the requested conditioning and answer for A given B.",
+          "Use independence to return P(A)=1/3."
+        ],
+        "code": "BCS42-045-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q051",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "২৪.৫",
+        "reasoning_steps": [
+          "Use 49/2, forgetting that the sequence begins at 1 rather than 0.",
+          "Return 24.5."
+        ],
+        "code": "BCS42-051-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৪৯",
+        "reasoning_steps": [
+          "Read the largest number in the range and report it.",
+          "Do not calculate the requested mean."
+        ],
+        "code": "BCS42-051-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q054",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১০ প্রকারে",
+        "reasoning_steps": [
+          "Use each integer b from 1 to 10 without requiring 51−5b to be even.",
+          "Count 10 combinations although some would need fractional 20-taka notes."
+        ],
+        "code": "BCS42-054-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৪ প্রকারে",
+        "reasoning_steps": [
+          "List b=1,3,5,7,9.",
+          "Miscount the five entries as four."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS42-054-ARITHMETIC-02"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "২৪টি নোট",
+        "reasoning_steps": [
+          "Choose the first valid combination, a=23 and b=1.",
+          "Add 23+1=24 and report a note count instead of the number of combinations."
+        ],
+        "code": "BCS42-054-INTERPRETATION-03"
+      }
+    ]
+  }
+]

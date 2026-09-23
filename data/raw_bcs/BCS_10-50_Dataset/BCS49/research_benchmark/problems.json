@@ -1,0 +1,276 @@
+[
+  {
+    "item_id": "BCS49_Q001",
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 1,
+    "source_page": 1,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "arithmetic_progression_sum",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি সমান্তর ধারার 4র্থ এবং 12তম পদের যোগফল 20। ঐ ধারার প্রথম 15 পদের যোগফল কত?",
+    "question_normalized": "একটি সমান্তর ধারার 4র্থ এবং 12তম পদের যোগফল 20। ঐ ধারার প্রথম 15 পদের যোগফল কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "100",
+      "150",
+      "200",
+      "300"
+    ],
+    "printed_answer": "150",
+    "accepted_answer_forms": [
+      "150",
+      "১৫০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q004",
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 4,
+    "source_page": 1,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "alternating_square_sequence",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "নিচের ধারার পরবর্তী সংখ্যা কোনটি? ১, ৯, ৫, ৪৯, ....",
+    "question_normalized": "নিচের ধারার পরবর্তী সংখ্যা কোনটি? ১, ৯, ৫, ৪৯, ....",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৮",
+      "৯",
+      "১০",
+      "১২"
+    ],
+    "printed_answer": "৯",
+    "accepted_answer_forms": [
+      "৯",
+      "9"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q010",
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 10,
+    "source_page": 1,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_inequality",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x² + 6x - 27 < 0 অসমতাটির সমাধান সেট নিচের কোনটি?",
+    "question_normalized": "x² + 6x - 27 < 0 অসমতাটির সমাধান সেট নিচের কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "[-9, 3]",
+      "[3, ∞)",
+      "(-9, 3)",
+      "(∞, -9)"
+    ],
+    "printed_answer": "(-9, 3)",
+    "accepted_answer_forms": [
+      "(-9, 3)",
+      "(-9,3)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q022",
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 22,
+    "source_page": 2,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_lcm_gcd_find_other",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "দুইটি সংখ্যার ল.সা.গু 4x³ + 12x² - 16x - 48, গ.সা.গু 2x + 4। একটি সংখ্যা 4x² + 20x + 24 হলে অপরটি-",
+    "question_normalized": "দুইটি সংখ্যার ল.সা.গু 4x³ + 12x² - 16x - 48, গ.সা.গু 2x + 4। একটি সংখ্যা 4x² + 20x + 24 হলে অপরটি-",
+    "normalization_notes": [
+      "Superscript on the first LCM term was visually read as x³; this is consistent with the printed answer and factorization."
+    ],
+    "units": [],
+    "answer_options": [
+      "x² - 4",
+      "2(x² - 4)",
+      "4(x² - 4)",
+      "(x + 2)"
+    ],
+    "printed_answer": "2(x² - 4)",
+    "accepted_answer_forms": [
+      "2(x² - 4)",
+      "2(x^2-4)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q027",
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 27,
+    "source_page": 3,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "geometric_progression_common_ratio",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি গুণোত্তর ধারার পঞ্চম পদটি ৩২ ও অষ্টম পদটি ২৫৬ হলে উক্ত ধারার সাধারণ অনুপাত কত?",
+    "question_normalized": "একটি গুণোত্তর ধারার পঞ্চম পদটি ৩২ ও অষ্টম পদটি ২৫৬ হলে উক্ত ধারার সাধারণ অনুপাত কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৮",
+      "১৬",
+      "২",
+      "১/২"
+    ],
+    "printed_answer": "২",
+    "accepted_answer_forms": [
+      "২",
+      "2"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q037",
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 37,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "simultaneous_linear_equations_parameterized",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "ax + by = a² এবং bx - ay = ab; এই সহ-সমীকরণের (x, y) এর সমাধান কোনটি?",
+    "question_normalized": "ax + by = a² এবং bx - ay = ab; এই সহ-সমীকরণের (x, y) এর সমাধান কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(a², b²)",
+      "(a, b)",
+      "(0, a)",
+      "(a, 0)"
+    ],
+    "printed_answer": "(a, 0)",
+    "accepted_answer_forms": [
+      "(a, 0)",
+      "(a,0)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q061",
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 61,
+    "source_page": 5,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "profit_loss_cost_price",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি বই 10% ক্ষতিতে বিক্রয় করা হলো। বিক্রয়মূল্য 60 টাকা বেশি হলে 5% লাভ হতো। বইটির ক্রয়মূল্য কত টাকা?",
+    "question_normalized": "একটি বই 10% ক্ষতিতে বিক্রয় করা হলো। বিক্রয়মূল্য 60 টাকা বেশি হলে 5% লাভ হতো। বইটির ক্রয়মূল্য কত টাকা?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "200",
+      "300",
+      "400",
+      "500"
+    ],
+    "printed_answer": "400",
+    "accepted_answer_forms": [
+      "400",
+      "৪০০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q080",
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 80,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithmic_equation_negative_exponent",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "log_x 4 = -2 হলে x=?",
+    "question_normalized": "log_x 4 = -2 হলে x=?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1/2",
+      "-1/2",
+      "2",
+      "-2"
+    ],
+    "printed_answer": "1/2",
+    "accepted_answer_forms": [
+      "1/2",
+      "১/২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS49_Q087",
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "exam": "49th BCS (Special)",
+    "question_number": 87,
+    "source_page": 7,
+    "topic_group": "ratios_proportions",
+    "subskill": "unit_rate_people_items",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১ জন লোক ১টা কলা ১ মিনিটে খেতে পারে। তাহলে ৫ জন লোক ৫টা কলা খেতে কত মিনিট সময় লাগবে?",
+    "question_normalized": "১ জন লোক ১টা কলা ১ মিনিটে খেতে পারে। তাহলে ৫ জন লোক ৫টা কলা খেতে কত মিনিট সময় লাগবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫",
+      "২৫",
+      "১",
+      "১০"
+    ],
+    "printed_answer": "১",
+    "accepted_answer_forms": [
+      "১",
+      "1",
+      "১ মিনিট",
+      "1 minute"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 49th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

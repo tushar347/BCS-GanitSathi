@@ -1,0 +1,642 @@
+[
+  {
+    "item_id": "BCS47_Q016",
+    "family_id": "factor_theorem_parameter_bcs47_q016_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q016_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q016_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains -১২০.",
+        "normalized_text": "final_answer = -১২০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q016_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q016",
+    "family_id": "factor_theorem_parameter_bcs47_q016_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q016_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q016_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches ৫০.",
+        "normalized_text": "final_answer = ৫০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q016_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q016",
+    "family_id": "factor_theorem_parameter_bcs47_q016_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q016_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q016_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches ৫০.",
+        "normalized_text": "final_answer = ৫০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q016_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q016",
+    "family_id": "factor_theorem_parameter_bcs47_q016_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q016_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q016_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "৫০",
+        "normalized_text": "final_answer = ৫০",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q016_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q017",
+    "family_id": "geometric_sequence_missing_term_bcs47_q017_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q017_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q017_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains 27.",
+        "normalized_text": "final_answer = 27",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q017_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q017",
+    "family_id": "geometric_sequence_missing_term_bcs47_q017_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q017_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q017_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches 9.",
+        "normalized_text": "final_answer = 9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q017_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q017",
+    "family_id": "geometric_sequence_missing_term_bcs47_q017_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q017_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q017_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches 9.",
+        "normalized_text": "final_answer = 9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q017_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q017",
+    "family_id": "geometric_sequence_missing_term_bcs47_q017_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q017_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q017_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "9",
+        "normalized_text": "final_answer = 9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q017_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q019",
+    "family_id": "geometric_progression_nth_term_bcs47_q019_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q019_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q019_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains 1/729.",
+        "normalized_text": "final_answer = 1/729",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q019_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q019",
+    "family_id": "geometric_progression_nth_term_bcs47_q019_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q019_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q019_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches 1/3.",
+        "normalized_text": "final_answer = 1/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q019_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q019",
+    "family_id": "geometric_progression_nth_term_bcs47_q019_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q019_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q019_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches 1/3.",
+        "normalized_text": "final_answer = 1/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q019_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q019",
+    "family_id": "geometric_progression_nth_term_bcs47_q019_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q019_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q019_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "1/3",
+        "normalized_text": "final_answer = 1/3",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q019_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q022",
+    "family_id": "equation_of_line_through_points_bcs47_q022_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q022_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q022_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains y = x.",
+        "normalized_text": "final_answer = y = x",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q022_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q022",
+    "family_id": "equation_of_line_through_points_bcs47_q022_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q022_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q022_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches y = 3x.",
+        "normalized_text": "final_answer = y = 3x",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q022_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q022",
+    "family_id": "equation_of_line_through_points_bcs47_q022_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q022_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q022_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches y = 3x.",
+        "normalized_text": "final_answer = y = 3x",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q022_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q022",
+    "family_id": "equation_of_line_through_points_bcs47_q022_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q022_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q022_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "y = 3x",
+        "normalized_text": "final_answer = y = 3x",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q022_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q026",
+    "family_id": "recurring_decimal_division_bcs47_q026_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q026_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q026_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains 0.6̅.",
+        "normalized_text": "final_answer = 0.6̅",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q026_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q026",
+    "family_id": "recurring_decimal_division_bcs47_q026_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q026_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q026_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches 0.9̅.",
+        "normalized_text": "final_answer = 0.9̅",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q026_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q026",
+    "family_id": "recurring_decimal_division_bcs47_q026_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q026_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q026_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches 0.9̅.",
+        "normalized_text": "final_answer = 0.9̅",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q026_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q026",
+    "family_id": "recurring_decimal_division_bcs47_q026_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q026_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q026_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "0.9̅",
+        "normalized_text": "final_answer = 0.9̅",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q026_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q027",
+    "family_id": "percentage_area_increase_bcs47_q027_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q027_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q027_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains 21%.",
+        "normalized_text": "final_answer = 21%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q027_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q027",
+    "family_id": "percentage_area_increase_bcs47_q027_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q027_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q027_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches 20%.",
+        "normalized_text": "final_answer = 20%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q027_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q027",
+    "family_id": "percentage_area_increase_bcs47_q027_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q027_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q027_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches 20%.",
+        "normalized_text": "final_answer = 20%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q027_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q027",
+    "family_id": "percentage_area_increase_bcs47_q027_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q027_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q027_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "20%",
+        "normalized_text": "final_answer = 20%",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q027_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q028",
+    "family_id": "simple_vs_compound_interest_difference_bcs47_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q028_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q028_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains 11.05 টাকা.",
+        "normalized_text": "final_answer = 11.05 টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q028",
+    "family_id": "simple_vs_compound_interest_difference_bcs47_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q028_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q028_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches 10.05 টাকা.",
+        "normalized_text": "final_answer = 10.05 টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q028",
+    "family_id": "simple_vs_compound_interest_difference_bcs47_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q028_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q028_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches 10.05 টাকা.",
+        "normalized_text": "final_answer = 10.05 টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q028",
+    "family_id": "simple_vs_compound_interest_difference_bcs47_q028_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q028_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q028_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "10.05 টাকা",
+        "normalized_text": "final_answer = 10.05 টাকা",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q028_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q029",
+    "family_id": "radical_expression_identity_bcs47_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q029_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS47_Q029_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses a valid method and obtains 28√5.",
+        "normalized_text": "final_answer = 28√5",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "valid",
+        "independent_evidence_group": "BCS47_Q029_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q029",
+    "family_id": "radical_expression_identity_bcs47_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q029_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q029_E1C",
+        "event_type": "student_step",
+        "original_text": "Uses an unsuitable rule and reaches 18√5.",
+        "normalized_text": "final_answer = 18√5",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q029_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q029",
+    "family_id": "radical_expression_identity_bcs47_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q029_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS47_Q029_E1S",
+        "event_type": "student_step",
+        "original_text": "Uses the right general idea but makes a local calculation/transcription error and reaches 18√5.",
+        "normalized_text": "final_answer = 18√5",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q029_g1"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS47_Q029",
+    "family_id": "radical_expression_identity_bcs47_q029_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS47_Q029_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS47_Q029_E1A",
+        "event_type": "student_final_answer",
+        "original_text": "18√5",
+        "normalized_text": "final_answer = 18√5",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "mathematical_status": "invalid",
+        "independent_evidence_group": "BCS47_Q029_g1"
+      }
+    ]
+  }
+]

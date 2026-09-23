@@ -1,0 +1,73 @@
+[
+  {
+    "family_id": "Q026",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "object-to-associated-property analogy",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "analogous property",
+    "english_glossary": {},
+    "question_bn": "যদি ICE: COLDNESS হয়, তবে EARTH: ?",
+    "answer_options": [
+      "weight",
+      "Jungle",
+      "sea",
+      "gravity"
+    ],
+    "correct_answer": "Gravity",
+    "solution_steps": [
+      "Treat COLDNESS as the characteristic associated with ICE in the analogy.",
+      "Apply the same relationship to EARTH: the supplied key selects gravity."
+    ]
+  },
+  {
+    "family_id": "Q048",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "geometric number-pattern continuation",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "next term",
+    "english_glossary": {
+      "ধারা": "sequence or series"
+    },
+    "question_bn": "নিচের ধারার শেষ সংখ্যা কত? ৩, ৯, ২৭, ৮১, ..... ?",
+    "answer_options": [
+      "২৪১",
+      "২৪৩",
+      "২৪৫",
+      "২৪৭"
+    ],
+    "correct_answer": "২৪৩",
+    "solution_steps": [
+      "Each successive term is multiplied by 3.",
+      "Continue with 81×3=243."
+    ]
+  },
+  {
+    "family_id": "Q055",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "alternating letter-number sequences",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "65 seconds",
+    "target_quantity": "next fraction-like letter-number pair",
+    "english_glossary": {
+      "প্রশ্নবোধক": "question mark"
+    },
+    "question_bn": "নিচের প্রশ্নবোধক স্থানে কোনটি বসবে? 15/A, G/21, 28/N, ?/?",
+    "answer_options": [
+      "15/N",
+      "T/18",
+      "L/52",
+      "V/36"
+    ],
+    "correct_answer": "V/36",
+    "solution_steps": [
+      "Read the numbers as 15,21,28: their increases are 6 then 7, so the next is 36.",
+      "Read letter positions A=1, G=7, N=14: their increases are also 6 then 7, so the next is position 22, V.",
+      "The layouts alternate number/letter and letter/number. The next pair is V/36."
+    ]
+  }
+]

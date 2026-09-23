@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "directional_displacement_southeast_f01",
+    "item_id": "BCS29_Q090",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "directional_displacement_southeast",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "দূরত্ব": "distance",
+      "গতি": "speed",
+      "সময়": "time"
+    },
+    "question_bn": "City B is 5 miles east of city A. City C is 10 miles southeast of city B. Which of the following is the closest to the distance from city A to City C?",
+    "answer_options": [
+      "11 miles",
+      "12 miles",
+      "13 miles",
+      "14 miles"
+    ],
+    "correct_answer": "14 miles",
+    "solution_steps": [
+      "Take A=(0,0) and B=(5,0).",
+      "A 10-mile southeast move has east and south components 10/sqrt(2).",
+      "AC is about sqrt((5+10/sqrt(2))^2 + (10/sqrt(2))^2) = 13.99 miles, closest to 14."
+    ],
+    "source_page": 9,
+    "source_exam": "29th BCS"
+  }
+]

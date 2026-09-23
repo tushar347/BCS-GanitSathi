@@ -1,0 +1,414 @@
+[
+  {
+    "item_id": "BCS10_Q085",
+    "family_id": "prime_numbers_in_range_f01",
+    "exam": "10th BCS",
+    "question_number": 85,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "count_primes_in_range",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১ থেকে ৩০ পর্যন্ত কয়টি মৌলিক সংখ্যা আছে?",
+    "question_normalized": "১ থেকে ৩০ পর্যন্ত কয়টি মৌলিক সংখ্যা আছে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১১টি",
+      "৮টি",
+      "১০টি",
+      "৯টি"
+    ],
+    "printed_answer": "১০টি",
+    "accepted_answer_forms": [
+      "১০টি",
+      "10",
+      "১০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q086",
+    "family_id": "identify_prime_number_f01",
+    "exam": "10th BCS",
+    "question_number": 86,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "identify_prime_number",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোন সংখ্যাটি মৌলিক সংখ্যা?",
+    "question_normalized": "নিচের কোন সংখ্যাটি মৌলিক সংখ্যা?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৪৩",
+      "৯১",
+      "৪৭",
+      "৮৭"
+    ],
+    "printed_answer": "৪৭",
+    "accepted_answer_forms": [
+      "৪৭",
+      "47"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q087",
+    "family_id": "gcd_lcm_product_f01",
+    "exam": "10th BCS",
+    "question_number": 87,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "gcd_lcm_product_relation",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "দুটি সংখ্যার গুণফল ১৫৩৬। সংখ্যা দুটির ল.সা.গু ৯৬ হলে, গ.সা.গু কত?",
+    "question_normalized": "দুটি সংখ্যার গুণফল ১৫৩৬। সংখ্যা দুটির ল.সা.গু ৯৬ হলে, গ.সা.গু কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৬",
+      "২৪",
+      "৩২",
+      "১২"
+    ],
+    "printed_answer": "১৬",
+    "accepted_answer_forms": [
+      "১৬",
+      "16"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q088",
+    "family_id": "decimal_product_fraction_f01",
+    "exam": "10th BCS",
+    "question_number": 88,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "decimal_product_fraction",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "(0.1×0.01×0.001)/(0.2×0.02×0.002) এর মান কত?",
+    "question_normalized": "(0.1×0.01×0.001)/(0.2×0.02×0.002) এর মান কত?",
+    "normalization_notes": [
+      "Printed stacked fraction was normalized to inline fraction notation."
+    ],
+    "units": [],
+    "answer_options": [
+      "১/৮০",
+      "১/৮০০",
+      "১/৮০০০",
+      "১/৮"
+    ],
+    "printed_answer": "১/৮",
+    "accepted_answer_forms": [
+      "১/৮",
+      "1/8"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q089",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "exam": "10th BCS",
+    "question_number": 89,
+    "source_page": 11,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "price_increase_constant_expenditure",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+    "question_normalized": "চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+    "normalization_notes": [],
+    "units": [
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "৩০%",
+      "২৫%",
+      "১৫%",
+      "২০%"
+    ],
+    "printed_answer": "২০%",
+    "accepted_answer_forms": [
+      "২০%",
+      "20%",
+      "২০ শতাংশ"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q090",
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "exam": "10th BCS",
+    "question_number": 90,
+    "source_page": 11,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "unit_rate_profit_percentage",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "টাকায় ৩টি করে আম কিনে টাকায় ২টি আম বিক্রয় করলে শতকরা কত লাভ হবে?",
+    "question_normalized": "টাকায় ৩টি করে আম কিনে টাকায় ২টি আম বিক্রয় করলে শতকরা কত লাভ হবে?",
+    "normalization_notes": [],
+    "units": [
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "৫০%",
+      "৩০%",
+      "৩৩%",
+      "৩১%"
+    ],
+    "printed_answer": "৫০%",
+    "accepted_answer_forms": [
+      "৫০%",
+      "50%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q091",
+    "family_id": "simple_interest_amount_multiple_f01",
+    "exam": "10th BCS",
+    "question_number": 91,
+    "source_page": 11,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "simple_interest_find_rate",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "সরল সুদের হার শতকরা কত টাকা হলে যে কোনো মূলধন ৮ বছরের সুদে-আসলে তিনগুণ হবে?",
+    "question_normalized": "সরল সুদের হার শতকরা কত টাকা হলে যে কোনো মূলধন ৮ বছরের সুদে-আসলে তিনগুণ হবে?",
+    "normalization_notes": [],
+    "units": [
+      "বছর",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "১২.৫০ টাকা",
+      "২০ টাকা",
+      "২৫ টাকা",
+      "১৫ টাকা"
+    ],
+    "printed_answer": "২৫ টাকা",
+    "accepted_answer_forms": [
+      "২৫ টাকা",
+      "২৫%",
+      "25%",
+      "25"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q092",
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "exam": "10th BCS",
+    "question_number": 92,
+    "source_page": 11,
+    "topic_group": "averages_mixtures",
+    "subskill": "mixture_ratio_addition",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৬০ লিটার কেরোসিন ও পেট্রোলের মিশ্রণের অনুপাত ৭ : ৩। ঐ মিশ্রণে আর কত লিটার পেট্রোল মিশালে অনুপাত ৩ : ৭ হবে?",
+    "question_normalized": "৬০ লিটার কেরোসিন ও পেট্রোলের মিশ্রণের অনুপাত ৭ : ৩। ঐ মিশ্রণে আর কত লিটার পেট্রোল মিশালে অনুপাত ৩ : ৭ হবে?",
+    "normalization_notes": [],
+    "units": [
+      "লিটার"
+    ],
+    "answer_options": [
+      "৭০",
+      "৮০",
+      "৯০",
+      "৯৮"
+    ],
+    "printed_answer": "৮০",
+    "accepted_answer_forms": [
+      "৮০",
+      "৮০ লিটার",
+      "80",
+      "80 liters"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q093",
+    "family_id": "average_consecutive_integers_f01",
+    "exam": "10th BCS",
+    "question_number": 93,
+    "source_page": 12,
+    "topic_group": "averages_mixtures",
+    "subskill": "average_consecutive_integers",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১ থেকে ৪৯ পর্যন্ত সংখ্যাগুলোর গড় কত?",
+    "question_normalized": "১ থেকে ৪৯ পর্যন্ত সংখ্যাগুলোর গড় কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২৩",
+      "২৪.৫",
+      "২৫",
+      "২৫.৫"
+    ],
+    "printed_answer": "২৫",
+    "accepted_answer_forms": [
+      "২৫",
+      "25"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q094",
+    "family_id": "sum_difference_find_product_f01",
+    "exam": "10th BCS",
+    "question_number": 94,
+    "source_page": 12,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "solve_sum_difference_product",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "a + b = 5 এবং a - b = 3 হলে, ab এর মান কত?",
+    "question_normalized": "a + b = 5 এবং a - b = 3 হলে, ab এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "printed_answer": "4",
+    "accepted_answer_forms": [
+      "4",
+      "৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q095",
+    "family_id": "factor_identity_parameter_f01",
+    "exam": "10th BCS",
+    "question_number": 95,
+    "source_page": 12,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_identity_parameter",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি (x - 5)(a + x) = x² - 25 হয় তবে, a এর মান কত?",
+    "question_normalized": "যদি (x - 5)(a + x) = x² - 25 হয় তবে, a এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-5",
+      "5",
+      "25",
+      "-25"
+    ],
+    "printed_answer": "5",
+    "accepted_answer_forms": [
+      "5",
+      "৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q099",
+    "family_id": "successive_markup_two_stage_f01",
+    "exam": "10th BCS",
+    "question_number": 99,
+    "source_page": 12,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "successive_markup",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোনো একটি জিনিস নির্মাতা ২০% লাভে ও খুচরা বিক্রেতা ২০% লাভে বিক্রয় করে। যদি ঐ জিনিসের নির্মাণ খরচ ১০০ টাকা হয় তবে খুচরা মূল্য কত?",
+    "question_normalized": "কোনো একটি জিনিস নির্মাতা ২০% লাভে ও খুচরা বিক্রেতা ২০% লাভে বিক্রয় করে। যদি ঐ জিনিসের নির্মাণ খরচ ১০০ টাকা হয় তবে খুচরা মূল্য কত?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "১৪০ টাকা",
+      "১২০ টাকা",
+      "১৪৪ টাকা",
+      "১২৪ টাকা"
+    ],
+    "printed_answer": "১৪৪ টাকা",
+    "accepted_answer_forms": [
+      "১৪৪ টাকা",
+      "144 টাকা",
+      "144"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS10_Q100",
+    "family_id": "sum_cubes_sum_zero_f01",
+    "exam": "10th BCS",
+    "question_number": 100,
+    "source_page": 12,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_cubes_when_sum_zero",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "a + b + c = 0 হলে, a³ + b³ + c³ এর মান কত?",
+    "question_normalized": "a + b + c = 0 হলে, a³ + b³ + c³ এর মান কত?",
+    "normalization_notes": [
+      "Source line contains a malformed trailing phrase after the cubic sum; normalized using the visible options and printed answer."
+    ],
+    "units": [],
+    "answer_options": [
+      "abc",
+      "3abc",
+      "6abc",
+      "9abc"
+    ],
+    "printed_answer": "3abc",
+    "accepted_answer_forms": [
+      "3abc",
+      "৩abc"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 10th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

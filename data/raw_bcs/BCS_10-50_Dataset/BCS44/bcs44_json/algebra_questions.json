@@ -1,0 +1,118 @@
+[
+  {
+    "family_id": "Q091",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "combining logarithms",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "logarithmic expression value",
+    "english_glossary": {},
+    "question_bn": "2log₁₀5 + log₁₀36 − log₁₀9 = ?",
+    "answer_options": [
+      "2",
+      "100",
+      "37",
+      "4.6"
+    ],
+    "correct_answer": "2",
+    "solution_steps": [
+      "Combine the terms as log₁₀(5²×36/9).",
+      "The argument is 25×4=100.",
+      "log₁₀100=2."
+    ]
+  },
+  {
+    "family_id": "Q093",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "inverse of a linear function",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "inverse-function value",
+    "english_glossary": {},
+    "question_bn": "একটি ফাংশন f : r → R, f(x) = 2x + 1 দ্বারা সংজ্ঞায়িত হলে f −1(2) এর মান কত?",
+    "answer_options": [
+      "0",
+      "1/2",
+      "5",
+      "1"
+    ],
+    "correct_answer": "1/2",
+    "solution_steps": [
+      "Interpret the printed f −1(2) as f inverse evaluated at 2.",
+      "Solve 2x+1=2.",
+      "This gives x=1/2."
+    ]
+  },
+  {
+    "family_id": "Q095",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "converting a common logarithm to exponential form",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "x",
+    "english_glossary": {},
+    "question_bn": "যদি log10x = −1 হয়, তাহলে নিচের x এর মান?",
+    "answer_options": [
+      "0.1",
+      "0.001",
+      "1/10000",
+      "0.001"
+    ],
+    "correct_answer": "0.1",
+    "solution_steps": [
+      "Read log10x as the common logarithm log₁₀x, consistent with the source key.",
+      "x=10^(−1)=1/10=0.1."
+    ]
+  },
+  {
+    "family_id": "Q099",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "partial sums of an alternating constant sequence",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "sum of first n terms",
+    "english_glossary": {},
+    "question_bn": "1−1+1−1+..........+n সংখ্যক পদের যোগফল হবে−",
+    "answer_options": [
+      "0",
+      "1",
+      "[1 + (−1)^n]",
+      "(1/2)[1−(−1)^n]"
+    ],
+    "correct_answer": "(1/2)[1−(−1)^n]",
+    "solution_steps": [
+      "Interpret the wording as n terms of the alternating sequence 1,−1,1,−1,..., not as adding the value n.",
+      "Adjacent terms cancel, leaving 0 for even n and 1 for odd n.",
+      "(1/2)[1−(−1)^n] gives exactly these two values."
+    ]
+  },
+  {
+    "family_id": "Q104",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "absolute-value linear inequality",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "solution interval",
+    "english_glossary": {
+      "সমাধান": "solution"
+    },
+    "question_bn": "বাস্তব সংখ্যায় |3x + 2| < 7 অসমতাটির সমাধান:",
+    "answer_options": [
+      "−3<x<3",
+      "5/3<x<5/3",
+      "−3<x<5/3",
+      "5/3<x<5/3"
+    ],
+    "correct_answer": "−3<x<5/3",
+    "solution_steps": [
+      "Rewrite |3x+2|<7 as −7<3x+2<7.",
+      "Subtract 2 to get −9<3x<5.",
+      "Divide by 3 to get −3<x<5/3."
+    ]
+  }
+]

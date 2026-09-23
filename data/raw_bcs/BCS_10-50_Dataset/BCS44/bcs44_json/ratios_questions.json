@@ -1,0 +1,27 @@
+[
+  {
+    "family_id": "Q191",
+    "topic": "ratios",
+    "in_scope": true,
+    "assigned_subskill": "inverse proportion in lever balance",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "left-hand load in kilograms",
+    "english_glossary": {
+      "ভারসাম্য": "balance"
+    },
+    "question_bn": "ভারসাম্য রক্ষা করতে নিচের চিত্রের বামদিকে কত ওজন রাখতে হবে?\n\n![প্রশ্নের চিত্র](assets/Q191_stem.png)",
+    "answer_options": [
+      "৪ কেজি",
+      "৬ কেজি",
+      "৮ কেজি",
+      "১০ কেজি"
+    ],
+    "correct_answer": "৬ কেজি",
+    "solution_steps": [
+      "Read the left arm as 4 metres and the right arm as 3 metres with an 8 kg load.",
+      "Balance the moments: W×4=8×3.",
+      "W=24/4=6 kg."
+    ]
+  }
+]

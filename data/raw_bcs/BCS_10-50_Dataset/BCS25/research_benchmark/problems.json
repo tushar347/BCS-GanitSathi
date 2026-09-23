@@ -1,0 +1,92 @@
+[
+  {
+    "item_id": "BCS25_Q091",
+    "family_id": "sum_product_square_difference_bcs25_q091_f01",
+    "exam": "25th BCS",
+    "question_number": 91,
+    "source_page": 16,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_product_square_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x+y = 6 এবং xy = 8 হলে (x−y)^2-এর মান কত?",
+    "question_normalized": "x+y = 6 এবং xy = 8 হলে (x−y)^2-এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "printed_answer": "4",
+    "accepted_answer_forms": [
+      "4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS25_Q092",
+    "family_id": "simple_interest_bcs25_q092_f01",
+    "exam": "25th BCS",
+    "question_number": 92,
+    "source_page": 16,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "simple_interest",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৬% হারে নয় মাসে ১০,০০০ টাকার উপর সুদ কত হবে?",
+    "question_normalized": "৬% হারে নয় মাসে ১০,০০০ টাকার উপর সুদ কত হবে?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "মাস"
+    ],
+    "answer_options": [
+      "৫০০ টাকা",
+      "৬০০ টাকা",
+      "৪৫০ টাকা",
+      "৬৫০ টাকা"
+    ],
+    "printed_answer": "৪৫০ টাকা",
+    "accepted_answer_forms": [
+      "৪৫০ টাকা"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS25_Q093",
+    "family_id": "complement_percentage_count_bcs25_q093_f01",
+    "exam": "25th BCS",
+    "question_number": 93,
+    "source_page": 16,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "complement_percentage_count",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১৫টি পোশাকের মধ্যে ৪০% পোশাক শার্ট হলে, কতটি শার্ট নয়?",
+    "question_normalized": "১৫টি পোশাকের মধ্যে ৪০% পোশাক শার্ট হলে, কতটি শার্ট নয়?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৬",
+      "৯",
+      "১২",
+      "১০"
+    ],
+    "printed_answer": "৯",
+    "accepted_answer_forms": [
+      "৯"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

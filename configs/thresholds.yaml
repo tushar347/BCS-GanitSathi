@@ -1,0 +1,10 @@
+theta_commit: 0.80
+theta_provisional: 0.45
+theta_retract: 0.25
+h_probing_threshold: 0.40
+max_consecutive_probes: 1
+assistance_discount_factors:
+  none: 1.0
+  conceptual_hint: 0.5
+  key_equation_supplied: 0.2
+  worked_solution: 0.0

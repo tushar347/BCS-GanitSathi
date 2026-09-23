@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "ratio_gcd_numbers_f01",
+    "item_id": "BCS38_Q165",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "ratio_with_gcd",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion",
+      "গ.সা.গু": "GCD"
+    },
+    "question_bn": "দুটি সংখ্যার অনুপাত 2 : 3 এবং গ.সা.গু 4 হলে বৃহত্তর সংখ্যাটি কত?",
+    "answer_options": [
+      "6",
+      "12",
+      "8",
+      "16"
+    ],
+    "correct_answer": "12",
+    "solution_steps": [
+      "Numbers are 2k and 3k. Since 2 and 3 are coprime, GCD=k.",
+      "k=4, so larger number=3×4=12."
+    ],
+    "source_page": 17,
+    "source_exam": "38th BCS"
+  }
+]

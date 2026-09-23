@@ -1,0 +1,118 @@
+[
+  {
+    "item_id": "BCS14_Q025",
+    "family_id": "two_digit_digit_relation_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দশকের অঙ্ক t হলে এককের অঙ্ক t+3। সংখ্যাটি =10t+(t+3)=11t+3।",
+          "শর্ত: 11t+3=3(2t+3)+4।",
+          "11t+3=6t+13, তাই t=2 এবং সংখ্যা 25।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS14_Q026",
+    "family_id": "clock_chime_interval_count_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "৬টি ঘণ্টাধ্বনির মধ্যে ৫টি সময়-ব্যবধান; মোট 5 সেকেন্ড, তাই প্রতি ব্যবধান 1 সেকেন্ড।",
+          "১২টি ঘণ্টাধ্বনির মধ্যে ১১টি ব্যবধান।",
+          "সময় =11 সেকেন্ড।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS14_Q027",
+    "family_id": "fractional_distribution_remainder_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম তিন পুত্র পেয়েছে 1/2+1/4+1/5 =19/20 অংশ।",
+          "বাকি 1/20 অংশ =7টি।",
+          "মোট =7×20=140টি।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS14_Q048",
+    "family_id": "metric_mass_conversion_quintal_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১ কুইন্টাল =100 কিলোগ্রাম।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS14_Q052",
+    "family_id": "two_dimension_percentage_area_change_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "নতুন ক্ষেত্রফল গুণক =1.20×0.90=1.08।",
+          "অতএব ক্ষেত্রফল 8% বৃদ্ধি পাবে।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS14_Q054",
+    "family_id": "sum_square_conjugate_identity_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(a+b)²+(a-b)² =2a²+2b²।",
+          "অর্ধেক নিলে a²+b²।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

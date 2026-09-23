@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "missing_value_group_averages_f01",
+    "item_id": "BCS11_Q080",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "missing_value_from_group_averages",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture",
+      "পরিমাণ": "quantity",
+      "অনুপাত": "ratio"
+    },
+    "question_bn": "১০টি সংখ্যার যোগফল ৪৬২। এদের প্রথম ৪টির গড় ৫২ এবং শেষের ৫টির গড় ৩৮। পঞ্চম সংখ্যাটি কত?",
+    "answer_options": [
+      "৬০",
+      "৬৪",
+      "৬২",
+      "৫০"
+    ],
+    "correct_answer": "৬৪",
+    "solution_steps": [
+      "প্রথম ৪টির যোগফল =4×52=208।",
+      "শেষ ৫টির যোগফল =5×38=190।",
+      "পঞ্চম সংখ্যা =462-208-190=64।"
+    ],
+    "source_page": 6,
+    "source_exam": "11th BCS"
+  }
+]

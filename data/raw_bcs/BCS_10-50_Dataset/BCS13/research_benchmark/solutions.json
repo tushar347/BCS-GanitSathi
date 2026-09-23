@@ -1,0 +1,119 @@
+[
+  {
+    "item_id": "BCS13_Q081",
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "এককালীন 40% ছাড়ে মূল্য =10000×0.60=6000।",
+          "ক্রমিক 36% ও 4% ছাড়ে মূল্য =10000×0.64×0.96=6144।",
+          "পার্থক্য =6144-6000=144 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS13_Q082",
+    "family_id": "percentage_total_questions_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সঠিক উত্তর =15+(n-20)/3।",
+          "এটি মোটের 50%: 15+(n-20)/3=n/2।",
+          "6 দিয়ে গুণ: 90+2n-40=3n, তাই n=50।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS13_Q083",
+    "family_id": "equal_distance_average_speed_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "যাওয়ার বেগ: ১ মাইল/২ মিনিট =30 মাইল/ঘণ্টা।",
+          "ফেরার বেগ: 2 মাইল/মিনিট =120 মাইল/ঘণ্টা।",
+          "সমান দূরত্বে গড় বেগ =2uv/(u+v)=2×30×120/150=48।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS13_Q084",
+    "family_id": "polynomial_known_root_parameter_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x=2 বসালে 8+2h+10=0।",
+          "2h=-18, তাই h=-9।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS13_Q085",
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম বালক 5 জন, দ্বিতীয় 6 জন, ... শেষ বালক g জনের সঙ্গে খেলে।",
+          "তাই বালকের সংখ্যা = g-5+1 = g-4।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS13_Q090",
+    "family_id": "logarithm_exact_power_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "2⁵=32।",
+          "তাই log₂32=5।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

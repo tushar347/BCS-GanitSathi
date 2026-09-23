@@ -1,0 +1,245 @@
+[
+  {
+    "family_id": "prime_numbers_ending_digit_sum_f01",
+    "item_id": "BCS29_Q081",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "prime_numbers_digit_condition",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "১০ থেকে ৬০ পর্যন্ত যে সকল মৌলিক সংখ্যার একক স্থানীয় অঙ্ক ৯ তাদের সমষ্টি কত?",
+    "answer_options": [
+      "১৪৬",
+      "৯৯",
+      "১০৫",
+      "১০৭"
+    ],
+    "correct_answer": "১০৭",
+    "solution_steps": [
+      "The primes from 10 to 60 ending in 9 are 19, 29 and 59.",
+      "Their sum is 19 + 29 + 59 = 107."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  },
+  {
+    "family_id": "verbal_less_than_equation_f01",
+    "item_id": "BCS29_Q082",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "verbal_relation_to_equation",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "৪০ সংখ্যাটি a হতে ১১ কম। গাণিতিক আকারে প্রকাশ করলে কী হবে?",
+    "answer_options": [
+      "a + ১১ = ৪০",
+      "a + ৪০ = ১১",
+      "a = ৪০ + ১১",
+      "a = ৪০ + ১"
+    ],
+    "correct_answer": "a = ৪০ + ১১",
+    "solution_steps": [
+      "If 40 is 11 less than a, then a - 11 = 40.",
+      "Equivalently, a = 40 + 11."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  },
+  {
+    "family_id": "digit_length_boundary_difference_f01",
+    "item_id": "BCS29_Q083",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "place_value_boundary_difference",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "পাঁচ অঙ্কের ক্ষুদ্রতম সংখ্যা ও চার অঙ্কের বৃহত্তম সংখ্যার অন্তর কত?",
+    "answer_options": [
+      "৯",
+      "১০",
+      "১",
+      "−১"
+    ],
+    "correct_answer": "১",
+    "solution_steps": [
+      "The smallest five-digit number is 10000.",
+      "The largest four-digit number is 9999.",
+      "10000 - 9999 = 1."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  },
+  {
+    "family_id": "decimal_addition_place_value_f01",
+    "item_id": "BCS29_Q084",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "decimal_addition",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "১.১, .০১ ও .০০১১ এর সমষ্টি কত?",
+    "answer_options": [
+      "০.০১১১১",
+      "১.১১১১",
+      "১১.১১০১",
+      "১.১০১১১"
+    ],
+    "correct_answer": "১.১১১১",
+    "solution_steps": [
+      "Align decimal places: 1.1000 + 0.0100 + 0.0011.",
+      "The sum is 1.1111."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  },
+  {
+    "family_id": "terminating_decimal_to_mixed_fraction_f01",
+    "item_id": "BCS29_Q085",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "decimal_to_fraction",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "১.১৬ এর সাধারণ ভগ্নাংশ কোনটি?",
+    "answer_options": [
+      "১(১/৬)",
+      "১(৮/৪৫)",
+      "১(১৬/৯৯)",
+      "১(৪/২৫)"
+    ],
+    "correct_answer": "১(৪/২৫)",
+    "solution_steps": [
+      "1.16 = 116/100 = 29/25.",
+      "29/25 = 1 4/25."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  },
+  {
+    "family_id": "money_value_fraction_f01",
+    "item_id": "BCS29_Q086",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "money_fraction_of_total",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "৪টি ১ টাকার নোট ও ৮টি ২ টাকার নোট ৮টি ৫ টাকার নোটের কত অংশ?",
+    "answer_options": [
+      "১/৪",
+      "১/২",
+      "১/৮",
+      "১/১৬"
+    ],
+    "correct_answer": "১/২",
+    "solution_steps": [
+      "The first group is worth 4*1 + 8*2 = 20 taka.",
+      "Eight 5-taka notes are worth 40 taka.",
+      "20/40 = 1/2."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  },
+  {
+    "family_id": "consecutive_three_product_120_sum_f01",
+    "item_id": "BCS29_Q087",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "consecutive_numbers_product_sum",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে তাদের যোগফল হবে—",
+    "answer_options": [
+      "৯",
+      "১২",
+      "১৪",
+      "১৫"
+    ],
+    "correct_answer": "১৫",
+    "solution_steps": [
+      "The consecutive positive integers with product 120 are 4, 5 and 6.",
+      "Their sum is 15."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  },
+  {
+    "family_id": "compare_divisor_counts_f01",
+    "item_id": "BCS29_Q088",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "divisor_count_comparison",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "Which of the following integers has the most divisors?",
+    "answer_options": [
+      "88",
+      "91",
+      "95",
+      "99"
+    ],
+    "correct_answer": "88",
+    "solution_steps": [
+      "88 = 2^3*11, so it has (3+1)(1+1)=8 divisors.",
+      "91 and 95 each have 4 divisors, while 99=3^2*11 has 6.",
+      "Therefore 88 has the most divisors."
+    ],
+    "source_page": 8,
+    "source_exam": "29th BCS"
+  }
+]

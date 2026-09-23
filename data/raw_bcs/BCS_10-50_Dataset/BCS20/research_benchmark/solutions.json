@@ -1,0 +1,159 @@
+[
+  {
+    "item_id": "BCS20_Q091",
+    "family_id": "simple_interest_find_principal_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সরল সুদে A=P(1+rt)।",
+          "r=0.045, t=4, তাই 826=P(1+0.18)=1.18P।",
+          "P=826/1.18=700 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS20_Q092",
+    "family_id": "age_ratio_past_condition_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "পুত্রের বর্তমান বয়স s হলে পিতার বয়স 4s।",
+          "6 বছর আগে: 4s-6 =10(s-6)।",
+          "4s-6=10s-60, তাই 6s=54, s=9; পিতা=36।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS20_Q093",
+    "family_id": "two_workers_partial_then_one_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দুই নলের যৌথ হার =1/8 ট্যাংক/মিনিট। প্রথম 4 মিনিটে পূর্ণ হয় 1/2।",
+          "বাকি 1/2 দ্বিতীয় নল 6 মিনিটে পূরণ করে, তাই দ্বিতীয় নলের হার=1/12।",
+          "প্রথম নলের হার=1/8-1/12=1/24। তাই সময় 24 ও 12 মিনিট।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS20_Q094",
+    "family_id": "fraction_equation_find_missing_addend_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রয়োজনীয় রাশি =2y/x - x/y।",
+          "সাধারণ হর xy নিলে = (2y²-x²)/(xy)।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS20_Q095",
+    "family_id": "square_sum_from_sum_squares_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(x+y)²=x²+y²+2xy।",
+          "=8+14=22।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS20_Q096",
+    "family_id": "average_speed_distance_over_time_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সময় = সকাল 7টা থেকে বিকেল 3টা =8 ঘণ্টা।",
+          "গড় গতি =300/8=37.5 কিমি/ঘণ্টা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS20_Q098",
+    "family_id": "ratio_equal_addition_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সংখ্যা 5k ও 8k।",
+          "(5k+2)/(8k+2)=2/3।",
+          "15k+6=16k+4, তাই k=2। সংখ্যা 10 ও16।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS20_Q100",
+    "family_id": "combine_pair_average_single_value_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(x+y)/2=9, তাই x+y=18।",
+          "z=12, মোট=30।",
+          "তিনটির গড়=30/3=10।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

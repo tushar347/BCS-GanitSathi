@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "parsed_json_files": 24,
+  "selected_questions": 30,
+  "annotated_questions": 24,
+  "review_questions": 6,
+  "mistake_examples": 47,
+  "indexed_images": 41,
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    "UTF-8 JSON parsing",
+    "exact question and answer schema keys",
+    "four options and source-key membership",
+    "matching and unique IDs within source",
+    "review isolation and withheld generated answers",
+    "mistake structure and divergence index",
+    "referenced asset existence and input/audit separation",
+    "manifest and source-index counts"
+  ],
+  "limitations": "Structural validation is not a certification of every source answer or generated pedagogical explanation."
+}

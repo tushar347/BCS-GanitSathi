@@ -1,0 +1,98 @@
+[
+  {
+    "question_number": 45,
+    "source_page": 6,
+    "reason": "cylinder surface area / mensuration - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 46,
+    "source_page": 6,
+    "reason": "triangle angle classification / geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 47,
+    "source_page": 7,
+    "reason": "inscribed-circle area / geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 48,
+    "source_page": 7,
+    "reason": "permutation counting - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 49,
+    "source_page": 7,
+    "reason": "set/power-set counting - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 50,
+    "source_page": 7,
+    "reason": "probability - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 51,
+    "source_page": 7,
+    "reason": "direction reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 52,
+    "source_page": 7,
+    "reason": "lexicographic ordering / mental ability - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 53,
+    "source_page": 7,
+    "reason": "family-relation reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 54,
+    "source_page": 7,
+    "reason": "letter-code reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 55,
+    "source_page": 7,
+    "reason": "odd-one-out reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 57,
+    "source_page": 8,
+    "reason": "projectile/physics reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 58,
+    "source_page": 8,
+    "reason": "handshake combinatorics - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 59,
+    "source_page": 8,
+    "reason": "analogy / mental ability - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 60,
+    "source_page": 8,
+    "reason": "visual series - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 61,
+    "source_page": 8,
+    "reason": "number-pattern puzzle / mental ability - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  }
+]

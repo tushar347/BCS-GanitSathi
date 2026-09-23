@@ -1,0 +1,298 @@
+[
+  {
+    "item_id": "BCS22_Q071",
+    "family_id": "consecutive_integer_square_difference_bcs22_q071_f01",
+    "exam": "22nd BCS",
+    "question_number": 71,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "consecutive_integer_square_difference",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "দুইটি ক্রমিক সংখ্যার বর্গের অন্তর ১৯৯ হলে, বড় সংখ্যাটি কত?",
+    "question_normalized": "দুইটি ক্রমিক সংখ্যার বর্গের অন্তর ১৯৯ হলে, বড় সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭০",
+      "৮০",
+      "৯০",
+      "১০০"
+    ],
+    "printed_answer": "১০০",
+    "accepted_answer_forms": [
+      "১০০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q072",
+    "family_id": "divisors_with_remainder_bcs22_q072_f01",
+    "exam": "22nd BCS",
+    "question_number": 72,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "divisors_with_remainder",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোন কোন স্বাভাবিক সংখ্যা দ্বারা ৩৪৬-কে ভাগ করলে প্রতিক্ষেত্রে ৩১ অবশিষ্ট থাকবে?",
+    "question_normalized": "কোন কোন স্বাভাবিক সংখ্যা দ্বারা ৩৪৬-কে ভাগ করলে প্রতিক্ষেত্রে ৩১ অবশিষ্ট থাকবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৫,৪৫,৬৩,১০৫,৩১৫",
+      "৩৫,৪০,৬৫,১১০,৩১৫",
+      "৩৫,৪৫,৭০,১০৫,৩১৫",
+      "৩৫,৪৫,৬৩,১১০,৩১৫"
+    ],
+    "printed_answer": "৩৫,৪৫,৬৩,১০৫,৩১৫",
+    "accepted_answer_forms": [
+      "৩৫,৪৫,৬৩,১০৫,৩১৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q073",
+    "family_id": "two_subject_pass_fail_percentage_bcs22_q073_f01",
+    "exam": "22nd BCS",
+    "question_number": 73,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "two_subject_pass_fail_percentage",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোনো পরীক্ষায় শিক্ষার্থীর ৮০% গণিতে এবং ৭০% বাংলায় পাশ করল, উভয় বিষয়ে পাশ করল ৬০%। তাহলে উভয় বিষয়ে শতকরা কতজন ফেল করল?",
+    "question_normalized": "কোনো পরীক্ষায় শিক্ষার্থীর ৮০% গণিতে এবং ৭০% বাংলায় পাশ করল, উভয় বিষয়ে পাশ করল ৬০%। তাহলে উভয় বিষয়ে শতকরা কতজন ফেল করল?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১০%",
+      "১৫%",
+      "১২%",
+      "১১%"
+    ],
+    "printed_answer": "১০%",
+    "accepted_answer_forms": [
+      "১০%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q074",
+    "family_id": "loss_percentage_from_sp_cp_bcs22_q074_f01",
+    "exam": "22nd BCS",
+    "question_number": 74,
+    "source_page": 7,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "loss_percentage_from_sp_cp",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি দ্রব্য ৩৮০ টাকায় বিক্রয় করায় ২০ টাকা ক্ষতি হলো। ক্ষতির শতকরা হার কত?",
+    "question_normalized": "একটি দ্রব্য ৩৮০ টাকায় বিক্রয় করায় ২০ টাকা ক্ষতি হলো। ক্ষতির শতকরা হার কত?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা"
+    ],
+    "answer_options": [
+      "৪%",
+      "৬%",
+      "৫%",
+      "৭%"
+    ],
+    "printed_answer": "৫%",
+    "accepted_answer_forms": [
+      "৫%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q075",
+    "family_id": "divide_length_by_ratio_bcs22_q075_f01",
+    "exam": "22nd BCS",
+    "question_number": 75,
+    "source_page": 7,
+    "topic_group": "ratios_proportions",
+    "subskill": "divide_length_by_ratio",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৬০ মিটার দৈর্ঘ্যবিশিষ্ট বাঁশকে ৩ : ৭ : ১০ অনুপাতে ভাগ করলে টুকরোগুলোর দৈর্ঘ্য কত?",
+    "question_normalized": "৬০ মিটার দৈর্ঘ্যবিশিষ্ট বাঁশকে ৩ : ৭ : ১০ অনুপাতে ভাগ করলে টুকরোগুলোর দৈর্ঘ্য কত?",
+    "normalization_notes": [],
+    "units": [
+      "মিটার"
+    ],
+    "answer_options": [
+      "৮ মি., ২২ মি., ৩০ মি.",
+      "১০ মি., ২০ মি., ৩০ মি.",
+      "৯ মি., ২১ মি., ৩০ মি.",
+      "১২ মি., ২০ মি., ২৮ মি."
+    ],
+    "printed_answer": "৯ মি., ২১ মি., ৩০ মি.",
+    "accepted_answer_forms": [
+      "৯ মি., ২১ মি., ৩০ মি."
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q076",
+    "family_id": "midpoint_between_numbers_bcs22_q076_f01",
+    "exam": "22nd BCS",
+    "question_number": 76,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "midpoint_between_numbers",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি সংখ্যা ৬৫০ থেকে যত বড়, ৮২০ থেকে তত ছোট। সংখ্যাটি কত?",
+    "question_normalized": "একটি সংখ্যা ৬৫০ থেকে যত বড়, ৮২০ থেকে তত ছোট। সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭৩০",
+      "৭৩৫",
+      "৮০০",
+      "৭৮০"
+    ],
+    "printed_answer": "৭৩৫",
+    "accepted_answer_forms": [
+      "৭৩৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q077",
+    "family_id": "fraction_equation_bcs22_q077_f01",
+    "exam": "22nd BCS",
+    "question_number": 77,
+    "source_page": 7,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_equation",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "একটি প্রকৃত ভগ্নাংশের হর ও লবের অন্তর ২। হর ও লব উভয় থেকে ৩ বিয়োগ করলে যে ভগ্নাংশ পাওয়া যায়, তার সঙ্গে ১/৪ যোগ করলে যোগফল ১ হয়। ভগ্নাংশটি কত?",
+    "question_normalized": "একটি প্রকৃত ভগ্নাংশের হর ও লবের অন্তর ২। হর ও লব উভয় থেকে ৩ বিয়োগ করলে যে ভগ্নাংশ পাওয়া যায়, তার সঙ্গে ১/৪ যোগ করলে যোগফল ১ হয়। ভগ্নাংশটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭/৯",
+      "৯/১১",
+      "১১/১৩",
+      "১৩/১৫"
+    ],
+    "printed_answer": "৯/১১",
+    "accepted_answer_forms": [
+      "৯/১১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q078",
+    "family_id": "compare_numeric_forms_bcs22_q078_f01",
+    "exam": "22nd BCS",
+    "question_number": 78,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "compare_numeric_forms",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন সংখ্যাটি বৃহত্তম?",
+    "question_normalized": "কোন সংখ্যাটি বৃহত্তম?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "০.৩",
+      "১/৩ = ০.৩৩৩৩",
+      "√০.৩ = ০.৫৪৭৭",
+      "২/৫ = ০.৪"
+    ],
+    "printed_answer": "√০.৩ = ০.৫৪৭৭",
+    "accepted_answer_forms": [
+      "√০.৩ = ০.৫৪৭৭"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q079",
+    "family_id": "sum_difference_product_bcs22_q079_f01",
+    "exam": "22nd BCS",
+    "question_number": 79,
+    "source_page": 8,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_difference_product",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x + y = 12 এবং x − y = 2 হলে, xy-এর মান কত?",
+    "question_normalized": "x + y = 12 এবং x − y = 2 হলে, xy-এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৫",
+      "১৪০",
+      "৭০",
+      "১৪৪"
+    ],
+    "printed_answer": "৩৫",
+    "accepted_answer_forms": [
+      "৩৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS22_Q080",
+    "family_id": "age_relation_equation_bcs22_q080_f01",
+    "exam": "22nd BCS",
+    "question_number": 80,
+    "source_page": 8,
+    "topic_group": "averages_mixtures",
+    "subskill": "age_relation_equation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "এক ব্যক্তি তার স্ত্রীর চেয়ে ৫ বছরের বড়। তার স্ত্রীর বয়স ছেলের বয়সের ৪ গুণ। ৫ বছর পরে ছেলের বয়স ১২ বছর হলে বর্তমানে ঐ ব্যক্তির বয়স কত?",
+    "question_normalized": "এক ব্যক্তি তার স্ত্রীর চেয়ে ৫ বছরের বড়। তার স্ত্রীর বয়স ছেলের বয়সের ৪ গুণ। ৫ বছর পরে ছেলের বয়স ১২ বছর হলে বর্তমানে ঐ ব্যক্তির বয়স কত?",
+    "normalization_notes": [],
+    "units": [
+      "বছর"
+    ],
+    "answer_options": [
+      "৬৫ বছর",
+      "২৮ বছর",
+      "৩৩ বছর",
+      "৫৩ বছর"
+    ],
+    "printed_answer": "৩৩ বছর",
+    "accepted_answer_forms": [
+      "৩৩ বছর"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

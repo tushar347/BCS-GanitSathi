@@ -1,0 +1,186 @@
+{
+  "dataset_title": "45th BCS preliminary: selected mathematics and reasoning questions",
+  "source_id": "BCS45_BIDDABARI_SUPPLIED_PDF",
+  "source_title_transcribed": "45th BCS preliminary question solutions - Biddabari",
+  "source_pdf_filename": "84b668c8-953f-4cfd-be8c-8f984e77af91.pdf",
+  "source_pdf_sha256": "9741a83d9d482a7816ab0c80ba87521f9d25dbed20606714f47150bbe2e56f0a",
+  "source_pages": 19,
+  "extracted_pages": [
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "format": "UTF-8 JSON; top-level arrays in question and answer datasets",
+  "schema_reference": "User-supplied demo ZIP, files.json/please_read.docx and populated sample JSON files",
+  "topic_question_file_count": 9,
+  "topic_answer_file_count": 9,
+  "included_question_count": 26,
+  "included_answer_record_count": 26,
+  "generated_hypothetical_mistake_count": 76,
+  "review_required_question_count": 3,
+  "total_extracted_question_count": 29,
+  "topic_files": [
+    {
+      "topic": "algebra",
+      "questions_file": "algebra_questions.json",
+      "answers_file": "algebra_answers.json",
+      "question_count": 6,
+      "mistake_record_count": 6,
+      "family_ids": [
+        "Q161",
+        "Q166",
+        "Q167",
+        "Q168",
+        "Q169",
+        "Q175"
+      ]
+    },
+    {
+      "topic": "percentages",
+      "questions_file": "percentages_questions.json",
+      "answers_file": "percentages_answers.json",
+      "question_count": 1,
+      "mistake_record_count": 1,
+      "family_ids": [
+        "Q163"
+      ]
+    },
+    {
+      "topic": "ratios",
+      "questions_file": "ratios_questions.json",
+      "answers_file": "ratios_answers.json",
+      "question_count": 1,
+      "mistake_record_count": 1,
+      "family_ids": [
+        "Q162"
+      ]
+    },
+    {
+      "topic": "speed & distance",
+      "questions_file": "speed_distance_questions.json",
+      "answers_file": "speed_distance_answers.json",
+      "question_count": 1,
+      "mistake_record_count": 1,
+      "family_ids": [
+        "Q188"
+      ]
+    },
+    {
+      "topic": "arithmetic",
+      "questions_file": "arithmetic_questions.json",
+      "answers_file": "arithmetic_answers.json",
+      "question_count": 4,
+      "mistake_record_count": 4,
+      "family_ids": [
+        "Q173",
+        "Q174",
+        "Q177",
+        "Q180"
+      ]
+    },
+    {
+      "topic": "mental ability",
+      "questions_file": "mental_ability_questions.json",
+      "answers_file": "mental_ability_answers.json",
+      "question_count": 6,
+      "mistake_record_count": 6,
+      "family_ids": [
+        "Q176",
+        "Q181",
+        "Q182",
+        "Q183",
+        "Q185",
+        "Q187"
+      ]
+    },
+    {
+      "topic": "geometry",
+      "questions_file": "geometry_questions.json",
+      "answers_file": "geometry_answers.json",
+      "question_count": 3,
+      "mistake_record_count": 3,
+      "family_ids": [
+        "Q165",
+        "Q170",
+        "Q172"
+      ]
+    },
+    {
+      "topic": "mensuration",
+      "questions_file": "mensuration_questions.json",
+      "answers_file": "mensuration_answers.json",
+      "question_count": 1,
+      "mistake_record_count": 1,
+      "family_ids": [
+        "Q171"
+      ]
+    },
+    {
+      "topic": "number system",
+      "questions_file": "number_system_questions.json",
+      "answers_file": "number_system_answers.json",
+      "question_count": 3,
+      "mistake_record_count": 3,
+      "family_ids": [
+        "Q149",
+        "Q150",
+        "Q179"
+      ]
+    }
+  ],
+  "review_files": [
+    "review_required_questions.json",
+    "review_required_answers.json"
+  ],
+  "support_files": [
+    "source_index.json",
+    "quality_report.json",
+    "asset_index.json",
+    "validation_report.json",
+    "README.md",
+    "validate.py"
+  ],
+  "source_derived_fields": [
+    "question_bn",
+    "answer_options",
+    "correct_answer"
+  ],
+  "model_derived_fields": [
+    "family_id",
+    "topic",
+    "in_scope",
+    "assigned_subskill",
+    "difficulty_rating",
+    "target_completion_time",
+    "target_quantity",
+    "english_glossary",
+    "solution_steps",
+    "possible_mistakes"
+  ],
+  "field_meanings": {
+    "family_id": "Q + original three-digit printed question number. IDs are scoped to this source; use (source_id, family_id) as the cross-PDF key.",
+    "correct_answer": "The supplied PDF's printed key, represented using the corresponding option string. Not an independently substituted answer. Questionable keys are quarantined.",
+    "in_scope": "Taxonomy eligibility, not a reliability or training-readiness flag. Even quarantined questions remain in_scope=true.",
+    "solution_steps": "Model-generated teaching solution, not a solution extracted from the PDF; withheld for blocking cases.",
+    "possible_mistakes": "Synthetic teaching examples of possible errors, not observed student mistakes or source-authored explanations.",
+    "diverges_at_step": "1-based index of the first erroneous step in that mistake's own reasoning_steps list, not an index into the correct solution.",
+    "target_completion_time": "Estimated seconds expressed as a string, matching the sample convention."
+  },
+  "image_handling": {
+    "representation": "Markdown image references inside existing string fields; no new keys are added to the sample question schema.",
+    "path_base": "Paths resolve relative to this dataset folder. Keep assets/ beside the JSON files.",
+    "question_image_folder": "assets/",
+    "audit_only_image_folder": "audit_assets/",
+    "leakage_warning": "Do not use audit_assets/ as model question inputs; those crops intentionally include printed answers for source review.",
+    "text_only_loading": "Q181, Q183, and Q187 in the included data require image-aware loading. Q186 is an image-dependent quarantined record."
+  },
+  "normalization_policy": [
+    "Transcribe Bengali from the rendered pages because the embedded text has broken glyph mappings; no OCR used.",
+    "Retain original option order, Bengali/Latin digit choices, anomalous distractors, and missing content.",
+    "Represent mathematical fractions, superscripts, and base indices with LaTeX where appropriate; normalize only spacing/line wraps and typography, not values or operators.",
+    "The ambiguous baseline p2/q2 and x2 text in Q166/Q175 is retained and its interpretation is declared in the model-generated solution.",
+    "Do not add invented verbal stems to diagram-only questions."
+  ]
+}

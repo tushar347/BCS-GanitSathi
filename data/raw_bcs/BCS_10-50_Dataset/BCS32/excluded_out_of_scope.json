@@ -1,0 +1,42 @@
+[
+  {
+    "q": 82,
+    "page": 9,
+    "reason": "circle/square geometry - outside initial scope"
+  },
+  {
+    "q": 83,
+    "page": 9,
+    "reason": "triangle exterior-angle geometry - outside initial scope"
+  },
+  {
+    "q": 88,
+    "page": 10,
+    "reason": "circle area scaling - main skill is geometry, outside initial scope"
+  },
+  {
+    "q": 89,
+    "page": 10,
+    "reason": "clock-angle geometry - outside initial scope"
+  },
+  {
+    "q": 90,
+    "page": 10,
+    "reason": "quadrilateral geometry - outside initial scope"
+  },
+  {
+    "q": 97,
+    "page": 11,
+    "reason": "rectangle geometry/mensuration - outside initial scope"
+  },
+  {
+    "q": 98,
+    "page": 11,
+    "reason": "equilateral-triangle geometry - outside initial scope"
+  },
+  {
+    "q": 100,
+    "page": 11,
+    "reason": "set theory - outside initial scope"
+  }
+]

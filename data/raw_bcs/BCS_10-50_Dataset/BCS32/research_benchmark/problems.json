@@ -1,0 +1,330 @@
+[
+  {
+    "item_id": "BCS32_Q081",
+    "family_id": "parity_two_odd_numbers_f01",
+    "exam": "32th BCS",
+    "question_number": 81,
+    "source_page": 9,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "parity_of_expressions",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x এবং y উভয়ই বিজোড় সংখ্যা হলে কোনটি জোড় সংখ্যা হবে?",
+    "question_normalized": "x এবং y উভয়ই বিজোড় সংখ্যা হলে কোনটি জোড় সংখ্যা হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x + y + 1",
+      "xy",
+      "xy + 2",
+      "x + y"
+    ],
+    "printed_answer": "x + y",
+    "accepted_answer_forms": [
+      "x + y"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q084",
+    "family_id": "triangular_number_sequence_f01",
+    "exam": "32th BCS",
+    "question_number": 84,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "triangular_number_sequence",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১, ৩, ৬, ১০, ১৫, ২১ ....... ধারাটির দশম পদ কত?",
+    "question_normalized": "১, ৩, ৬, ১০, ১৫, ২১ ....... ধারাটির দশম পদ কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৫",
+      "৫৫",
+      "৬২",
+      "৬৫"
+    ],
+    "printed_answer": "৫৫",
+    "accepted_answer_forms": [
+      "৫৫",
+      "55"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q085",
+    "family_id": "surd_rationalization_f01",
+    "exam": "32th BCS",
+    "question_number": 85,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "surd_rationalization",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "√2/(√6 + 2) = কত?",
+    "question_normalized": "√2/(√6 + 2) = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "3−√2",
+      "√3−√2",
+      "√3+√2",
+      "√3+2"
+    ],
+    "printed_answer": "√3−√2",
+    "accepted_answer_forms": [
+      "√3−√2"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q086",
+    "family_id": "complete_square_two_variables_f01",
+    "exam": "32th BCS",
+    "question_number": 86,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "complete_square_two_variables",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x² − 8x − 8y + 16 + y² এর সাথে কত যোগ করলে যোগফল একটি পূর্ণ বর্গ হবে?",
+    "question_normalized": "x² − 8x − 8y + 16 + y² এর সাথে কত যোগ করলে যোগফল একটি পূর্ণ বর্গ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4xy",
+      "2xy",
+      "6xy",
+      "8xy"
+    ],
+    "printed_answer": "2xy",
+    "accepted_answer_forms": [
+      "2xy"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q087",
+    "family_id": "profit_items_per_money_f01",
+    "exam": "32th BCS",
+    "question_number": 87,
+    "source_page": 10,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "profit_items_per_money",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "টাকায় ৩টি করে লেবু কিনে টাকায় ২টি করে বিক্রি করলে শতকরা কত লাভ হবে?",
+    "question_normalized": "টাকায় ৩টি করে লেবু কিনে টাকায় ২টি করে বিক্রি করলে শতকরা কত লাভ হবে?",
+    "normalization_notes": [],
+    "units": [
+      "taka"
+    ],
+    "answer_options": [
+      "৫০%",
+      "২০%",
+      "৩০%",
+      "৩৩%"
+    ],
+    "printed_answer": "৫০%",
+    "accepted_answer_forms": [
+      "৫০%",
+      "50%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q091",
+    "family_id": "fraction_comparison_f02",
+    "exam": "32th BCS",
+    "question_number": 91,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_comparison",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন ভগ্নাংশটি ক্ষুদ্রতম?",
+    "question_normalized": "কোন ভগ্নাংশটি ক্ষুদ্রতম?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫/৬",
+      "১২/১৫",
+      "১১/১৪",
+      "১৭/২১"
+    ],
+    "printed_answer": "১১/১৪",
+    "accepted_answer_forms": [
+      "১১/১৪",
+      "11/14"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q092",
+    "family_id": "consecutive_three_product_120_sum_f01",
+    "exam": "32th BCS",
+    "question_number": 92,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "consecutive_numbers_product_sum",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে, তাদের যোগফল কত?",
+    "question_normalized": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে, তাদের যোগফল কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৯",
+      "১২",
+      "১৪",
+      "১৫"
+    ],
+    "printed_answer": "১৫",
+    "accepted_answer_forms": [
+      "১৫",
+      "15"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q093",
+    "family_id": "one_digit_recurring_decimal_to_fraction_f01",
+    "exam": "32th BCS",
+    "question_number": 93,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "recurring_decimal_to_fraction",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "০.৪৭̇ কে সাধারণ ভগ্নাংশে পরিণত করলে কত হবে?",
+    "question_normalized": "0.4 recurring-7 কে সাধারণ ভগ্নাংশে পরিণত করলে কত হবে?",
+    "normalization_notes": [
+      "The printed dot over 7 indicates that only the digit 7 repeats."
+    ],
+    "units": [],
+    "answer_options": [
+      "৪৭/৯০",
+      "৪৩/৯০",
+      "৪৩/৯৯",
+      "৪৭/৯৯"
+    ],
+    "printed_answer": "৪৩/৯০",
+    "accepted_answer_forms": [
+      "৪৩/৯০",
+      "43/90"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q094",
+    "family_id": "difference_of_squares_shifted_f01",
+    "exam": "32th BCS",
+    "question_number": 94,
+    "source_page": 10,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "difference_of_squares_factorization",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x² − y² + 2y − 1 এর একটি উৎপাদক—",
+    "question_normalized": "x² − y² + 2y − 1 এর একটি উৎপাদক—",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x + y + 1",
+      "x − y",
+      "x + y − 1",
+      "x − y − 1"
+    ],
+    "printed_answer": "x + y − 1",
+    "accepted_answer_forms": [
+      "x + y − 1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q095",
+    "family_id": "basic_log_power_f01",
+    "exam": "32th BCS",
+    "question_number": 95,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "basic_logarithm",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "log₂8 = কত?",
+    "question_normalized": "log₂8 = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "printed_answer": "3",
+    "accepted_answer_forms": [
+      "3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS32_Q096",
+    "family_id": "polynomial_lcm_factorization_f01",
+    "exam": "32th BCS",
+    "question_number": 96,
+    "source_page": 11,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "polynomial_lcm",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x³ + x²y, x²y + xy² এর ল.সা.গু কোনটি?",
+    "question_normalized": "x³ + x²y, x²y + xy² এর ল.সা.গু কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "xy",
+      "x + y",
+      "xy(x + y)",
+      "x²y(x + y)"
+    ],
+    "printed_answer": "x²y(x + y)",
+    "accepted_answer_forms": [
+      "x²y(x + y)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

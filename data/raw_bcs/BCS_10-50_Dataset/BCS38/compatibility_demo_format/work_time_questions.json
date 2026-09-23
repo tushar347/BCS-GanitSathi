@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "combined_work_two_people_f01",
+    "item_id": "BCS38_Q187",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "combined_work_rate",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "কাজের হার": "work rate"
+    },
+    "question_bn": "দুই ব্যক্তি একটি কাজ একত্রে ৮ দিনে করতে পারে। প্রথম ব্যক্তি একা কাজটি ১২ দিনে করতে পারে। দ্বিতীয় ব্যক্তি একা ঐ কাজটি কত দিনে করতে পারবে?",
+    "answer_options": [
+      "২০ দিনে",
+      "২৫ দিনে",
+      "২৪ দিনে",
+      "৩০ দিনে"
+    ],
+    "correct_answer": "২৪ দিনে",
+    "solution_steps": [
+      "Combined rate=1/8 job/day.",
+      "First rate=1/12.",
+      "Second rate=1/8-1/12=1/24.",
+      "So the second person needs 24 days."
+    ],
+    "source_page": 20,
+    "source_exam": "38th BCS"
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "collection": "43rd BCS",
+  "counts": {
+    "selected": 30,
+    "annotated": 23,
+    "review_required": 7
+  },
+  "issues": [
+    {
+      "family_id": "Q161",
+      "severity": "review_required",
+      "reason": "The printed key gives only x>8/3. Negative denominators also satisfy the inequality, so the complete solution is x<5/3 or x>8/3. The two combined options print 5/2 rather than 5/3. The key and options are preserved, not repaired.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q161_source_excerpt.png"
+    },
+    {
+      "family_id": "Q162",
+      "severity": "documented_interpretation",
+      "reason": "The wording does not explicitly ask for the minimum. Larger multiples are possible in general, but only 252 among the supplied choices satisfies all conditions.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q162_source_excerpt.png"
+    },
+    {
+      "family_id": "Q163",
+      "severity": "documented_interpretation",
+      "reason": "The annual-rate convention is an explicit annotation. The source options are powers (including ১১⁴), not four-digit integers ending in ৪.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q163_source_excerpt.png"
+    },
+    {
+      "family_id": "Q165",
+      "severity": "documented_interpretation",
+      "reason": "The generated model treats the dock as vertical and the water as horizontal, with the boat 12 feet horizontally from the dock.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q165_source_excerpt.png"
+    },
+    {
+      "family_id": "Q166",
+      "severity": "review_required",
+      "reason": "The first term is printed 5x², not 5x. The literal inequality is 4x²−6>0, whose full solution is x<−√(3/2) or x>√(3/2), not the keyed interval 2<x<3. The source is not changed to a different quadratic.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q166_source_excerpt.png"
+    },
+    {
+      "family_id": "Q167",
+      "severity": "documented_interpretation",
+      "reason": "The first x is on the baseline. No silent conversion of 4x to 4^x is made. The explanation confirms the keyed listed value; it does not claim that it is the only real solution, since x=0 also satisfies the literal equation.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q167_source_excerpt.png"
+    },
+    {
+      "family_id": "Q168",
+      "severity": "review_required",
+      "reason": "The printed expression combines to log₂45, not 15. The source key is 15 and none of the listed numerical options equals log₂45. No missing exponent or operator is invented.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q168_source_excerpt.png"
+    },
+    {
+      "family_id": "Q169",
+      "severity": "review_required",
+      "reason": "The source prints an expression ending in minus 2, with no equality or inequality. Therefore a solution set is not defined by the displayed text. The printed {Φ} is retained and no equals sign is inserted.",
+      "source_page": 16,
+      "source_evidence": "audit_assets/Q169_source_excerpt.png"
+    },
+    {
+      "family_id": "Q170",
+      "severity": "review_required",
+      "reason": "The displayed fourth term is +2/7, not −2/27, and the displayed terms do not specify an infinite continuation. The key 3/20 would follow from a different geometric series. The term and sign are preserved without repair.",
+      "source_page": 17,
+      "source_evidence": "audit_assets/Q170_source_excerpt.png"
+    },
+    {
+      "family_id": "Q172",
+      "severity": "review_required",
+      "reason": "The diagram labels the central angle 180°, whereas the supplied key is 72°. Taking that printed central angle literally gives a 90° inscribed angle, which is absent from the options. The diagram and source key are retained without changing the angle label.",
+      "source_page": 17,
+      "source_evidence": "audit_assets/Q172_source_excerpt.png"
+    },
+    {
+      "family_id": "Q173",
+      "severity": "documented_interpretation",
+      "reason": "The mismatched closing parenthesis in A and the printed IN notation are preserved; the inequality and membership conditions remain readable.",
+      "source_page": 17,
+      "source_evidence": "audit_assets/Q173_source_excerpt.png"
+    },
+    {
+      "family_id": "Q174",
+      "severity": "documented_interpretation",
+      "reason": "The all-pairs handshake convention is an explicit model interpretation matching the supplied key. The wording is not expanded inside question_bn.",
+      "source_page": 17,
+      "source_evidence": "audit_assets/Q174_source_excerpt.png"
+    },
+    {
+      "family_id": "Q177",
+      "severity": "documented_interpretation",
+      "reason": "This is retained as semantic classification in mental ability, not as an ordinary vocabulary-definition item. The grouping explanation is generated.",
+      "source_page": 17,
+      "source_evidence": "audit_assets/Q177_source_excerpt.png"
+    },
+    {
+      "family_id": "Q181",
+      "severity": "documented_interpretation",
+      "reason": "The activity/prerequisite interpretation is a model annotation of the exam analogy, not a claim that the two requirements have identical kinds of necessity.",
+      "source_page": 18,
+      "source_evidence": "audit_assets/Q181_source_excerpt.png"
+    },
+    {
+      "family_id": "Q185",
+      "severity": "documented_interpretation",
+      "reason": "The wording asks about Tinni’s relationship to the boy, while the key ভাই describes the boy’s relationship to Tinni. This direction-of-relation looseness is documented; neither source wording nor key is silently rewritten.",
+      "source_page": 18,
+      "source_evidence": "audit_assets/Q185_source_excerpt.png"
+    },
+    {
+      "family_id": "Q186",
+      "severity": "documented_interpretation",
+      "reason": "The model explanation avoids treating Pluto as a major planet. The source has no printed classification explanation; its key চাঁদ is preserved.",
+      "source_page": 18,
+      "source_evidence": "audit_assets/Q186_source_excerpt.png"
+    },
+    {
+      "family_id": "Q188",
+      "severity": "review_required",
+      "reason": "The drawing supplies 20 lb and 30 lb loads but no numerical lever-arm lengths. Its arrow segments are not a stated scale. The keyed 25 lb cannot be established without inventing missing distances.",
+      "source_page": 19,
+      "source_evidence": "audit_assets/Q188_source_excerpt.png"
+    }
+  ],
+  "duplicate_groups": [],
+  "limitations": [
+    "Printed keys are transcribed, not certified as an official or fully correct answer key.",
+    "Generated explanations and synthetic mistakes are annotations, not printed solutions or observed student responses.",
+    "Some main-file items require the conventional interpretations documented in source_index.json.",
+    "No external web corrections or invented missing instructions/dimensions are included."
+  ]
+}

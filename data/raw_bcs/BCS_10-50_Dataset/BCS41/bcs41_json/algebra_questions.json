@@ -1,0 +1,140 @@
+[
+  {
+    "family_id": "Q090",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "sum of an infinite geometric series",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "infinite sum",
+    "english_glossary": {
+      "অসীম": "infinite",
+      "ধারা": "sequence or series"
+    },
+    "question_bn": "০.১২ + ০.০০১২ + ০.০০০০১২ + ....... ধারাটির অসীম পদ পর্যন্ত যোগফল−",
+    "answer_options": [
+      "4/33",
+      "4/99",
+      "122/99",
+      "14/99"
+    ],
+    "correct_answer": "4/33",
+    "solution_steps": [
+      "The first term is 0.12 and common ratio is 0.01.",
+      "Because |0.01|<1, the infinite sum is 0.12/(1−0.01).",
+      "This equals 12/99=4/33."
+    ]
+  },
+  {
+    "family_id": "Q091",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "multiplication of principal complex square roots",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "product",
+    "english_glossary": {},
+    "question_bn": "√(−8) × √(−2) = কত?",
+    "answer_options": [
+      "4",
+      "4i",
+      "−4",
+      "−4i"
+    ],
+    "correct_answer": "−4",
+    "solution_steps": [
+      "For principal complex roots, √(−8)=2√2 i and √(−2)=√2 i.",
+      "Their product is 4i²=−4."
+    ]
+  },
+  {
+    "family_id": "Q098",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "cube identity for two related radicals",
+    "difficulty_rating": "Hard",
+    "target_completion_time": "80 seconds",
+    "target_quantity": "x cubed plus six",
+    "english_glossary": {},
+    "question_bn": "x + 2^(1/3) + 2^(2/3) = 0 হলে, x³ + 6 এর মান কত?",
+    "answer_options": [
+      "4x",
+      "6x",
+      "4",
+      "8"
+    ],
+    "correct_answer": "6x",
+    "solution_steps": [
+      "Put a=2^(1/3), b=2^(2/3); then a+b=−x and ab=2.",
+      "Since a³+b³=2+4=6, (a+b)³=6+3ab(a+b)=6−6x.",
+      "Thus −x³=6−6x and x³+6=6x."
+    ]
+  },
+  {
+    "family_id": "Q099",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "factoring a common exponential term",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "value of x",
+    "english_glossary": {},
+    "question_bn": "5^x + 8.5^x + 16.5^x = 1 হলে, x এর মান কত?",
+    "answer_options": [
+      "−3",
+      "−2",
+      "−1",
+      "−1/2"
+    ],
+    "correct_answer": "−2",
+    "solution_steps": [
+      "Interpret the printed dots in 8.5^x and 16.5^x as multiplication, as required by the supplied key.",
+      "Factor the expression as (1+8+16)5^x=25×5^x=1.",
+      "Then 5^x=1/25=5^(−2), so x=−2."
+    ]
+  },
+  {
+    "family_id": "Q101",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "symmetric reciprocal-square identity",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "sum of reciprocal squares",
+    "english_glossary": {},
+    "question_bn": "a + b = 7 এবং ab = 12 হলে, 1/a² + 1/b² এর মান কত?",
+    "answer_options": [
+      "3/25",
+      "25/144",
+      "31/144",
+      "11/49"
+    ],
+    "correct_answer": "25/144",
+    "solution_steps": [
+      "a²+b²=(a+b)²−2ab=49−24=25.",
+      "Therefore 1/a²+1/b²=(a²+b²)/(ab)²=25/144."
+    ]
+  },
+  {
+    "family_id": "Q103",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "nested logarithms",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "value of the nested expression",
+    "english_glossary": {},
+    "question_bn": "log₂(log_{√e}(e²)) = ?",
+    "answer_options": [
+      "−2",
+      "−1",
+      "1",
+      "2"
+    ],
+    "correct_answer": "2",
+    "solution_steps": [
+      "Since √e=e^(1/2), log_{√e}(e²)=2/(1/2)=4.",
+      "Then log₂4=2."
+    ]
+  }
+]

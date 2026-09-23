@@ -1,0 +1,128 @@
+[
+  {
+    "item_id": "BCS14_Q025",
+    "family_id": "two_digit_digit_relation_f01",
+    "policy_id": "BCS14_Q025_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS14_Q026",
+    "family_id": "clock_chime_interval_count_f01",
+    "policy_id": "BCS14_Q026_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS14_Q027",
+    "family_id": "fractional_distribution_remainder_f01",
+    "policy_id": "BCS14_Q027_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS14_Q048",
+    "family_id": "metric_mass_conversion_quintal_f01",
+    "policy_id": "BCS14_Q048_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS14_Q052",
+    "family_id": "two_dimension_percentage_area_change_f01",
+    "policy_id": "BCS14_Q052_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS14_Q054",
+    "family_id": "sum_square_conjugate_identity_f01",
+    "policy_id": "BCS14_Q054_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "boat_stream_round_trip_time_bcs26_q186_f01",
+    "item_id": "BCS26_Q186",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "boat_stream_round_trip_time",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গতি": "speed",
+      "দূরত্ব": "distance",
+      "সময়": "time"
+    },
+    "question_bn": "লঞ্চ ও স্রোতের গতিবেগ যথাক্রমে ঘণ্টায় ১৮ কিমি ও ৬ কিমি। নদীপথে ৪৮ কিমি অতিক্রম করে পুনরায় ফিরে আসতে সময় লাগবে কত?",
+    "answer_options": [
+      "১০ ঘণ্টা",
+      "৫ ঘণ্টা",
+      "৬ ঘণ্টা",
+      "৮ ঘণ্টা"
+    ],
+    "correct_answer": "৬ ঘণ্টা",
+    "solution_steps": [
+      "অনুকূলে গতি = 24 কিমি/ঘণ্টা, সময় = 48/24=2 ঘণ্টা।",
+      "প্রতিকূলে গতি = 12, সময় = 48/12=4 ঘণ্টা।",
+      "মোট 6 ঘণ্টা।"
+    ],
+    "source_page": 31,
+    "source_exam": "26th BCS"
+  }
+]

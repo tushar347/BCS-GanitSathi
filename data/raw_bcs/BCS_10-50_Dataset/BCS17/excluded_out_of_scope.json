@@ -1,0 +1,26 @@
+[
+  {
+    "question_number": 7,
+    "source_page": 1,
+    "reason": "vector magnitude / physics - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 10,
+    "source_page": 2,
+    "reason": "calendar/day reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 11,
+    "source_page": 2,
+    "reason": "triangle area / geometry-mensuration - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 13,
+    "source_page": 2,
+    "reason": "vertical-angle geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "item_id": "BCS10_Q085",
+    "family_id": "prime_numbers_in_range_f01",
+    "policy_id": "BCS10_Q085_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q086",
+    "family_id": "identify_prime_number_f01",
+    "policy_id": "BCS10_Q086_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q087",
+    "family_id": "gcd_lcm_product_f01",
+    "policy_id": "BCS10_Q087_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q088",
+    "family_id": "decimal_product_fraction_f01",
+    "policy_id": "BCS10_Q088_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q089",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "policy_id": "BCS10_Q089_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q090",
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "policy_id": "BCS10_Q090_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q091",
+    "family_id": "simple_interest_amount_multiple_f01",
+    "policy_id": "BCS10_Q091_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q092",
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "policy_id": "BCS10_Q092_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q093",
+    "family_id": "average_consecutive_integers_f01",
+    "policy_id": "BCS10_Q093_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q094",
+    "family_id": "sum_difference_find_product_f01",
+    "policy_id": "BCS10_Q094_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q095",
+    "family_id": "factor_identity_parameter_f01",
+    "policy_id": "BCS10_Q095_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q099",
+    "family_id": "successive_markup_two_stage_f01",
+    "policy_id": "BCS10_Q099_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  },
+  {
+    "item_id": "BCS10_Q100",
+    "family_id": "sum_cubes_sum_zero_f01",
+    "policy_id": "BCS10_Q100_POL1",
+    "authorized_answer_state": "diagnosis_not_yet_confirmed",
+    "permitted_action": [
+      "ask_diagnostic_probe",
+      "give_nondecisive_hint",
+      "acknowledge_valid_step"
+    ],
+    "permitted_facts": [
+      "problem_statement",
+      "student_visible_work",
+      "nondecisive mathematical relationships"
+    ],
+    "prohibited_decisive_disclosures": [
+      "final_answer",
+      "complete worked solution",
+      "explicit hidden diagnosis label"
+    ]
+  }
+]

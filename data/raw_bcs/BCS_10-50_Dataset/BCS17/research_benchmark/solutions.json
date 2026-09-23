@@ -1,0 +1,200 @@
+[
+  {
+    "item_id": "BCS17_Q006",
+    "family_id": "fractional_exponent_negative_power_bcs17_q006_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "125/27=(5/3)^3।",
+          "[(5/3)^3]^(-2/3)=(5/3)^(-2)।",
+          "অতএব মান = (3/5)^2 = 9/25।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q008",
+    "family_id": "common_remainder_lcm_bcs17_q008_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "3,5,6-এর ল.সা.গু = 30।",
+          "একই ভাগশেষ 1 পেতে ক্ষুদ্রতম সংখ্যা = 30+1 = 31।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q009",
+    "family_id": "length_ratio_combined_piece_bcs17_q009_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "ছোট টুকরোর দৈর্ঘ্য x ধরলে বড়টির দৈর্ঘ্য 3x।",
+          "দুটো যুক্ত করলে মোট দৈর্ঘ্য 4x।",
+          "তাই মোট দৈর্ঘ্য ছোট টুকরোর 4 গুণ।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q012",
+    "family_id": "nested_parentheses_simplification_bcs17_q012_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সবচেয়ে ভেতরে x-(x+1)=-1।",
+          "তাই {x-(x+1)}=-1 এবং x-(-1)=x+1।",
+          "অতএব x-(x+1)=-1।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q015",
+    "family_id": "geometric_sequence_missing_term_bcs17_q015_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রতিটি পদ আগের পদের 1/3।",
+          "81, 27, 9, 3, 1।",
+          "তাই লুপ্ত সংখ্যা 9।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q016",
+    "family_id": "gcd_lcm_difference_find_numbers_bcs17_q016_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দুটি সংখ্যার গুণফল = গ.সা.গু × ল.সা.গু = 12×2448 = 29376।",
+          "প্রদত্ত বিকল্পে 144 ও 204-এর পার্থক্য 60 এবং গুণফল 29376।",
+          "তাদের গ.সা.গু 12, তাই জোড়াটি শর্ত পূরণ করে।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q017",
+    "family_id": "evaluate_function_value_bcs17_q017_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x=1 বসালে f(1)=1²+1/1+1।",
+          "তাই f(1)=1+1+1=3।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q018",
+    "family_id": "simultaneous_linear_equations_intersection_bcs17_q018_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x+y=0 থেকে y=-x।",
+          "দ্বিতীয় সমীকরণে বসালে 2x-(-x)+3=0, অর্থাৎ 3x=-3।",
+          "তাই x=-1 এবং y=1।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q019",
+    "family_id": "mixture_ratio_add_pure_component_bcs17_q019_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১৬ গ্রামের ৩:১ অনুপাতে সোনা 12 গ্রাম এবং তামা 4 গ্রাম।",
+          "আর x গ্রাম সোনা যোগ করলে (12+x):4 = 4:1।",
+          "তাই 12+x=16, ফলে x=4 গ্রাম।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS17_Q020",
+    "family_id": "quadratic_equal_roots_parameter_bcs17_q020_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সমান মূলের জন্য discriminant শূন্য: p²-4×1×6=0।",
+          "তাই p²=24।",
+          "p>0 হওয়ায় p=√24।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

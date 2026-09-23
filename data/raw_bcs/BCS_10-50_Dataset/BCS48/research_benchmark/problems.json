@@ -1,0 +1,361 @@
+[
+  {
+    "item_id": "BCS48_Q042",
+    "family_id": "reciprocal_power_identity_bcs48_q042_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 42,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "reciprocal_power_identity",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x + 1/x = 2 হলে, x⁴ + 1/x⁴ এর মান-",
+    "question_normalized": "x + 1/x = 2 হলে, x⁴ + 1/x⁴ এর মান-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1",
+      "0",
+      "2",
+      "1/2"
+    ],
+    "printed_answer": "2",
+    "accepted_answer_forms": [
+      "2",
+      "২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q046",
+    "family_id": "absolute_value_inequality_bcs48_q046_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 46,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "absolute_value_inequality",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "|3x - 4| ≤ 2 এর সমাধান",
+    "question_normalized": "|3x - 4| ≤ 2 এর সমাধান",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "2/3 ≤ x ≤ 2",
+      "2/3 ≤ x < 2",
+      "2/3 < x ≤ 2",
+      "2/3 < x < 2"
+    ],
+    "printed_answer": "2/3 ≤ x ≤ 2",
+    "accepted_answer_forms": [
+      "2/3 ≤ x ≤ 2",
+      "২/৩ ≤ x ≤ ২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q047",
+    "family_id": "square_number_sequence_bcs48_q047_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 47,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "square_number_sequence",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১, ৪, ৯, ১৬, ২৫, ... অনুক্রমটির পরবর্তী সংখ্যাটি কত?",
+    "question_normalized": "১, ৪, ৯, ১৬, ২৫, ... অনুক্রমটির পরবর্তী সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৬৬",
+      "৪৯",
+      "৩৬",
+      "৩৪"
+    ],
+    "printed_answer": "৩৬",
+    "accepted_answer_forms": [
+      "৩৬",
+      "36"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q048",
+    "family_id": "rational_number_classification_bcs48_q048_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 48,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "rational_number_classification",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "√(9/4) সংখ্যাটি",
+    "question_normalized": "√(9/4) সংখ্যাটি",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "স্বাভাবিক সংখ্যা",
+      "মূলদ সংখ্যা",
+      "অমূলদ সংখ্যা",
+      "জটিল সংখ্যা"
+    ],
+    "printed_answer": "মূলদ সংখ্যা",
+    "accepted_answer_forms": [
+      "মূলদ সংখ্যা",
+      "rational number"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q050",
+    "family_id": "collinearity_coordinate_parameter_bcs48_q050_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 50,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "collinearity_coordinate_parameter",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "A(1, -1), B(2, 2) এবং C(4, t) বিন্দুত্রয় সমরেখ হলে t এর মান কত?",
+    "question_normalized": "A(1, -1), B(2, 2) এবং C(4, t) বিন্দুত্রয় সমরেখ হলে t এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "8",
+      "6",
+      "4",
+      "7"
+    ],
+    "printed_answer": "8",
+    "accepted_answer_forms": [
+      "8",
+      "৮"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q051",
+    "family_id": "product_of_slopes_bcs48_q051_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 51,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "product_of_slopes",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x - 2y - 10 = 0 এবং 2x + y - 3 = 0 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?",
+    "question_normalized": "x - 2y - 10 = 0 এবং 2x + y - 3 = 0 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-2",
+      "2",
+      "-3",
+      "-1"
+    ],
+    "printed_answer": "-1",
+    "accepted_answer_forms": [
+      "-1",
+      "-১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q054",
+    "family_id": "perfect_square_quadratic_parameter_bcs48_q054_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 54,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "perfect_square_quadratic_parameter",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "k এর মান কত হলে kx² + 3x + 4 রাশিটি পূর্ণবর্গ হবে?",
+    "question_normalized": "k এর মান কত হলে kx² + 3x + 4 রাশিটি পূর্ণবর্গ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-16/9",
+      "-9/16",
+      "9/16",
+      "16/9"
+    ],
+    "printed_answer": "9/16",
+    "accepted_answer_forms": [
+      "9/16",
+      "৯/১৬"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q055",
+    "family_id": "common_log_equation_bcs48_q055_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 55,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "common_log_equation",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি log₁₀x = -3 হয়, তবে x এর মান কত?",
+    "question_normalized": "যদি log₁₀x = -3 হয়, তবে x এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "0.1",
+      "0.01",
+      "0.001",
+      "0.0001"
+    ],
+    "printed_answer": "0.001",
+    "accepted_answer_forms": [
+      "0.001"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q057",
+    "family_id": "rational_equation_bcs48_q057_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 57,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "rational_equation",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "1/(x-1) + 2/(x-2) = 3/(x-3) এর সমাধান",
+    "question_normalized": "1/(x-1) + 2/(x-2) = 3/(x-3) এর সমাধান",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "3/2",
+      "2/3",
+      "5/2",
+      "2/5"
+    ],
+    "printed_answer": "3/2",
+    "accepted_answer_forms": [
+      "3/2",
+      "৩/২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q058",
+    "family_id": "chained_ratio_bcs48_q058_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 58,
+    "source_page": 6,
+    "topic_group": "ratios_proportions",
+    "subskill": "chained_ratio",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি x : y = 4 : 3, y : z = 5 : 4 এবং x = 200 হয়, তবে z এর মান কত?",
+    "question_normalized": "যদি x : y = 4 : 3, y : z = 5 : 4 এবং x = 200 হয়, তবে z এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "100/3",
+      "800/3",
+      "150",
+      "120"
+    ],
+    "printed_answer": "120",
+    "accepted_answer_forms": [
+      "120",
+      "১২০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q059",
+    "family_id": "logarithmic_sequence_nth_term_bcs48_q059_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 59,
+    "source_page": 6,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithmic_sequence_nth_term",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "log2 + log4 + log8 + ..... ধারাটির অষ্টম পদ কোনটি?",
+    "question_normalized": "log2 + log4 + log8 + ..... ধারাটির অষ্টম পদ কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "log256",
+      "log128",
+      "log64",
+      "log32"
+    ],
+    "printed_answer": "log256",
+    "accepted_answer_forms": [
+      "log256",
+      "log 256"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS48_Q060",
+    "family_id": "time_fraction_bcs48_q060_f01",
+    "exam": "48th BCS (Special)",
+    "question_number": 60,
+    "source_page": 6,
+    "topic_group": "ratios_proportions",
+    "subskill": "time_fraction",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "২ ঘণ্টা ৪০ মিনিট ৬ ঘণ্টার কত অংশ?",
+    "question_normalized": "২ ঘণ্টা ৪০ মিনিট ৬ ঘণ্টার কত অংশ?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১/৬",
+      "১/৫",
+      "৪/৯",
+      "১/২"
+    ],
+    "printed_answer": "৪/৯",
+    "accepted_answer_forms": [
+      "৪/৯",
+      "4/9"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 48th BCS (Special) solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

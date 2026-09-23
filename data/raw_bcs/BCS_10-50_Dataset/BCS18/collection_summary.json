@@ -1,0 +1,17 @@
+{
+  "exam": "18th Special BCS",
+  "source_pdf": "bcs18.pdf",
+  "main_in_scope_questions": 13,
+  "review_required": 0,
+  "excluded_out_of_scope": 2,
+  "authored_histories": 52,
+  "topic_counts": {
+    "percentages_profit_loss": 2,
+    "ratios_proportions": 0,
+    "work_time": 2,
+    "speed_distance": 1,
+    "averages_mixtures": 1,
+    "elementary_algebra_number_relations": 7
+  },
+  "research_note": "Questions, choices and printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

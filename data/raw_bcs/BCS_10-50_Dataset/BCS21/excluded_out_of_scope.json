@@ -1,0 +1,17 @@
+[
+  {
+    "question_number": 45,
+    "reason": "Math/reasoning item is outside the initial six GonitSathi topic groups (for example geometry, set/combinatorics, or visual/other reasoning).",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 47,
+    "reason": "Math/reasoning item is outside the initial six GonitSathi topic groups (for example geometry, set/combinatorics, or visual/other reasoning).",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 48,
+    "reason": "Math/reasoning item is outside the initial six GonitSathi topic groups (for example geometry, set/combinatorics, or visual/other reasoning).",
+    "status": "excluded_out_of_scope"
+  }
+]

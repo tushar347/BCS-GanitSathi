@@ -1,0 +1,98 @@
+[
+  {
+    "family_id": "sequence_second_difference_f01",
+    "item_id": "BCS11_Q072",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sequence_increasing_differences",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "১৯, ৩৩, ৫১, ৭৩, .......... পরবর্তী সংখ্যাটি কত?",
+    "answer_options": [
+      "৮৫",
+      "১২১",
+      "৯৯",
+      "৯৮"
+    ],
+    "correct_answer": "৯৯",
+    "solution_steps": [
+      "পার্থক্যগুলো 14,18,22; প্রতিবার 4 করে বাড়ছে।",
+      "পরের পার্থক্য 26।",
+      "73+26=99।"
+    ],
+    "source_page": 5,
+    "source_exam": "11th BCS"
+  },
+  {
+    "family_id": "difference_cubes_difference_find_product_f01",
+    "item_id": "BCS11_Q082",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "difference_of_cubes_find_product",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "যদি a³ - b³ = 513 এবং a - b = 3 হয় তবে, ab এর মান কত?",
+    "answer_options": [
+      "54",
+      "35",
+      "45",
+      "55"
+    ],
+    "correct_answer": "54",
+    "solution_steps": [
+      "a³-b³=(a-b)(a²+ab+b²), তাই a²+ab+b²=513/3=171।",
+      "(a-b)²=a²-2ab+b²=9।",
+      "দুটি সমীকরণ বিয়োগ করলে 3ab=162, তাই ab=54।"
+    ],
+    "source_page": 6,
+    "source_exam": "11th BCS"
+  },
+  {
+    "family_id": "polynomial_division_same_degree_remainder_f01",
+    "item_id": "BCS11_Q083",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_division_remainder",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "(x + 3)(x - 3) কে x² - 6 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+    "answer_options": [
+      "-6",
+      "3",
+      "6",
+      "-3"
+    ],
+    "correct_answer": "-3",
+    "solution_steps": [
+      "(x+3)(x-3)=x²-9।",
+      "x²-9 = (x²-6)-3।",
+      "তাই ভাগশেষ -3।"
+    ],
+    "source_page": 6,
+    "source_exam": "11th BCS"
+  }
+]

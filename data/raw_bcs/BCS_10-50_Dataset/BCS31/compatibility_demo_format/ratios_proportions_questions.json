@@ -1,0 +1,30 @@
+[
+  {
+    "family_id": "ratio_expression_transform_f01",
+    "item_id": "BCS31_Q082",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "ratio_expression_transform",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion"
+    },
+    "question_bn": "যদি Q/P = 1/4 হয় তবে (P + Q)/(P − Q) এর মান—",
+    "answer_options": [
+      "5/3",
+      "2/3",
+      "3/5",
+      "5/7"
+    ],
+    "correct_answer": "5/3",
+    "solution_steps": [
+      "Q/P=1/4 means Q=P/4.",
+      "(P+Q)/(P-Q)=(P+P/4)/(P-P/4)=(5/4)/(3/4)=5/3."
+    ],
+    "source_page": 9,
+    "source_exam": "31th BCS"
+  }
+]

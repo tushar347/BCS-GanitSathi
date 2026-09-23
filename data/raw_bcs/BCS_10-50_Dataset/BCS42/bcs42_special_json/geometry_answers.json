@@ -1,0 +1,50 @@
+[
+  {
+    "family_id": "Q050",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "5/2",
+        "reasoning_steps": [
+          "Assume changing the plus sign to a minus sign does not change the value.",
+          "Repeat the given value 5/2."
+        ],
+        "code": "BCS42-050-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "1/5",
+        "reasoning_steps": [
+          "Set the answer to 1/(5/2).",
+          "Incorrectly divide 1 by 5 and omit the numerator factor 2.",
+          "Report 1/5."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS42-050-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q053",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "১৬ : ১",
+        "reasoning_steps": [
+          "Square the side ratio 4:1 as though the question asked for areas.",
+          "Return 16:1 for diagonals."
+        ],
+        "code": "BCS42-053-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১ : ৪",
+        "reasoning_steps": [
+          "Correctly find the first diagonal is four times the second.",
+          "Reverse the order of the requested ratio and report 1:4."
+        ],
+        "code": "BCS42-053-INTERPRETATION-02"
+      }
+    ]
+  }
+]

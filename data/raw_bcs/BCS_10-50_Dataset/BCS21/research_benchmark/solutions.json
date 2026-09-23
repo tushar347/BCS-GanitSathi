@@ -1,0 +1,142 @@
+[
+  {
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মোট ব্যয় = ১/১০ + ১/৩ + ১/৫ = ১৯/৩০।",
+          "অবশিষ্ট = ১১/৩০।",
+          "(১১/৩০)×১০০ = ৩৬ ২/৩%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মোট কাজ = ৮×১২ = ৯৬ জন-দিন।",
+          "৬ জনে সময় = ৯৬/৬ = ১৬ দিন।",
+          "বাড়তি সময় ৪ দিন; ৪/১২×১০০ = ৩৩ ১/৩%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "খ পায় ১০০০×৪/৫ = ৮০০ টাকা।",
+          "২:১:১ অনুপাতে মোট ৪ অংশ।",
+          "মেয়ের অংশ = ৮০০×১/৪ = ২০০ টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথমে সোনা ১২ গ্রাম ও তামা ৪ গ্রাম।",
+          "x গ্রাম সোনা যোগ করলে (১২+x):৪ = ৪:১।",
+          "১২+x=১৬, তাই x=৪ গ্রাম।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "খরগোশের ১ লাফ = r ধরলে কুকুরের ১ লাফ = ৪r/৩।",
+          "একই সময়ে কুকুর যায় ৪×৪r/৩ = ১৬r/৩ এবং খরগোশ যায় ৫r।",
+          "অনুপাত = ১৬/৩ : ৫ = ১৬ : ১৫।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "২,৩,৪,৫,৬-এর ল.সা.গু = ৬০।",
+          "৯৯৯৯৯৯ কে ৬০ দিয়ে ভাগ করলে পরবর্তী গুণিতক ১০০০০২০।",
+          "যোগ করতে হবে ১০০০০২০−৯৯৯৯৯৯ = ২১।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম চায়ের পরিমাণ x কেজি হলে দ্বিতীয়টি 2x কেজি।",
+          "মোট খরচ = ১১০x+২০০x=৩১০x; বিক্রি = ১২০×৩x=৩৬০x।",
+          "লাভ = ৫০x=২০০০, তাই x=৪০ এবং দ্বিতীয় চা = ৮০ কেজি।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "family_id": "price_decrease_fixed_budget_extra_quantity_f01",
+    "item_id": "BCS11_Q069",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_price_drop_quantity_change",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "চালের মূল্য ১২% কমে যাওয়ায় ৬,০০০ টাকায় পূর্বাপেক্ষা ১ কুইন্টাল চাল বেশি পাওয়া যায়। ১ কুইন্টাল চালের বর্তমান মূল্য কত?",
+    "answer_options": [
+      "৭৫০ টাকা",
+      "৭০০ টাকা",
+      "৭২০ টাকা",
+      "৭৫ টাকা"
+    ],
+    "correct_answer": "৭২০ টাকা",
+    "solution_steps": [
+      "আগের প্রতি কুইন্টালের মূল্য P হলে নতুন মূল্য 0.88P।",
+      "6000/(0.88P) - 6000/P = 1।",
+      "সমাধান করে P≈818.18, তাই নতুন মূল্য 0.88P=720 টাকা।"
+    ],
+    "source_page": 5,
+    "source_exam": "11th BCS"
+  },
+  {
+    "family_id": "reverse_percentage_increase_to_decrease_f01",
+    "item_id": "BCS11_Q079",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "reverse_percentage_comparison",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest",
+      "মূল্য": "price"
+    },
+    "question_bn": "ক-এর বেতন খ-এর বেতন অপেক্ষা শতকরা ৩৫ টাকা বেশি হলে খ-এর বেতন ক-এর বেতন অপেক্ষা কত টাকা কম?",
+    "answer_options": [
+      "২৭ টাকা",
+      "২৫.৯৩ টাকা",
+      "৪০ টাকা",
+      "২৫.৫০ টাকা"
+    ],
+    "correct_answer": "২৫.৯৩ টাকা",
+    "solution_steps": [
+      "খ-এর বেতন 100 ধরলে ক-এর বেতন 135।",
+      "ক-এর তুলনায় কমার হার =35/135×100% ≈25.93%।"
+    ],
+    "source_page": 6,
+    "source_exam": "11th BCS"
+  }
+]

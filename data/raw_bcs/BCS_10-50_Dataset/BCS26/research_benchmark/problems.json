@@ -1,0 +1,506 @@
+[
+  {
+    "item_id": "BCS26_Q181",
+    "family_id": "triangular_number_sequence_bcs26_q181_f01",
+    "exam": "26th BCS",
+    "question_number": 181,
+    "source_page": 30,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "triangular_number_sequence",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "১, ৩, ৬, ১০, ১৫, ২১ ....... ধারাটির দশম পদ কত?",
+    "question_normalized": "১, ৩, ৬, ১০, ১৫, ২১ ....... ধারাটির দশম পদ কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৫",
+      "৫৫",
+      "৬২",
+      "৬৫"
+    ],
+    "printed_answer": "৫৫",
+    "accepted_answer_forms": [
+      "৫৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q182",
+    "family_id": "average_age_group_bcs26_q182_f01",
+    "exam": "26th BCS",
+    "question_number": 182,
+    "source_page": 30,
+    "topic_group": "averages_mixtures",
+    "subskill": "average_age_group",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "পিতা ও মাতার বয়সের গড় ৪৫ বছর। পিতা, মাতা ও এক পুত্রের বয়সের গড় ৩৬ বছর। পুত্রের বয়স কত?",
+    "question_normalized": "পিতা ও মাতার বয়সের গড় ৪৫ বছর। পিতা, মাতা ও এক পুত্রের বয়সের গড় ৩৬ বছর। পুত্রের বয়স কত?",
+    "normalization_notes": [],
+    "units": [
+      "বছর"
+    ],
+    "answer_options": [
+      "৯ বছর",
+      "১৪ বছর",
+      "১৫ বছর",
+      "১৮ বছর"
+    ],
+    "printed_answer": "১৮ বছর",
+    "accepted_answer_forms": [
+      "১৮ বছর"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q183",
+    "family_id": "mixture_ratio_difference_bcs26_q183_f01",
+    "exam": "26th BCS",
+    "question_number": 183,
+    "source_page": 30,
+    "topic_group": "ratios_proportions",
+    "subskill": "mixture_ratio_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি জারে দুধ ও পানির অনুপাত ৫ : ১। দুধের পরিমাণ যদি পানির চেয়ে ৮ লিটার বেশি হয় তবে পানির পরিমাণ কত?",
+    "question_normalized": "একটি জারে দুধ ও পানির অনুপাত ৫ : ১। দুধের পরিমাণ যদি পানির চেয়ে ৮ লিটার বেশি হয় তবে পানির পরিমাণ কত?",
+    "normalization_notes": [],
+    "units": [
+      "লিটার"
+    ],
+    "answer_options": [
+      "২ লিটার",
+      "৪ লিটার",
+      "৬ লিটার",
+      "১০ লিটার"
+    ],
+    "printed_answer": "২ লিটার",
+    "accepted_answer_forms": [
+      "২ লিটার"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q184",
+    "family_id": "buy_sell_units_profit_percentage_bcs26_q184_f01",
+    "exam": "26th BCS",
+    "question_number": 184,
+    "source_page": 30,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "buy_sell_units_profit_percentage",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "টাকায় ৩টি করে লেবু কিনে টাকায় ২টি করে বিক্রি করলে শতকরা কত লাভ হবে?",
+    "question_normalized": "টাকায় ৩টি করে লেবু কিনে টাকায় ২টি করে বিক্রি করলে শতকরা কত লাভ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫০%",
+      "৩০%",
+      "৩৩%",
+      "৩১%"
+    ],
+    "printed_answer": "৫০%",
+    "accepted_answer_forms": [
+      "৫০%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q185",
+    "family_id": "workers_days_proportion_bcs26_q185_f01",
+    "exam": "26th BCS",
+    "question_number": 185,
+    "source_page": 31,
+    "topic_group": "work_time",
+    "subskill": "workers_days_proportion",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১২ জন শ্রমিক ৩ দিনে ৭২০ টাকা আয় করে। ৯ জন শ্রমিক সমপরিমাণ টাকা আয় করতে কত দিন লাগবে?",
+    "question_normalized": "১২ জন শ্রমিক ৩ দিনে ৭২০ টাকা আয় করে। ৯ জন শ্রমিক সমপরিমাণ টাকা আয় করতে কত দিন লাগবে?",
+    "normalization_notes": [],
+    "units": [
+      "দিন"
+    ],
+    "answer_options": [
+      "৫ দিন",
+      "৪ দিন",
+      "৬ দিন",
+      "৩ দিন"
+    ],
+    "printed_answer": "৪ দিন",
+    "accepted_answer_forms": [
+      "৪ দিন"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q186",
+    "family_id": "boat_stream_round_trip_time_bcs26_q186_f01",
+    "exam": "26th BCS",
+    "question_number": 186,
+    "source_page": 31,
+    "topic_group": "speed_distance",
+    "subskill": "boat_stream_round_trip_time",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "লঞ্চ ও স্রোতের গতিবেগ যথাক্রমে ঘণ্টায় ১৮ কিমি ও ৬ কিমি। নদীপথে ৪৮ কিমি অতিক্রম করে পুনরায় ফিরে আসতে সময় লাগবে কত?",
+    "question_normalized": "লঞ্চ ও স্রোতের গতিবেগ যথাক্রমে ঘণ্টায় ১৮ কিমি ও ৬ কিমি। নদীপথে ৪৮ কিমি অতিক্রম করে পুনরায় ফিরে আসতে সময় লাগবে কত?",
+    "normalization_notes": [],
+    "units": [
+      "কিমি",
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "১০ ঘণ্টা",
+      "৫ ঘণ্টা",
+      "৬ ঘণ্টা",
+      "৮ ঘণ্টা"
+    ],
+    "printed_answer": "৬ ঘণ্টা",
+    "accepted_answer_forms": [
+      "৬ ঘণ্টা"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q187",
+    "family_id": "fraction_of_number_equation_bcs26_q187_f01",
+    "exam": "26th BCS",
+    "question_number": 187,
+    "source_page": 31,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fraction_of_number_equation",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন সংখ্যার ১/২ অংশের সাথে ৬ যোগ করলে সংখ্যাটির ২/৩ অংশ হবে। সংখ্যাটি কত?",
+    "question_normalized": "কোন সংখ্যার ১/২ অংশের সাথে ৬ যোগ করলে সংখ্যাটির ২/৩ অংশ হবে। সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫৩",
+      "৬৩",
+      "৩৬",
+      "৩৫"
+    ],
+    "printed_answer": "৩৬",
+    "accepted_answer_forms": [
+      "৩৬"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q188",
+    "family_id": "count_primes_interval_bcs26_q188_f01",
+    "exam": "26th BCS",
+    "question_number": 188,
+    "source_page": 32,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "count_primes_interval",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৪৩ থেকে ৬০-এর মধ্যে মৌলিক সংখ্যার সংখ্যা কত?",
+    "question_normalized": "৪৩ থেকে ৬০-এর মধ্যে মৌলিক সংখ্যার সংখ্যা কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫",
+      "৩",
+      "৭",
+      "৪"
+    ],
+    "printed_answer": "৪",
+    "accepted_answer_forms": [
+      "৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q189",
+    "family_id": "sqrt_prime_irrational_bcs26_q189_f01",
+    "exam": "26th BCS",
+    "question_number": 189,
+    "source_page": 32,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sqrt_prime_irrational",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি P একটি মৌলিক সংখ্যা হয় তবে √P কী ধরনের সংখ্যা?",
+    "question_normalized": "যদি P একটি মৌলিক সংখ্যা হয় তবে √P কী ধরনের সংখ্যা?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "স্বাভাবিক সংখ্যা",
+      "পূর্ণসংখ্যা",
+      "মূলদ সংখ্যা",
+      "অমূলদ সংখ্যা"
+    ],
+    "printed_answer": "অমূলদ সংখ্যা",
+    "accepted_answer_forms": [
+      "অমূলদ সংখ্যা"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q190",
+    "family_id": "radical_power_bcs26_q190_f01",
+    "exam": "26th BCS",
+    "question_number": 190,
+    "source_page": 32,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "radical_power",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "(√3 × √5)^4-এর মান কত?",
+    "question_normalized": "(√3 × √5)^4-এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "30",
+      "60",
+      "225",
+      "15"
+    ],
+    "printed_answer": "225",
+    "accepted_answer_forms": [
+      "225"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q191",
+    "family_id": "combined_work_rate_bcs26_q191_f01",
+    "exam": "26th BCS",
+    "question_number": 191,
+    "source_page": 32,
+    "topic_group": "work_time",
+    "subskill": "combined_work_rate",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "ক এবং খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে, খ একা কত দিনে করতে পারবে?",
+    "question_normalized": "ক এবং খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে, খ একা কত দিনে করতে পারবে?",
+    "normalization_notes": [],
+    "units": [
+      "দিন"
+    ],
+    "answer_options": [
+      "২৫ দিন",
+      "৩০ দিন",
+      "৩৫ দিন",
+      "৪০ দিন"
+    ],
+    "printed_answer": "৩০ দিন",
+    "accepted_answer_forms": [
+      "৩০ দিন"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q192",
+    "family_id": "count_divisors_bcs26_q192_f01",
+    "exam": "26th BCS",
+    "question_number": 192,
+    "source_page": 32,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "count_divisors",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৭২ সংখ্যাটির মোট ভাজক কতটি?",
+    "question_normalized": "৭২ সংখ্যাটির মোট ভাজক কতটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৯টি",
+      "১০টি",
+      "১১টি",
+      "১২টি"
+    ],
+    "printed_answer": "১২টি",
+    "accepted_answer_forms": [
+      "১২টি"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q193",
+    "family_id": "consecutive_square_difference_bcs26_q193_f01",
+    "exam": "26th BCS",
+    "question_number": 193,
+    "source_page": 32,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "consecutive_square_difference",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "দুইটি ক্রমিক পূর্ণসংখ্যা নির্ণয় করুন, যাদের বর্গের অন্তর ৪৭।",
+    "question_normalized": "দুইটি ক্রমিক পূর্ণসংখ্যা নির্ণয় করুন, যাদের বর্গের অন্তর ৪৭।",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২১ এবং ২২",
+      "২২ এবং ২৩",
+      "২৩ এবং ২৪",
+      "২৪ এবং ২৫"
+    ],
+    "printed_answer": "২৩ এবং ২৪",
+    "accepted_answer_forms": [
+      "২৩ এবং ২৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q194",
+    "family_id": "sum_difference_square_sum_bcs26_q194_f01",
+    "exam": "26th BCS",
+    "question_number": 194,
+    "source_page": 33,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_difference_square_sum",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "x+y = 8, x−y = 6 হলে, x^2+y^2-এর মান কত?",
+    "question_normalized": "x+y = 8, x−y = 6 হলে, x^2+y^2-এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "40",
+      "60",
+      "50",
+      "80"
+    ],
+    "printed_answer": "50",
+    "accepted_answer_forms": [
+      "50"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q195",
+    "family_id": "reciprocal_square_identity_bcs26_q195_f01",
+    "exam": "26th BCS",
+    "question_number": 195,
+    "source_page": 33,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "reciprocal_square_identity",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "a + 1/a = √3 হলে, a^2 + 1/a^2-এর মান কত?",
+    "question_normalized": "a + 1/a = √3 হলে, a^2 + 1/a^2-এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "6",
+      "4",
+      "2",
+      "1"
+    ],
+    "printed_answer": "1",
+    "accepted_answer_forms": [
+      "1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q198",
+    "family_id": "complete_square_cross_term_bcs26_q198_f01",
+    "exam": "26th BCS",
+    "question_number": 198,
+    "source_page": 33,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "complete_square_cross_term",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "x^2 − 8x − 8y + 16 + y^2-এর সঙ্গে কত যোগ করলে যোগফল একটি পূর্ণবর্গ হবে?",
+    "question_normalized": "x^2 − 8x − 8y + 16 + y^2-এর সঙ্গে কত যোগ করলে যোগফল একটি পূর্ণবর্গ হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "−2xy",
+      "8xy",
+      "6xy",
+      "2xy"
+    ],
+    "printed_answer": "2xy",
+    "accepted_answer_forms": [
+      "2xy"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS26_Q199",
+    "family_id": "factor_difference_square_shift_bcs26_q199_f01",
+    "exam": "26th BCS",
+    "question_number": 199,
+    "source_page": 33,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "factor_difference_square_shift",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x^2 − y^2 + 2y − 1-এর একটি উৎপাদক কোনটি?",
+    "question_normalized": "x^2 − y^2 + 2y − 1-এর একটি উৎপাদক কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x+y+1",
+      "x−y",
+      "x+y−1",
+      "x−y−1"
+    ],
+    "printed_answer": "x+y−1",
+    "accepted_answer_forms": [
+      "x+y−1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

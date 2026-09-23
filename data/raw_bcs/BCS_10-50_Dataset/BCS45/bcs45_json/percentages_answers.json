@@ -1,0 +1,38 @@
+[
+  {
+    "family_id": "Q163",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "PCT163-CONCEPT-01",
+        "wrong_answer": "০%",
+        "reasoning_steps": [
+          "Treat the 10% decrease and the 10% increase as equal amounts based on the same original salary.",
+          "Subtract 10% and add 10% to obtain a net change of zero.",
+          "Ignore that the increase is applied to the reduced salary."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "PCT163-ARITH-01",
+        "wrong_answer": "৫%",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly set up the final salary as 100 × 0.9 × 1.1.",
+          "Make a multiplication error by calculating 9 × 11 as 95 instead of 99, obtaining 95 units.",
+          "Calculate the resulting apparent loss as 100−95 = 5%."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "PCT163-INTERP-01",
+        "wrong_answer": "১০%",
+        "reasoning_steps": [
+          "Read only the initial reduction in the salary.",
+          "Ignore the subsequent 10% increase described in the question.",
+          "Report the initial 10% reduction as the final loss."
+        ]
+      }
+    ]
+  }
+]

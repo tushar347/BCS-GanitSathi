@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "consecutive_product_sum_average_f01",
+    "item_id": "BCS34_Q034",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "consecutive_numbers_average",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture",
+      "মোট": "total"
+    },
+    "question_bn": "তিনটি ক্রমিক সংখ্যার গুণফল তাদের যোগফলের ৫ গুণ; সংখ্যা তিনটির গড় কত?",
+    "answer_options": [
+      "৬",
+      "৩",
+      "৫",
+      "৪"
+    ],
+    "correct_answer": "৪",
+    "solution_steps": [
+      "Let the consecutive numbers be n-1, n, n+1.",
+      "Their product is n(n²-1) and their sum is 3n.",
+      "n(n²-1)=5×3n. For positive nonzero n, n²-1=15.",
+      "n=4, which is also the average."
+    ],
+    "source_page": 4,
+    "source_exam": "34th BCS"
+  }
+]

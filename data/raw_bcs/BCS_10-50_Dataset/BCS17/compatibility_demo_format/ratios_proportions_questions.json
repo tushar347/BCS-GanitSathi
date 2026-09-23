@@ -1,0 +1,28 @@
+[
+  {
+    "family_id": "length_ratio_combined_piece_bcs17_q009_f01",
+    "item_id": "BCS17_Q009",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "length_ratio_combined_piece",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি কাঠের টুকরোর দৈর্ঘ্য আরেকটি টুকরোর দৈর্ঘ্যের ৩ গুণ। টুকরা দুটো সংযুক্ত করা হলে সংযুক্ত টুকরোটির দৈর্ঘ্য ছোট টুকরোর চেয়ে কতগুণ বড় হবে?",
+    "answer_options": [
+      "৩ গুণ",
+      "৪ গুণ",
+      "৫ গুণ",
+      "৮ গুণ"
+    ],
+    "correct_answer": "৪ গুণ",
+    "solution_steps": [
+      "ছোট টুকরোর দৈর্ঘ্য x ধরলে বড়টির দৈর্ঘ্য 3x।",
+      "দুটো যুক্ত করলে মোট দৈর্ঘ্য 4x।",
+      "তাই মোট দৈর্ঘ্য ছোট টুকরোর 4 গুণ।"
+    ],
+    "source_page": 2,
+    "source_exam": "17th BCS"
+  }
+]

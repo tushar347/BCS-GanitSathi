@@ -1,0 +1,141 @@
+[
+  {
+    "family_id": "Q089",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "21/440",
+        "reasoning_steps": [
+          "Include 21² even though 441 is above the upper limit 440.",
+          "Use 21 favourable outcomes."
+        ],
+        "code": "BCS41-089-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "1/440",
+        "reasoning_steps": [
+          "Count only one chosen square rather than all possible square outcomes.",
+          "Return 1/440."
+        ],
+        "code": "BCS41-089-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q097",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৬০",
+        "reasoning_steps": [
+          "Order the two selected women as 4×3 instead of using combinations.",
+          "Calculate 5×12=60 and double-count each committee."
+        ],
+        "code": "BCS41-097-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "২০",
+        "reasoning_steps": [
+          "Choose only one woman, giving 5×4=20.",
+          "Ignore the requirement for two women."
+        ],
+        "code": "BCS41-097-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q100",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "11/24",
+        "reasoning_steps": [
+          "Choose the fraction with the largest numerator without considering denominators.",
+          "Select 11/24."
+        ],
+        "code": "BCS41-100-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "3/8",
+        "reasoning_steps": [
+          "Choose the smallest denominator and assume it guarantees the largest fraction.",
+          "Ignore the different numerators."
+        ],
+        "code": "BCS41-100-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q108",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "৭৫ মিনিট",
+        "reasoning_steps": [
+          "Calculate the interval directly from the past time 4:45 to 6:00.",
+          "Ignore the 50 minutes that have already elapsed."
+        ],
+        "code": "BCS41-108-INTERPRETATION-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৩৫ মিনিট",
+        "reasoning_steps": [
+          "Add 50 minutes to 4:45 but incorrectly obtain 5:25.",
+          "Subtract from 6:00 to report 35 minutes."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS41-108-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q110",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "5/3",
+        "reasoning_steps": [
+          "Choose the smallest denominator without comparing actual fraction values.",
+          "Return 5/3."
+        ],
+        "code": "BCS41-110-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "18/36",
+        "reasoning_steps": [
+          "Recognize 18/36=1/2 but stop comparing before checking 4/12=1/3.",
+          "Return 18/36."
+        ],
+        "code": "BCS41-110-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q111",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "২৩.৬৪৩",
+        "reasoning_steps": [
+          "Ignore the factor 0.1.",
+          "Return the product of the remaining two factors."
+        ],
+        "code": "BCS41-111-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "২.৩৭",
+        "reasoning_steps": [
+          "Find 2.3643 but round upward merely because discarded digits are nonzero.",
+          "Report 2.37 rather than rounding by the third decimal digit 4."
+        ],
+        "code": "BCS41-111-INTERPRETATION-02"
+      }
+    ]
+  }
+]

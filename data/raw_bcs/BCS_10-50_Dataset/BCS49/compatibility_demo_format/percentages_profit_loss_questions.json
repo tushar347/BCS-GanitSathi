@@ -1,0 +1,27 @@
+[
+  {
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "item_id": "BCS49_Q061",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "profit_loss_cost_price",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "একটি বই 10% ক্ষতিতে বিক্রয় করা হলো। বিক্রয়মূল্য 60 টাকা বেশি হলে 5% লাভ হতো। বইটির ক্রয়মূল্য কত টাকা?",
+    "answer_options": [
+      "200",
+      "300",
+      "400",
+      "500"
+    ],
+    "correct_answer": "400",
+    "solution_steps": [
+      "Current selling price=0.90C and hypothetical price=1.05C.",
+      "The difference 0.15C=60, so C=400."
+    ],
+    "source_page": 5,
+    "source_exam": "49th BCS (Special)"
+  }
+]

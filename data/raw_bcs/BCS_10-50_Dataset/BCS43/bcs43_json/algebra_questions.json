@@ -1,0 +1,71 @@
+[
+  {
+    "family_id": "Q164",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "conjugate surds and sum-of-cubes identity",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "60 seconds",
+    "target_quantity": "x cubed plus its reciprocal cube",
+    "english_glossary": {},
+    "question_bn": "x = √4 + √3 হলে, x³ + 1/x³ এর মান কত?",
+    "answer_options": [
+      "5√2",
+      "52",
+      "5√5",
+      "2√5"
+    ],
+    "correct_answer": "52",
+    "solution_steps": [
+      "Since √4=2, x=2+√3 and 1/x=2−√3.",
+      "Therefore x+1/x=4.",
+      "Use x³+1/x³=(x+1/x)³−3(x+1/x)=64−12=52."
+    ]
+  },
+  {
+    "family_id": "Q167",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "substitution into a mixed linear-exponential equation",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "listed value satisfying the equation",
+    "english_glossary": {},
+    "question_bn": "4x + 4¹⁻ˣ = 4 হলে x = কত?",
+    "answer_options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "correct_answer": "1/2",
+    "solution_steps": [
+      "Use the literal first term 4x as multiplication.",
+      "For the keyed choice x=1/2, 4x=2 and 4^(1−x)=√4=2.",
+      "Their sum is 4, so 1/2 satisfies the printed equation."
+    ]
+  },
+  {
+    "family_id": "Q173",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "intersection of sets in set-builder notation",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "common elements",
+    "english_glossary": {},
+    "question_bn": "A = {x ∈ IN | 2 < x ≤ 8), B = {x ∈ IN | x বিজোড় এবং x ≤ 9} হলে, A ∩ B = কত?",
+    "answer_options": [
+      "{3, 5, 8}",
+      "{4, 5, 7}",
+      "{3, 4, 5}",
+      "{3, 5, 7}"
+    ],
+    "correct_answer": "{3, 5, 7}",
+    "solution_steps": [
+      "Read IN as the source’s natural-number notation.",
+      "A contains 3,4,5,6,7,8 and B contains 1,3,5,7,9.",
+      "The elements present in both are 3,5,7."
+    ]
+  }
+]

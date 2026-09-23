@@ -1,0 +1,95 @@
+[
+  {
+    "family_id": "polynomial_known_root_parameter_f01",
+    "item_id": "BCS13_Q084",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_root_find_parameter",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "যদি x³ + hx + 10 = 0 এর একটি সমাধান 2 হয়, তবে h এর মান কত?",
+    "answer_options": [
+      "10",
+      "9",
+      "-9",
+      "-2"
+    ],
+    "correct_answer": "-9",
+    "solution_steps": [
+      "x=2 বসালে 8+2h+10=0।",
+      "2h=-18, তাই h=-9।"
+    ],
+    "source_page": 7,
+    "source_exam": "13th BCS"
+  },
+  {
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "item_id": "BCS13_Q085",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "linear_count_pattern",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "বালক ও বালিকার একটি দলে প্রথম বালক ৫ জন বালিকার সঙ্গে খেলবে, দ্বিতীয় বালক ৬ জন বালিকার সঙ্গে খেলবে, এভাবে শেষ বালক সব কটি বালিকার সঙ্গে খেলবে। যদি b বালকের সংখ্যা এবং g বালিকার সংখ্যা প্রকাশ করে, তবে b = কত?",
+    "answer_options": [
+      "b = g",
+      "b = g/5",
+      "b = g - 4",
+      "b = g - 5"
+    ],
+    "correct_answer": "b = g - 4",
+    "solution_steps": [
+      "প্রথম বালক 5 জন, দ্বিতীয় 6 জন, ... শেষ বালক g জনের সঙ্গে খেলে।",
+      "তাই বালকের সংখ্যা = g-5+1 = g-4।"
+    ],
+    "source_page": 7,
+    "source_exam": "13th BCS"
+  },
+  {
+    "family_id": "logarithm_exact_power_f01",
+    "item_id": "BCS13_Q090",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithm_basic_power",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "মান": "value",
+      "গুণফল": "product",
+      "ভাজক": "factor"
+    },
+    "question_bn": "৩২ এর ২ ভিত্তিক লগারিদম কত?",
+    "answer_options": [
+      "৩",
+      "৪",
+      "৫",
+      "৬"
+    ],
+    "correct_answer": "৫",
+    "solution_steps": [
+      "2⁵=32।",
+      "তাই log₂32=5।"
+    ],
+    "source_page": 8,
+    "source_exam": "13th BCS"
+  }
+]

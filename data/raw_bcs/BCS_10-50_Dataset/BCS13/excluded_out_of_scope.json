@@ -1,0 +1,32 @@
+[
+  {
+    "item_id": "BCS13_Q087",
+    "exam": "13th BCS",
+    "question_number": 87,
+    "source_page": 7,
+    "category": "spatial_reasoning",
+    "question_summary": "",
+    "exclusion_reason": "Coin-arrangement/touching problem is outside the initial six topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS13_Q088",
+    "exam": "13th BCS",
+    "question_number": 88,
+    "source_page": 8,
+    "category": "geometry",
+    "question_summary": "",
+    "exclusion_reason": "Coordinate-line triangle classification is outside the initial six topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS13_Q089",
+    "exam": "13th BCS",
+    "question_number": 89,
+    "source_page": 8,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Regular-hexagon/incircle area problem is outside the initial six topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  }
+]

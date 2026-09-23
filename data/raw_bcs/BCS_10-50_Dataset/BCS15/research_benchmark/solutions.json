@@ -1,0 +1,80 @@
+[
+  {
+    "item_id": "BCS15_Q028",
+    "family_id": "sum_first_n_natural_numbers_bcs15_q028_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১ থেকে n পর্যন্ত সংখ্যার যোগফল n(n+1)/2।",
+          "তাই ১ থেকে ৯৯ পর্যন্ত যোগফল = 99×100/2 = 4950।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS15_Q029",
+    "family_id": "signed_arithmetic_parentheses_bcs15_q029_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "b=-1 হলে -b=1, c=2 হলে -c=-2 এবং d=-2 হলে -d=2।",
+          "রাশিটি = 1-1-(-2)-2 = 0।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS15_Q076",
+    "family_id": "linear_equation_one_variable_bcs15_q076_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "বামপক্ষ x+5 এবং ডানপক্ষ 3x+6।",
+          "x+5=3x+6 হলে -1=2x।",
+          "অতএব x=-1/2।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS15_Q077",
+    "family_id": "compare_decimal_and_radical_values_bcs15_q077_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "√0.3 ≈ 0.5477।",
+          "এটি 0.3, 0.25 এবং 0.13-এর প্রত্যেকটির চেয়ে বড়।",
+          "তাই বৃহত্তম সংখ্যা √0.3।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

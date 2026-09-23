@@ -1,0 +1,49 @@
+[
+  {
+    "family_id": "Q094",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "২১৬°",
+        "reasoning_steps": [
+          "Find ∠A=84°.",
+          "Use the supplementary angle 132° at F instead of the interior corresponding angle 48°.",
+          "Add 84+132=216°."
+        ],
+        "code": "BCS44-094-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৮৪°",
+        "reasoning_steps": [
+          "Compute ∠A=84°.",
+          "Stop before adding ∠AFE."
+        ],
+        "code": "BCS44-094-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q101",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "২",
+        "reasoning_steps": [
+          "Assume the altitude equals the side length.",
+          "Return 2."
+        ],
+        "code": "BCS44-101-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৩",
+        "reasoning_steps": [
+          "Compute X²=3.",
+          "Return the squared height without taking the square root."
+        ],
+        "code": "BCS44-101-INTERPRETATION-02"
+      }
+    ]
+  }
+]

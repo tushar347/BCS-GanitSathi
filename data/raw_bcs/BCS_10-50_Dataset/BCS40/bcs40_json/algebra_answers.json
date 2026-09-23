@@ -1,0 +1,141 @@
+[
+  {
+    "family_id": "Q165",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "০.৯৭",
+        "reasoning_steps": [
+          "Omit the middle term −ab after dividing the cube sum.",
+          "Add 0.81+0.16=0.97."
+        ],
+        "code": "BCS40-165-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "০.৩৬",
+        "reasoning_steps": [
+          "Calculate only the product ab=0.36.",
+          "Return it instead of the complete expression."
+        ],
+        "code": "BCS40-165-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q166",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "[1, ∞)",
+        "reasoning_steps": [
+          "Find the boundary 1 correctly but include it despite the strict greater-than sign.",
+          "Use a square bracket at 1."
+        ],
+        "code": "BCS40-166-INTERPRETATION-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "(−1, ∞)",
+        "reasoning_steps": [
+          "Reduce to x−2>−1.",
+          "Drop the −2 term without adjusting the other side and report x>−1."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS40-166-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q167",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "অবাস্তব",
+        "reasoning_steps": [
+          "Lose the minus sign of c and compute 49−96=−47.",
+          "Use this incorrect negative discriminant to claim nonreal roots."
+        ],
+        "code": "BCS40-167-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "বাস্তব ও সমান",
+        "reasoning_steps": [
+          "Notice that the discriminant is real but ignore whether it equals zero.",
+          "Claim equal roots despite the positive nonzero value."
+        ],
+        "code": "BCS40-167-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q169",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "3/2",
+        "reasoning_steps": [
+          "Obtain √x=3/2 for the keyed value but report the square root rather than x.",
+          "Return 3/2."
+        ],
+        "code": "BCS40-169-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "2/3",
+        "reasoning_steps": [
+          "Invert the factor √x=3/2 and report its reciprocal without checking the original equation.",
+          "Return 2/3."
+        ],
+        "code": "BCS40-169-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q170",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "a > 0, a = 1",
+        "reasoning_steps": [
+          "Use 1⁰=1 to allow base 1.",
+          "Ignore that logarithm base 1 is not defined as an inverse function."
+        ],
+        "code": "BCS40-170-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "a ≠ 0, a > 1",
+        "reasoning_steps": [
+          "Restrict attention to bases greater than 1.",
+          "Omit valid bases in the interval 0<a<1."
+        ],
+        "code": "BCS40-170-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q171",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "{3, 6, 12}",
+        "reasoning_steps": [
+          "Find the intersection P∩Q instead of the difference P−Q.",
+          "Return the common elements."
+        ],
+        "code": "BCS40-171-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "{1, 2, 6}",
+        "reasoning_steps": [
+          "Remove 4 despite its absence from Q and retain 6 despite its presence.",
+          "Select the fourth option."
+        ],
+        "code": "BCS40-171-INTERPRETATION-02"
+      }
+    ]
+  }
+]

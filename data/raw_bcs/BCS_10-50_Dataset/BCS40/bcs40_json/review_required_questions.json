@@ -1,0 +1,135 @@
+[
+  {
+    "family_id": "Q160",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "rational versus irrational numbers",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "irrational option",
+    "english_glossary": {},
+    "question_bn": "নিচের কোনটি অমূলদ সংখ্যা?\n\n![প্রশ্নের চিত্র](assets/Q160_stem.png)",
+    "answer_options": [
+      "0.\\overline{4}",
+      "√9",
+      "5.\\overline{639}",
+      "√(27/48)"
+    ],
+    "correct_answer": null,
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q168",
+    "topic": "algebra",
+    "in_scope": true,
+    "assigned_subskill": "polynomial identity with a malformed target",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "value of the printed expression",
+    "english_glossary": {},
+    "question_bn": "যদি x⁴ − x² + 1 = 0 হয়, তবে 3^x + 1/x³ = ?\n\n![প্রশ্নের চিত্র](assets/Q168_stem.png)",
+    "answer_options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct_answer": "0",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q173",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "partition into equal teams",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "number of team divisions",
+    "english_glossary": {},
+    "question_bn": "৬ জন খেলোয়াড়কে সমান সংখ্যক দুইটি দলে কত ভাবে বিভক্ত করা যায়?",
+    "answer_options": [
+      "১০",
+      "২০",
+      "৬০",
+      "১২০"
+    ],
+    "correct_answer": "২০",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q180",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "mixed-alphabet positional coding",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "coded product",
+    "english_glossary": {},
+    "question_bn": "যদি চ × G = 82 হয়, তবে J × ট = ?",
+    "answer_options": [
+      "১২০",
+      "৯২",
+      "১১৫",
+      "১১০"
+    ],
+    "correct_answer": "১১০",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q196",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "visual figure completion",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "matching image",
+    "english_glossary": {},
+    "question_bn": "![প্রশ্নের চিত্র](assets/Q196_stem.png)",
+    "answer_options": [
+      "![ক](assets/Q196_option_a.png)",
+      "![খ](assets/Q196_option_b.png)",
+      "![গ](assets/Q196_option_c.png)",
+      "![ঘ](assets/Q196_option_d.png)"
+    ],
+    "correct_answer": "![ঘ](assets/Q196_option_d.png)",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q198",
+    "topic": "arithmetic",
+    "in_scope": true,
+    "assigned_subskill": "decimal multiplication with a missing decimal point",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "product of the printed factors",
+    "english_glossary": {},
+    "question_bn": ".১ × .০১ × ০০১ = ?",
+    "answer_options": [
+      "১.০০০১",
+      ".১০০০১",
+      ".০০০০১",
+      ".০০০০০১"
+    ],
+    "correct_answer": ".০০০০০১",
+    "solution_steps": []
+  },
+  {
+    "family_id": "Q199",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "visual analogy with an unspecified operation",
+    "difficulty_rating": null,
+    "target_completion_time": null,
+    "target_quantity": "matching image",
+    "english_glossary": {},
+    "question_bn": "![প্রশ্নের চিত্র](assets/Q199_stem.png)",
+    "answer_options": [
+      "![ক](assets/Q199_option_a.png)",
+      "![খ](assets/Q199_option_b.png)",
+      "![গ](assets/Q199_option_c.png)",
+      "![ঘ](assets/Q199_option_d.png)"
+    ],
+    "correct_answer": "![ক](assets/Q199_option_a.png)",
+    "solution_steps": []
+  }
+]

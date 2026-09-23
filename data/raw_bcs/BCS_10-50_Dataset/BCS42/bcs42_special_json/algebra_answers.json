@@ -1,0 +1,73 @@
+[
+  {
+    "family_id": "Q044",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "99তম পদ",
+        "reasoning_steps": [
+          "Use a_n = a + nd instead of a + (n−1)d.",
+          "Solve 5+3n=302 to obtain n=99."
+        ],
+        "code": "BCS42-044-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "101তম পদ",
+        "reasoning_steps": [
+          "Set n = (302−5)/3 + 1.",
+          "Incorrectly evaluate 297/3 as 100.",
+          "Add 1 and report 101."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS42-044-ARITHMETIC-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q098",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "1/3",
+        "reasoning_steps": [
+          "Drop the minus sign from the logarithm value.",
+          "Solve x²=1/9 and choose x=1/3."
+        ],
+        "code": "BCS42-098-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "−3",
+        "reasoning_steps": [
+          "Obtain x²=9.",
+          "Choose the negative root without enforcing the positive-base condition."
+        ],
+        "code": "BCS42-098-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q099",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "(−2, 5)",
+        "reasoning_steps": [
+          "Find the roots −2 and 5.",
+          "Select the interval where the upward-opening quadratic is negative rather than positive."
+        ],
+        "code": "BCS42-099-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "(−∞, −2] ∪ [5, +∞)",
+        "reasoning_steps": [
+          "Find the correct outer intervals.",
+          "Include the zero-product endpoints despite the strict greater-than sign."
+        ],
+        "code": "BCS42-099-INTERPRETATION-02"
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "family_id": "Q093",
+    "topic": "mensuration",
+    "in_scope": true,
+    "assigned_subskill": "area scaling of a rectangle",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "percentage area increase",
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "দৈর্ঘ্য": "length",
+      "ক্ষেত্রফল": "area"
+    },
+    "question_bn": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৫% বৃদ্ধি করলে তার ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+    "answer_options": [
+      "৫%",
+      "১০%",
+      "২০%",
+      "২৫%"
+    ],
+    "correct_answer": "৫%",
+    "solution_steps": [
+      "Keep the width unchanged, as implied by changing only the length.",
+      "Area is length×width, so replacing length L by 1.05L multiplies area by 1.05.",
+      "The area therefore increases by 5%."
+    ]
+  },
+  {
+    "family_id": "Q095",
+    "topic": "mensuration",
+    "in_scope": true,
+    "assigned_subskill": "area of an equilateral triangle from its circumradius",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "65 seconds",
+    "target_quantity": "triangle area",
+    "english_glossary": {
+      "ক্ষেত্রফল": "area",
+      "ব্যাস": "diameter",
+      "ব্যাসার্ধ": "radius",
+      "সমবাহু": "equilateral",
+      "ত্রিভুজ": "triangle"
+    },
+    "question_bn": "৬ সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের অন্তঃস্থ একটি সমবাহু ত্রিভুজের ক্ষেত্রফল−",
+    "answer_options": [
+      "21√3 বর্গ সে.মি.",
+      "23√2 বর্গ সে.মি.",
+      "25√3 বর্গ সে.মি.",
+      "27√3 বর্গ সে.মি."
+    ],
+    "correct_answer": "27√3 বর্গ সে.মি.",
+    "solution_steps": [
+      "For an inscribed equilateral triangle, side a=√3R.",
+      "With circumradius R=6, a=6√3.",
+      "Area=(√3/4)a²=(√3/4)×108=27√3 square centimetres."
+    ]
+  }
+]

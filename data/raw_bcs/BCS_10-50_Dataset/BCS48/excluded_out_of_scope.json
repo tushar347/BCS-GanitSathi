@@ -1,0 +1,44 @@
+[
+  {
+    "question_number": 43,
+    "source_page": 4,
+    "reason": "set-theory subset question - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 44,
+    "source_page": 4,
+    "reason": "trigonometry/height geometry - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 45,
+    "source_page": 5,
+    "reason": "triangle counting / visual reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 49,
+    "source_page": 5,
+    "reason": "letter-code reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 52,
+    "source_page": 5,
+    "reason": "set complement/intersection - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 53,
+    "source_page": 5,
+    "reason": "mechanics/lever diagram - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 56,
+    "source_page": 6,
+    "reason": "cuboid volume / mensuration - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  }
+]

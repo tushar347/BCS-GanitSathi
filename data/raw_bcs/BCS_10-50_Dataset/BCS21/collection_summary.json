@@ -1,0 +1,17 @@
+{
+  "exam": "21st BCS",
+  "source_pdf": "21st BCS(1).pdf",
+  "main_in_scope_questions": 7,
+  "review_required": 0,
+  "excluded_out_of_scope": 3,
+  "authored_histories": 28,
+  "topic_counts": {
+    "percentages_profit_loss": 1,
+    "ratios_proportions": 2,
+    "work_time": 1,
+    "speed_distance": 1,
+    "averages_mixtures": 1,
+    "elementary_algebra_number_relations": 1
+  },
+  "research_note": "Questions/options/printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

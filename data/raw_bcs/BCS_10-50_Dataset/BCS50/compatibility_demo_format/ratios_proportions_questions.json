@@ -1,0 +1,27 @@
+[
+  {
+    "family_id": "continued_proportion_bcs50_q063_f01",
+    "item_id": "BCS50_Q063",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "continued_proportion",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি a/b = b/c = 2/3 হয়, তবে a : c এর মান কত হবে?",
+    "answer_options": [
+      "2 : 3",
+      "3 : 4",
+      "4 : 9",
+      "9 : 4"
+    ],
+    "correct_answer": "4 : 9",
+    "solution_steps": [
+      "Let a/b=2/3 and b/c=2/3.",
+      "Then a:c=(2/3)(2/3)=4/9."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  }
+]

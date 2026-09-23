@@ -1,0 +1,482 @@
+[
+  {
+    "item_id": "BCS13_Q081",
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q081_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS13_Q081_E_CORRECT",
+        "event_type": "student_step",
+        "original_text": "এককালীন 40% ছাড়ে মূল্য =10000×0.60=6000। তাই উত্তর ১৪৪।",
+        "normalized_text": "final_answer = ১৪৪",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q081_g1",
+        "mathematical_status": "valid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q081",
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q081_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q081_E_CONCEPT",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে শূন্য পেয়েছি।",
+        "normalized_text": "final_answer = শূন্য",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q081_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q081",
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q081_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q081_E_SLIP",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ২৫৬ লিখেছি।",
+        "normalized_text": "final_answer = ২৫৬",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q081_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q081",
+    "family_id": "single_vs_successive_discount_difference_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q081_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS13_Q081_E_AMBIG",
+        "event_type": "student_final_answer",
+        "original_text": "শূন্য",
+        "normalized_text": "final_answer = শূন্য",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q081_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q082",
+    "family_id": "percentage_total_questions_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q082_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS13_Q082_E_CORRECT",
+        "event_type": "student_step",
+        "original_text": "সঠিক উত্তর =15+(n-20)/3। তাই উত্তর ৫০টি।",
+        "normalized_text": "final_answer = ৫০টি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q082_g1",
+        "mathematical_status": "valid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q082",
+    "family_id": "percentage_total_questions_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q082_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q082_E_CONCEPT",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ২০টি পেয়েছি।",
+        "normalized_text": "final_answer = ২০টি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q082_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q082",
+    "family_id": "percentage_total_questions_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q082_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q082_E_SLIP",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ৩০টি লিখেছি।",
+        "normalized_text": "final_answer = ৩০টি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q082_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q082",
+    "family_id": "percentage_total_questions_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q082_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS13_Q082_E_AMBIG",
+        "event_type": "student_final_answer",
+        "original_text": "২০টি",
+        "normalized_text": "final_answer = ২০টি",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q082_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q083",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q083_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS13_Q083_E_CORRECT",
+        "event_type": "student_step",
+        "original_text": "যাওয়ার বেগ: ১ মাইল/২ মিনিট =30 মাইল/ঘণ্টা। তাই উত্তর ৪৮।",
+        "normalized_text": "final_answer = ৪৮",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q083_g1",
+        "mathematical_status": "valid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q083",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q083_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q083_E_CONCEPT",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ৪৫ পেয়েছি।",
+        "normalized_text": "final_answer = ৪৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q083_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q083",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q083_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q083_E_SLIP",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ৭৫ লিখেছি।",
+        "normalized_text": "final_answer = ৭৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q083_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q083",
+    "family_id": "equal_distance_average_speed_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q083_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS13_Q083_E_AMBIG",
+        "event_type": "student_final_answer",
+        "original_text": "৪৫",
+        "normalized_text": "final_answer = ৪৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q083_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q084",
+    "family_id": "polynomial_known_root_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q084_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS13_Q084_E_CORRECT",
+        "event_type": "student_step",
+        "original_text": "x=2 বসালে 8+2h+10=0। তাই উত্তর -9।",
+        "normalized_text": "final_answer = -9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q084_g1",
+        "mathematical_status": "valid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q084",
+    "family_id": "polynomial_known_root_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q084_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q084_E_CONCEPT",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে 10 পেয়েছি।",
+        "normalized_text": "final_answer = 10",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q084_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q084",
+    "family_id": "polynomial_known_root_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q084_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q084_E_SLIP",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে 9 লিখেছি।",
+        "normalized_text": "final_answer = 9",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q084_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q084",
+    "family_id": "polynomial_known_root_parameter_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q084_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS13_Q084_E_AMBIG",
+        "event_type": "student_final_answer",
+        "original_text": "10",
+        "normalized_text": "final_answer = 10",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q084_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q085",
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q085_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS13_Q085_E_CORRECT",
+        "event_type": "student_step",
+        "original_text": "প্রথম বালক 5 জন, দ্বিতীয় 6 জন, ... শেষ বালক g জনের সঙ্গে খেলে। তাই উত্তর b = g - 4।",
+        "normalized_text": "final_answer = b = g - 4",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q085_g1",
+        "mathematical_status": "valid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q085",
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q085_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q085_E_CONCEPT",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে b = g পেয়েছি।",
+        "normalized_text": "final_answer = b = g",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q085_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q085",
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q085_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q085_E_SLIP",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে b = g/5 লিখেছি।",
+        "normalized_text": "final_answer = b = g/5",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q085_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q085",
+    "family_id": "sequential_count_last_reaches_total_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q085_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS13_Q085_E_AMBIG",
+        "event_type": "student_final_answer",
+        "original_text": "b = g",
+        "normalized_text": "final_answer = b = g",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q085_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q090",
+    "family_id": "logarithm_exact_power_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q090_H_CORRECT",
+    "scenario_type": "correct_work",
+    "events": [
+      {
+        "event_id": "BCS13_Q090_E_CORRECT",
+        "event_type": "student_step",
+        "original_text": "2⁵=32। তাই উত্তর ৫।",
+        "normalized_text": "final_answer = ৫",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q090_g1",
+        "mathematical_status": "valid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q090",
+    "family_id": "logarithm_exact_power_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q090_H_CONCEPT",
+    "scenario_type": "conceptual_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q090_E_CONCEPT",
+        "event_type": "student_step",
+        "original_text": "আমি নিয়মটি ভুলভাবে প্রয়োগ করে ৩ পেয়েছি।",
+        "normalized_text": "final_answer = ৩",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q090_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q090",
+    "family_id": "logarithm_exact_power_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q090_H_SLIP",
+    "scenario_type": "transient_error_seed",
+    "events": [
+      {
+        "event_id": "BCS13_Q090_E_SLIP",
+        "event_type": "student_step",
+        "original_text": "হিসাবের শেষ ধাপে ভুল করে ৪ লিখেছি।",
+        "normalized_text": "final_answer = ৪",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q090_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  },
+  {
+    "item_id": "BCS13_Q090",
+    "family_id": "logarithm_exact_power_f01",
+    "data_origin": "authored_controlled_scenario",
+    "history_id": "BCS13_Q090_H_AMBIG",
+    "scenario_type": "ambiguous_short_response",
+    "events": [
+      {
+        "event_id": "BCS13_Q090_E_AMBIG",
+        "event_type": "student_final_answer",
+        "original_text": "৩",
+        "normalized_text": "final_answer = ৩",
+        "assistance_level": "none",
+        "source_type": "independent_practice",
+        "interpretation_status": "supported",
+        "independent_evidence_group": "BCS13_Q090_g1",
+        "mathematical_status": "invalid"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "family_id": "Q047",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "২৫০০ মিটার",
+        "reasoning_steps": [
+          "Use 8000 directly as cubic metres without converting litres.",
+          "Calculate 8000/3.2=2500 metres."
+        ],
+        "code": "BCS42-047-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৩.২ মিটার",
+        "reasoning_steps": [
+          "Set depth=8/(2.56×1.25).",
+          "Incorrectly evaluate the base product as 2.5.",
+          "Return 8/2.5=3.2 metres."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS42-047-ARITHMETIC-02"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৩.২ বর্গমিটার",
+        "reasoning_steps": [
+          "Calculate the base area 2.56×1.25=3.2.",
+          "Stop at area instead of finding the requested depth."
+        ],
+        "code": "BCS42-047-INTERPRETATION-03"
+      }
+    ]
+  },
+  {
+    "family_id": "Q056",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৪",
+        "reasoning_steps": [
+          "Assume area scales linearly with diameter.",
+          "Return the diameter factor 4."
+        ],
+        "code": "BCS42-056-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "১৫",
+        "reasoning_steps": [
+          "Calculate the new area as 16 times the original.",
+          "Return only the additional area, 16−1=15, rather than the total factor used by the source key."
+        ],
+        "code": "BCS42-056-INTERPRETATION-02"
+      }
+    ]
+  }
+]

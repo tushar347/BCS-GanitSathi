@@ -1,0 +1,50 @@
+[
+  {
+    "family_id": "Q105",
+    "possible_mistakes": [
+      {
+        "type": "interpretation",
+        "wrong_answer": "2a²bc",
+        "reasoning_steps": [
+          "Compute the GCD of the entire monomials instead of only their coefficients.",
+          "Include the lowest powers of a,b,c and select 2a²bc."
+        ],
+        "code": "BCS44-105-INTERPRETATION-01"
+      },
+      {
+        "type": "conceptual",
+        "wrong_answer": "a²bc",
+        "reasoning_steps": [
+          "Keep only common variable factors.",
+          "Omit the numerical-coefficient calculation entirely and select a²bc."
+        ],
+        "code": "BCS44-105-CONCEPTUAL-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q138",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৫৫",
+        "reasoning_steps": [
+          "Copy the decimal digits directly into the target base.",
+          "Return 55 without conversion."
+        ],
+        "code": "BCS44-138-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৭৭",
+        "reasoning_steps": [
+          "Set up 55 divided by 8.",
+          "Incorrectly write quotient 7 while retaining remainder 7.",
+          "Return 77."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS44-138-ARITHMETIC-02"
+      }
+    ]
+  }
+]

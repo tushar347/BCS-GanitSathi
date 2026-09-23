@@ -1,0 +1,54 @@
+[
+  {
+    "family_id": "lcm_divisibility_offset_bcs16_q033_f01",
+    "item_id": "BCS16_Q033",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "lcm_divisibility_offset",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "কোন লঘিষ্ঠ সংখ্যার সাথে ৩ যোগ করলে যোগফল ২৪, ৩৬ এবং ৪৮ দ্বারা বিভাজ্য হবে?",
+    "answer_options": [
+      "৮৯",
+      "১৪১",
+      "২৪৮",
+      "১৭০"
+    ],
+    "correct_answer": "১৪১",
+    "solution_steps": [
+      "24, 36 ও 48-এর ল.সা.গু = 144।",
+      "চাওয়া সংখ্যা n হলে n+3=144।",
+      "তাই n=141।"
+    ],
+    "source_page": 3,
+    "source_exam": "16th BCS"
+  },
+  {
+    "family_id": "odd_number_of_divisors_perfect_square_bcs16_q034_f01",
+    "item_id": "BCS16_Q034",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "odd_number_of_divisors_perfect_square",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "নিম্নলিখিত চারটি সংখ্যার মধ্যে কোনটির ভাজক সংখ্যা বিজোড়?",
+    "answer_options": [
+      "২০৪৮",
+      "৫১২",
+      "১০২৪",
+      "৪৮"
+    ],
+    "correct_answer": "১০২৪",
+    "solution_steps": [
+      "কেবল পূর্ণবর্গ সংখ্যার ধনাত্মক ভাজকের সংখ্যা বিজোড় হয়।",
+      "1024=32², তাই এটি পূর্ণবর্গ।",
+      "অন্য প্রদত্ত সংখ্যাগুলো পূর্ণবর্গ নয়।"
+    ],
+    "source_page": 3,
+    "source_exam": "16th BCS"
+  }
+]

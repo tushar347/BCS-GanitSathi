@@ -1,0 +1,38 @@
+[
+  {
+    "family_id": "Q188",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "SPEED188-CONCEPT-01",
+        "wrong_answer": "১২ ফুট",
+        "reasoning_steps": [
+          "Find speed by multiplying distance by elapsed time instead of dividing.",
+          "Calculate the incorrect speed as 20 × (1/5) = 4 feet per second.",
+          "Multiply by 3 seconds and report 12 feet."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "SPEED188-ARITH-01",
+        "wrong_answer": "৩০ ফুট",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly calculate the speed as 100 feet per second.",
+          "Drop one zero while evaluating 100 × 3 and obtain 30 instead of 300.",
+          "Report 30 feet."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "SPEED188-INTERP-01",
+        "wrong_answer": "১০০ ফুট",
+        "reasoning_steps": [
+          "Correctly calculate that the train travels 100 feet in one second.",
+          "Stop at the one-second distance and overlook the requested interval of 3 seconds.",
+          "Select ১০০ ফুট."
+        ]
+      }
+    ]
+  }
+]

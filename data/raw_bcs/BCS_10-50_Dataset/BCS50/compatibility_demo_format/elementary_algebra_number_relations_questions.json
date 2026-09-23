@@ -1,0 +1,306 @@
+[
+  {
+    "family_id": "lcm_of_fractions_bcs50_q062_f01",
+    "item_id": "BCS50_Q062",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "lcm_of_fractions",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "২/৫, ৩/৫ ও ৬/১৫ ভগ্নাংশগুলোর লঘিষ্ঠ সাধারণ গুণিতক (ল.সা.গু) হবে-",
+    "answer_options": [
+      "৭/৫",
+      "৬/৫",
+      "১/১৫",
+      "৬/১৫"
+    ],
+    "correct_answer": "৬/৫",
+    "solution_steps": [
+      "Reduce/compare the fractions and use LCM(numerators)/GCD(denominators).",
+      "LCM(2,3,6)=6 and GCD(5,5,15)=5.",
+      "So the LCM is 6/5."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "compare_expressions_unit_interval_bcs50_q066_f01",
+    "item_id": "BCS50_Q066",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "compare_expressions_unit_interval",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি 0 < x < 1 হয়, তবে নিচের কোনটি সবচেয়ে বড় হবে?",
+    "answer_options": [
+      "x",
+      "2x",
+      "x²",
+      "x + 1"
+    ],
+    "correct_answer": "x + 1",
+    "solution_steps": [
+      "For 0<x<1, x+1 is greater than 1.",
+      "The other listed expressions are at most 2x<2 and x²<x; comparing directly, x+1>2x because 1>x.",
+      "So x+1 is largest."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "polynomial_remainder_theorem_bcs50_q067_f01",
+    "item_id": "BCS50_Q067",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_remainder_theorem",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "x⁴ - 2x + 1 কে x - 3 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+    "answer_options": [
+      "2",
+      "81",
+      "0",
+      "76"
+    ],
+    "correct_answer": "76",
+    "solution_steps": [
+      "By the remainder theorem, evaluate P(3).",
+      "3^4-2(3)+1=81-6+1=76."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "absolute_value_inequality_bcs50_q069_f01",
+    "item_id": "BCS50_Q069",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "absolute_value_inequality",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "|3x - 1| < 2 এর সমাধান সেট হবে-",
+    "answer_options": [
+      "(-1/3, 0)",
+      "(-1/3, ∞)",
+      "(-1/3, 1)",
+      "(∞, 1/3)"
+    ],
+    "correct_answer": "(-1/3, 1)",
+    "solution_steps": [
+      "Write -2<3x-1<2.",
+      "Add 1: -1<3x<3.",
+      "Divide by 3 to get -1/3<x<1."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "infinite_geometric_series_bcs50_q070_f01",
+    "item_id": "BCS50_Q070",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "infinite_geometric_series",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "-1 + 1/2 - 1/4 + 1/8 - 1/16 + ... অসীম ধারাটির যোগফল হবে-",
+    "answer_options": [
+      "-2/3",
+      "-3/2",
+      "2/3",
+      "3/2"
+    ],
+    "correct_answer": "-2/3",
+    "solution_steps": [
+      "This is a geometric series with a=-1 and r=-1/2.",
+      "S=a/(1-r)=-1/(1+1/2)=-2/3."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "quadratic_roots_from_factors_bcs50_q074_f01",
+    "item_id": "BCS50_Q074",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "quadratic_roots_from_factors",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "x² - (p + q)x + pq = 0 এর সমাধান সেট হবে-",
+    "answer_options": [
+      "{p, q}",
+      "{p, -q}",
+      "{-p, q}",
+      "{-p, -q}"
+    ],
+    "correct_answer": "{p, q}",
+    "solution_steps": [
+      "Factor the quadratic as (x-p)(x-q)=0.",
+      "Therefore the roots are p and q."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "finite_geometric_sequence_term_count_bcs50_q075_f01",
+    "item_id": "BCS50_Q075",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "finite_geometric_sequence_term_count",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "3 + 3/2 + 3/4 + ....... + 3/64 ধারাটিতে মোট কতটি পদ আছে?",
+    "answer_options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answer": "7",
+    "solution_steps": [
+      "The denominators are 1,2,4,8,16,32,64 = 2^0 through 2^6.",
+      "That gives 7 terms."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "binomial_middle_term_position_bcs50_q076_f01",
+    "item_id": "BCS50_Q076",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "binomial_middle_term_position",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "(x² - 2 + 1/x²)⁷ এর বিস্তৃতিতে মধ্যপদ কততম পদটি?",
+    "answer_options": [
+      "পঞ্চম",
+      "সপ্তম",
+      "অষ্টম",
+      "নবম"
+    ],
+    "correct_answer": "অষ্টম",
+    "solution_steps": [
+      "Recognize x²-2+1/x²=(x-1/x)².",
+      "The expression is therefore (x-1/x)^14, which has 15 terms.",
+      "Its unique middle term is the 8th term."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "quadratic_minimum_value_bcs50_q078_f01",
+    "item_id": "BCS50_Q078",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "quadratic_minimum_value",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "2x² + 3x + 1 এর ক্ষুদ্রতম মান হবে-",
+    "answer_options": [
+      "-3/4",
+      "-1/8",
+      "1/8",
+      "3/4"
+    ],
+    "correct_answer": "-1/8",
+    "solution_steps": [
+      "For ax²+bx+c, minimum = c-b²/(4a).",
+      "1-9/8=-1/8."
+    ],
+    "source_page": 4,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "parallel_lines_parameter_bcs50_q080_f01",
+    "item_id": "BCS50_Q080",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "parallel_lines_parameter",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "K এর কোন মানের জন্য 5x + 4y - 1 = 0 এবং 2x + Ky - 7 = 0 সরলরেখা দুটি সমান্তরাল?",
+    "answer_options": [
+      "5/8",
+      "8/5",
+      "5/2",
+      "-8/5"
+    ],
+    "correct_answer": "8/5",
+    "solution_steps": [
+      "Parallel lines require equal x:y coefficient ratios: 5/2=4/K.",
+      "Thus 5K=8 and K=8/5."
+    ],
+    "source_page": 5,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "logarithmic_equation_bcs50_q082_f01",
+    "item_id": "BCS50_Q082",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "logarithmic_equation",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি log_x 324 = 4 হয়, তবে x এর মান হবে-",
+    "answer_options": [
+      "4",
+      "2√3",
+      "3√3",
+      "3√2"
+    ],
+    "correct_answer": "3√2",
+    "solution_steps": [
+      "x^4=324.",
+      "For a logarithm base x>0 and x≠1, x=324^(1/4)=√18=3√2."
+    ],
+    "source_page": 5,
+    "source_exam": "50th BCS"
+  },
+  {
+    "family_id": "decimal_multiplication_bcs50_q084_f01",
+    "item_id": "BCS50_Q084",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "decimal_multiplication",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "0.5 × 0.05 × 0.005 = ?",
+    "answer_options": [
+      "0.125",
+      "0.0125",
+      "0.00125",
+      "0.000125"
+    ],
+    "correct_answer": "0.000125",
+    "solution_steps": [
+      "Multiply 5×5×5=125 and account for six decimal places.",
+      "The result is 0.000125."
+    ],
+    "source_page": 5,
+    "source_exam": "50th BCS"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "family_id": "Q094",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "inverse percentage change at fixed expenditure",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "percentage quantity increase",
+    "english_glossary": {
+      "শতকরা": "percentage"
+    },
+    "question_bn": "চিনির মূল্য ১০% কমে যাওয়ায় চিনির ব্যবহার শতকরা কত ভাগ বাড়ালে চিনি বাবদ খরচ একই থাকবে?",
+    "answer_options": [
+      "৮%",
+      "8 1/3%",
+      "১০%",
+      "11 1/9%"
+    ],
+    "correct_answer": "11 1/9%",
+    "solution_steps": [
+      "Let original price and quantity be p and q. The new price is 0.9p.",
+      "To keep expenditure pq unchanged, new quantity=q/0.9=10q/9.",
+      "The increase is q/9, or 100/9%=11 1/9%."
+    ]
+  },
+  {
+    "family_id": "Q102",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "annual compound amount",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "accumulated amount",
+    "english_glossary": {
+      "মুনাফা": "interest or profit",
+      "মূলধন": "principal"
+    },
+    "question_bn": "বার্ষিক ১০% মুনাফায় ৮০০ টাকার ২ বছরের চক্রবৃদ্ধি মূলধন কত?",
+    "answer_options": [
+      "৯৪০ টাকা",
+      "৯৬০ টাকা",
+      "৯৬৮ টাকা",
+      "৯৮০ টাকা"
+    ],
+    "correct_answer": "৯৬৮ টাকা",
+    "solution_steps": [
+      "Apply annual compounding: A=800(1+0.10)².",
+      "Thus A=800×1.21=968 taka."
+    ]
+  },
+  {
+    "family_id": "Q112",
+    "topic": "percentages",
+    "in_scope": true,
+    "assigned_subskill": "successive decrease and increase",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "net percentage change",
+    "english_glossary": {
+      "শতকরা": "percentage"
+    },
+    "question_bn": "একজন ব্যক্তির বেতন ৫% কমেছে। কিন্তু এক বছর পর তা আবার ৫% বেড়েছে। মোটের উপর তার বেতন শতকরা কত বৃদ্ধি বা হ্রাস পেয়েছে?",
+    "answer_options": [
+      "০.৫% বেড়েছে",
+      "০.২৫% বেড়েছে",
+      "০.২৫% কমেছে",
+      "০.৫% কমেছে"
+    ],
+    "correct_answer": "০.২৫% কমেছে",
+    "solution_steps": [
+      "Use an initial salary of 100.",
+      "After the decrease it is 95; after the increase it is 95×1.05=99.75.",
+      "The net change is a decrease of 0.25%."
+    ]
+  }
+]

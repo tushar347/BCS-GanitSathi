@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "typing_work_rate_f01",
+    "item_id": "BCS28_Q093",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "typing_work_rate",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "কাজের হার": "work rate"
+    },
+    "question_bn": "If two typist can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes?",
+    "answer_options": [
+      "3",
+      "6",
+      "9",
+      "18"
+    ],
+    "correct_answer": "6",
+    "solution_steps": [
+      "Two typists make 2 pages in 2 minutes, so the team rate is 1 page per minute.",
+      "One typist therefore works at 0.5 page per minute.",
+      "18 pages in 6 minutes needs 3 pages per minute, so 3/0.5 = 6 typists."
+    ],
+    "source_page": 9,
+    "source_exam": "28th BCS"
+  }
+]

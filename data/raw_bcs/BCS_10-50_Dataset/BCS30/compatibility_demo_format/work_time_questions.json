@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "combined_work_two_people_f02",
+    "item_id": "BCS30_Q085",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "combined_work_two_people",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "কাজের হার": "work rate"
+    },
+    "question_bn": "ক ও খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে। খ একা কাজটি কত দিনে করতে পারবে?",
+    "answer_options": [
+      "২৫ দিনে",
+      "৩০ দিনে",
+      "৩৫ দিনে",
+      "৪০ দিনে"
+    ],
+    "correct_answer": "৩০ দিনে",
+    "solution_steps": [
+      "Combined rate = 1/12 job per day and A's rate = 1/20.",
+      "B's rate = 1/12 - 1/20 = 1/30.",
+      "So B alone needs 30 days."
+    ],
+    "source_page": 10,
+    "source_exam": "30th BCS"
+  }
+]

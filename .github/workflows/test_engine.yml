@@ -1,0 +1,50 @@
+name: Test Engine & Verifier
+
+on:
+  push:
+    branches: [ main, "feat/**" ]
+    paths-ignore:
+      - "docs/**"
+      - "README.md"
+      - "**.md"
+      - ".gitignore"
+      - "commit_msg.txt"
+      - "LICENSE"
+  pull_request:
+    branches: [ main ]
+    paths-ignore:
+      - "docs/**"
+      - "README.md"
+      - "**.md"
+      - ".gitignore"
+      - "commit_msg.txt"
+      - "LICENSE"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: "pip"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Fast install: CPU-only PyTorch wheel (~180 MB instead of ~2.2 GB with CUDA packages)
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+      - name: Run Pytest Unit & Integration Tests
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        run: |
+          pytest -v tests/

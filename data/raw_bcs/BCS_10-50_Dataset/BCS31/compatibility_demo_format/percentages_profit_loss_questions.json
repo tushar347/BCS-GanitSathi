@@ -1,0 +1,64 @@
+[
+  {
+    "family_id": "percentage_equation_add_constant_f01",
+    "item_id": "BCS31_Q084",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_equation_addition",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "কোনো সংখ্যার 40% এর সাথে 42 যোগ করলে যোগফল হবে ঐ সংখ্যাটি। উহা কত?",
+    "answer_options": [
+      "70",
+      "80",
+      "90",
+      "75"
+    ],
+    "correct_answer": "70",
+    "solution_steps": [
+      "Let the number be x.",
+      "0.40x+42=x, so 0.60x=42.",
+      "x=70."
+    ],
+    "source_page": 9,
+    "source_exam": "31th BCS"
+  },
+  {
+    "family_id": "percentage_equation_subtract_constant_f01",
+    "item_id": "BCS31_Q085",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_equation_subtraction",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "কোন সংখ্যার 60% থেকে 60 বিয়োগ করলে ফলাফল হবে 60। তবে সংখ্যাটি কত?",
+    "answer_options": [
+      "250",
+      "100",
+      "200",
+      "300"
+    ],
+    "correct_answer": "200",
+    "solution_steps": [
+      "Let the number be x.",
+      "0.60x-60=60, so 0.60x=120.",
+      "x=200."
+    ],
+    "source_page": 9,
+    "source_exam": "31th BCS"
+  }
+]

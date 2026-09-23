@@ -1,0 +1,629 @@
+[
+  {
+    "family_id": "Q148",
+    "source_uid": "BCS40:Q148",
+    "source_question_number": 148,
+    "source_page": 16,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোনটি Octal number নয়?",
+    "source_options_transcription": [
+      "19",
+      "77",
+      "15",
+      "101"
+    ],
+    "source_printed_answer": "19",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q148_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q153",
+    "source_uid": "BCS40:Q153",
+    "source_question_number": 153,
+    "source_page": 17,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোনটি ৫২(১৬) এর বাইনারি রূপ?",
+    "source_options_transcription": [
+      "০১০১০০১০(২)",
+      "০১১১০০১১(২)",
+      "০০০০১১০০(২)",
+      "১১১১০০০০(২)"
+    ],
+    "source_printed_answer": "০১০১০০১০(২)",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q153_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q160",
+    "source_uid": "BCS40:Q160",
+    "source_question_number": 160,
+    "source_page": 18,
+    "topic": "number system",
+    "status": "review_required",
+    "source_question_transcription": "নিচের কোনটি অমূলদ সংখ্যা?",
+    "source_options_transcription": [
+      "0.\\overline{4}",
+      "√9",
+      "5.\\overline{639}",
+      "√(27/48)"
+    ],
+    "source_printed_answer": null,
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q160_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q160_source_excerpt.png",
+    "transcription_or_interpretation_note": "Printed source note: [প্রশ্নে প্রদত্ত সকল সংখ্যাই মূলদ।] Repeating dots are represented with overbars in the text, with the original notation retained in the source image.",
+    "review_reason": "The source itself states that all the given numbers are rational and supplies no correct option. The repeating decimals are rational, √9=3 and √(27/48)=3/4. No irrational distractor is invented.",
+    "source_printed_note": "[প্রশ্নে প্রদত্ত সকল সংখ্যাই মূলদ।]"
+  },
+  {
+    "family_id": "Q161",
+    "source_uid": "BCS40:Q161",
+    "source_question_number": 161,
+    "source_page": 18,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোন পূর্ণ সংখ্যাটিকে ৩, ৪, ৫ এবং ৬ দ্বারা ভাগ করলে যথাক্রমে ১, ২, ৩ ও ৪ অবশিষ্ট থাকে?",
+    "source_options_transcription": [
+      "৪৮",
+      "৫৪",
+      "৫৮",
+      "৬০"
+    ],
+    "source_printed_answer": "৫৮",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q161_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q162",
+    "source_uid": "BCS40:Q162",
+    "source_question_number": 162,
+    "source_page": 18,
+    "topic": "ratios",
+    "status": "annotated",
+    "source_question_transcription": "পনির ও তপনের আয়ের অনুপাত 4 : 3। তপন ও রবিনের আয়ের অনুপাত 5 : 4। পনিরের আয় 120 টাকা হলে, রবিনের আয় কত?",
+    "source_options_transcription": [
+      "36 টাকা",
+      "12 টাকা",
+      "72 টাকা",
+      "84 টাকা"
+    ],
+    "source_printed_answer": "72 টাকা",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q162_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q163",
+    "source_uid": "BCS40:Q163",
+    "source_question_number": 163,
+    "source_page": 18,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "৪৫০ টাকা বার্ষিক ৬% সুদে কত বছরে সুদে-আসলে ৫৫৮ টাকা হবে?",
+    "source_options_transcription": [
+      "৩ বছরে",
+      "৪ বছরে",
+      "৫ বছরে",
+      "৬ বছরে"
+    ],
+    "source_printed_answer": "৪ বছরে",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q163_source_excerpt.png",
+    "transcription_or_interpretation_note": "Simple interest, rather than compound interest, is the explicit interpretation matching the source key.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q164",
+    "source_uid": "BCS40:Q164",
+    "source_question_number": 164,
+    "source_page": 18,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "একটি মোটর সাইকেল ১২% ক্ষতিতে বিক্রি করা হলো। যদি বিক্রয় মূল্য ১২০০ টাকা বেশি হতো তাহলে ৮% লাভ হতো। মোটর সাইকেলের ক্রয়মূল্য−",
+    "source_options_transcription": [
+      "৬০০০ টাকা",
+      "৫০০০ টাকা",
+      "৪০০০ টাকা",
+      "৮০০০ টাকা"
+    ],
+    "source_printed_answer": "৬০০০ টাকা",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q164_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q165",
+    "source_uid": "BCS40:Q165",
+    "source_question_number": 165,
+    "source_page": 18,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "((0.9)³ + (0.4)³)/(0.9 + 0.4) এর মান কত?",
+    "source_options_transcription": [
+      "০.৩৬",
+      "০.৫১",
+      "০.৮১",
+      "০.৬১"
+    ],
+    "source_printed_answer": "০.৬১",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q165_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q166",
+    "source_uid": "BCS40:Q166",
+    "source_question_number": 166,
+    "source_page": 19,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "3x − 2 > 2x − 1 এর সমাধান সেট কোনটি?",
+    "source_options_transcription": [
+      "[1, ∞)",
+      "(1, ∞)",
+      "[1/2, ∞)",
+      "(−1, ∞)"
+    ],
+    "source_printed_answer": "(1, ∞)",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q166_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q167",
+    "source_uid": "BCS40:Q167",
+    "source_question_number": 167,
+    "source_page": 19,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "6x² − 7x − 4 = 0 সমীকরণে মূলদ্বয়ের প্রকৃতি কোনটি?",
+    "source_options_transcription": [
+      "বাস্তব ও সমান",
+      "বাস্তব ও অসমান",
+      "অবাস্তব",
+      "পূর্ণবর্গ সংখ্যা"
+    ],
+    "source_printed_answer": "বাস্তব ও অসমান",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q167_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q168",
+    "source_uid": "BCS40:Q168",
+    "source_question_number": 168,
+    "source_page": 19,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "যদি x⁴ − x² + 1 = 0 হয়, তবে 3^x + 1/x³ = ?",
+    "source_options_transcription": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "source_printed_answer": "0",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q168_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q168_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The first requested term is visibly 3 with superscript x, not x with superscript 3. The keyed identity would work for x³+1/x³, but replacing 3^x by x³ changes the source. The displayed target and source key are preserved."
+  },
+  {
+    "family_id": "Q169",
+    "source_uid": "BCS40:Q169",
+    "source_question_number": 169,
+    "source_page": 19,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "x^(x^(√x)) = (x√x)^x হলে x এর মান কত?",
+    "source_options_transcription": [
+      "3/2",
+      "4/5",
+      "9/4",
+      "2/3"
+    ],
+    "source_printed_answer": "9/4",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q169_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q169_source_excerpt.png",
+    "transcription_or_interpretation_note": "The nested exponent and radical placement are preserved in the source image. The explanation verifies the offered key by substitution rather than claiming a unique solution over every domain; x=1 also satisfies the equation.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q170",
+    "source_uid": "BCS40:Q170",
+    "source_question_number": 170,
+    "source_page": 19,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "কোন শর্তে log_a 1 = 0?",
+    "source_options_transcription": [
+      "a > 0, a ≠ 1",
+      "a ≠ 0, a > 1",
+      "a > 0, a = 1",
+      "a ≠ 1, a < 0"
+    ],
+    "source_printed_answer": "a > 0, a ≠ 1",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q170_source_excerpt.png",
+    "transcription_or_interpretation_note": "The second option is also a sufficient restriction, but is not the complete admissible range. The keyed option is interpreted as the necessary-and-sufficient domain condition; this interpretation is explicitly documented.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q171",
+    "source_uid": "BCS40:Q171",
+    "source_question_number": 171,
+    "source_page": 19,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "P = {x : x, 12 এর গুণনীয়কসমূহ) এবং Q = {x : x, 3 এর গুণিতক এবং x ≤ 12} হলে, P − Q কত?",
+    "source_options_transcription": [
+      "{1, 2, 4}",
+      "{1, 3, 4}",
+      "{1, 3, 6}",
+      "{1, 2, 6}"
+    ],
+    "source_printed_answer": "{1, 2, 4}",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q171_source_excerpt.png",
+    "transcription_or_interpretation_note": "The source’s unmatched parenthesis is preserved. Positive divisors and positive multiples are the explicit school-set convention used for the supplied key.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q172",
+    "source_uid": "BCS40:Q172",
+    "source_question_number": 172,
+    "source_page": 19,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "cos(nπ/2) অনুক্রমটির চতুর্থ পদ কোনটি?",
+    "source_options_transcription": [
+      "−1",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "source_printed_answer": "1",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q172_source_excerpt.png",
+    "transcription_or_interpretation_note": "The ordinary sequence indexing n=1,2,... is assumed explicitly; no starting index is printed.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q173",
+    "source_uid": "BCS40:Q173",
+    "source_question_number": 173,
+    "source_page": 19,
+    "topic": "arithmetic",
+    "status": "review_required",
+    "source_question_transcription": "৬ জন খেলোয়াড়কে সমান সংখ্যক দুইটি দলে কত ভাবে বিভক্ত করা যায়?",
+    "source_options_transcription": [
+      "১০",
+      "২০",
+      "৬০",
+      "১২০"
+    ],
+    "source_printed_answer": "২০",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q173_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The key 20 equals C(6,3) when the two teams are distinguished or labeled. For two unlabeled teams, each division is counted twice and the answer is 10. Both values are offered, and the source does not specify whether teams are labeled. Neither interpretation is silently imposed."
+  },
+  {
+    "family_id": "Q176",
+    "source_uid": "BCS40:Q176",
+    "source_question_number": 176,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "বাংলা ব্যঞ্জন বর্ণমালায় ‘ম’ অক্ষরটির পূর্বের পঞ্চম অক্ষরটি কী?",
+    "source_options_transcription": [
+      "ধ",
+      "ন",
+      "প",
+      "ল"
+    ],
+    "source_printed_answer": "ন",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q176_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q177",
+    "source_uid": "BCS40:Q177",
+    "source_question_number": 177,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "যদি ABC = ZYX হয়, তবে GIVV = ?",
+    "source_options_transcription": [
+      "TERE",
+      "TEER",
+      "TREE",
+      "FREE"
+    ],
+    "source_printed_answer": "TREE",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q177_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q178",
+    "source_uid": "BCS40:Q178",
+    "source_question_number": 178,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "‘UNICEF’ এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "খ",
+    "source_answer_option_label": "খ",
+    "question_images": [
+      "assets/Q178_option_a.png",
+      "assets/Q178_option_b.png",
+      "assets/Q178_option_c.png",
+      "assets/Q178_option_d.png"
+    ],
+    "source_evidence_image": "audit_assets/Q178_source_excerpt.png",
+    "transcription_or_interpretation_note": "The same source question appears again as Q197 with a different graphical rendering. Both source occurrences are retained and linked as duplicates in the quality report.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q180",
+    "source_uid": "BCS40:Q180",
+    "source_question_number": 180,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "review_required",
+    "source_question_transcription": "যদি চ × G = 82 হয়, তবে J × ট = ?",
+    "source_options_transcription": [
+      "১২০",
+      "৯২",
+      "১১৫",
+      "১১০"
+    ],
+    "source_printed_answer": "১১০",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q180_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The given example visibly reads চ×G=82. Under the usual consonant-position and English-position product, চ is 6 and G is 7, giving 42, not 82. Although J×ট would then give the key 110, doing so would require disregarding the printed premise. The premise is not corrected."
+  },
+  {
+    "family_id": "Q182",
+    "source_uid": "BCS40:Q182",
+    "source_question_number": 182,
+    "source_page": 20,
+    "topic": "ratios",
+    "status": "annotated",
+    "source_question_transcription": "ভারসাম্য রক্ষা করতে নির্দেশিত স্থানে কত কেজি রাখতে হবে?",
+    "source_options_transcription": [
+      "১২০",
+      "১৪০",
+      "১৬০",
+      "৮০"
+    ],
+    "source_printed_answer": "১৪০",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q182_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q182_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q183",
+    "source_uid": "BCS40:Q183",
+    "source_question_number": 183,
+    "source_page": 21,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "একজন ব্যক্তি ভ্রমণে ৪ মাইল উত্তরে, ১২ মাইল পূর্বে তারপর আবার ১২ মাইল উত্তরে যায়। সে শুরুর স্থান থেকে কত মাইল দূরে?",
+    "source_options_transcription": [
+      "১৭",
+      "২৮",
+      "২১",
+      "২০"
+    ],
+    "source_printed_answer": "২০",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q183_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q195",
+    "source_uid": "BCS40:Q195",
+    "source_question_number": 195,
+    "source_page": 22,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "চিত্রে, ∠PQR = 55°, ∠LRN = 90° এবং PQ ∥ MR, PQ = PR হলে, ∠NRP এর মান নিচের কোনটি?",
+    "source_options_transcription": [
+      "90°",
+      "55°",
+      "45°",
+      "35°"
+    ],
+    "source_printed_answer": "35°",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q195_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q195_source_excerpt.png",
+    "transcription_or_interpretation_note": "Collinearity and the side of RN on which RP lies are read from the source diagram; the printed PQ∥MR condition is retained even though this solution does not need it.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q196",
+    "source_uid": "BCS40:Q196",
+    "source_question_number": 196,
+    "source_page": 23,
+    "topic": "mental ability",
+    "status": "review_required",
+    "source_question_transcription": null,
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "ঘ",
+    "source_answer_option_label": "ঘ",
+    "question_images": [
+      "assets/Q196_stem.png",
+      "assets/Q196_option_a.png",
+      "assets/Q196_option_b.png",
+      "assets/Q196_option_c.png",
+      "assets/Q196_option_d.png"
+    ],
+    "source_evidence_image": "audit_assets/Q196_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "This source item has only a diagram and options, with no textual instruction explaining the transformation or completion rule. The answer drawing matches ঘ, but a reliable solving rule has not been established from the supplied image alone. No question wording or solution is invented."
+  },
+  {
+    "family_id": "Q197",
+    "source_uid": "BCS40:Q197",
+    "source_question_number": 197,
+    "source_page": 23,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "‘UNICEF’ এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "খ",
+    "source_answer_option_label": "খ",
+    "question_images": [
+      "assets/Q197_option_a.png",
+      "assets/Q197_option_b.png",
+      "assets/Q197_option_c.png",
+      "assets/Q197_option_d.png"
+    ],
+    "source_evidence_image": "audit_assets/Q197_source_excerpt.png",
+    "transcription_or_interpretation_note": "Duplicate wording of Q178 is retained because both question numbers occur in the source. The two renderings have separate image assets.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q198",
+    "source_uid": "BCS40:Q198",
+    "source_question_number": 198,
+    "source_page": 23,
+    "topic": "arithmetic",
+    "status": "review_required",
+    "source_question_transcription": ".১ × .০১ × ০০১ = ?",
+    "source_options_transcription": [
+      "১.০০০১",
+      ".১০০০১",
+      ".০০০০১",
+      ".০০০০০১"
+    ],
+    "source_printed_answer": ".০০০০০১",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q198_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The third factor is printed ০০১ without a decimal point. Interpreting it literally as 1 gives 0.001, whereas the supplied key 0.000001 would require the third factor to be .001. The missing point is not inserted."
+  },
+  {
+    "family_id": "Q199",
+    "source_uid": "BCS40:Q199",
+    "source_question_number": 199,
+    "source_page": 23,
+    "topic": "mental ability",
+    "status": "review_required",
+    "source_question_transcription": null,
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "ক",
+    "source_answer_option_label": "ক",
+    "question_images": [
+      "assets/Q199_stem.png",
+      "assets/Q199_option_a.png",
+      "assets/Q199_option_b.png",
+      "assets/Q199_option_c.png",
+      "assets/Q199_option_d.png"
+    ],
+    "source_evidence_image": "audit_assets/Q199_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The source supplies diagrams and an answer drawing but no textual instruction or sufficiently clear transformation rule. The printed answer matches ক and is retained as a source key, not a verified model solution."
+  },
+  {
+    "family_id": "Q200",
+    "source_uid": "BCS40:Q200",
+    "source_question_number": 200,
+    "source_page": 24,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": null,
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "খ",
+    "source_answer_option_label": "খ",
+    "question_images": [
+      "assets/Q200_stem.png",
+      "assets/Q200_option_a.png",
+      "assets/Q200_option_b.png",
+      "assets/Q200_option_c.png",
+      "assets/Q200_option_d.png"
+    ],
+    "source_evidence_image": "audit_assets/Q200_source_excerpt.png",
+    "transcription_or_interpretation_note": "There is no printed textual question stem. question_bn contains the original figure rather than invented Bangla wording. Crossed-out marks on the first two source cards are preserved in the image; the explanation explicitly uses the uncrossed-out entries.",
+    "review_reason": null
+  }
+]

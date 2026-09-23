@@ -1,0 +1,71 @@
+[
+  {
+    "family_id": "Q148",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "allowed digits in octal notation",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "20 seconds",
+    "target_quantity": "invalid octal numeral",
+    "english_glossary": {},
+    "question_bn": "নিচের কোনটি Octal number নয়?",
+    "answer_options": [
+      "19",
+      "77",
+      "15",
+      "101"
+    ],
+    "correct_answer": "19",
+    "solution_steps": [
+      "Octal uses only the digits 0 through 7.",
+      "The numeral 19 contains the forbidden digit 9.",
+      "The other three choices use only permitted digits."
+    ]
+  },
+  {
+    "family_id": "Q153",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "hexadecimal-to-binary conversion",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "binary representation",
+    "english_glossary": {},
+    "question_bn": "নিচের কোনটি ৫২(১৬) এর বাইনারি রূপ?",
+    "answer_options": [
+      "০১০১০০১০(২)",
+      "০১১১০০১১(২)",
+      "০০০০১১০০(২)",
+      "১১১১০০০০(২)"
+    ],
+    "correct_answer": "০১০১০০১০(২)",
+    "solution_steps": [
+      "Convert each hexadecimal digit into four binary bits.",
+      "Hexadecimal 5 becomes 0101 and 2 becomes 0010.",
+      "Joining them gives 01010010₂."
+    ]
+  },
+  {
+    "family_id": "Q161",
+    "topic": "number system",
+    "in_scope": true,
+    "assigned_subskill": "simultaneous remainders using an LCM",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "integer satisfying the remainders",
+    "english_glossary": {},
+    "question_bn": "নিচের কোন পূর্ণ সংখ্যাটিকে ৩, ৪, ৫ এবং ৬ দ্বারা ভাগ করলে যথাক্রমে ১, ২, ৩ ও ৪ অবশিষ্ট থাকে?",
+    "answer_options": [
+      "৪৮",
+      "৫৪",
+      "৫৮",
+      "৬০"
+    ],
+    "correct_answer": "৫৮",
+    "solution_steps": [
+      "Each remainder is two less than its divisor.",
+      "Thus n+2 must be divisible by 3,4,5,6, whose LCM is 60.",
+      "The listed number 58=60−2 satisfies all conditions."
+    ]
+  }
+]

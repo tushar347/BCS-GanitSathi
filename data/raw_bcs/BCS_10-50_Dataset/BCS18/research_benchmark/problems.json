@@ -1,0 +1,410 @@
+[
+  {
+    "item_id": "BCS18_Q023",
+    "family_id": "linear_equation_from_verbal_relation_bcs18_q023_f01",
+    "exam": "18th Special BCS",
+    "question_number": 23,
+    "source_page": 3,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "linear_equation_from_verbal_relation",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি সংখ্যার তিনগুণের সাথে দ্বিগুণ যোগ করলে ৯০ হয়। সংখ্যাটি কত?",
+    "question_normalized": "একটি সংখ্যার তিনগুণের সাথে দ্বিগুণ যোগ করলে ৯০ হয়। সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৬",
+      "১৮",
+      "২০",
+      "২৪"
+    ],
+    "printed_answer": "১৮",
+    "accepted_answer_forms": [
+      "১৮",
+      "18"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q024",
+    "family_id": "consecutive_integers_partial_sums_bcs18_q024_f01",
+    "exam": "18th Special BCS",
+    "question_number": 24,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "consecutive_integers_partial_sums",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "পরপর দশটি সংখ্যার প্রথম ৫টির যোগফল ৫৬০ হলে শেষ ৫টির যোগফল কত?",
+    "question_normalized": "পরপর দশটি সংখ্যার প্রথম ৫টির যোগফল ৫৬০ হলে শেষ ৫টির যোগফল কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫৮৫",
+      "৫৮০",
+      "৫৭৫",
+      "৫৭০"
+    ],
+    "printed_answer": "৫৮৫",
+    "accepted_answer_forms": [
+      "৫৮৫",
+      "585"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q025",
+    "family_id": "compare_fraction_to_two_thirds_bcs18_q025_f01",
+    "exam": "18th Special BCS",
+    "question_number": 25,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "compare_fraction_to_two_thirds",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "কোন ভগ্নাংশটি ২/৩ থেকে বড়?",
+    "question_normalized": "কোন ভগ্নাংশটি ২/৩ থেকে বড়?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৩/৫০",
+      "৮/১১",
+      "৩/৫",
+      "১৩/২৭"
+    ],
+    "printed_answer": "৮/১১",
+    "accepted_answer_forms": [
+      "৮/১১",
+      "8/11"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q026",
+    "family_id": "count_multiples_in_interval_bcs18_q026_f01",
+    "exam": "18th Special BCS",
+    "question_number": 26,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "count_multiples_in_interval",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১২ ও ৯৬ এর মধ্যে (এ দুটি সংখ্যাসহ) কয়টি সংখ্যা ৪ দ্বারা বিভাজ্য?",
+    "question_normalized": "১২ ও ৯৬ এর মধ্যে (এ দুটি সংখ্যাসহ) কয়টি সংখ্যা ৪ দ্বারা বিভাজ্য?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২১",
+      "২৩",
+      "২৪",
+      "২২"
+    ],
+    "printed_answer": "২২",
+    "accepted_answer_forms": [
+      "২২",
+      "22"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q027",
+    "family_id": "equal_arithmetic_means_find_unknown_bcs18_q027_f01",
+    "exam": "18th Special BCS",
+    "question_number": 27,
+    "source_page": 4,
+    "topic_group": "averages_mixtures",
+    "subskill": "equal_arithmetic_means_find_unknown",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৬, ৮, ১০ এর গাণিতিক গড় ৭, ৯ এবং কোন সংখ্যার গাণিতিক গড়ের সমান?",
+    "question_normalized": "৬, ৮, ১০ এর গাণিতিক গড় ৭, ৯ এবং কোন সংখ্যার গাণিতিক গড়ের সমান?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৫",
+      "৮",
+      "৬",
+      "১০"
+    ],
+    "printed_answer": "৮",
+    "accepted_answer_forms": [
+      "৮",
+      "8"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q028",
+    "family_id": "linear_equation_substitution_bcs18_q028_f01",
+    "exam": "18th Special BCS",
+    "question_number": 28,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "linear_equation_substitution",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি x + 5y = 16 এবং x = 3y হয়, তাহলে y = কত?",
+    "question_normalized": "যদি x + 5y = 16 এবং x = 3y হয়, তাহলে y = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "-24",
+      "-2",
+      "4",
+      "2"
+    ],
+    "printed_answer": "2",
+    "accepted_answer_forms": [
+      "2",
+      "২"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q029",
+    "family_id": "simultaneous_fractional_linear_equations_bcs18_q029_f01",
+    "exam": "18th Special BCS",
+    "question_number": 29,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "simultaneous_fractional_linear_equations",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "‘ক’ ও ‘খ’ দুটি সংখ্যা। ‘ক’ এর ১/২ এবং ‘খ’ এর ১/৩ যোগ করলে ৪৫ হয়। ‘খ’ এর ১/২ এবং ‘ক’ এর ২/৫ যোগ করলে ৫০ হয়। ‘ক’ ও ‘খ’ এর মান কত?",
+    "question_normalized": "‘ক’ ও ‘খ’ দুটি সংখ্যা। ‘ক’ এর ১/২ এবং ‘খ’ এর ১/৩ যোগ করলে ৪৫ হয়। ‘খ’ এর ১/২ এবং ‘ক’ এর ২/৫ যোগ করলে ৫০ হয়। ‘ক’ ও ‘খ’ এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "ক = ৫০, খ = ৬০",
+      "ক = ৬০, খ = ৫০",
+      "ক = ৪০, খ = ৪৮",
+      "ক = ৬০, খ = ৪৮"
+    ],
+    "printed_answer": "ক = ৫০, খ = ৬০",
+    "accepted_answer_forms": [
+      "ক = ৫০, খ = ৬০",
+      "a=50,b=60",
+      "50,60"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q030",
+    "family_id": "choose_two_fastest_machines_combined_rate_bcs18_q030_f01",
+    "exam": "18th Special BCS",
+    "question_number": 30,
+    "source_page": 4,
+    "topic_group": "work_time",
+    "subskill": "choose_two_fastest_machines_combined_rate",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "তিনটি মেশিন একটি কাজ যথাক্রমে ৪, ৫ ও ৬ ঘণ্টায় করতে পারে। দুটি মেশিন সর্বোচ্চ ক্ষমতায় কাজ করে এক ঘণ্টায় কতটুকু কাজ করতে পারবে?",
+    "question_normalized": "তিনটি মেশিন একটি কাজ যথাক্রমে ৪, ৫ ও ৬ ঘণ্টায় করতে পারে। দুটি মেশিন সর্বোচ্চ ক্ষমতায় কাজ করে এক ঘণ্টায় কতটুকু কাজ করতে পারবে?",
+    "normalization_notes": [],
+    "units": [
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "১১/৩০",
+      "৯/২০",
+      "৩/৫",
+      "১১/১৫"
+    ],
+    "printed_answer": "৯/২০",
+    "accepted_answer_forms": [
+      "৯/২০",
+      "9/20"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q031",
+    "family_id": "percentage_failed_find_total_bcs18_q031_f01",
+    "exam": "18th Special BCS",
+    "question_number": 31,
+    "source_page": 4,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "percentage_failed_find_total",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি কম্পিউটার বিজ্ঞান পরীক্ষায় ৩০% পরীক্ষার্থী পাস করেছে। যারা পাস করতে পারেনি তাদের ১২ জন কম্পিউটার বিজ্ঞান কোর্সে অংশগ্রহণ করেছে এবং ৩০ জন উক্ত কোর্সে অংশগ্রহণ করেনি। কতজন পরীক্ষার্থী পরীক্ষায় অংশগ্রহণ করেছে?",
+    "question_normalized": "একটি কম্পিউটার বিজ্ঞান পরীক্ষায় ৩০% পরীক্ষার্থী পাস করেছে। যারা পাস করতে পারেনি তাদের ১২ জন কম্পিউটার বিজ্ঞান কোর্সে অংশগ্রহণ করেছে এবং ৩০ জন উক্ত কোর্সে অংশগ্রহণ করেনি। কতজন পরীক্ষার্থী পরীক্ষায় অংশগ্রহণ করেছে?",
+    "normalization_notes": [],
+    "units": [
+      "শতাংশ",
+      "জন"
+    ],
+    "answer_options": [
+      "৬০ জন",
+      "৮০ জন",
+      "১০০ জন",
+      "১২০ জন"
+    ],
+    "printed_answer": "৬০ জন",
+    "accepted_answer_forms": [
+      "৬০ জন",
+      "60 জন",
+      "60"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q032",
+    "family_id": "equal_selling_price_profit_loss_bcs18_q032_f01",
+    "exam": "18th Special BCS",
+    "question_number": 32,
+    "source_page": 4,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "equal_selling_price_profit_loss",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৩৬০০ টাকা করে দুটি চেয়ার বিক্রয় করা হয়েছে। একটি ২০% লাভে এবং অন্যটি ২০% লোকসানে বিক্রয় করা হয়েছে। সব মিলিয়ে কত লোকসান হয়েছে?",
+    "question_normalized": "৩৬০০ টাকা করে দুটি চেয়ার বিক্রয় করা হয়েছে। একটি ২০% লাভে এবং অন্যটি ২০% লোকসানে বিক্রয় করা হয়েছে। সব মিলিয়ে কত লোকসান হয়েছে?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা",
+      "শতাংশ"
+    ],
+    "answer_options": [
+      "লাভ-লোকসান কিছুই হয়নি",
+      "৯০০ টাকা",
+      "৩০০ টাকা",
+      "৬০০ টাকা"
+    ],
+    "printed_answer": "৩০০ টাকা",
+    "accepted_answer_forms": [
+      "৩০০ টাকা",
+      "300 টাকা",
+      "300"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q033",
+    "family_id": "two_pipes_partial_tank_time_bcs18_q033_f01",
+    "exam": "18th Special BCS",
+    "question_number": 33,
+    "source_page": 5,
+    "topic_group": "work_time",
+    "subskill": "two_pipes_partial_tank_time",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "সম্পূর্ণ খালি একটি চৌবাচ্চা একটি পাইপ দিয়ে ৫ ঘণ্টায় সম্পূর্ণ ভর্তি করা যায়। দ্বিতীয় একটি পাইপ দিয়ে চৌবাচ্চাটি ভর্তি করতে ৩ ঘণ্টা লাগে। দুটি পাইপ একসাথে ব্যবহার করে চৌবাচ্চাটি ২/৩ অংশ ভর্তি করতে কত সময় লাগবে?",
+    "question_normalized": "সম্পূর্ণ খালি একটি চৌবাচ্চা একটি পাইপ দিয়ে ৫ ঘণ্টায় সম্পূর্ণ ভর্তি করা যায়। দ্বিতীয় একটি পাইপ দিয়ে চৌবাচ্চাটি ভর্তি করতে ৩ ঘণ্টা লাগে। দুটি পাইপ একসাথে ব্যবহার করে চৌবাচ্চাটি ২/৩ অংশ ভর্তি করতে কত সময় লাগবে?",
+    "normalization_notes": [],
+    "units": [
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "৮/১৫ ঘণ্টা",
+      "৩/৪ ঘণ্টা",
+      "৫/৪ ঘণ্টা",
+      "২/৩ ঘণ্টা"
+    ],
+    "printed_answer": "৫/৪ ঘণ্টা",
+    "accepted_answer_forms": [
+      "৫/৪ ঘণ্টা",
+      "5/4 ঘণ্টা",
+      "1.25 ঘণ্টা"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q034",
+    "family_id": "opposite_direction_walkers_delayed_start_bcs18_q034_f01",
+    "exam": "18th Special BCS",
+    "question_number": 34,
+    "source_page": 5,
+    "topic_group": "speed_distance",
+    "subskill": "opposite_direction_walkers_delayed_start",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "ঢাকা থেকে টাঙ্গাইলের দূরত্ব ৪৫ মাইল। করিম ঘণ্টায় ৩ মাইল বেগে হাঁটে এবং রহিম ঘণ্টায় ৪ মাইল বেগে হাঁটে। করিম ঢাকা থেকে রওয়ানার এক ঘণ্টা পর রহিম টাঙ্গাইল থেকে ঢাকা রওয়ানা হয়েছে। রহিম কত মাইল হাঁটার পর করিমের সাথে দেখা হবে?",
+    "question_normalized": "ঢাকা থেকে টাঙ্গাইলের দূরত্ব ৪৫ মাইল। করিম ঘণ্টায় ৩ মাইল বেগে হাঁটে এবং রহিম ঘণ্টায় ৪ মাইল বেগে হাঁটে। করিম ঢাকা থেকে রওয়ানার এক ঘণ্টা পর রহিম টাঙ্গাইল থেকে ঢাকা রওয়ানা হয়েছে। রহিম কত মাইল হাঁটার পর করিমের সাথে দেখা হবে?",
+    "normalization_notes": [],
+    "units": [
+      "মাইল",
+      "ঘণ্টা"
+    ],
+    "answer_options": [
+      "২৪",
+      "২৩",
+      "২২",
+      "১১"
+    ],
+    "printed_answer": "২৪",
+    "accepted_answer_forms": [
+      "২৪",
+      "24",
+      "২৪ মাইল"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS18_Q037",
+    "family_id": "sum_first_hundred_natural_numbers_bcs18_q037_f01",
+    "exam": "18th Special BCS",
+    "question_number": 37,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_first_hundred_natural_numbers",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১ হতে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+    "question_normalized": "১ হতে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৪৯৯৯",
+      "৫৫০১",
+      "৫০৫০",
+      "৫০০১"
+    ],
+    "printed_answer": "৫০৫০",
+    "accepted_answer_forms": [
+      "৫০৫০",
+      "5050"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 18th Special BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

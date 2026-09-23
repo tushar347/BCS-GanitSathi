@@ -1,0 +1,30 @@
+[
+  {
+    "family_id": "mixture_ratio_difference_bcs26_q183_f01",
+    "item_id": "BCS26_Q183",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "mixture_ratio_difference",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion"
+    },
+    "question_bn": "একটি জারে দুধ ও পানির অনুপাত ৫ : ১। দুধের পরিমাণ যদি পানির চেয়ে ৮ লিটার বেশি হয় তবে পানির পরিমাণ কত?",
+    "answer_options": [
+      "২ লিটার",
+      "৪ লিটার",
+      "৬ লিটার",
+      "১০ লিটার"
+    ],
+    "correct_answer": "২ লিটার",
+    "solution_steps": [
+      "অনুপাতের পার্থক্য = 4 অংশ = 8 লিটার।",
+      "1 অংশ = 2 লিটার; পানি = 2 লিটার।"
+    ],
+    "source_page": 30,
+    "source_exam": "26th BCS"
+  }
+]

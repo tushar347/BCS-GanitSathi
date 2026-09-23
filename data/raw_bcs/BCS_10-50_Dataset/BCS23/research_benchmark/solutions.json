@@ -1,0 +1,156 @@
+[
+  {
+    "item_id": "BCS23_Q071",
+    "family_id": "mixture_part_by_ratio_bcs23_q071_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মোট ভাগ = 17+3+4=24।",
+          "B = 72×3/24 = 9 কেজি।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS23_Q072",
+    "family_id": "average_speed_round_trip_bcs23_q072_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মোট দূরত্ব = 10 মাইল।",
+          "মোট সময় = 6 ঘণ্টা।",
+          "গড় গতি = 10/6 = 1 2/3 মাইল/ঘণ্টা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS23_Q073",
+    "family_id": "combined_weighted_average_bcs23_q073_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথম দলের যোগফল = AM, দ্বিতীয় দলের = BN।",
+          "মোট সংখ্যা = M+N।",
+          "গড় = (AM+BN)/(M+N)।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS23_Q076",
+    "family_id": "arithmetic_progression_next_term_bcs23_q076_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "সাধারণ অন্তর = 17−5=12।",
+          "তৃতীয় পদ = 17+12=29।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS23_Q077",
+    "family_id": "fibonacci_next_term_bcs23_q077_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রতি পদ আগের দুই পদের যোগফল।",
+          "21+34=55।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS23_Q078",
+    "family_id": "percentage_of_number_bcs23_q078_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "(3/4)/(1/2)×100 = 3/2×100 = 150%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS23_Q079",
+    "family_id": "constant_expenditure_price_increase_bcs23_q079_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মূল্য 1.25 গুণ হলে পরিমাণ 1/1.25=0.8 গুণ করতে হবে।",
+          "ব্যবহার কমবে 20%。"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS23_Q080",
+    "family_id": "pass_fail_inclusion_exclusion_bcs23_q080_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "অন্তত এক বিষয়ে পাশ = 90%。",
+          "উভয় বিষয়ে পাশ = 70+80−90 = 60%。",
+          "60% = 300, তাই মোট = 500।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed source answer and independently recomputed by model where the source was mathematically determinate",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

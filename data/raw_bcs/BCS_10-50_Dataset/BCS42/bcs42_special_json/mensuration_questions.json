@@ -1,0 +1,55 @@
+[
+  {
+    "family_id": "Q047",
+    "topic": "mensuration",
+    "in_scope": true,
+    "assigned_subskill": "cuboid depth from capacity",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "60 seconds",
+    "target_quantity": "depth in metres",
+    "english_glossary": {
+      "দৈর্ঘ্য": "length",
+      "প্রস্থ": "width",
+      "গভীরতা": "depth"
+    },
+    "question_bn": "একটি চৌবাচ্চায় ৮০০০ লিটার পানি ধরে। চৌবাচ্চাটির দৈর্ঘ্য ২.৫৬ মিটার এবং প্রস্থ ১.২৫ মিটার। চৌবাচ্চাটির গভীরতা কত?",
+    "answer_options": [
+      "১.৫ মিটার",
+      "২.৫ মিটার",
+      "৩ মিটার",
+      "৩.৫ মিটার"
+    ],
+    "correct_answer": "২.৫ মিটার",
+    "solution_steps": [
+      "Convert 8000 litres to 8 cubic metres.",
+      "The base area is 2.56×1.25=3.2 square metres.",
+      "Depth=8/3.2=2.5 metres."
+    ]
+  },
+  {
+    "family_id": "Q056",
+    "topic": "mensuration",
+    "in_scope": true,
+    "assigned_subskill": "area scaling from diameter scaling",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "area multiplication factor",
+    "english_glossary": {
+      "ক্ষেত্রফল": "area",
+      "ব্যাস": "diameter"
+    },
+    "question_bn": "বৃত্তের ব্যাস চারগুণ বৃদ্ধি পেলে ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+    "answer_options": [
+      "৪",
+      "৮",
+      "১২",
+      "১৬"
+    ],
+    "correct_answer": "১৬",
+    "solution_steps": [
+      "Use the source-key interpretation that the new diameter is four times the original diameter.",
+      "Circle area is proportional to the square of its diameter.",
+      "The new area is 4²=16 times the original area."
+    ]
+  }
+]

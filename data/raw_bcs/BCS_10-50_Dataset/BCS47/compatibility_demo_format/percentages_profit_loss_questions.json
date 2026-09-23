@@ -1,0 +1,54 @@
+[
+  {
+    "family_id": "percentage_area_increase_bcs47_q027_f01",
+    "item_id": "BCS47_Q027",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percentage_area_increase",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি কোনো বর্গক্ষেত্রের প্রত্যেক বাহুর পরিমাণ 10% বৃদ্ধি করা হয়, তবে তার ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+    "answer_options": [
+      "20%",
+      "25%",
+      "21%",
+      "16%"
+    ],
+    "correct_answer": "21%",
+    "solution_steps": [
+      "A 10% side increase multiplies each side by 1.1.",
+      "Area changes by 1.1²=1.21.",
+      "Therefore area increases by 21%."
+    ],
+    "source_page": 3,
+    "source_exam": "47th BCS"
+  },
+  {
+    "family_id": "simple_vs_compound_interest_difference_bcs47_q028_f01",
+    "item_id": "BCS47_Q028",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "simple_vs_compound_interest_difference",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "100 টাকা 10% হারে 5 বছরের জন্য বিনিয়োগ করা হলে, সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য কত?",
+    "answer_options": [
+      "10.05 টাকা",
+      "11.05 টাকা",
+      "12.05 টাকা",
+      "13.05 টাকা"
+    ],
+    "correct_answer": "11.05 টাকা",
+    "solution_steps": [
+      "Simple interest =100×0.10×5=50.",
+      "Compound interest =100(1.1)^5-100=61.051.",
+      "Difference ≈11.05 taka."
+    ],
+    "source_page": 4,
+    "source_exam": "47th BCS"
+  }
+]

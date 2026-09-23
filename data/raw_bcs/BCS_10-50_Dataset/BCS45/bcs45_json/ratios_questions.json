@@ -1,0 +1,29 @@
+[
+  {
+    "family_id": "Q162",
+    "topic": "ratios",
+    "in_scope": true,
+    "assigned_subskill": "combining two ratios through a shared variable",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "35 seconds",
+    "target_quantity": "combined ratio x : y : z",
+    "english_glossary": {
+      "যদি": "if",
+      "তবে": "then"
+    },
+    "question_bn": "যদি x : y = 2 : 3 এবং y : z = 5 : 7 হয়; তবে x : y : z =?",
+    "answer_options": [
+      "6 : 9 : 14",
+      "10 : 15 : 21",
+      "2 : 5 : 7",
+      "3 : 5 : 7"
+    ],
+    "correct_answer": "10 : 15 : 21",
+    "solution_steps": [
+      "The shared variable y has ratio entries 3 and 5.",
+      "Multiply x : y = 2 : 3 by 5 to get 10 : 15.",
+      "Multiply y : z = 5 : 7 by 3 to get 15 : 21.",
+      "Join at the common value of y to obtain x : y : z = 10 : 15 : 21."
+    ]
+  }
+]

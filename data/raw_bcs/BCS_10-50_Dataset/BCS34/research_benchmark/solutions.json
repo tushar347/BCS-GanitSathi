@@ -1,0 +1,163 @@
+[
+  {
+    "item_id": "BCS34_Q028",
+    "family_id": "decimal_repeating_difference_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "0.1̇ = 1/9 and 0.1 = 1/10.",
+          "Their difference is 1/90.",
+          "If N/90 = 1, then N = 90."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS34_Q030",
+    "family_id": "exponent_factorization_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Factor 5^(n-1) from the numerator.",
+          "5^(n+2)=125×5^(n-1), so numerator=(125+35)×5^(n-1)=160×5^(n-1).",
+          "Denominator=4×5×5^(n-1)=20×5^(n-1).",
+          "The value is 160/20=8."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS34_Q034",
+    "family_id": "consecutive_product_sum_average_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let the consecutive numbers be n-1, n, n+1.",
+          "Their product is n(n²-1) and their sum is 3n.",
+          "n(n²-1)=5×3n. For positive nonzero n, n²-1=15.",
+          "n=4, which is also the average."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS34_Q036",
+    "family_id": "quadratic_collection_count_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let the number of students be n. Each gives (n+25) paisa.",
+          "Total 75 taka = 7500 paisa, so n(n+25)=7500.",
+          "n²+25n-7500=0=(n-75)(n+100).",
+          "The positive solution is n=75."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS34_Q037",
+    "family_id": "unit_price_quantity_change_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let the number of pens be n, so each costs 240/n taka.",
+          "With one more pen, the price would be 240/(n+1), which is 1 taka less.",
+          "240/n - 240/(n+1)=1 gives n(n+1)=240.",
+          "n=15."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS34_Q041",
+    "family_id": "geometric_sequence_times4_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Each term is 4 times the previous term.",
+          "0.48×4=1.92."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS34_Q042",
+    "family_id": "part_whole_ratio_2_to_3_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "Let the larger part be 3k and the smaller part be 2k.",
+          "5k=20, so k=4.",
+          "The smaller part is 2k=8 feet."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS34_Q100",
+    "family_id": "perfect_square_root_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "13×13=169, so √169=13."
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "checked against printed answer and independently recomputed by model",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

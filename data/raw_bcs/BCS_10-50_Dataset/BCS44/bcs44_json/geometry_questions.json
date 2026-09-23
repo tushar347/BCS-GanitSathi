@@ -1,0 +1,56 @@
+[
+  {
+    "family_id": "Q094",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "isosceles-triangle angles with parallel lines",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "55 seconds",
+    "target_quantity": "sum of two angles",
+    "english_glossary": {
+      "ত্রিভুজ": "triangle",
+      "কোণ": "angle"
+    },
+    "question_bn": "ABC ত্রিভুজে B কোণের পরিমান ৪৮° এবং AB = AC। যদি E এবং F, AB এবং AC কে এমনভাবে ছেদ করে যেন EF∥BC হয়, তাহলে ∠A + ∠AFE=?",
+    "answer_options": [
+      "১৩২°",
+      "১৮০°",
+      "১০৮°",
+      "১৬০°"
+    ],
+    "correct_answer": "১৩২°",
+    "solution_steps": [
+      "AB=AC gives ∠B=∠C=48°.",
+      "Then ∠A=180°−48°−48°=84°.",
+      "Because EF is parallel to BC, ∠AFE=∠C=48°.",
+      "The requested sum is 84°+48°=132°."
+    ]
+  },
+  {
+    "family_id": "Q101",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "altitude of an equilateral triangle",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "height in centimetres",
+    "english_glossary": {
+      "দৈর্ঘ্য": "length",
+      "সমবাহু": "equilateral",
+      "ত্রিভুজ": "triangle"
+    },
+    "question_bn": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য ২সে.মি এবং উচ্চতা X সেমি হলে, X এর মান কত?",
+    "answer_options": [
+      "√2",
+      "√3",
+      "২",
+      "৩"
+    ],
+    "correct_answer": "√3",
+    "solution_steps": [
+      "The altitude bisects the base of length 2, making a right triangle with hypotenuse 2 and one leg 1.",
+      "X²=2²−1²=3.",
+      "The positive height is √3 centimetres."
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "item_id": "BCS28_Q096",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "opposite_direction_displacement",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "দূরত্ব": "distance",
+      "গতি": "speed",
+      "সময়": "time"
+    },
+    "question_bn": "Two men, starting at the same point, walk in opposite directions for 4 meters, turn left and walk another 3 meters. What is the distance between them?",
+    "answer_options": [
+      "7 meters",
+      "14 meters",
+      "10 meters",
+      "6 meters"
+    ],
+    "correct_answer": "10 meters",
+    "solution_steps": [
+      "After the first move they are 8 meters apart horizontally.",
+      "After both turn left, their second moves are in opposite vertical directions, giving 6 meters vertical separation.",
+      "Distance = sqrt(8^2 + 6^2) = 10 meters."
+    ],
+    "source_page": 9,
+    "source_exam": "28th BCS"
+  },
+  {
+    "family_id": "equal_distance_average_speed_f01",
+    "item_id": "BCS28_Q100",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "average_speed_equal_distance",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "দূরত্ব": "distance",
+      "গতি": "speed",
+      "সময়": "time"
+    },
+    "question_bn": "If a man swims 4 meters upstream at 1 mph and back downstream to the same point at 4 mph, what is his average speed?",
+    "answer_options": [
+      "0.8 mph",
+      "1.6 mph",
+      "2.4 mph",
+      "3.2 mph"
+    ],
+    "correct_answer": "1.6 mph",
+    "solution_steps": [
+      "The upstream and downstream distances are equal.",
+      "For equal distances, average speed = 2uv/(u+v).",
+      "2*1*4/(1+4) = 8/5 = 1.6 mph."
+    ],
+    "source_page": 9,
+    "source_exam": "28th BCS"
+  }
+]

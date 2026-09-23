@@ -1,0 +1,52 @@
+[
+  {
+    "family_id": "chained_ratio_bcs48_q058_f01",
+    "item_id": "BCS48_Q058",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "chained_ratio",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "যদি x : y = 4 : 3, y : z = 5 : 4 এবং x = 200 হয়, তবে z এর মান কত?",
+    "answer_options": [
+      "100/3",
+      "800/3",
+      "150",
+      "120"
+    ],
+    "correct_answer": "120",
+    "solution_steps": [
+      "From x:y=4:3 and x=200, y=150.",
+      "From y:z=5:4, z=150×4/5=120."
+    ],
+    "source_page": 6,
+    "source_exam": "48th BCS (Special)"
+  },
+  {
+    "family_id": "time_fraction_bcs48_q060_f01",
+    "item_id": "BCS48_Q060",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "time_fraction",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "২ ঘণ্টা ৪০ মিনিট ৬ ঘণ্টার কত অংশ?",
+    "answer_options": [
+      "১/৬",
+      "১/৫",
+      "৪/৯",
+      "১/২"
+    ],
+    "correct_answer": "৪/৯",
+    "solution_steps": [
+      "Convert both durations to minutes: 160 and 360.",
+      "160/360 simplifies to 4/9."
+    ],
+    "source_page": 6,
+    "source_exam": "48th BCS (Special)"
+  }
+]

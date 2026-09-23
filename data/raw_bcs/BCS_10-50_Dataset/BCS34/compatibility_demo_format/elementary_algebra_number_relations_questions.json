@@ -1,0 +1,200 @@
+[
+  {
+    "family_id": "decimal_repeating_difference_f01",
+    "item_id": "BCS34_Q028",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "repeating_decimal_difference",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "কোনো সংখ্যার ০.১̇ ভাগ এবং ০.১ ভাগের মধ্যে পার্থক্য ১.০ হলে, সংখ্যাটি কত?",
+    "answer_options": [
+      "১০",
+      "৯",
+      "৯০",
+      "১০০"
+    ],
+    "correct_answer": "৯০",
+    "solution_steps": [
+      "0.1̇ = 1/9 and 0.1 = 1/10.",
+      "Their difference is 1/90.",
+      "If N/90 = 1, then N = 90."
+    ],
+    "source_page": 4,
+    "source_exam": "34th BCS"
+  },
+  {
+    "family_id": "exponent_factorization_f01",
+    "item_id": "BCS34_Q030",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "laws_of_exponents",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "(5^(n+2) + 35 × 5^(n−1)) / (4 × 5^n) এর মান কত?",
+    "answer_options": [
+      "4",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct_answer": "8",
+    "solution_steps": [
+      "Factor 5^(n-1) from the numerator.",
+      "5^(n+2)=125×5^(n-1), so numerator=(125+35)×5^(n-1)=160×5^(n-1).",
+      "Denominator=4×5×5^(n-1)=20×5^(n-1).",
+      "The value is 160/20=8."
+    ],
+    "source_page": 4,
+    "source_exam": "34th BCS"
+  },
+  {
+    "family_id": "quadratic_collection_count_f01",
+    "item_id": "BCS34_Q036",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "quadratic_word_problem",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী আছে প্রত্যেকে তত পয়সার চেয়ে আরও 25 পয়সা বেশি করে চাঁদা দেওয়ায় মোট 75 টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রীর সংখ্যা কত?",
+    "answer_options": [
+      "70",
+      "85",
+      "75",
+      "100"
+    ],
+    "correct_answer": "75",
+    "solution_steps": [
+      "Let the number of students be n. Each gives (n+25) paisa.",
+      "Total 75 taka = 7500 paisa, so n(n+25)=7500.",
+      "n²+25n-7500=0=(n-75)(n+100).",
+      "The positive solution is n=75."
+    ],
+    "source_page": 5,
+    "source_exam": "34th BCS"
+  },
+  {
+    "family_id": "unit_price_quantity_change_f01",
+    "item_id": "BCS34_Q037",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "unit_price_quantity_equation",
+    "difficulty_rating": 3,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "মামুন 240 টাকায় একই রকম কতগুলি কলম কিনে দেখল যে, যদি সে একটি কলম বেশি পেত তাহলে প্রতিটি কলমের মূল্য 1 টাকা কম পড়ত। সে কতগুলো কলম কিনেছিল?",
+    "answer_options": [
+      "13টি",
+      "14টি",
+      "15টি",
+      "16টি"
+    ],
+    "correct_answer": "15টি",
+    "solution_steps": [
+      "Let the number of pens be n, so each costs 240/n taka.",
+      "With one more pen, the price would be 240/(n+1), which is 1 taka less.",
+      "240/n - 240/(n+1)=1 gives n(n+1)=240.",
+      "n=15."
+    ],
+    "source_page": 5,
+    "source_exam": "34th BCS"
+  },
+  {
+    "family_id": "geometric_sequence_times4_f01",
+    "item_id": "BCS34_Q041",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "geometric_sequence",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "০.০৩, ০.১২, ০.৪৮ ___ শূন্যস্থানে সংখ্যাটি কত হবে?",
+    "answer_options": [
+      "০.৯৬",
+      "১.৪৮",
+      "১.৯২",
+      "১.৫০"
+    ],
+    "correct_answer": "১.৯২",
+    "solution_steps": [
+      "Each term is 4 times the previous term.",
+      "0.48×4=1.92."
+    ],
+    "source_page": 5,
+    "source_exam": "34th BCS"
+  },
+  {
+    "family_id": "perfect_square_root_f01",
+    "item_id": "BCS34_Q100",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "square_root",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সমীকরণ": "equation",
+      "সংখ্যা": "number",
+      "ধারা": "sequence",
+      "লগ": "logarithm",
+      "বর্গ": "square",
+      "ঘন": "cube"
+    },
+    "question_bn": "√169 is equal to-",
+    "answer_options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "correct_answer": "13",
+    "solution_steps": [
+      "13×13=169, so √169=13."
+    ],
+    "source_page": 12,
+    "source_exam": "34th BCS"
+  }
+]

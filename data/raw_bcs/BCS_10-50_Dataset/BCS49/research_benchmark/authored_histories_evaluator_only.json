@@ -1,0 +1,497 @@
+[
+  {
+    "history_id": "BCS49_Q001_H_CORRECT",
+    "item_id": "BCS49_Q001",
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q001_H_CONCEPT",
+    "item_id": "BCS49_Q001",
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q001_H_SLIP",
+    "item_id": "BCS49_Q001",
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q001_H_AMBIG",
+    "item_id": "BCS49_Q001",
+    "family_id": "arithmetic_progression_sum_bcs49_q001_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q004_H_CORRECT",
+    "item_id": "BCS49_Q004",
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q004_H_CONCEPT",
+    "item_id": "BCS49_Q004",
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q004_H_SLIP",
+    "item_id": "BCS49_Q004",
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q004_H_AMBIG",
+    "item_id": "BCS49_Q004",
+    "family_id": "alternating_square_sequence_bcs49_q004_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q010_H_CORRECT",
+    "item_id": "BCS49_Q010",
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q010_H_CONCEPT",
+    "item_id": "BCS49_Q010",
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q010_H_SLIP",
+    "item_id": "BCS49_Q010",
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q010_H_AMBIG",
+    "item_id": "BCS49_Q010",
+    "family_id": "quadratic_inequality_bcs49_q010_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q022_H_CORRECT",
+    "item_id": "BCS49_Q022",
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q022_H_CONCEPT",
+    "item_id": "BCS49_Q022",
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q022_H_SLIP",
+    "item_id": "BCS49_Q022",
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q022_H_AMBIG",
+    "item_id": "BCS49_Q022",
+    "family_id": "polynomial_lcm_gcd_find_other_bcs49_q022_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q027_H_CORRECT",
+    "item_id": "BCS49_Q027",
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q027_H_CONCEPT",
+    "item_id": "BCS49_Q027",
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q027_H_SLIP",
+    "item_id": "BCS49_Q027",
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q027_H_AMBIG",
+    "item_id": "BCS49_Q027",
+    "family_id": "geometric_progression_common_ratio_bcs49_q027_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q037_H_CORRECT",
+    "item_id": "BCS49_Q037",
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q037_H_CONCEPT",
+    "item_id": "BCS49_Q037",
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q037_H_SLIP",
+    "item_id": "BCS49_Q037",
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q037_H_AMBIG",
+    "item_id": "BCS49_Q037",
+    "family_id": "simultaneous_linear_equations_parameterized_bcs49_q037_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q061_H_CORRECT",
+    "item_id": "BCS49_Q061",
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q061_H_CONCEPT",
+    "item_id": "BCS49_Q061",
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q061_H_SLIP",
+    "item_id": "BCS49_Q061",
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q061_H_AMBIG",
+    "item_id": "BCS49_Q061",
+    "family_id": "profit_loss_cost_price_bcs49_q061_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q080_H_CORRECT",
+    "item_id": "BCS49_Q080",
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q080_H_CONCEPT",
+    "item_id": "BCS49_Q080",
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q080_H_SLIP",
+    "item_id": "BCS49_Q080",
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q080_H_AMBIG",
+    "item_id": "BCS49_Q080",
+    "family_id": "logarithmic_equation_negative_exponent_bcs49_q080_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  },
+  {
+    "history_id": "BCS49_Q087_H_CORRECT",
+    "item_id": "BCS49_Q087",
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "first_invalid_step": null,
+    "error_category": "no_error",
+    "supported_candidates": [],
+    "ruled_out_candidates": [
+      "conceptual_error",
+      "calculation_slip"
+    ],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q087_H_CONCEPT",
+    "item_id": "BCS49_Q087",
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "first_invalid_step": 1,
+    "error_category": "conceptual",
+    "supported_candidates": [
+      "conceptual_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q087_H_SLIP",
+    "item_id": "BCS49_Q087",
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "first_invalid_step": 1,
+    "error_category": "arithmetic_or_transcription",
+    "supported_candidates": [
+      "transient_calculation_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_to_commit": true
+  },
+  {
+    "history_id": "BCS49_Q087_H_AMBIG",
+    "item_id": "BCS49_Q087",
+    "family_id": "unit_rate_people_items_bcs49_q087_f01",
+    "first_invalid_step": 1,
+    "error_category": "unresolved",
+    "supported_candidates": [
+      "conceptual_rule_error",
+      "transient_calculation_slip",
+      "interpretation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_to_commit": false
+  }
+]

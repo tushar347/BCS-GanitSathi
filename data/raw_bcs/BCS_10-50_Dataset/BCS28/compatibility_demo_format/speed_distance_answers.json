@@ -1,0 +1,66 @@
+[
+  {
+    "family_id": "opposite_direction_3_4_5_displacement_f01",
+    "item_id": "BCS28_Q096",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "distance_relation_error",
+        "wrong_answer": "7 meters",
+        "reasoning_steps": [
+          "Uses an incorrect distance, direction, or equal-distance average-speed relation.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "7 meters",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "7 meters",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "equal_distance_average_speed_f01",
+    "item_id": "BCS28_Q100",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "distance_relation_error",
+        "wrong_answer": "0.8 mph",
+        "reasoning_steps": [
+          "Uses an incorrect distance, direction, or equal-distance average-speed relation.",
+          "This is a hypothetical error path for controlled annotation, not an observed learner diagnosis."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "transient_calculation_slip",
+        "wrong_answer": "0.8 mph",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Uses a basically relevant method but makes a local calculation or transcription error."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "question_relation_misread",
+        "wrong_answer": "0.8 mph",
+        "reasoning_steps": [
+          "Misreads the requested quantity, comparison direction, or mathematical relation in the prompt."
+        ]
+      }
+    ]
+  }
+]

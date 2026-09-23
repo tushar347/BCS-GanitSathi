@@ -1,0 +1,27 @@
+[
+  {
+    "family_id": "Q046",
+    "topic": "speed & distance",
+    "in_scope": true,
+    "assigned_subskill": "travel-time equations with doubled speed",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "75 seconds",
+    "target_quantity": "original speed in kilometres per hour",
+    "english_glossary": {
+      "গতি": "speed"
+    },
+    "question_bn": "৩০ কিমি পথ পাড়ি দিতে জয়নুলে রনির থেকে ২ ঘণ্টা সময় বেশি লেগেছে। জয়নুল যদি তার গতি দ্বিগুণ করত তাহলে রনির থেকে ১ ঘণ্টা সময় কম লাগত। জয়নুলের গতি কত ছিল?",
+    "answer_options": [
+      "৪ কিমি/ঘণ্টা",
+      "৫ কিমি/ঘণ্টা",
+      "৬ কিমি/ঘণ্টা",
+      "৭.৫ কিমি/ঘণ্টা"
+    ],
+    "correct_answer": "৫ কিমি/ঘণ্টা",
+    "solution_steps": [
+      "Let Jaynul take t hours; Roni then takes t−2 hours.",
+      "Doubling Jaynul’s speed halves his time, so t/2 = (t−2)−1 = t−3.",
+      "Hence t=6 hours and speed=30/6=5 km/h."
+    ]
+  }
+]

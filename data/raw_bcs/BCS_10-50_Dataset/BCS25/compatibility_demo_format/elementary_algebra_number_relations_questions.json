@@ -1,0 +1,30 @@
+[
+  {
+    "family_id": "sum_product_square_difference_bcs25_q091_f01",
+    "item_id": "BCS25_Q091",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_product_square_difference",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "x+y = 6 এবং xy = 8 হলে (x−y)^2-এর মান কত?",
+    "answer_options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct_answer": "4",
+    "solution_steps": [
+      "(x−y)^2=(x+y)^2−4xy=36−32=4।"
+    ],
+    "source_page": 16,
+    "source_exam": "25th BCS"
+  }
+]

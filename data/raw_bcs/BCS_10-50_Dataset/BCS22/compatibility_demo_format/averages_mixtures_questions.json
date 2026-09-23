@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "age_relation_equation_bcs22_q080_f01",
+    "item_id": "BCS22_Q080",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "age_relation_equation",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture"
+    },
+    "question_bn": "এক ব্যক্তি তার স্ত্রীর চেয়ে ৫ বছরের বড়। তার স্ত্রীর বয়স ছেলের বয়সের ৪ গুণ। ৫ বছর পরে ছেলের বয়স ১২ বছর হলে বর্তমানে ঐ ব্যক্তির বয়স কত?",
+    "answer_options": [
+      "৬৫ বছর",
+      "২৮ বছর",
+      "৩৩ বছর",
+      "৫৩ বছর"
+    ],
+    "correct_answer": "৩৩ বছর",
+    "solution_steps": [
+      "বর্তমানে ছেলের বয়স 12−5=7।",
+      "স্ত্রীর বয়স = 4×7=28।",
+      "ব্যক্তির বয়স = 28+5=33 বছর।"
+    ],
+    "source_page": 8,
+    "source_exam": "22nd BCS"
+  }
+]

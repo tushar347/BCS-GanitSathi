@@ -1,0 +1,254 @@
+[
+  {
+    "item_id": "BCS10_Q085",
+    "family_id": "prime_numbers_in_range_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১ থেকে ৩০ পর্যন্ত মৌলিক সংখ্যা: ২, ৩, ৫, ৭, ১১, ১৩, ১৭, ১৯, ২৩, ২৯।",
+          "মোট ১০টি।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q086",
+    "family_id": "identify_prime_number_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১৪৩=১১×১৩, ৯১=৭×১৩ এবং ৮৭=৩×২৯, তাই এগুলো যৌগিক।",
+          "৪৭-এর ১ ও ৪৭ ছাড়া কোনো ধনাত্মক ভাজক নেই; তাই ৪৭ মৌলিক।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q087",
+    "family_id": "gcd_lcm_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দুটি ধনাত্মক পূর্ণসংখ্যার গুণফল = ল.সা.গু × গ.সা.গু।",
+          "গ.সা.গু = ১৫৩৬÷৯৬ = ১৬।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q088",
+    "family_id": "decimal_product_fraction_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রতিটি অনুপাত 0.1/0.2 = 1/2, 0.01/0.02 = 1/2, 0.001/0.002 = 1/2।",
+          "তাই মোট মান = (1/2)^3 = 1/8।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q089",
+    "family_id": "constant_expenditure_price_increase_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "মূল্য ২৫% বাড়লে নতুন মূল্য পুরনোর 125%।",
+          "ব্যয় অপরিবর্তিত রাখতে নতুন পরিমাণ = 100/125 = 80%।",
+          "অতএব ব্যবহার কমাতে হবে 20%।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q090",
+    "family_id": "unit_rate_buy_sell_profit_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "৬টি আমের ক্রয়মূল্য = ২ টাকা।",
+          "৬টি আমের বিক্রয়মূল্য = ৩ টাকা।",
+          "লাভ = ১ টাকা; লাভের হার = ১/২×100% = 50%।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q091",
+    "family_id": "simple_interest_amount_multiple_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "৮ বছরে আসলসহ তিনগুণ হলে সুদ = মূলধনের 200%।",
+          "সরল সুদে 8r = 200, তাই r = 25%।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q092",
+    "family_id": "mixture_add_one_component_ratio_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "প্রথমে কেরোসিন = 60×7/10 = 42 লিটার এবং পেট্রোল = 18 লিটার।",
+          "আর x লিটার পেট্রোল দিলে 42:(18+x)=3:7।",
+          "294=54+3x, তাই x=80 লিটার।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q093",
+    "family_id": "average_consecutive_integers_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "১ থেকে ৪৯ পর্যন্ত ধারাবাহিক সংখ্যার গড় = (প্রথম+শেষ)/2।",
+          "=(1+49)/2=25।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q094",
+    "family_id": "sum_difference_find_product_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "দুটি সমীকরণ যোগ করলে 2a=8, তাই a=4।",
+          "তখন b=1।",
+          "ab=4×1=4।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q095",
+    "family_id": "factor_identity_parameter_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "x²-25=(x-5)(x+5)।",
+          "তাই (x-5)(a+x)=(x-5)(x+5) থেকে a+x=x+5।",
+          "অতএব a=5।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q099",
+    "family_id": "successive_markup_two_stage_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "নির্মাতা 20% লাভে বিক্রি করলে মূল্য =100×1.2=120 টাকা।",
+          "খুচরা বিক্রেতা আরও 20% লাভে বিক্রি করলে =120×1.2=144 টাকা।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  },
+  {
+    "item_id": "BCS10_Q100",
+    "family_id": "sum_cubes_sum_zero_f01",
+    "reviewed_strategies": [
+      {
+        "strategy_id": "S1",
+        "steps": [
+          "পরিচিতি: a³+b³+c³-3abc=(a+b+c)(a²+b²+c²-ab-bc-ca)।",
+          "a+b+c=0, তাই a³+b³+c³=3abc।"
+        ],
+        "symbolic_expressions": [],
+        "assumptions": []
+      }
+    ],
+    "alternative_paths": [],
+    "graph_version": "v1-draft",
+    "answer_verification": "consistent_with_solution",
+    "human_review_status": "pending_independent_RA_review"
+  }
+]

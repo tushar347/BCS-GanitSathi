@@ -1,0 +1,32 @@
+[
+  {
+    "family_id": "perpendicular_displacement_5_12_13_f01",
+    "item_id": "BCS38_Q190",
+    "topic": "speed_distance",
+    "in_scope": true,
+    "assigned_subskill": "perpendicular_displacement",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "দূরত্ব": "distance",
+      "কিলোমিটার": "kilometre",
+      "উত্তর": "north",
+      "পূর্ব": "east"
+    },
+    "question_bn": "একজন লোক একটি নির্দিষ্ট স্থান A থেকে যাত্রা শুরু করে ১২ কিলোমিটার উত্তর দিকে গেল এবং সেখান থেকে ৫ কিলোমিটার পূর্ব দিকে গেল। যাত্রা শেষে সে A অবস্থান থেকে কত দূরে থাকবে?",
+    "answer_options": [
+      "১৭ কি.মি.",
+      "১৫ কি.মি.",
+      "১৪ কি.মি.",
+      "১৩ কি.মি."
+    ],
+    "correct_answer": "১৩ কি.মি.",
+    "solution_steps": [
+      "North and east legs are perpendicular.",
+      "Displacement=√(12²+5²)=√169=13 km."
+    ],
+    "source_page": 20,
+    "source_exam": "38th BCS"
+  }
+]

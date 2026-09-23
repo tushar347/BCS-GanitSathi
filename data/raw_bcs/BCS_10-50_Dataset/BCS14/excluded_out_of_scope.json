@@ -1,0 +1,32 @@
+[
+  {
+    "item_id": "BCS14_Q028",
+    "exam": "14th BCS",
+    "question_number": 28,
+    "source_page": 2,
+    "category": "geometry_trigonometry",
+    "question_summary": "",
+    "exclusion_reason": "Broken-pole angle problem is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS14_Q051",
+    "exam": "14th BCS",
+    "question_number": 51,
+    "source_page": 4,
+    "category": "geometry",
+    "question_summary": "",
+    "exclusion_reason": "Right-triangle hypotenuse question is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS14_Q053",
+    "exam": "14th BCS",
+    "question_number": 53,
+    "source_page": 4,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Parallelogram area formula is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  }
+]

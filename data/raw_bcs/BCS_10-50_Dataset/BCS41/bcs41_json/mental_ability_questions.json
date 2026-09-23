@@ -1,0 +1,166 @@
+[
+  {
+    "family_id": "Q104",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "rearranging Bengali letter clusters",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "reorderable cluster group",
+    "english_glossary": {},
+    "question_bn": "নিচের কোন অক্ষরগুলো পুনর্বিন্যাস করে একটি অর্থবোধক শব্দ তৈরি করা যায়?",
+    "answer_options": [
+      "রা ত্র হো অ",
+      "র বা ধী প নি",
+      "প্র তা রি দা",
+      "সা ব ব অ ধ্যা"
+    ],
+    "correct_answer": "রা ত্র হো অ",
+    "solution_steps": [
+      "Reorder the first option’s clusters as অ + হো + রা + ত্র.",
+      "They form অহোরাত্র, so the first group matches the printed key."
+    ]
+  },
+  {
+    "family_id": "Q105",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "family relationship through marriage",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "খ’s relationship to ঙ",
+    "english_glossary": {},
+    "question_bn": "পাঁচজন ব্যক্তি ট্রেনে ভ্রমণ করছেন। তাঁরা হলেন ক, খ, গ, ঘ, ঙ। ক হলেন গ এর মা, গ আবার ঙ এর স্ত্রী। ঘ হলেন ক এর ভাই এবং খ হলেন ক এর স্বামী। ঙ এর সঙ্গে খ এর সম্পর্ক কী?",
+    "answer_options": [
+      "শ্বশুর",
+      "পিতা",
+      "চাচা",
+      "ভাই"
+    ],
+    "correct_answer": "শ্বশুর",
+    "solution_steps": [
+      "ক is গ’s mother and খ is ক’s husband, so under the ordinary shared-parent interpretation খ is গ’s father.",
+      "গ is ঙ’s wife.",
+      "Therefore খ is ঙ’s father-in-law, শ্বশুর."
+    ]
+  },
+  {
+    "family_id": "Q106",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "weekday arithmetic within a month",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "weekday on the 18th",
+    "english_glossary": {},
+    "question_bn": "যদি মাসের ২য় দিন সোমবার হয়, তবে মাসের ১৮তম দিন কী বার হবে?",
+    "answer_options": [
+      "রবিবার",
+      "সোমবার",
+      "মঙ্গলবার",
+      "বুধবার"
+    ],
+    "correct_answer": "বুধবার",
+    "solution_steps": [
+      "The elapsed interval is 18−2=16 days.",
+      "Since 16 mod 7=2, move forward two weekdays from Monday.",
+      "The result is Wednesday."
+    ]
+  },
+  {
+    "family_id": "Q107",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "multiplication-plus-addition triangle pattern",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "missing centre value",
+    "english_glossary": {
+      "প্রশ্নবোধক": "question mark"
+    },
+    "question_bn": "প্রশ্নবোধক চিহ্নিত স্থানে কোন সংখ্যা বসবে?\n\n![প্রশ্নের চিত্র](assets/Q107_stem.png)",
+    "answer_options": [
+      "১৮",
+      "৬৮",
+      "৮১",
+      "৪৪"
+    ],
+    "correct_answer": "৬৮",
+    "solution_steps": [
+      "The first figure gives 4×8+7=39; the second gives 6×3+9=27.",
+      "Use the same top×lower-left+lower-right rule.",
+      "The final value is 9×7+5=68."
+    ]
+  },
+  {
+    "family_id": "Q114",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "instrument-to-indicator analogy",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "analogous indicator",
+    "english_glossary": {},
+    "question_bn": "ঘড়ি : কাঁটা : : থার্মোমিটার : ?",
+    "answer_options": [
+      "ফারেনহাইট",
+      "তাপমাত্রা",
+      "চিকিৎসা",
+      "পারদ"
+    ],
+    "correct_answer": "পারদ",
+    "solution_steps": [
+      "The clock hand is the visible indicator in the first pair.",
+      "In the traditional mercury thermometer model intended by the key, the mercury column is the indicator.",
+      "Select পারদ."
+    ]
+  },
+  {
+    "family_id": "Q117",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "direction after successive right turns",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "current walking direction",
+    "english_glossary": {},
+    "question_bn": "রহিম উত্তর দিকে ১০ মাইল হেঁটে ডানদিকে ঘুরে ৫ মাইল হাঁটেন। তারপর ডানদিকে ঘুরে ২ মাইল হাঁটেন। তিনি কোন দিকে হাঁটছেন?",
+    "answer_options": [
+      "পূর্ব",
+      "পশ্চিম",
+      "উত্তর",
+      "দক্ষিণ"
+    ],
+    "correct_answer": "দক্ষিণ",
+    "solution_steps": [
+      "Starting north, the first right turn points east.",
+      "The next right turn from east points south.",
+      "The question asks the current direction, not displacement from the start."
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "mirror image of a letter string",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "correct reflection",
+    "english_glossary": {
+      "প্রতিবিম্ব": "reflection"
+    },
+    "question_bn": "‘RELATION’-এর আয়নায় প্রতিবিম্ব কোনটি?",
+    "answer_options": [
+      "![ক](assets/Q200_option_a.png)",
+      "![খ](assets/Q200_option_b.png)",
+      "![গ](assets/Q200_option_c.png)",
+      "![ঘ](assets/Q200_option_d.png)"
+    ],
+    "correct_answer": "![ক](assets/Q200_option_a.png)",
+    "solution_steps": [
+      "A horizontal mirror reverses the order of the letters and the orientation of asymmetric glyphs.",
+      "The reflected sequence begins with the mirrored N and ends with the mirrored R.",
+      "Option ক matches the source’s reflected drawing."
+    ]
+  }
+]

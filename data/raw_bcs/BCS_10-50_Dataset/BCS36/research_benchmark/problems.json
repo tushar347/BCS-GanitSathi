@@ -1,0 +1,336 @@
+[
+  {
+    "item_id": "BCS36_Q174",
+    "family_id": "vat_percent_total_cost_f01",
+    "exam": "36th BCS",
+    "question_number": 174,
+    "source_page": 17,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "vat_percentage",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৩৫০ টাকা দরে ৩ কেজি মিষ্টি কিনে ৪ টাকা হারে ভ্যাট দিলে মোট কত টাকা ভ্যাট দিতে হবে?",
+    "question_normalized": "৩৫০ টাকা দরে ৩ কেজি মিষ্টি কিনে ৪ টাকা হারে ভ্যাট দিলে মোট কত টাকা ভ্যাট দিতে হবে?",
+    "normalization_notes": [],
+    "units": [
+      "taka",
+      "kg"
+    ],
+    "answer_options": [
+      "১৪ টাকা",
+      "৪২ টাকা",
+      "১২ টাকা",
+      "১০৫ টাকা"
+    ],
+    "printed_answer": "৪২ টাকা",
+    "accepted_answer_forms": [
+      "৪২ টাকা",
+      "42 taka",
+      "42"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q175",
+    "family_id": "inverse_percentage_fixed_budget_f01",
+    "exam": "36th BCS",
+    "question_number": 175,
+    "source_page": 17,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "inverse_percentage_fixed_expenditure",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "যদি তেলের মূল্য ২৫% বৃদ্ধি পায় তবে তেলের ব্যবহার শতকরা কত কমালে তেল বাবদ ব্যয় বৃদ্ধি পাবে না?",
+    "question_normalized": "যদি তেলের মূল্য ২৫% বৃদ্ধি পায় তবে তেলের ব্যবহার শতকরা কত কমালে তেল বাবদ ব্যয় বৃদ্ধি পাবে না?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৬%",
+      "২০%",
+      "২৫%",
+      "২৪%"
+    ],
+    "printed_answer": "২০%",
+    "accepted_answer_forms": [
+      "২০%",
+      "20%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q176",
+    "family_id": "gcd_lcm_from_product_f01",
+    "exam": "36th BCS",
+    "question_number": 176,
+    "source_page": 17,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "gcd_lcm_from_product",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "দুটি সংখ্যার গুণফল ৩৩৮০ এবং গ.সা.গু ১৩। সংখ্যা দুটির ল.সা.গু কত?",
+    "question_normalized": "দুটি সংখ্যার গুণফল ৩৩৮০ এবং গ.সা.গু ১৩। সংখ্যা দুটির ল.সা.গু কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২৬০",
+      "৭৮০",
+      "১৩০",
+      "৪৯০"
+    ],
+    "printed_answer": "২৬০",
+    "accepted_answer_forms": [
+      "২৬০",
+      "260"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q177",
+    "family_id": "sum_odd_numbers_identity_f01",
+    "exam": "36th BCS",
+    "question_number": 177,
+    "source_page": 17,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "sum_first_n_odd_numbers",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "1+3+5+ ...... + (2x−1) = কত?",
+    "question_normalized": "1+3+5+ ...... + (2x−1) = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x(x−1)",
+      "x(x−1)/2",
+      "x(x+1)",
+      "x²"
+    ],
+    "printed_answer": "x²",
+    "accepted_answer_forms": [
+      "x²",
+      "x^2"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q178",
+    "family_id": "log_radical_base_f01",
+    "exam": "36th BCS",
+    "question_number": 178,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "logarithm_radical_base",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "log_(√3) 81 = কত?",
+    "question_normalized": "log_(√3) 81 = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4",
+      "27√3",
+      "8",
+      "1/8"
+    ],
+    "printed_answer": "8",
+    "accepted_answer_forms": [
+      "8",
+      "৮"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q179",
+    "family_id": "exponential_same_base_f01",
+    "exam": "36th BCS",
+    "question_number": 179,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "exponential_equation_same_base",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "যদি (25)^(2x+3) = 5^(3x+6) হয়, তবে x = কত?",
+    "question_normalized": "যদি (25)^(2x+3) = 5^(3x+6) হয়, তবে x = কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "0",
+      "1",
+      "−1",
+      "4"
+    ],
+    "printed_answer": "0",
+    "accepted_answer_forms": [
+      "0",
+      "০"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q183",
+    "family_id": "system_candidate_pair_f01",
+    "exam": "36th BCS",
+    "question_number": 183,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "system_quadratic_difference",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x²+y² = 185, x−y = 3 এর একটি সমাধান হল-",
+    "question_normalized": "x²+y² = 185, x−y = 3 এর একটি সমাধান হল-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "(7, 4)",
+      "(9, 6)",
+      "(10, 7)",
+      "(11, 8)"
+    ],
+    "printed_answer": "(11, 8)",
+    "accepted_answer_forms": [
+      "(11, 8)",
+      "(11,8)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q185",
+    "family_id": "reciprocal_cube_identity_f01",
+    "exam": "36th BCS",
+    "question_number": 185,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "reciprocal_cube_identity",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x − 1/x = 1 হলে, x³ − 1/x³ এর মান কত?",
+    "question_normalized": "x − 1/x = 1 হলে, x³ − 1/x³ এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "printed_answer": "4",
+    "accepted_answer_forms": [
+      "4",
+      "৪"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q186",
+    "family_id": "ap_sum_given_last_f01",
+    "exam": "36th BCS",
+    "question_number": 186,
+    "source_page": 18,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "arithmetic_progression_sum",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "1+5+9+ ..... + 81 = ?",
+    "question_normalized": "1+5+9+ ..... + 81 = ?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "961",
+      "861",
+      "761",
+      "661"
+    ],
+    "printed_answer": "861",
+    "accepted_answer_forms": [
+      "861",
+      "৮৬১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q190",
+    "family_id": "decimal_square_root_f01",
+    "exam": "36th BCS",
+    "question_number": 190,
+    "source_page": 19,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "decimal_square_root",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "√15.6025 = ?",
+    "question_normalized": "√15.6025 = ?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩.৮৫",
+      "৩.৭৫",
+      "৩.৯৫",
+      "৩.৬৫"
+    ],
+    "printed_answer": "৩.৯৫",
+    "accepted_answer_forms": [
+      "৩.৯৫",
+      "3.95"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS36_Q191",
+    "family_id": "interleaved_sequence_multiples7_f01",
+    "exam": "36th BCS",
+    "question_number": 191,
+    "source_page": 19,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "interleaved_number_sequence",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৩, ৭, ৪, ১৪, ৫, ২১, ৬ ধারার অষ্টম সংখ্যাটি কত হবে?",
+    "question_normalized": "৩, ৭, ৪, ১৪, ৫, ২১, ৬ ধারার অষ্টম সংখ্যাটি কত হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৬",
+      "৭",
+      "২৮",
+      "২৯"
+    ],
+    "printed_answer": "২৮",
+    "accepted_answer_forms": [
+      "২৮",
+      "28"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "included_questions": 26,
+  "included_answer_records": 26,
+  "review_required_questions": 3,
+  "hypothetical_mistake_count": 76,
+  "generated_mistake_outputs_not_in_printed_options": 24,
+  "checks": {
+    "question_keys_equal_user_demo": true,
+    "unique_family_ids_across_included_and_review_sets": true,
+    "matching_question_answer_family_ids": true,
+    "four_preserved_answer_options_each": true,
+    "source_key_is_an_existing_option_each": true,
+    "complete_annotations_for_all_included_records": true,
+    "blocking_records_separate_from_topic_files": true,
+    "all_referenced_images_exist": true,
+    "unique_mistake_codes": true,
+    "arithmetic_divergence_indices_in_bounds": true,
+    "no_mistake_output_exactly_equals_correct_option": true,
+    "computational_checks_for_numerical_and_algebraic_annotations": true,
+    "all_json_files_parse_as_utf8": true
+  },
+  "limitations": "This is structural validation plus the specific computational checks documented in the build process, not a guarantee of perfect pedagogical annotations or empirical difficulty calibration. Diagram crops and printed text were visually reviewed. Explicit source assumptions and review cases are in quality_report.json."
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "combine_pair_average_single_value_f01",
+    "item_id": "BCS20_Q100",
+    "topic": "averages_mixtures",
+    "in_scope": true,
+    "assigned_subskill": "combine_average_with_single_value",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "গড়": "average",
+      "মিশ্রণ": "mixture",
+      "পরিমাণ": "quantity",
+      "অনুপাত": "ratio"
+    },
+    "question_bn": "x ও y এর মানের গড় 9 এবং z = 12 হলে, x, y এবং z এর মানের গড় কত হবে?",
+    "answer_options": [
+      "৬",
+      "৯",
+      "১০",
+      "১২"
+    ],
+    "correct_answer": "১০",
+    "solution_steps": [
+      "(x+y)/2=9, তাই x+y=18।",
+      "z=12, মোট=30।",
+      "তিনটির গড়=30/3=10।"
+    ],
+    "source_page": 26,
+    "source_exam": "20th BCS"
+  }
+]

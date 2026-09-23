@@ -1,0 +1,22 @@
+[
+  {
+    "q": 91,
+    "page": 9,
+    "reason": "digit-counting/combinatorial reasoning - outside initial six-topic benchmark"
+  },
+  {
+    "q": 92,
+    "page": 9,
+    "reason": "verbal logic/riddle - outside initial math scope"
+  },
+  {
+    "q": 94,
+    "page": 9,
+    "reason": "letter-counting/language reasoning - outside initial math scope"
+  },
+  {
+    "q": 95,
+    "page": 9,
+    "reason": "calendar reasoning - outside initial scope"
+  }
+]

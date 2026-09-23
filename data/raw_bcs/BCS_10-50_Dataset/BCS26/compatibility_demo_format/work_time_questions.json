@@ -1,0 +1,60 @@
+[
+  {
+    "family_id": "workers_days_proportion_bcs26_q185_f01",
+    "item_id": "BCS26_Q185",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "workers_days_proportion",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "শ্রমিক": "worker"
+    },
+    "question_bn": "১২ জন শ্রমিক ৩ দিনে ৭২০ টাকা আয় করে। ৯ জন শ্রমিক সমপরিমাণ টাকা আয় করতে কত দিন লাগবে?",
+    "answer_options": [
+      "৫ দিন",
+      "৪ দিন",
+      "৬ দিন",
+      "৩ দিন"
+    ],
+    "correct_answer": "৪ দিন",
+    "solution_steps": [
+      "কাজ/আয় শ্রমিক×দিন-এর সমানুপাতিক।",
+      "12×3 = 9×d, তাই d=4।"
+    ],
+    "source_page": 31,
+    "source_exam": "26th BCS"
+  },
+  {
+    "family_id": "combined_work_rate_bcs26_q191_f01",
+    "item_id": "BCS26_Q191",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "combined_work_rate",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "শ্রমিক": "worker"
+    },
+    "question_bn": "ক এবং খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে, খ একা কত দিনে করতে পারবে?",
+    "answer_options": [
+      "২৫ দিন",
+      "৩০ দিন",
+      "৩৫ দিন",
+      "৪০ দিন"
+    ],
+    "correct_answer": "৩০ দিন",
+    "solution_steps": [
+      "খ-এর হার = 1/12−1/20 = (5−3)/60=1/30।",
+      "তাই খ একা 30 দিন।"
+    ],
+    "source_page": 32,
+    "source_exam": "26th BCS"
+  }
+]

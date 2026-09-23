@@ -1,0 +1,292 @@
+[
+  {
+    "history_id": "BCS28_Q093_H_CORRECT",
+    "latent_cause": "no_observed_misconception",
+    "first_invalid_step": null,
+    "supported_candidates": [
+      "no_observed_misconception"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q093_H_CONCEPT",
+    "latent_cause": "work_rate_error",
+    "latent_cause_description": "Combines days directly instead of combining rates of work.",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "work_rate_error",
+      "transient_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q093_H_SLIP",
+    "latent_cause": "transient_arithmetic_or_transcription_slip",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "transient_arithmetic_or_transcription_slip",
+      "work_rate_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q093_H_AMBIG",
+    "latent_cause": "unresolved_other",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "work_rate_error",
+      "transient_arithmetic_or_transcription_slip",
+      "language_or_interpretation_issue",
+      "guessing"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": false,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q096_H_CORRECT",
+    "latent_cause": "no_observed_misconception",
+    "first_invalid_step": null,
+    "supported_candidates": [
+      "no_observed_misconception"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q096_H_CONCEPT",
+    "latent_cause": "distance_relation_error",
+    "latent_cause_description": "Uses an incorrect distance, direction, or equal-distance average-speed relation.",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "distance_relation_error",
+      "transient_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q096_H_SLIP",
+    "latent_cause": "transient_arithmetic_or_transcription_slip",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "transient_arithmetic_or_transcription_slip",
+      "distance_relation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q096_H_AMBIG",
+    "latent_cause": "unresolved_other",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "distance_relation_error",
+      "transient_arithmetic_or_transcription_slip",
+      "language_or_interpretation_issue",
+      "guessing"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": false,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q097_H_CORRECT",
+    "latent_cause": "no_observed_misconception",
+    "first_invalid_step": null,
+    "supported_candidates": [
+      "no_observed_misconception"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q097_H_CONCEPT",
+    "latent_cause": "percentage_base_or_multiplier_error",
+    "latent_cause_description": "Uses the stated percentage directly without converting the base/multiplier correctly.",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "percentage_base_or_multiplier_error",
+      "transient_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q097_H_SLIP",
+    "latent_cause": "transient_arithmetic_or_transcription_slip",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "transient_arithmetic_or_transcription_slip",
+      "percentage_base_or_multiplier_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q097_H_AMBIG",
+    "latent_cause": "unresolved_other",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "percentage_base_or_multiplier_error",
+      "transient_arithmetic_or_transcription_slip",
+      "language_or_interpretation_issue",
+      "guessing"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": false,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q099_H_CORRECT",
+    "latent_cause": "no_observed_misconception",
+    "first_invalid_step": null,
+    "supported_candidates": [
+      "no_observed_misconception"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q099_H_CONCEPT",
+    "latent_cause": "algebra_or_pattern_rule_error",
+    "latent_cause_description": "Applies an incorrect algebraic identity, exponent/log rule, number relation, or sequence rule.",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "algebra_or_pattern_rule_error",
+      "transient_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q099_H_SLIP",
+    "latent_cause": "transient_arithmetic_or_transcription_slip",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "transient_arithmetic_or_transcription_slip",
+      "algebra_or_pattern_rule_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q099_H_AMBIG",
+    "latent_cause": "unresolved_other",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "algebra_or_pattern_rule_error",
+      "transient_arithmetic_or_transcription_slip",
+      "language_or_interpretation_issue",
+      "guessing"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": false,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q100_H_CORRECT",
+    "latent_cause": "no_observed_misconception",
+    "first_invalid_step": null,
+    "supported_candidates": [
+      "no_observed_misconception"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": false,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q100_H_CONCEPT",
+    "latent_cause": "distance_relation_error",
+    "latent_cause_description": "Uses an incorrect distance, direction, or equal-distance average-speed relation.",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "distance_relation_error",
+      "transient_slip"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q100_H_SLIP",
+    "latent_cause": "transient_arithmetic_or_transcription_slip",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "transient_arithmetic_or_transcription_slip",
+      "distance_relation_error"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": true,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  },
+  {
+    "history_id": "BCS28_Q100_H_AMBIG",
+    "latent_cause": "unresolved_other",
+    "first_invalid_step": 1,
+    "supported_candidates": [
+      "distance_relation_error",
+      "transient_arithmetic_or_transcription_slip",
+      "language_or_interpretation_issue",
+      "guessing"
+    ],
+    "ruled_out_candidates": [],
+    "unresolved": true,
+    "evidence_sufficient_for_episode_action": false,
+    "evidence_sufficient_for_persistent_claim": false,
+    "valid_alternative_flag": false
+  }
+]

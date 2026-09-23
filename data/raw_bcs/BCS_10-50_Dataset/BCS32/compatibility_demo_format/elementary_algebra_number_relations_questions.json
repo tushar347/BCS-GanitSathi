@@ -1,0 +1,307 @@
+[
+  {
+    "family_id": "parity_two_odd_numbers_f01",
+    "item_id": "BCS32_Q081",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "parity_of_expressions",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "x এবং y উভয়ই বিজোড় সংখ্যা হলে কোনটি জোড় সংখ্যা হবে?",
+    "answer_options": [
+      "x + y + 1",
+      "xy",
+      "xy + 2",
+      "x + y"
+    ],
+    "correct_answer": "x + y",
+    "solution_steps": [
+      "The sum of two odd integers is even.",
+      "The other listed expressions remain odd."
+    ],
+    "source_page": 9,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "triangular_number_sequence_f01",
+    "item_id": "BCS32_Q084",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "triangular_number_sequence",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "১, ৩, ৬, ১০, ১৫, ২১ ....... ধারাটির দশম পদ কত?",
+    "answer_options": [
+      "৪৫",
+      "৫৫",
+      "৬২",
+      "৬৫"
+    ],
+    "correct_answer": "৫৫",
+    "solution_steps": [
+      "The differences are 2,3,4,5,6,..., so the sequence is triangular numbers.",
+      "The 10th term is 10*11/2=55."
+    ],
+    "source_page": 10,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "surd_rationalization_f01",
+    "item_id": "BCS32_Q085",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "surd_rationalization",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "√2/(√6 + 2) = কত?",
+    "answer_options": [
+      "3−√2",
+      "√3−√2",
+      "√3+√2",
+      "√3+2"
+    ],
+    "correct_answer": "√3−√2",
+    "solution_steps": [
+      "Multiply numerator and denominator by sqrt(6)-2.",
+      "The denominator becomes 6-4=2.",
+      "The numerator is sqrt(12)-2sqrt(2)=2sqrt(3)-2sqrt(2), giving sqrt(3)-sqrt(2)."
+    ],
+    "source_page": 10,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "complete_square_two_variables_f01",
+    "item_id": "BCS32_Q086",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "complete_square_two_variables",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "x² − 8x − 8y + 16 + y² এর সাথে কত যোগ করলে যোগফল একটি পূর্ণ বর্গ হবে?",
+    "answer_options": [
+      "4xy",
+      "2xy",
+      "6xy",
+      "8xy"
+    ],
+    "correct_answer": "2xy",
+    "solution_steps": [
+      "Adding 2xy makes x²+2xy+y²-8x-8y+16.",
+      "This equals (x+y-4)².",
+      "So 2xy is required."
+    ],
+    "source_page": 10,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "fraction_comparison_f02",
+    "item_id": "BCS32_Q091",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "fraction_comparison",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "কোন ভগ্নাংশটি ক্ষুদ্রতম?",
+    "answer_options": [
+      "৫/৬",
+      "১২/১৫",
+      "১১/১৪",
+      "১৭/২১"
+    ],
+    "correct_answer": "১১/১৪",
+    "solution_steps": [
+      "Compare the fractions: 5/6≈0.833, 12/15=0.8, 11/14≈0.786 and 17/21≈0.810.",
+      "Thus 11/14 is the smallest."
+    ],
+    "source_page": 10,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "consecutive_three_product_120_sum_f01",
+    "item_id": "BCS32_Q092",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "consecutive_numbers_product_sum",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে, তাদের যোগফল কত?",
+    "answer_options": [
+      "৯",
+      "১২",
+      "১৪",
+      "১৫"
+    ],
+    "correct_answer": "১৫",
+    "solution_steps": [
+      "The consecutive positive integers with product 120 are 4, 5 and 6.",
+      "Their sum is 15."
+    ],
+    "source_page": 10,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "one_digit_recurring_decimal_to_fraction_f01",
+    "item_id": "BCS32_Q093",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "recurring_decimal_to_fraction",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "০.৪৭̇ কে সাধারণ ভগ্নাংশে পরিণত করলে কত হবে?",
+    "answer_options": [
+      "৪৭/৯০",
+      "৪৩/৯০",
+      "৪৩/৯৯",
+      "৪৭/৯৯"
+    ],
+    "correct_answer": "৪৩/৯০",
+    "solution_steps": [
+      "Let x=0.4777... .",
+      "Then 10x=4.777... and 100x=47.777... .",
+      "Subtract: 90x=43, so x=43/90."
+    ],
+    "source_page": 10,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "difference_of_squares_shifted_f01",
+    "item_id": "BCS32_Q094",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "difference_of_squares_factorization",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "x² − y² + 2y − 1 এর একটি উৎপাদক—",
+    "answer_options": [
+      "x + y + 1",
+      "x − y",
+      "x + y − 1",
+      "x − y − 1"
+    ],
+    "correct_answer": "x + y − 1",
+    "solution_steps": [
+      "x²-y²+2y-1=x²-(y-1)².",
+      "Factor as [x+(y-1)][x-(y-1)].",
+      "One factor is x+y-1."
+    ],
+    "source_page": 10,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "basic_log_power_f01",
+    "item_id": "BCS32_Q095",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "basic_logarithm",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "log₂8 = কত?",
+    "answer_options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct_answer": "3",
+    "solution_steps": [
+      "2³=8.",
+      "Therefore log_2 8=3."
+    ],
+    "source_page": 11,
+    "source_exam": "32th BCS"
+  },
+  {
+    "family_id": "polynomial_lcm_factorization_f01",
+    "item_id": "BCS32_Q096",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "polynomial_lcm",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence",
+      "লগ": "logarithm"
+    },
+    "question_bn": "x³ + x²y, x²y + xy² এর ল.সা.গু কোনটি?",
+    "answer_options": [
+      "xy",
+      "x + y",
+      "xy(x + y)",
+      "x²y(x + y)"
+    ],
+    "correct_answer": "x²y(x + y)",
+    "solution_steps": [
+      "x³+x²y=x²(x+y).",
+      "x²y+xy²=xy(x+y).",
+      "The least common multiple is x²y(x+y)."
+    ],
+    "source_page": 11,
+    "source_exam": "32th BCS"
+  }
+]

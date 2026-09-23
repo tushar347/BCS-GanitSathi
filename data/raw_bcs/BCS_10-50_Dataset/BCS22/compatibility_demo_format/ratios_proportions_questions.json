@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "divide_length_by_ratio_bcs22_q075_f01",
+    "item_id": "BCS22_Q075",
+    "topic": "ratios_proportions",
+    "in_scope": true,
+    "assigned_subskill": "divide_length_by_ratio",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "অনুপাত": "ratio",
+      "সমানুপাত": "proportion"
+    },
+    "question_bn": "৬০ মিটার দৈর্ঘ্যবিশিষ্ট বাঁশকে ৩ : ৭ : ১০ অনুপাতে ভাগ করলে টুকরোগুলোর দৈর্ঘ্য কত?",
+    "answer_options": [
+      "৮ মি., ২২ মি., ৩০ মি.",
+      "১০ মি., ২০ মি., ৩০ মি.",
+      "৯ মি., ২১ মি., ৩০ মি.",
+      "১২ মি., ২০ মি., ২৮ মি."
+    ],
+    "correct_answer": "৯ মি., ২১ মি., ৩০ মি.",
+    "solution_steps": [
+      "অনুপাতের যোগ = ২০।",
+      "প্রতি অংশ = ৬০/২০ = ৩ মিটার।",
+      "দৈর্ঘ্য = ৯, ২১, ৩০ মিটার।"
+    ],
+    "source_page": 7,
+    "source_exam": "22nd BCS"
+  }
+]

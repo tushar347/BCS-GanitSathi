@@ -1,0 +1,26 @@
+[
+  {
+    "family_id": "Q092",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "ক্ষতি ১০০%",
+        "reasoning_steps": [
+          "Find a loss of 100 when sale price is 100 and cost price is 200.",
+          "Divide loss by sale price instead of cost price.",
+          "Return 100% loss."
+        ],
+        "code": "BCS44-092-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "লাভ ১০০%",
+        "reasoning_steps": [
+          "Reverse the statement and assume the sale price is twice the cost price.",
+          "Compute a 100% profit."
+        ],
+        "code": "BCS44-092-INTERPRETATION-02"
+      }
+    ]
+  }
+]

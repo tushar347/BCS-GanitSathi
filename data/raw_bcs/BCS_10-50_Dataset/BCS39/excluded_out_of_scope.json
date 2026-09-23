@@ -1,0 +1,52 @@
+[
+  {
+    "question_number": 44,
+    "source_page": 7,
+    "reason": "word analogy / verbal reasoning - outside the initial six GonitSathi math topic groups",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 46,
+    "source_page": 7,
+    "reason": "combinatorics (nCr identity) - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 47,
+    "source_page": 7,
+    "reason": "coded-operation / mental-ability pattern - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 51,
+    "source_page": 7,
+    "reason": "direction/spatial reasoning - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 52,
+    "source_page": 7,
+    "reason": "set theory - outside initial scope; source also marks the item cancelled",
+    "source_status": "cancelled_in_source",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 53,
+    "source_page": 8,
+    "reason": "geometry/mensuration - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 54,
+    "source_page": 8,
+    "reason": "coded-operation / mental-ability pattern - outside the initial six-topic benchmark",
+    "status": "excluded_out_of_scope"
+  },
+  {
+    "question_number": 60,
+    "source_page": 8,
+    "reason": "clock-angle geometry - outside initial scope; source also marks the item cancelled",
+    "source_status": "cancelled_in_source",
+    "status": "excluded_out_of_scope"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "exam": "23rd BCS",
+  "source_pdf": "23rd BCS(1).pdf",
+  "main_in_scope_questions": 8,
+  "review_required": 0,
+  "excluded_out_of_scope": 2,
+  "authored_histories": 32,
+  "topic_counts": {
+    "percentages_profit_loss": 3,
+    "ratios_proportions": 0,
+    "work_time": 0,
+    "speed_distance": 1,
+    "averages_mixtures": 2,
+    "elementary_algebra_number_relations": 2
+  },
+  "research_note": "Questions/options/printed answers are source-derived transcriptions. Solutions, controlled histories, diagnoses, probes and policies are model-authored draft annotations and require independent Bengali-speaking mathematical RA review before gold/test use."
+}

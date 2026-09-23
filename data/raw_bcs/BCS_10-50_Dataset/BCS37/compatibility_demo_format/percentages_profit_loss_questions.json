@@ -1,0 +1,96 @@
+[
+  {
+    "family_id": "weighted_profit_rate_f01",
+    "item_id": "BCS37_Q177",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "weighted_profit_rate",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "10% মুনাফায় 3000 টাকা এবং 8% মুনাফায় 2000 টাকা বিনিয়োগ করলে মোট মূলধনের উপর গড়ে শতকরা কত হারে মুনাফা পাওয়া যাবে?",
+    "answer_options": [
+      "9%",
+      "9.2%",
+      "8%",
+      "8.2%"
+    ],
+    "correct_answer": "9.2%",
+    "solution_steps": [
+      "Profit=3000×10% + 2000×8% = 300+160=460.",
+      "Total capital=5000.",
+      "Average profit rate=460/5000×100=9.2%."
+    ],
+    "source_page": 19,
+    "source_exam": "37th BCS"
+  },
+  {
+    "family_id": "unit_buy_sell_profit_f01",
+    "item_id": "BCS37_Q178",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "profit_from_unit_buy_sell",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "100 টাকায় 10 টি ডিম কিনে 100 টাকায় 8 টি ডিম বিক্রয় করলে শতকরা লাভ কত হবে?",
+    "answer_options": [
+      "16%",
+      "20%",
+      "25%",
+      "28%"
+    ],
+    "correct_answer": "25%",
+    "solution_steps": [
+      "Cost per egg=100/10=10 taka.",
+      "Selling price per egg=100/8=12.5 taka.",
+      "Profit per egg=2.5 taka, which is 25% of cost."
+    ],
+    "source_page": 19,
+    "source_exam": "37th BCS"
+  },
+  {
+    "family_id": "percent_of_base_f01",
+    "item_id": "BCS37_Q187",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "percent_of_number",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "মুনাফা": "profit/interest",
+      "মূলধন": "principal"
+    },
+    "question_bn": "৫-এর কত শতাংশ ৭ হবে?",
+    "answer_options": [
+      "৪০",
+      "১২৫",
+      "৯০",
+      "১৪০"
+    ],
+    "correct_answer": "১৪০",
+    "solution_steps": [
+      "Required percent=(7/5)×100=140%."
+    ],
+    "source_page": 20,
+    "source_exam": "37th BCS"
+  }
+]

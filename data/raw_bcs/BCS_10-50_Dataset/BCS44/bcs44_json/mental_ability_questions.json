@@ -1,0 +1,264 @@
+[
+  {
+    "family_id": "Q186",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "shape analogy by adding horizontal hatching",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "matching figure",
+    "english_glossary": {
+      "প্রশ্নবোধক": "question mark"
+    },
+    "question_bn": "প্রশ্নবোধক চিহ্নের স্থানে কোন চিত্রটি বসবে?\n\n![প্রশ্নের চিত্র](assets/Q186_stem.png)",
+    "answer_options": [
+      "১",
+      "২",
+      "৩",
+      "৪"
+    ],
+    "correct_answer": "২",
+    "solution_steps": [
+      "The first pair changes an outline triangle into the same triangle filled with horizontal lines.",
+      "Apply the same transformation to the outline rectangle.",
+      "Figure 2 is the horizontally hatched rectangle."
+    ]
+  },
+  {
+    "family_id": "Q187",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "family relationship chain",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "Q’s relationship to R",
+    "english_glossary": {},
+    "question_bn": "P এবং Q দুই ভাই। R এবং S দুই বোন। P-এর ছেলে হলো S-এর ভাই। তাহলে Q হলো R-এর−",
+    "answer_options": [
+      "পুত্র",
+      "ভাই",
+      "পিতা",
+      "চাচা"
+    ],
+    "correct_answer": "চাচা",
+    "solution_steps": [
+      "Under the ordinary shared-parent sibling interpretation, P’s son and S are siblings, so P is S’s father.",
+      "R is S’s sister, so P is also R’s father.",
+      "Q is P’s brother; therefore Q is R’s paternal uncle."
+    ]
+  },
+  {
+    "family_id": "Q188",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "tool-to-consumable analogy",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "25 seconds",
+    "target_quantity": "corresponding material",
+    "english_glossary": {},
+    "question_bn": "স্টেপলারের সাথে যেমন স্টেপল, সুচের সাথে তেমন−",
+    "answer_options": [
+      "ছিদ্র",
+      "কাপড়",
+      "সুতা",
+      "সেলাই"
+    ],
+    "correct_answer": "সুতা",
+    "solution_steps": [
+      "A stapler uses staples as its fastening material.",
+      "A needle correspondingly uses thread.",
+      "Select সুতা."
+    ]
+  },
+  {
+    "family_id": "Q189",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "alphabet-position coding",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "45 seconds",
+    "target_quantity": "decoded word",
+    "english_glossary": {},
+    "question_bn": "165135 যদি peace হয়, 1215225 হলে−",
+    "answer_options": [
+      "Lead",
+      "Love",
+      "Loop",
+      "Castle"
+    ],
+    "correct_answer": "Love",
+    "solution_steps": [
+      "Use alphabet positions p=16,e=5,a=1,c=3,e=5 to reproduce 165135.",
+      "Split 1215225 as 12,15,22,5.",
+      "These positions spell L,O,V,E: Love."
+    ]
+  },
+  {
+    "family_id": "Q190",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "counting triangles in a subdivided figure",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "75 seconds",
+    "target_quantity": "number of triangles",
+    "english_glossary": {
+      "ত্রিভুজ": "triangle"
+    },
+    "question_bn": "নিচের চিত্রে মোট কতটি ত্রিভুজ আছে?\n\n![প্রশ্নের চিত্র](assets/Q190_stem.png)",
+    "answer_options": [
+      "১০টি",
+      "১২টি",
+      "১৪টি",
+      "১৬টি"
+    ],
+    "correct_answer": "১৬টি",
+    "solution_steps": [
+      "Count triangles at every size, not just the smallest regions.",
+      "The three concurrent vertex-to-side segments produce 6 small triangles, 6 intermediate triangles, and 3 half-triangle shapes.",
+      "Include the entire outer triangle: 6+6+3+1=16."
+    ]
+  },
+  {
+    "family_id": "Q192",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "weekday offset calculation",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "60 seconds",
+    "target_quantity": "weekday",
+    "english_glossary": {},
+    "question_bn": "২০১৮ সালের ১২ জানুয়ারি শুক্রবার হলে, একই বছরের ১৭ মার্চ কী বার ছিল?",
+    "answer_options": [
+      "শনিবার",
+      "সোমবার",
+      "বৃহস্পতিবার",
+      "শুক্রবার"
+    ],
+    "correct_answer": "শনিবার",
+    "solution_steps": [
+      "Use the given weekday for 12 January and the Gregorian month lengths; 2018 is not a leap year.",
+      "Elapsed days to 17 March are (31−12)+28+17=64.",
+      "64 leaves remainder 1 on division by 7, so the weekday is one day after Friday: Saturday."
+    ]
+  },
+  {
+    "family_id": "Q193",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "sequence with increasing first differences",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "missing term",
+    "english_glossary": {
+      "ধারা": "sequence or series"
+    },
+    "question_bn": "৫, ৭, ১০, ১৪, ......... ২৫ ধারার শূন্যস্থানের সংখ্যাটি কত?",
+    "answer_options": [
+      "১৭",
+      "১৮",
+      "১৯",
+      "২১"
+    ],
+    "correct_answer": "১৯",
+    "solution_steps": [
+      "The differences begin 2,3,4.",
+      "Continue with 5, then 6: 14+5=19 and 19+6=25.",
+      "The missing value is 19."
+    ]
+  },
+  {
+    "family_id": "Q194",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "number-triangle multiplication-plus-addition pattern",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "60 seconds",
+    "target_quantity": "missing central value",
+    "english_glossary": {},
+    "question_bn": "প্রশ্ন-চিহ্নিত স্থানে কোন সংখ্যা বসবে?\n\n![প্রশ্নের চিত্র](assets/Q194_stem.png)",
+    "answer_options": [
+      "৬৪",
+      "৬৬",
+      "৬৮",
+      "৭২"
+    ],
+    "correct_answer": "৬৮",
+    "solution_steps": [
+      "In the first triangle the centre is 5×9+3=48.",
+      "In the second it is 7×8+4=60.",
+      "Apply the same top×lower-left+lower-right rule to the last: 9×7+5=68."
+    ]
+  },
+  {
+    "family_id": "Q196",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "Bengali lexicographic ordering",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "65 seconds",
+    "target_quantity": "alphabetically ordered word group",
+    "english_glossary": {},
+    "question_bn": "নিম্নের কোন গুচ্ছের শব্দগুলো বর্ণানুক্রমিকভাবে সাজানো রয়েছে?",
+    "answer_options": [
+      "নিম্নোক্ত, নিদর্শন, নিরাসক্ত, নিরাময়, নিষ্ক্রিয়, নিসর্গ",
+      "নিদর্শন, নিম্নোক্ত, নিরাময়, নিরাসক্ত, নিষ্ক্রিয়, নিসর্গ",
+      "নিষ্ক্রিয়, নিসর্গ, নিম্নোক্ত, নিদর্শন, নিরাসক্ত, নিরাময়",
+      "নিদর্শন, নিরাসক্ত, নিষ্ক্রিয়, নিসর্গ, নিম্নোক্ত, নিরাময়"
+    ],
+    "correct_answer": "নিদর্শন, নিম্নোক্ত, নিরাময়, নিরাসক্ত, নিষ্ক্রিয়, নিসর্গ",
+    "solution_steps": [
+      "Compare words after their common initial নি.",
+      "The differentiating consonants follow দ, ম, র, ষ, স.",
+      "Within the two নিরা words, ম precedes স, so নিরাময় precedes নিরাসক্ত.",
+      "This is the second group."
+    ]
+  },
+  {
+    "family_id": "Q199",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "clock-hand orientation",
+    "difficulty_rating": "Easy",
+    "target_completion_time": "30 seconds",
+    "target_quantity": "minute-hand direction",
+    "english_glossary": {},
+    "question_bn": "একটি দেয়ালঘড়িতে যখন ৩টা বাজে তখন ঘণ্টার কাঁটা যদি পূর্বদিকে থাকে তবে মিনিটের কাঁটা কোন দিকে থাকবে?",
+    "answer_options": [
+      "উত্তর",
+      "পশ্চিম",
+      "দক্ষিণ",
+      "পূর্ব"
+    ],
+    "correct_answer": "উত্তর",
+    "solution_steps": [
+      "At 3:00 the hour hand points to 3 and the minute hand points to 12.",
+      "Position 12 is a quarter-turn anticlockwise from position 3.",
+      "A quarter-turn anticlockwise from east is north."
+    ]
+  },
+  {
+    "family_id": "Q200",
+    "topic": "mental ability",
+    "in_scope": true,
+    "assigned_subskill": "horizontal mirror reflection of a word",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "40 seconds",
+    "target_quantity": "reflected word image",
+    "english_glossary": {
+      "প্রতিবিম্ব": "reflection"
+    },
+    "question_bn": "MEMORY শব্দটির আয়নায় প্রতিবিম্ব কোনটি?",
+    "answer_options": [
+      "![ক](assets/Q200_option_a.png)",
+      "![খ](assets/Q200_option_b.png)",
+      "![গ](assets/Q200_option_c.png)",
+      "![ঘ](assets/Q200_option_d.png)"
+    ],
+    "correct_answer": "![খ](assets/Q200_option_b.png)",
+    "solution_steps": [
+      "A left-right mirror reverses character order and each asymmetric glyph.",
+      "Read from the reflected Y at the left through the reflected R,O,M,E,M.",
+      "The printed answer drawing matches option খ."
+    ]
+  }
+]

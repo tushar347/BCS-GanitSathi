@@ -1,0 +1,25 @@
+[
+  {
+    "family_id": "Q096",
+    "topic": "geometry",
+    "in_scope": true,
+    "assigned_subskill": "triangle angle sum with an angle bisector",
+    "difficulty_rating": "Medium",
+    "target_completion_time": "50 seconds",
+    "target_quantity": "angle CDA",
+    "english_glossary": {},
+    "question_bn": "ΔABC এর A = 40° এবং ∠B = 80°। ∠C এর সমদ্বিখণ্ডক AB বাহুকে D বিন্দুতে ছেদ করে ∠CDA = ?",
+    "answer_options": [
+      "110°",
+      "100°",
+      "90°",
+      "80°"
+    ],
+    "correct_answer": "110°",
+    "solution_steps": [
+      "The full angle C is 180−40−80=60°.",
+      "Its bisector makes ∠ACD=30°.",
+      "In triangle ACD, ∠CDA=180−40−30=110°."
+    ]
+  }
+]

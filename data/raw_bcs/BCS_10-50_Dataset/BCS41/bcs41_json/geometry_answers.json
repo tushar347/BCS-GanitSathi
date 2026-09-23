@@ -1,0 +1,25 @@
+[
+  {
+    "family_id": "Q096",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "80°",
+        "reasoning_steps": [
+          "Use the whole angle C=60° inside triangle ACD rather than its half.",
+          "Calculate 180−40−60=80°."
+        ],
+        "code": "BCS41-096-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "70°",
+        "reasoning_steps": [
+          "Find ∠CDA=110°.",
+          "Return the adjacent supplementary angle CDB=70° instead."
+        ],
+        "code": "BCS41-096-INTERPRETATION-02"
+      }
+    ]
+  }
+]

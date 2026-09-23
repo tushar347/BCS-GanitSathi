@@ -1,0 +1,651 @@
+[
+  {
+    "family_id": "Q091",
+    "source_uid": "BCS44:Q091",
+    "source_question_number": 91,
+    "source_page": 10,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "2log₁₀5 + log₁₀36 − log₁₀9 = ?",
+    "source_options_transcription": [
+      "2",
+      "100",
+      "37",
+      "4.6"
+    ],
+    "source_printed_answer": "2",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q091_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q092",
+    "source_uid": "BCS44:Q092",
+    "source_question_number": 92,
+    "source_page": 10,
+    "topic": "percentages",
+    "status": "annotated",
+    "source_question_transcription": "ক্রয়মূল্য বিক্রয়মূল্যের দ্বিগুন হলে শতকরা লাভ বা ক্ষতির পরিমান কত?",
+    "source_options_transcription": [
+      "লাভ ২৫%",
+      "ক্ষতি ২৫%",
+      "লাভ ১০%",
+      "ক্ষতি ৫০%"
+    ],
+    "source_printed_answer": "ক্ষতি ৫০%",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q092_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q093",
+    "source_uid": "BCS44:Q093",
+    "source_question_number": 93,
+    "source_page": 10,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "একটি ফাংশন f : r → R, f(x) = 2x + 1 দ্বারা সংজ্ঞায়িত হলে f −1(2) এর মান কত?",
+    "source_options_transcription": [
+      "0",
+      "1/2",
+      "5",
+      "1"
+    ],
+    "source_printed_answer": "1/2",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q093_source_excerpt.png",
+    "transcription_or_interpretation_note": "The source prints a lowercase r in the domain and a baseline −1 after f. Those forms are retained; inverse-function interpretation is explicitly stated in the generated explanation.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q094",
+    "source_uid": "BCS44:Q094",
+    "source_question_number": 94,
+    "source_page": 10,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "ABC ত্রিভুজে B কোণের পরিমান ৪৮° এবং AB = AC। যদি E এবং F, AB এবং AC কে এমনভাবে ছেদ করে যেন EF∥BC হয়, তাহলে ∠A + ∠AFE=?",
+    "source_options_transcription": [
+      "১৩২°",
+      "১৮০°",
+      "১০৮°",
+      "১৬০°"
+    ],
+    "source_printed_answer": "১৩২°",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q094_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q095",
+    "source_uid": "BCS44:Q095",
+    "source_question_number": 95,
+    "source_page": 11,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "যদি log10x = −1 হয়, তাহলে নিচের x এর মান?",
+    "source_options_transcription": [
+      "0.1",
+      "0.001",
+      "1/10000",
+      "0.001"
+    ],
+    "source_printed_answer": "0.1",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q095_source_excerpt.png",
+    "transcription_or_interpretation_note": "The base 10 is printed on the baseline. The interpretation is explicit. Options খ and ঘ are identical in the source and remain duplicated.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q096",
+    "source_uid": "BCS44:Q096",
+    "source_question_number": 96,
+    "source_page": 11,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "i −49এর মান কত?",
+    "source_options_transcription": [
+      "−1",
+      "I",
+      "1",
+      "−i"
+    ],
+    "source_printed_answer": "−i",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q096_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q096_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The source prints i followed by a baseline −49, rather than an unambiguous exponent. The key −i would match i^(−49), but does not match the literal expression i−49. No exponent has been silently inserted."
+  },
+  {
+    "family_id": "Q097",
+    "source_uid": "BCS44:Q097",
+    "source_question_number": 97,
+    "source_page": 11,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "যদি −5, p, 1,16 সামান্তর অনুক্রমে থাকে, তাহলে p ও q মান হবে যথাক্রমে −",
+    "source_options_transcription": [
+      "−2,9",
+      "2,9",
+      "−2−9",
+      "2,−9"
+    ],
+    "source_printed_answer": "2,9",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q097_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The printed sequence contains 1 rather than q, although q is requested. The sequence as printed is not the progression giving the key p=2, q=9. The missing or incorrect term and the malformed third option are retained."
+  },
+  {
+    "family_id": "Q098",
+    "source_uid": "BCS44:Q098",
+    "source_question_number": 98,
+    "source_page": 11,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "১৮ এবং ৭২ এর গুণোত্তর গড় কোনটি?",
+    "source_options_transcription": [
+      "৪৫",
+      "১২৯৬",
+      "৩৬",
+      "৪"
+    ],
+    "source_printed_answer": "৩৬",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q098_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q099",
+    "source_uid": "BCS44:Q099",
+    "source_question_number": 99,
+    "source_page": 11,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "1−1+1−1+..........+n সংখ্যক পদের যোগফল হবে−",
+    "source_options_transcription": [
+      "0",
+      "1",
+      "[1 + (−1)^n]",
+      "(1/2)[1−(−1)^n]"
+    ],
+    "source_printed_answer": "(1/2)[1−(−1)^n]",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q099_source_excerpt.png",
+    "transcription_or_interpretation_note": "The source uses +n সংখ্যক পদের; the generated solution declares the interpretation of n as a term count.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q100",
+    "source_uid": "BCS44:Q100",
+    "source_question_number": 100,
+    "source_page": 11,
+    "topic": "geometry",
+    "status": "review_required",
+    "source_question_transcription": "একটি সুষম বহুভুজের প্রত্যেকটি কোণ ১৬৮০। এর বাহুসংখ্যা কতগুলো হবে?",
+    "source_options_transcription": [
+      "৩০",
+      "২০",
+      "১৮",
+      "১০"
+    ],
+    "source_printed_answer": "৩০",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q100_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q100_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The angle is printed as ১৬৮০ with the last zero on the baseline. The source key ৩০ is consistent with 168 degrees, not with a literal 1680-degree interior angle. The degree-symbol correction is not made silently."
+  },
+  {
+    "family_id": "Q101",
+    "source_uid": "BCS44:Q101",
+    "source_question_number": 101,
+    "source_page": 11,
+    "topic": "geometry",
+    "status": "annotated",
+    "source_question_transcription": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য ২সে.মি এবং উচ্চতা X সেমি হলে, X এর মান কত?",
+    "source_options_transcription": [
+      "√2",
+      "√3",
+      "২",
+      "৩"
+    ],
+    "source_printed_answer": "√3",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q101_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q102",
+    "source_uid": "BCS44:Q102",
+    "source_question_number": 102,
+    "source_page": 11,
+    "topic": "algebra",
+    "status": "review_required",
+    "source_question_transcription": "যদি ⁴√(x3=2) হয় তাহলে তাহলে X^(3/2) =?",
+    "source_options_transcription": [
+      "8",
+      "16",
+      "4",
+      "64"
+    ],
+    "source_printed_answer": "4",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q102_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q102_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The printed radical bar spans x3=2, the 3 after x is on the baseline, and uppercase X is used in the requested expression. The source is preserved as an image; replacing it with fourth-root(x³)=2 would be an editorial repair."
+  },
+  {
+    "family_id": "Q103",
+    "source_uid": "BCS44:Q103",
+    "source_question_number": 103,
+    "source_page": 11,
+    "topic": "arithmetic",
+    "status": "annotated",
+    "source_question_transcription": "P(A) = 1/3, P(B) = 3/4, A ও B স্বাধীন হলে P(A ∪ B)-এর মান কত?",
+    "source_options_transcription": [
+      "3/21",
+      "1/3",
+      "5/6",
+      "এর কোনটিই নয়"
+    ],
+    "source_printed_answer": "5/6",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q103_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q104",
+    "source_uid": "BCS44:Q104",
+    "source_question_number": 104,
+    "source_page": 12,
+    "topic": "algebra",
+    "status": "annotated",
+    "source_question_transcription": "বাস্তব সংখ্যায় |3x + 2| < 7 অসমতাটির সমাধান:",
+    "source_options_transcription": [
+      "−3<x<3",
+      "5/3<x<5/3",
+      "−3<x<5/3",
+      "5/3<x<5/3"
+    ],
+    "source_printed_answer": "−3<x<5/3",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q104_source_excerpt.png",
+    "transcription_or_interpretation_note": "The identical and impossible bounds in options খ and ঘ are retained from the source.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q105",
+    "source_uid": "BCS44:Q105",
+    "source_question_number": 105,
+    "source_page": 12,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "6 a2bc এবং 4a3b2c2 এর সংখ্যা সহগের গ. সা. গু নিচের কোনটি?",
+    "source_options_transcription": [
+      "a²bc",
+      "2a²bc",
+      "2a²b²c²",
+      "কোনটিই নয়"
+    ],
+    "source_printed_answer": "কোনটিই নয়",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q105_source_excerpt.png",
+    "transcription_or_interpretation_note": "Baseline digits in the printed monomials are retained. Their exponents are immaterial to the requested numerical-coefficient GCD; no polynomial correction is needed.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q138",
+    "source_uid": "BCS44:Q138",
+    "source_question_number": 138,
+    "source_page": 15,
+    "topic": "number system",
+    "status": "annotated",
+    "source_question_transcription": "নিচের কোন Ocatal সংখ্যাটি Decimal সংখ্যা ৫৫-এর সমতুল্য?",
+    "source_options_transcription": [
+      "৫৫",
+      "৭৭",
+      "৬৭",
+      "৮৭"
+    ],
+    "source_printed_answer": "৬৭",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q138_source_excerpt.png",
+    "transcription_or_interpretation_note": "The source spelling Ocatal and the invalid octal distractor ৮৭ are retained.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q186",
+    "source_uid": "BCS44:Q186",
+    "source_question_number": 186,
+    "source_page": 19,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "প্রশ্নবোধক চিহ্নের স্থানে কোন চিত্রটি বসবে?",
+    "source_options_transcription": [
+      "১",
+      "২",
+      "৩",
+      "৪"
+    ],
+    "source_printed_answer": "২",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q186_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q186_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q187",
+    "source_uid": "BCS44:Q187",
+    "source_question_number": 187,
+    "source_page": 19,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "P এবং Q দুই ভাই। R এবং S দুই বোন। P-এর ছেলে হলো S-এর ভাই। তাহলে Q হলো R-এর−",
+    "source_options_transcription": [
+      "পুত্র",
+      "ভাই",
+      "পিতা",
+      "চাচা"
+    ],
+    "source_printed_answer": "চাচা",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q187_source_excerpt.png",
+    "transcription_or_interpretation_note": "The family inference assumes full/shared-parent siblings, as in the printed key; half-sibling alternatives are not specified.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q188",
+    "source_uid": "BCS44:Q188",
+    "source_question_number": 188,
+    "source_page": 19,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "স্টেপলারের সাথে যেমন স্টেপল, সুচের সাথে তেমন−",
+    "source_options_transcription": [
+      "ছিদ্র",
+      "কাপড়",
+      "সুতা",
+      "সেলাই"
+    ],
+    "source_printed_answer": "সুতা",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q188_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q189",
+    "source_uid": "BCS44:Q189",
+    "source_question_number": 189,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "165135 যদি peace হয়, 1215225 হলে−",
+    "source_options_transcription": [
+      "Lead",
+      "Love",
+      "Loop",
+      "Castle"
+    ],
+    "source_printed_answer": "Love",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q189_source_excerpt.png",
+    "transcription_or_interpretation_note": "Undelimited alphabet-position strings can have more than one segmentation. The supplied options and example identify the intended decoding.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q190",
+    "source_uid": "BCS44:Q190",
+    "source_question_number": 190,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "নিচের চিত্রে মোট কতটি ত্রিভুজ আছে?",
+    "source_options_transcription": [
+      "১০টি",
+      "১২টি",
+      "১৪টি",
+      "১৬টি"
+    ],
+    "source_printed_answer": "১৬টি",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q190_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q190_source_excerpt.png",
+    "transcription_or_interpretation_note": "The figure is interpreted as three straight concurrent vertex-to-opposite-side segments, as drawn.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q191",
+    "source_uid": "BCS44:Q191",
+    "source_question_number": 191,
+    "source_page": 20,
+    "topic": "ratios",
+    "status": "annotated",
+    "source_question_transcription": "ভারসাম্য রক্ষা করতে নিচের চিত্রের বামদিকে কত ওজন রাখতে হবে?",
+    "source_options_transcription": [
+      "৪ কেজি",
+      "৬ কেজি",
+      "৮ কেজি",
+      "১০ কেজি"
+    ],
+    "source_printed_answer": "৬ কেজি",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q191_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q191_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q192",
+    "source_uid": "BCS44:Q192",
+    "source_question_number": 192,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "২০১৮ সালের ১২ জানুয়ারি শুক্রবার হলে, একই বছরের ১৭ মার্চ কী বার ছিল?",
+    "source_options_transcription": [
+      "শনিবার",
+      "সোমবার",
+      "বৃহস্পতিবার",
+      "শুক্রবার"
+    ],
+    "source_printed_answer": "শনিবার",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q192_source_excerpt.png",
+    "transcription_or_interpretation_note": "The weekday is derived from the supplied Friday premise, not from an external historical lookup.",
+    "review_reason": null
+  },
+  {
+    "family_id": "Q193",
+    "source_uid": "BCS44:Q193",
+    "source_question_number": 193,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "৫, ৭, ১০, ১৪, ......... ২৫ ধারার শূন্যস্থানের সংখ্যাটি কত?",
+    "source_options_transcription": [
+      "১৭",
+      "১৮",
+      "১৯",
+      "২১"
+    ],
+    "source_printed_answer": "১৯",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q193_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q194",
+    "source_uid": "BCS44:Q194",
+    "source_question_number": 194,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "প্রশ্ন-চিহ্নিত স্থানে কোন সংখ্যা বসবে?",
+    "source_options_transcription": [
+      "৬৪",
+      "৬৬",
+      "৬৮",
+      "৭২"
+    ],
+    "source_printed_answer": "৬৮",
+    "source_answer_option_label": null,
+    "question_images": [
+      "assets/Q194_stem.png"
+    ],
+    "source_evidence_image": "audit_assets/Q194_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q196",
+    "source_uid": "BCS44:Q196",
+    "source_question_number": 196,
+    "source_page": 20,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "নিম্নের কোন গুচ্ছের শব্দগুলো বর্ণানুক্রমিকভাবে সাজানো রয়েছে?",
+    "source_options_transcription": [
+      "নিম্নোক্ত, নিদর্শন, নিরাসক্ত, নিরাময়, নিষ্ক্রিয়, নিসর্গ",
+      "নিদর্শন, নিম্নোক্ত, নিরাময়, নিরাসক্ত, নিষ্ক্রিয়, নিসর্গ",
+      "নিষ্ক্রিয়, নিসর্গ, নিম্নোক্ত, নিদর্শন, নিরাসক্ত, নিরাময়",
+      "নিদর্শন, নিরাসক্ত, নিষ্ক্রিয়, নিসর্গ, নিম্নোক্ত, নিরাময়"
+    ],
+    "source_printed_answer": "নিদর্শন, নিম্নোক্ত, নিরাময়, নিরাসক্ত, নিষ্ক্রিয়, নিসর্গ",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q196_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q197",
+    "source_uid": "BCS44:Q197",
+    "source_question_number": 197,
+    "source_page": 21,
+    "topic": "mental ability",
+    "status": "review_required",
+    "source_question_transcription": "যদি PLAY-এর কোড ৮১২৩ এবং RHYME-এর কোড ৪৯৩৯ হয়, তাহলে MALE-এর কোড হবে−",
+    "source_options_transcription": [
+      "৬৩২৩",
+      "৬১৯৮",
+      "৬২১৭",
+      "৬২৮৫"
+    ],
+    "source_printed_answer": "৬২১৭",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q197_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "RHYME has five letters, but its supplied code has only four digits, ৪৯৩৯. The code for M and E cannot be recovered consistently from this source. No missing digit is supplied."
+  },
+  {
+    "family_id": "Q198",
+    "source_uid": "BCS44:Q198",
+    "source_question_number": 198,
+    "source_page": 21,
+    "topic": "mental ability",
+    "status": "review_required",
+    "source_question_transcription": "এই সিরিজটিতে পরের সংখ্যাটি কত? ৩ ৫ ৮ ১২ ২১",
+    "source_options_transcription": [
+      "২৪",
+      "২৬",
+      "২৯",
+      "৩৪"
+    ],
+    "source_printed_answer": "৩৪",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q198_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": "The printed fourth term is ১২. The key ৩৪ resembles the Fibonacci continuation of ৩,৫,৮,১৩,২১, but changing ১২ to ১৩ would alter the source. No rule consistent with every printed term has been established."
+  },
+  {
+    "family_id": "Q199",
+    "source_uid": "BCS44:Q199",
+    "source_question_number": 199,
+    "source_page": 21,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "একটি দেয়ালঘড়িতে যখন ৩টা বাজে তখন ঘণ্টার কাঁটা যদি পূর্বদিকে থাকে তবে মিনিটের কাঁটা কোন দিকে থাকবে?",
+    "source_options_transcription": [
+      "উত্তর",
+      "পশ্চিম",
+      "দক্ষিণ",
+      "পূর্ব"
+    ],
+    "source_printed_answer": "উত্তর",
+    "source_answer_option_label": null,
+    "question_images": [],
+    "source_evidence_image": "audit_assets/Q199_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  },
+  {
+    "family_id": "Q200",
+    "source_uid": "BCS44:Q200",
+    "source_question_number": 200,
+    "source_page": 21,
+    "topic": "mental ability",
+    "status": "annotated",
+    "source_question_transcription": "MEMORY শব্দটির আয়নায় প্রতিবিম্ব কোনটি?",
+    "source_options_transcription": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "source_printed_answer": "খ",
+    "source_answer_option_label": "খ",
+    "question_images": [
+      "assets/Q200_option_a.png",
+      "assets/Q200_option_b.png",
+      "assets/Q200_option_c.png",
+      "assets/Q200_option_d.png"
+    ],
+    "source_evidence_image": "audit_assets/Q200_source_excerpt.png",
+    "transcription_or_interpretation_note": null,
+    "review_reason": null
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "item_id": "BCS21_Q041",
+    "family_id": "fraction_of_income_percentage_bcs21_q041_f01",
+    "exam": "21st BCS",
+    "question_number": 41,
+    "source_page": 4,
+    "topic_group": "percentages_profit_loss",
+    "subskill": "fraction_of_income_percentage",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একজন চাকরিজীবীর বেতনের ১/১০ অংশ কাপড় ক্রয়ে, ১/৩ অংশ খাদ্য ক্রয়ে এবং ১/৫ অংশ বাসা ভাড়ায় ব্যয় হয়। তার আয়ের শতকরা কত ভাগ অবশিষ্ট রইল?",
+    "question_normalized": "একজন চাকরিজীবীর বেতনের ১/১০ অংশ কাপড় ক্রয়ে, ১/৩ অংশ খাদ্য ক্রয়ে এবং ১/৫ অংশ বাসা ভাড়ায় ব্যয় হয়। তার আয়ের শতকরা কত ভাগ অবশিষ্ট রইল?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩৬ ২/৩%",
+      "৩৩ ১/৩%",
+      "৫০%",
+      "৬৬ ২/৩%"
+    ],
+    "printed_answer": "৩৬ ২/৩%",
+    "accepted_answer_forms": [
+      "৩৬ ২/৩%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS21_Q042",
+    "family_id": "inverse_workers_time_bcs21_q042_f01",
+    "exam": "21st BCS",
+    "question_number": 42,
+    "source_page": 4,
+    "topic_group": "work_time",
+    "subskill": "inverse_workers_time",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৮ জন লোক একটি কাজ ১২ দিনে করতে পারে। দুজন লোক কমিয়ে দিলে কাজটি শেষ করতে শতকরা কতদিন বেশি লাগবে?",
+    "question_normalized": "৮ জন লোক একটি কাজ ১২ দিনে করতে পারে। দুজন লোক কমিয়ে দিলে কাজটি শেষ করতে শতকরা কতদিন বেশি লাগবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২৫%",
+      "৩৩ ১/৩%",
+      "৫০%",
+      "৬৬ ২/৩%"
+    ],
+    "printed_answer": "৩৩ ১/৩%",
+    "accepted_answer_forms": [
+      "৩৩ ১/৩%"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS21_Q043",
+    "family_id": "nested_ratio_sharing_bcs21_q043_f01",
+    "exam": "21st BCS",
+    "question_number": 43,
+    "source_page": 5,
+    "topic_group": "ratios_proportions",
+    "subskill": "nested_ratio_sharing",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "১০০০ টাকা ক ও খ ১ : ৪ অনুপাতে ভাগ করে নেয়। খ-এর অংশ সে এবং তার মা ও মেয়ের মধ্যে ২ : ১ : ১ অনুপাতে ভাগ করে। মেয়ে কত টাকা পাবে?",
+    "question_normalized": "১০০০ টাকা ক ও খ ১ : ৪ অনুপাতে ভাগ করে নেয়। খ-এর অংশ সে এবং তার মা ও মেয়ের মধ্যে ২ : ১ : ১ অনুপাতে ভাগ করে। মেয়ে কত টাকা পাবে?",
+    "normalization_notes": [],
+    "units": [
+      "টাকা"
+    ],
+    "answer_options": [
+      "১০০ টাকা",
+      "৪০০ টাকা",
+      "২০০ টাকা",
+      "৮০০ টাকা"
+    ],
+    "printed_answer": "২০০ টাকা",
+    "accepted_answer_forms": [
+      "২০০ টাকা"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS21_Q044",
+    "family_id": "alloy_ratio_adjustment_bcs21_q044_f01",
+    "exam": "21st BCS",
+    "question_number": 44,
+    "source_page": 5,
+    "topic_group": "ratios_proportions",
+    "subskill": "alloy_ratio_adjustment",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ : ১। এতে কী পরিমাণ সোনা মিশালে অনুপাত ৪ : ১ হবে?",
+    "question_normalized": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ : ১। এতে কী পরিমাণ সোনা মিশালে অনুপাত ৪ : ১ হবে?",
+    "normalization_notes": [],
+    "units": [
+      "গ্রাম"
+    ],
+    "answer_options": [
+      "১২ গ্রাম",
+      "৪ গ্রাম",
+      "৩ গ্রাম",
+      "৬ গ্রাম"
+    ],
+    "printed_answer": "৪ গ্রাম",
+    "accepted_answer_forms": [
+      "৪ গ্রাম"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS21_Q046",
+    "family_id": "relative_jump_speed_ratio_bcs21_q046_f01",
+    "exam": "21st BCS",
+    "question_number": 46,
+    "source_page": 5,
+    "topic_group": "speed_distance",
+    "subskill": "relative_jump_speed_ratio",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "একটি কুকুর একটি খরগোশকে ধরার জন্য তাড়া করে। কুকুর যে সময়ে ৪ বার লাফ দেয়, খরগোশ সে সময়ে ৫ বার লাফ দেয়। কিন্তু খরগোশ ৪ লাফে যতদূর যায়, কুকুর ৩ লাফে ততদূর যায়। কুকুর ও খরগোশের গতিবেগের অনুপাত কত?",
+    "question_normalized": "একটি কুকুর একটি খরগোশকে ধরার জন্য তাড়া করে। কুকুর যে সময়ে ৪ বার লাফ দেয়, খরগোশ সে সময়ে ৫ বার লাফ দেয়। কিন্তু খরগোশ ৪ লাফে যতদূর যায়, কুকুর ৩ লাফে ততদূর যায়। কুকুর ও খরগোশের গতিবেগের অনুপাত কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১৫ : ১৬",
+      "১৬ : ১৫",
+      "৪ : ৩",
+      "৩ : ৪"
+    ],
+    "printed_answer": "১৬ : ১৫",
+    "accepted_answer_forms": [
+      "১৬ : ১৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS21_Q049",
+    "family_id": "least_addition_divisibility_bcs21_q049_f01",
+    "exam": "21st BCS",
+    "question_number": 49,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "least_addition_divisibility",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "৯৯৯৯৯৯-এর সঙ্গে কোন ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল ২, ৩, ৪, ৫ এবং ৬ দ্বারা নিঃশেষে বিভাজ্য হবে?",
+    "question_normalized": "৯৯৯৯৯৯-এর সঙ্গে কোন ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল ২, ৩, ৪, ৫ এবং ৬ দ্বারা নিঃশেষে বিভাজ্য হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "২১",
+      "৩৯",
+      "৩৩",
+      "২৯"
+    ],
+    "printed_answer": "২১",
+    "accepted_answer_forms": [
+      "২১"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS21_Q050",
+    "family_id": "mixture_profit_quantity_bcs21_q050_f01",
+    "exam": "21st BCS",
+    "question_number": 50,
+    "source_page": 5,
+    "topic_group": "averages_mixtures",
+    "subskill": "mixture_profit_quantity",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "এক দোকানদার ১১০ টাকা কেজি দামের কিছু চায়ের সঙ্গে ১০০ টাকা কেজি দামের দ্বিগুণ পরিমাণ চা মিশিয়ে ১২০ টাকা কেজি দামে বিক্রি করে মোট ২,০০০ টাকা লাভ করল। দোকানদার দ্বিতীয় প্রকারের কত কেজি চা ক্রয় করেছিল?",
+    "question_normalized": "এক দোকানদার ১১০ টাকা কেজি দামের কিছু চায়ের সঙ্গে ১০০ টাকা কেজি দামের দ্বিগুণ পরিমাণ চা মিশিয়ে ১২০ টাকা কেজি দামে বিক্রি করে মোট ২,০০০ টাকা লাভ করল। দোকানদার দ্বিতীয় প্রকারের কত কেজি চা ক্রয় করেছিল?",
+    "normalization_notes": [],
+    "units": [
+      "কেজি",
+      "টাকা"
+    ],
+    "answer_options": [
+      "১০০ কেজি",
+      "৮০ কেজি",
+      "৫০ কেজি",
+      "৬০ কেজি"
+    ],
+    "printed_answer": "৮০ কেজি",
+    "accepted_answer_forms": [
+      "৮০ কেজি"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

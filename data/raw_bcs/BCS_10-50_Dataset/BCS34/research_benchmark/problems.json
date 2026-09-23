@@ -1,0 +1,253 @@
+[
+  {
+    "item_id": "BCS34_Q028",
+    "family_id": "decimal_repeating_difference_f01",
+    "exam": "34th BCS",
+    "question_number": 28,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "repeating_decimal_difference",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "কোনো সংখ্যার ০.১̇ ভাগ এবং ০.১ ভাগের মধ্যে পার্থক্য ১.০ হলে, সংখ্যাটি কত?",
+    "question_normalized": "কোনো সংখ্যার ০.১̇ ভাগ এবং ০.১ ভাগের মধ্যে পার্থক্য ১.০ হলে, সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১০",
+      "৯",
+      "৯০",
+      "১০০"
+    ],
+    "printed_answer": "৯০",
+    "accepted_answer_forms": [
+      "৯০",
+      "90"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS34_Q030",
+    "family_id": "exponent_factorization_f01",
+    "exam": "34th BCS",
+    "question_number": 30,
+    "source_page": 4,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "laws_of_exponents",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "(5^(n+2) + 35 × 5^(n−1)) / (4 × 5^n) এর মান কত?",
+    "question_normalized": "(5^(n+2) + 35 × 5^(n−1)) / (4 × 5^n) এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "4",
+      "8",
+      "5",
+      "7"
+    ],
+    "printed_answer": "8",
+    "accepted_answer_forms": [
+      "8",
+      "৮"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS34_Q034",
+    "family_id": "consecutive_product_sum_average_f01",
+    "exam": "34th BCS",
+    "question_number": 34,
+    "source_page": 4,
+    "topic_group": "averages_mixtures",
+    "subskill": "consecutive_numbers_average",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "তিনটি ক্রমিক সংখ্যার গুণফল তাদের যোগফলের ৫ গুণ; সংখ্যা তিনটির গড় কত?",
+    "question_normalized": "তিনটি ক্রমিক সংখ্যার গুণফল তাদের যোগফলের ৫ গুণ; সংখ্যা তিনটির গড় কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৬",
+      "৩",
+      "৫",
+      "৪"
+    ],
+    "printed_answer": "৪",
+    "accepted_answer_forms": [
+      "৪",
+      "4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS34_Q036",
+    "family_id": "quadratic_collection_count_f01",
+    "exam": "34th BCS",
+    "question_number": 36,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_word_problem",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী আছে প্রত্যেকে তত পয়সার চেয়ে আরও 25 পয়সা বেশি করে চাঁদা দেওয়ায় মোট 75 টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রীর সংখ্যা কত?",
+    "question_normalized": "একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী আছে প্রত্যেকে তত পয়সার চেয়ে আরও 25 পয়সা বেশি করে চাঁদা দেওয়ায় মোট 75 টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রীর সংখ্যা কত?",
+    "normalization_notes": [],
+    "units": [
+      "paisa",
+      "taka"
+    ],
+    "answer_options": [
+      "70",
+      "85",
+      "75",
+      "100"
+    ],
+    "printed_answer": "75",
+    "accepted_answer_forms": [
+      "75",
+      "৭৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS34_Q037",
+    "family_id": "unit_price_quantity_change_f01",
+    "exam": "34th BCS",
+    "question_number": 37,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "unit_price_quantity_equation",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "মামুন 240 টাকায় একই রকম কতগুলি কলম কিনে দেখল যে, যদি সে একটি কলম বেশি পেত তাহলে প্রতিটি কলমের মূল্য 1 টাকা কম পড়ত। সে কতগুলো কলম কিনেছিল?",
+    "question_normalized": "মামুন 240 টাকায় একই রকম কতগুলি কলম কিনে দেখল যে, যদি সে একটি কলম বেশি পেত তাহলে প্রতিটি কলমের মূল্য 1 টাকা কম পড়ত। সে কতগুলো কলম কিনেছিল?",
+    "normalization_notes": [],
+    "units": [
+      "taka"
+    ],
+    "answer_options": [
+      "13টি",
+      "14টি",
+      "15টি",
+      "16টি"
+    ],
+    "printed_answer": "15টি",
+    "accepted_answer_forms": [
+      "15টি",
+      "15",
+      "১৫টি",
+      "১৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS34_Q041",
+    "family_id": "geometric_sequence_times4_f01",
+    "exam": "34th BCS",
+    "question_number": 41,
+    "source_page": 5,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "geometric_sequence",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "০.০৩, ০.১২, ০.৪৮ ___ শূন্যস্থানে সংখ্যাটি কত হবে?",
+    "question_normalized": "০.০৩, ০.১২, ০.৪৮ ___ শূন্যস্থানে সংখ্যাটি কত হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "০.৯৬",
+      "১.৪৮",
+      "১.৯২",
+      "১.৫০"
+    ],
+    "printed_answer": "১.৯২",
+    "accepted_answer_forms": [
+      "১.৯২",
+      "1.92"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS34_Q042",
+    "family_id": "part_whole_ratio_2_to_3_f01",
+    "exam": "34th BCS",
+    "question_number": 42,
+    "source_page": 5,
+    "topic_group": "ratios_proportions",
+    "subskill": "part_whole_ratio",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "২০ ফুট লম্বা একটি বাঁশ এমনভাবে কেটে দু’ভাগ করা হলো যেন ছোট অংশ বড় অংশের দুই তৃতীয়াংশ হয়, ছোট অংশের দৈর্ঘ্য কত ফুট?",
+    "question_normalized": "২০ ফুট লম্বা একটি বাঁশ এমনভাবে কেটে দু’ভাগ করা হলো যেন ছোট অংশ বড় অংশের দুই তৃতীয়াংশ হয়, ছোট অংশের দৈর্ঘ্য কত ফুট?",
+    "normalization_notes": [],
+    "units": [
+      "foot"
+    ],
+    "answer_options": [
+      "৬",
+      "৭",
+      "৮",
+      "১০"
+    ],
+    "printed_answer": "৮",
+    "accepted_answer_forms": [
+      "৮",
+      "8",
+      "৮ ফুট",
+      "8 feet"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS34_Q100",
+    "family_id": "perfect_square_root_f01",
+    "exam": "34th BCS",
+    "question_number": 100,
+    "source_page": 12,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "square_root",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "mixed",
+    "question_original": "√169 is equal to-",
+    "question_normalized": "√169 is equal to-",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "printed_answer": "13",
+    "accepted_answer_forms": [
+      "13",
+      "১৩"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

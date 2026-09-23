@@ -1,0 +1,178 @@
+[
+  {
+    "family_id": "consecutive_integer_square_difference_bcs22_q071_f01",
+    "item_id": "BCS22_Q071",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "consecutive_integer_square_difference",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "দুইটি ক্রমিক সংখ্যার বর্গের অন্তর ১৯৯ হলে, বড় সংখ্যাটি কত?",
+    "answer_options": [
+      "৭০",
+      "৮০",
+      "৯০",
+      "১০০"
+    ],
+    "correct_answer": "১০০",
+    "solution_steps": [
+      "ছোট সংখ্যা n হলে বড়টি n+1।",
+      "(n+1)^2−n^2=2n+1=199।",
+      "n=99, তাই বড় সংখ্যা 100।"
+    ],
+    "source_page": 7,
+    "source_exam": "22nd BCS"
+  },
+  {
+    "family_id": "divisors_with_remainder_bcs22_q072_f01",
+    "item_id": "BCS22_Q072",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "divisors_with_remainder",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "কোন কোন স্বাভাবিক সংখ্যা দ্বারা ৩৪৬-কে ভাগ করলে প্রতিক্ষেত্রে ৩১ অবশিষ্ট থাকবে?",
+    "answer_options": [
+      "৩৫,৪৫,৬৩,১০৫,৩১৫",
+      "৩৫,৪০,৬৫,১১০,৩১৫",
+      "৩৫,৪৫,৭০,১০৫,৩১৫",
+      "৩৫,৪৫,৬৩,১১০,৩১৫"
+    ],
+    "correct_answer": "৩৫,৪৫,৬৩,১০৫,৩১৫",
+    "solution_steps": [
+      "ভাজক d হলে 346−31=315 সংখ্যা d দ্বারা বিভাজ্য হতে হবে।",
+      "315-এর 31-এর চেয়ে বড় ভাজকগুলো হলো 35,45,63,105,315।"
+    ],
+    "source_page": 7,
+    "source_exam": "22nd BCS"
+  },
+  {
+    "family_id": "midpoint_between_numbers_bcs22_q076_f01",
+    "item_id": "BCS22_Q076",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "midpoint_between_numbers",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "একটি সংখ্যা ৬৫০ থেকে যত বড়, ৮২০ থেকে তত ছোট। সংখ্যাটি কত?",
+    "answer_options": [
+      "৭৩০",
+      "৭৩৫",
+      "৮০০",
+      "৭৮০"
+    ],
+    "correct_answer": "৭৩৫",
+    "solution_steps": [
+      "সংখ্যাটি 650 ও 820-এর মধ্যবিন্দু।",
+      "(650+820)/2 = 735।"
+    ],
+    "source_page": 7,
+    "source_exam": "22nd BCS"
+  },
+  {
+    "family_id": "fraction_equation_bcs22_q077_f01",
+    "item_id": "BCS22_Q077",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "fraction_equation",
+    "difficulty_rating": 3,
+    "target_completion_time": "90-180 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "একটি প্রকৃত ভগ্নাংশের হর ও লবের অন্তর ২। হর ও লব উভয় থেকে ৩ বিয়োগ করলে যে ভগ্নাংশ পাওয়া যায়, তার সঙ্গে ১/৪ যোগ করলে যোগফল ১ হয়। ভগ্নাংশটি কত?",
+    "answer_options": [
+      "৭/৯",
+      "৯/১১",
+      "১১/১৩",
+      "১৩/১৫"
+    ],
+    "correct_answer": "৯/১১",
+    "solution_steps": [
+      "লব n হলে হর n+2।",
+      "(n−3)/(n−1)+1/4=1।",
+      "সমাধানে n=9, তাই ভগ্নাংশ 9/11।"
+    ],
+    "source_page": 7,
+    "source_exam": "22nd BCS"
+  },
+  {
+    "family_id": "compare_numeric_forms_bcs22_q078_f01",
+    "item_id": "BCS22_Q078",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "compare_numeric_forms",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "কোন সংখ্যাটি বৃহত্তম?",
+    "answer_options": [
+      "০.৩",
+      "১/৩ = ০.৩৩৩৩",
+      "√০.৩ = ০.৫৪৭৭",
+      "২/৫ = ০.৪"
+    ],
+    "correct_answer": "√০.৩ = ০.৫৪৭৭",
+    "solution_steps": [
+      "সব বিকল্প দশমিকে তুলনা করি: 0.3, 0.3333, 0.5477, 0.4।",
+      "সবচেয়ে বড় 0.5477।"
+    ],
+    "source_page": 8,
+    "source_exam": "22nd BCS"
+  },
+  {
+    "family_id": "sum_difference_product_bcs22_q079_f01",
+    "item_id": "BCS22_Q079",
+    "topic": "elementary_algebra_number_relations",
+    "in_scope": true,
+    "assigned_subskill": "sum_difference_product",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "সংখ্যা": "number",
+      "সমীকরণ": "equation",
+      "ধারা": "sequence"
+    },
+    "question_bn": "x + y = 12 এবং x − y = 2 হলে, xy-এর মান কত?",
+    "answer_options": [
+      "৩৫",
+      "১৪০",
+      "৭০",
+      "১৪৪"
+    ],
+    "correct_answer": "৩৫",
+    "solution_steps": [
+      "x=7 এবং y=5।",
+      "xy=35।"
+    ],
+    "source_page": 8,
+    "source_exam": "22nd BCS"
+  }
+]

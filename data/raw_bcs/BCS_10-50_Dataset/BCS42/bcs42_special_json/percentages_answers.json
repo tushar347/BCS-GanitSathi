@@ -1,0 +1,62 @@
+[
+  {
+    "family_id": "Q049",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "০%",
+        "reasoning_steps": [
+          "Average the quantities per taka: (3+5)/2=4.",
+          "Incorrectly treat that as the combined purchase rate despite equal quantities, not equal expenditures.",
+          "Conclude that buying and selling at 4 per taka gives no loss."
+        ],
+        "code": "BCS42-049-CONCEPTUAL-01"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৬.২৫% লাভ",
+        "reasoning_steps": [
+          "Calculate the magnitude of the percentage difference as 6.25%.",
+          "Reverse cost and sale proceeds when labeling the result.",
+          "Report a profit instead of a loss."
+        ],
+        "code": "BCS42-049-INTERPRETATION-02"
+      }
+    ]
+  },
+  {
+    "family_id": "Q052",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "wrong_answer": "৫৪৬ টাকা",
+        "reasoning_steps": [
+          "Add the increase rates to get 10%+20%=30%.",
+          "Apply 30% once to the original 420 taka.",
+          "Return 420×1.30=546 taka."
+        ],
+        "code": "BCS42-052-CONCEPTUAL-01"
+      },
+      {
+        "type": "arithmetic",
+        "wrong_answer": "৫৫২.৪০ টাকা",
+        "reasoning_steps": [
+          "Correctly obtain 462 taka after the first increase.",
+          "Miscalculate 20% of 462 as 90.40 instead of 92.40.",
+          "Return 462+90.40=552.40 taka."
+        ],
+        "diverges_at_step": 2,
+        "code": "BCS42-052-ARITHMETIC-02"
+      },
+      {
+        "type": "interpretation",
+        "wrong_answer": "৪৬২ টাকা",
+        "reasoning_steps": [
+          "Apply only the increase after the first year.",
+          "Return 420×1.10=462, ignoring the later 20% increase."
+        ],
+        "code": "BCS42-052-INTERPRETATION-03"
+      }
+    ]
+  }
+]

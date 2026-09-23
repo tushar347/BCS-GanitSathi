@@ -1,0 +1,146 @@
+[
+  {
+    "family_id": "Q173",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ARITH173-CONCEPT-01",
+        "wrong_answer": "1/2",
+        "reasoning_steps": [
+          "Describe the result as either prime or not prime.",
+          "Assume the two categories are equally likely merely because there are two categories.",
+          "Report 1/2 without counting the integers in each category."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ARITH173-ARITH-01",
+        "wrong_answer": "1/3",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly identify the 3 prime numbers 29, 31, and 37.",
+          "Count the inclusive range as 38−29 = 9, omitting the endpoint adjustment of +1.",
+          "Calculate 3/9 = 1/3."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ARITH173-INTERP-01",
+        "wrong_answer": "7/10",
+        "reasoning_steps": [
+          "Correctly count 10 integers and 3 prime numbers.",
+          "Answer for the complementary event, selecting a non-prime number.",
+          "Report (10−3)/10 = 7/10."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q174",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ARITH174-CONCEPT-01",
+        "wrong_answer": "120",
+        "reasoning_steps": [
+          "Arrange all five digits in 5! = 120 ways.",
+          "Count arrangements beginning with 0 as valid five-digit numbers.",
+          "Report 120 without subtracting the invalid leading-zero arrangements."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ARITH174-ARITH-01",
+        "wrong_answer": "24",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly identify 4 choices for the first digit and 24 arrangements for the remaining digits.",
+          "Omit the first factor when evaluating 4 × 24 and retain only 24.",
+          "Select 24."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ARITH174-INTERP-01",
+        "wrong_answer": "24",
+        "reasoning_steps": [
+          "Misread the question as fixing 1 as the leading digit rather than allowing any nonzero leading digit.",
+          "Arrange only the remaining digits 0, 2, 3, and 4.",
+          "Report 4! = 24."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q177",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ARITH177-CONCEPT-01",
+        "wrong_answer": "২৫ পয়সা",
+        "reasoning_steps": [
+          "Use addition rather than multiplication to combine the unit price and the number of sheets.",
+          "Calculate 21+4 = 25.",
+          "Report 25 paisa."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ARITH177-ARITH-01",
+        "wrong_answer": "৯৪ পয়সা",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Set up 21 × 4 using tens and units.",
+          "Miscompute 4 × 2 as 9 in the tens column, while keeping 4 × 1 = 4 in the units column.",
+          "Combine the digits to report 94 paisa."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ARITH177-INTERP-01",
+        "wrong_answer": "৪ পয়সা",
+        "reasoning_steps": [
+          "Overlook the tens digit in the price 21 and read the price as 1 paisa per sheet.",
+          "Multiply the misread price by 4 sheets.",
+          "Report 4 paisa."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q180",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "ARITH180-CONCEPT-01",
+        "wrong_answer": "৬০০ ফুট",
+        "reasoning_steps": [
+          "Multiply the budget by the unit price instead of dividing.",
+          "Calculate 60 × 10 = 600.",
+          "Report 600 feet, ignoring the incompatible units of the multiplication."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "ARITH180-ARITH-01",
+        "wrong_answer": "৭ ফুট",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly set up the required division as 60/10.",
+          "Count one group of ten too many and report the quotient as 7.",
+          "Select ৭ ফুট."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "ARITH180-INTERP-01",
+        "wrong_answer": "১০ ফুট",
+        "reasoning_steps": [
+          "Focus on the stated number 10 in the price per foot.",
+          "Report that price number as the requested length rather than using the 60-taka budget.",
+          "Select ১০ ফুট."
+        ]
+      }
+    ]
+  }
+]

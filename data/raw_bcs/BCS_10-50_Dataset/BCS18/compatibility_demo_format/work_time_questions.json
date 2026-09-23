@@ -1,0 +1,52 @@
+[
+  {
+    "family_id": "choose_two_fastest_machines_combined_rate_bcs18_q030_f01",
+    "item_id": "BCS18_Q030",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "choose_two_fastest_machines_combined_rate",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "তিনটি মেশিন একটি কাজ যথাক্রমে ৪, ৫ ও ৬ ঘণ্টায় করতে পারে। দুটি মেশিন সর্বোচ্চ ক্ষমতায় কাজ করে এক ঘণ্টায় কতটুকু কাজ করতে পারবে?",
+    "answer_options": [
+      "১১/৩০",
+      "৯/২০",
+      "৩/৫",
+      "১১/১৫"
+    ],
+    "correct_answer": "৯/২০",
+    "solution_steps": [
+      "সর্বোচ্চ সম্মিলিত ক্ষমতার জন্য দ্রুততম দুই মেশিন নিতে হবে: 4 ঘণ্টা ও 5 ঘণ্টা।",
+      "তাদের এক ঘণ্টার কাজ = 1/4+1/5 = 9/20।"
+    ],
+    "source_page": 4,
+    "source_exam": "18th Special BCS"
+  },
+  {
+    "family_id": "two_pipes_partial_tank_time_bcs18_q033_f01",
+    "item_id": "BCS18_Q033",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "two_pipes_partial_tank_time",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {},
+    "question_bn": "সম্পূর্ণ খালি একটি চৌবাচ্চা একটি পাইপ দিয়ে ৫ ঘণ্টায় সম্পূর্ণ ভর্তি করা যায়। দ্বিতীয় একটি পাইপ দিয়ে চৌবাচ্চাটি ভর্তি করতে ৩ ঘণ্টা লাগে। দুটি পাইপ একসাথে ব্যবহার করে চৌবাচ্চাটি ২/৩ অংশ ভর্তি করতে কত সময় লাগবে?",
+    "answer_options": [
+      "৮/১৫ ঘণ্টা",
+      "৩/৪ ঘণ্টা",
+      "৫/৪ ঘণ্টা",
+      "২/৩ ঘণ্টা"
+    ],
+    "correct_answer": "৫/৪ ঘণ্টা",
+    "solution_steps": [
+      "দুই পাইপের সম্মিলিত হার =1/5+1/3=8/15 ট্যাংক/ঘণ্টা।",
+      "2/3 অংশ ভর্তি করতে সময় =(2/3)/(8/15)=5/4 ঘণ্টা।"
+    ],
+    "source_page": 5,
+    "source_exam": "18th Special BCS"
+  }
+]

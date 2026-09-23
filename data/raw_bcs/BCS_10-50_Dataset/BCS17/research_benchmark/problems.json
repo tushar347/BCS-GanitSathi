@@ -1,0 +1,308 @@
+[
+  {
+    "item_id": "BCS17_Q006",
+    "family_id": "fractional_exponent_negative_power_bcs17_q006_f01",
+    "exam": "17th BCS",
+    "question_number": 6,
+    "source_page": 1,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "fractional_exponent_negative_power",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "(125/27)^(-2/3) এর সহজ প্রকাশ?",
+    "question_normalized": "(125/27)^(-2/3) এর সহজ প্রকাশ?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1/25",
+      "5/20",
+      "9/25",
+      "3/20"
+    ],
+    "printed_answer": "9/25",
+    "accepted_answer_forms": [
+      "9/25",
+      "৯/২৫"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q008",
+    "family_id": "common_remainder_lcm_bcs17_q008_f01",
+    "exam": "17th BCS",
+    "question_number": 8,
+    "source_page": 1,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "common_remainder_lcm",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "নিচের কোন ক্ষুদ্রতম সংখ্যাকে ৩, ৫ ও ৬ দ্বারা ভাগ করলে ভাগশেষ হবে ১?",
+    "question_normalized": "নিচের কোন ক্ষুদ্রতম সংখ্যাকে ৩, ৫ ও ৬ দ্বারা ভাগ করলে ভাগশেষ হবে ১?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৭১",
+      "৪১",
+      "৩১",
+      "৩৯"
+    ],
+    "printed_answer": "৩১",
+    "accepted_answer_forms": [
+      "৩১",
+      "31"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q009",
+    "family_id": "length_ratio_combined_piece_bcs17_q009_f01",
+    "exam": "17th BCS",
+    "question_number": 9,
+    "source_page": 2,
+    "topic_group": "ratios_proportions",
+    "subskill": "length_ratio_combined_piece",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "একটি কাঠের টুকরোর দৈর্ঘ্য আরেকটি টুকরোর দৈর্ঘ্যের ৩ গুণ। টুকরা দুটো সংযুক্ত করা হলে সংযুক্ত টুকরোটির দৈর্ঘ্য ছোট টুকরোর চেয়ে কতগুণ বড় হবে?",
+    "question_normalized": "একটি কাঠের টুকরোর দৈর্ঘ্য আরেকটি টুকরোর দৈর্ঘ্যের ৩ গুণ। টুকরা দুটো সংযুক্ত করা হলে সংযুক্ত টুকরোটির দৈর্ঘ্য ছোট টুকরোর চেয়ে কতগুণ বড় হবে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৩ গুণ",
+      "৪ গুণ",
+      "৫ গুণ",
+      "৮ গুণ"
+    ],
+    "printed_answer": "৪ গুণ",
+    "accepted_answer_forms": [
+      "৪ গুণ",
+      "4 গুণ",
+      "4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q012",
+    "family_id": "nested_parentheses_simplification_bcs17_q012_f01",
+    "exam": "17th BCS",
+    "question_number": 12,
+    "source_page": 2,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "nested_parentheses_simplification",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x - [x - {x - (x + 1)}] এর মান কত?",
+    "question_normalized": "x - [x - {x - (x + 1)}] এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "x + 1",
+      "1",
+      "-1",
+      "x - 1"
+    ],
+    "printed_answer": "-1",
+    "accepted_answer_forms": [
+      "-1",
+      "−1"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q015",
+    "family_id": "geometric_sequence_missing_term_bcs17_q015_f01",
+    "exam": "17th BCS",
+    "question_number": 15,
+    "source_page": 2,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "geometric_sequence_missing_term",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "৮১, ২৭, ......., ৩, ১ লুপ্ত সংখ্যাটি কত?",
+    "question_normalized": "৮১, ২৭, ......., ৩, ১ লুপ্ত সংখ্যাটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "৬",
+      "৯",
+      "১২",
+      "১৫"
+    ],
+    "printed_answer": "৯",
+    "accepted_answer_forms": [
+      "৯",
+      "9"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q016",
+    "family_id": "gcd_lcm_difference_find_numbers_bcs17_q016_f01",
+    "exam": "17th BCS",
+    "question_number": 16,
+    "source_page": 2,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "gcd_lcm_difference_find_numbers",
+    "difficulty": "hard",
+    "difficulty_rating": 3,
+    "language": "bn",
+    "question_original": "দুটি সংখ্যার গ.সা.গু, বিয়োগফল এবং ল.সা.গু যথাক্রমে ১২, ৬০ এবং ২৪৪৮। সংখ্যা দুটি কত?",
+    "question_normalized": "দুটি সংখ্যার গ.সা.গু, বিয়োগফল এবং ল.সা.গু যথাক্রমে ১২, ৬০ এবং ২৪৪৮। সংখ্যা দুটি কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "১০৮, ১৪৪",
+      "১১২, ১৪৮",
+      "১৪৪, ২০৮",
+      "১৪৪, ২০৪"
+    ],
+    "printed_answer": "১৪৪, ২০৪",
+    "accepted_answer_forms": [
+      "১৪৪, ২০৪",
+      "144, 204"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q017",
+    "family_id": "evaluate_function_value_bcs17_q017_f01",
+    "exam": "17th BCS",
+    "question_number": 17,
+    "source_page": 2,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "evaluate_function_value",
+    "difficulty": "easy",
+    "difficulty_rating": 1,
+    "language": "bn",
+    "question_original": "f(x) = x² + 1/x + 1 এর অনুরূপ কোনটি?",
+    "question_normalized": "f(x) = x² + 1/x + 1 এর অনুরূপ কোনটি?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "f(1) = 1",
+      "f(0) = 1",
+      "f(-1) = 3",
+      "f(1) = 3"
+    ],
+    "printed_answer": "f(1) = 3",
+    "accepted_answer_forms": [
+      "f(1) = 3",
+      "f(1)=3"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q018",
+    "family_id": "simultaneous_linear_equations_intersection_bcs17_q018_f01",
+    "exam": "17th BCS",
+    "question_number": 18,
+    "source_page": 3,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "simultaneous_linear_equations_intersection",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "x + y = 0 এবং 2x - y + 3 = 0 সরলরেখা দুটি কোন বিন্দুতে ছেদ করে?",
+    "question_normalized": "x + y = 0 এবং 2x - y + 3 = 0 সরলরেখা দুটি কোন বিন্দুতে ছেদ করে?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "1/3, 1/3",
+      "1, 1",
+      "-3, 3",
+      "-1, 1"
+    ],
+    "printed_answer": "-1, 1",
+    "accepted_answer_forms": [
+      "-1, 1",
+      "(-1, 1)",
+      "(-১, ১)"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q019",
+    "family_id": "mixture_ratio_add_pure_component_bcs17_q019_f01",
+    "exam": "17th BCS",
+    "question_number": 19,
+    "source_page": 3,
+    "topic_group": "averages_mixtures",
+    "subskill": "mixture_ratio_add_pure_component",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ : ১। এতে কী পরিমাণ সোনা মেশালে অনুপাত ৪ : ১ হবে?",
+    "question_normalized": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ : ১। এতে কী পরিমাণ সোনা মেশালে অনুপাত ৪ : ১ হবে?",
+    "normalization_notes": [],
+    "units": [
+      "গ্রাম"
+    ],
+    "answer_options": [
+      "৮ গ্রাম",
+      "৬ গ্রাম",
+      "৩ গ্রাম",
+      "৪ গ্রাম"
+    ],
+    "printed_answer": "৪ গ্রাম",
+    "accepted_answer_forms": [
+      "৪ গ্রাম",
+      "4 গ্রাম",
+      "4"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  },
+  {
+    "item_id": "BCS17_Q020",
+    "family_id": "quadratic_equal_roots_parameter_bcs17_q020_f01",
+    "exam": "17th BCS",
+    "question_number": 20,
+    "source_page": 3,
+    "topic_group": "elementary_algebra_number_relations",
+    "subskill": "quadratic_equal_roots_parameter",
+    "difficulty": "medium",
+    "difficulty_rating": 2,
+    "language": "bn",
+    "question_original": "যদি x² + px + 6 = 0 এর মূল দুটি সমান এবং p > 0, তবে p এর মান কত?",
+    "question_normalized": "যদি x² + px + 6 = 0 এর মূল দুটি সমান এবং p > 0, তবে p এর মান কত?",
+    "normalization_notes": [],
+    "units": [],
+    "answer_options": [
+      "√48",
+      "0",
+      "√6",
+      "√24"
+    ],
+    "printed_answer": "√24",
+    "accepted_answer_forms": [
+      "√24",
+      "sqrt(24)",
+      "2√6"
+    ],
+    "in_scope": true,
+    "source_license": "User-provided 17th BCS solution PDF; redistribution/license status not established.",
+    "annotation_origin": "model-authored draft; requires Bengali-speaking mathematical human review before gold/test use"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "family_id": "two_subject_pass_fail_percentage_bcs22_q073_f01",
+    "item_id": "BCS22_Q073",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "two_subject_pass_fail_percentage",
+    "difficulty_rating": 2,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "কোনো পরীক্ষায় শিক্ষার্থীর ৮০% গণিতে এবং ৭০% বাংলায় পাশ করল, উভয় বিষয়ে পাশ করল ৬০%। তাহলে উভয় বিষয়ে শতকরা কতজন ফেল করল?",
+    "answer_options": [
+      "১০%",
+      "১৫%",
+      "১২%",
+      "১১%"
+    ],
+    "correct_answer": "১০%",
+    "solution_steps": [
+      "অন্তত এক বিষয়ে পাশ = ৮০+৭০−৬০ = ৯০%。",
+      "উভয় বিষয়ে ফেল = ১০০−৯০ = ১০%。"
+    ],
+    "source_page": 7,
+    "source_exam": "22nd BCS"
+  },
+  {
+    "family_id": "loss_percentage_from_sp_cp_bcs22_q074_f01",
+    "item_id": "BCS22_Q074",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "loss_percentage_from_sp_cp",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "একটি দ্রব্য ৩৮০ টাকায় বিক্রয় করায় ২০ টাকা ক্ষতি হলো। ক্ষতির শতকরা হার কত?",
+    "answer_options": [
+      "৪%",
+      "৬%",
+      "৫%",
+      "৭%"
+    ],
+    "correct_answer": "৫%",
+    "solution_steps": [
+      "ক্রয়মূল্য = ৩৮০+২০ = ৪০০ টাকা।",
+      "ক্ষতির হার = ২০/৪০০×১০০ = ৫%。"
+    ],
+    "source_page": 7,
+    "source_exam": "22nd BCS"
+  }
+]

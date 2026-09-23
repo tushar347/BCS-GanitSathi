@@ -1,0 +1,31 @@
+[
+  {
+    "family_id": "inverse_workers_time_bcs27_q044_f01",
+    "item_id": "BCS27_Q044",
+    "topic": "work_time",
+    "in_scope": true,
+    "assigned_subskill": "inverse_workers_time",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "কাজ": "work",
+      "দিন": "day",
+      "শ্রমিক": "worker"
+    },
+    "question_bn": "একটি কাজ ৯ জন লোক ১২ দিনে করতে পারে। অতিরিক্ত ৩ জন লোক নিয়োগ করলে কাজটি কত দিনে শেষ হবে?",
+    "answer_options": [
+      "৭",
+      "৯",
+      "১০",
+      "১২"
+    ],
+    "correct_answer": "৯",
+    "solution_steps": [
+      "মোট কাজ = 9×12=108 জন-দিন।",
+      "12 জনে সময় =108/12=9 দিন।"
+    ],
+    "source_page": 8,
+    "source_exam": "27th BCS"
+  }
+]

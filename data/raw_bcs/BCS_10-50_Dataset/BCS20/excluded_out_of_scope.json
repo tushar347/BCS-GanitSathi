@@ -1,0 +1,22 @@
+[
+  {
+    "item_id": "BCS20_Q097",
+    "exam": "20th BCS",
+    "question_number": 97,
+    "source_page": 26,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Isosceles-triangle area question is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  },
+  {
+    "item_id": "BCS20_Q099",
+    "exam": "20th BCS",
+    "question_number": 99,
+    "source_page": 26,
+    "category": "geometry_mensuration",
+    "question_summary": "",
+    "exclusion_reason": "Square area comparison is outside the initial six benchmark topic groups.",
+    "status": "excluded_from_initial_six_topic_benchmark"
+  }
+]

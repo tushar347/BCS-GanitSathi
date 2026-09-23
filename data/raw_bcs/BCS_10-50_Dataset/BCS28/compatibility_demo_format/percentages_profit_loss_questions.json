@@ -1,0 +1,33 @@
+[
+  {
+    "family_id": "percentage_equivalence_f01",
+    "item_id": "BCS28_Q097",
+    "topic": "percentages_profit_loss",
+    "in_scope": true,
+    "assigned_subskill": "equivalent_percentage",
+    "difficulty_rating": 1,
+    "target_completion_time": "45-120 seconds",
+    "target_quantity": 1,
+    "english_glossary": {
+      "শতকরা": "percentage",
+      "লাভ": "profit",
+      "ক্ষতি": "loss",
+      "সুদ": "interest"
+    },
+    "question_bn": "30% of 10 is 10% of which?",
+    "answer_options": [
+      "30",
+      "60",
+      "40",
+      "600"
+    ],
+    "correct_answer": "30",
+    "solution_steps": [
+      "30% of 10 = 3.",
+      "Let the required number be n. Then 10% of n = 3.",
+      "n = 30."
+    ],
+    "source_page": 9,
+    "source_exam": "28th BCS"
+  }
+]

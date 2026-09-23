@@ -1,0 +1,197 @@
+[
+  {
+    "family_id": "Q176",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "MENTAL176-CONCEPT-01",
+        "wrong_answer": "0",
+        "reasoning_steps": [
+          "Calculate the last difference as 1/2−1/4 = 1/4.",
+          "Assume this difference remains constant, rather than recognising repeated halving.",
+          "Subtract 1/4 again from the final term 1/4 and report 0."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "MENTAL176-ARITH-01",
+        "wrong_answer": "১/৬",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly set up the next term as 1/(4 × 2).",
+          "Make a multiplication error and calculate 4 × 2 as 6.",
+          "Select 1/6."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "MENTAL176-INTERP-01",
+        "wrong_answer": "১/৪",
+        "reasoning_steps": [
+          "Read the task as asking for the final term already shown.",
+          "Copy 1/4 from the sequence instead of extending it.",
+          "Select ১/৪."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q181",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "MENTAL181-CONCEPT-01",
+        "wrong_answer": "![খ](assets/Q181_option_b.png)",
+        "reasoning_steps": [
+          "Replace the sign-product rule with an incorrect rule that two positive relationships are enough for balance.",
+          "Stop at the first option displaying two plus signs, option খ.",
+          "Ignore its negative overall sign product."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "MENTAL181-ARITH-01",
+        "wrong_answer": "![ঘ](assets/Q181_option_d.png)",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Read the signs in option ঘ as −, +, +.",
+          "Incorrectly evaluate (−1) × (+1) × (+1) as +1 rather than −1.",
+          "Select option ঘ as balanced."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "MENTAL181-INTERP-01",
+        "wrong_answer": "![ঘ](assets/Q181_option_d.png)",
+        "reasoning_steps": [
+          "Inspect only the two relationships pointing toward X.",
+          "Choose option ঘ because both P→X and O→X are positive.",
+          "Ignore the negative P→O relationship and the full three-node requirement."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q182",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "MENTAL182-CONCEPT-01",
+        "wrong_answer": "১৫",
+        "reasoning_steps": [
+          "Use only the last observed difference, 11−7 = 4.",
+          "Assume that difference remains constant instead of increasing by 1.",
+          "Calculate 11+4 = 15."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "MENTAL182-ARITH-01",
+        "wrong_answer": "১৫",
+        "diverges_at_step": 3,
+        "reasoning_steps": [
+          "Correctly identify differences 1, 2, 3, and 4.",
+          "Correctly choose 5 as the next difference.",
+          "Make an addition error and calculate 11+5 as 15."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "MENTAL182-INTERP-01",
+        "wrong_answer": "৫",
+        "reasoning_steps": [
+          "Correctly find that the next difference should be 5.",
+          "Answer with the next difference instead of adding it to the final term.",
+          "Report 5 rather than the requested next sequence value."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q183",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "MENTAL183-CONCEPT-01",
+        "wrong_answer": "৩",
+        "reasoning_steps": [
+          "Treat the narrow, upright orientation of figure 3 as the deciding property.",
+          "Fail to recognise that figures 1 and 3 belong to the same rectangle class despite their different orientations and proportions.",
+          "Select ৩ rather than comparing the right-angle property across all five figures."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q185",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "MENTAL185-CONCEPT-01",
+        "wrong_answer": "৪২",
+        "reasoning_steps": [
+          "Treat the example product 42 as a constant assigned to any mixed-script letter pair.",
+          "Do not decode the positions of J and ট.",
+          "Repeat 42 as the new answer."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "MENTAL185-ARITH-01",
+        "wrong_answer": "১২০",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly obtain J = 10 and ট = 11 from the inferred code.",
+          "Make a multiplication error and calculate 10 × 11 as 120.",
+          "Select ১২০."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "MENTAL185-INTERP-01",
+        "wrong_answer": "১২০",
+        "reasoning_steps": [
+          "Misread the Bangla character ট as ঠ.",
+          "Use 12, the consonant-sequence position of ঠ, instead of 11 for ট.",
+          "Multiply J's position 10 by 12 and select ১২০."
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": "Q187",
+    "possible_mistakes": [
+      {
+        "type": "conceptual",
+        "code": "MENTAL187-CONCEPT-01",
+        "wrong_answer": "![গ](assets/Q187_option_c.png)",
+        "reasoning_steps": [
+          "Check only whether each candidate number matches its letter's alphabet position.",
+          "Notice that 11 and K match and choose option গ.",
+          "Ignore that the next number after 5 in the displayed +2 sequence is 7, not 11."
+        ]
+      },
+      {
+        "type": "arithmetic",
+        "code": "MENTAL187-ARITH-01",
+        "wrong_answer": "6/F",
+        "diverges_at_step": 2,
+        "reasoning_steps": [
+          "Correctly identify that the top row increases by 2.",
+          "Calculate 5+2 incorrectly as 6.",
+          "Pair that incorrect value with F, the sixth letter, and report 6/F."
+        ]
+      },
+      {
+        "type": "interpretation",
+        "code": "MENTAL187-INTERP-01",
+        "wrong_answer": "9/I",
+        "reasoning_steps": [
+          "Correctly continue the sequence from 5/E to 7/G.",
+          "Move one additional step because the task is misread as requesting the entry after the next entry.",
+          "Report 9/I instead of the immediately following 7/G."
+        ]
+      }
+    ]
+  }
+]
