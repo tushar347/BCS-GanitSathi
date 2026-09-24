@@ -1,10 +1,5 @@
 # GonitSathi-BCS: Evidence-Governed Neuro-Symbolic Tutoring
 
-[![CI](https://github.com/rifahnanjiba02-arch/GonitSathi/actions/workflows/test_engine.yml/badge.svg)](https://github.com/rifahnanjiba02-arch/GonitSathi/actions)
-**Target Venue:** OE-Agent Workshop at ACML 2026 (Open and Efficient Agentic AI for Resource-Constrained Environments)  
-**Governing Documents:** [`docs/milestones.md`](docs/milestones.md) (current operational status), [`docs/claim_ledger.md`](docs/claim_ledger.md) (claim boundary), and [`docs/reports/GS_Main_Guide.pdf`](docs/reports/GS_Main_Guide.pdf) (RA execution manual)
-**Target Deadline:** 16 October 2026 (AoE Internal Freeze) | 18 October 2026 (AoE Final Submission)
-
 ---
 
 ## 1. Project Overview
